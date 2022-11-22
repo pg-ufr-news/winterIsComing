@@ -23,8 +23,8 @@ import re
 
 #from bs4 import BeautifulSoup
 
-from deep_translator import GoogleTranslator
-from deep_translator import single_detection
+#from deep_translator import GoogleTranslator
+#from deep_translator import single_detection
 
 DATA_PATH = Path.cwd()
 
