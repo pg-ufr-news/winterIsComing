@@ -474,8 +474,9 @@ for idx, column in germanTopicsDate.iterrows():
         ca.append(column2['topicColor'])
         p += 1
 fig = plt.figure(figsize=(30, 20))
-ax = Axes3D(fig)
-#ax = fig.gca(projection='3d')
+## ax = Axes3D(fig)
+## ax = fig.gca(projection='3d')
+ax = fig.add_subplot(projection='3d')
 fig.subplots_adjust(left=0, right=1, bottom=0, top=1.5)
 ticksx = germanTopicsDate.index.values.tolist()
 plt.xticks(ticksx, germanTopicsDate['Unnamed: 0'],rotation=63, fontsize=18)
