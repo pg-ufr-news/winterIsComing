@@ -1,7 +1,7 @@
 ,phrase,label,sentiment,subjectivity,language,count
 Olaf Scholz,Olaf Scholz,PER,0.11515151515151514,0.027272727272727275,de,66
 Christian Lindner,Christian Lindner,PER,0.07758620689655173,0.034482758620689655,de,29
-Robert Habeck,Robert Habeck,PER,0.13999999999999999,0.05,de,20
+Robert Habeck,Robert Habeck,PER,0.15555555555555556,0.05555555555555555,de,18
 Wladimir Putin,Wladimir Putin,PER,0.18000000000000002,0.0,de,15
 Scholz,Scholz,PER,0.1733333333333333,0.0,de,15
 Annalena Baerbock,Annalena Baerbock,PER,0.08333333333333333,0.0,de,12
