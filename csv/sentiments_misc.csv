@@ -1,18 +1,106 @@
 ,phrase,label,sentiment,subjectivity,language,count
-"Some of the information stored on your device,","Some of the information stored on your device,",MISC,,,de,6
+…,…,MISC,,,de,13
+"Some of the information stored on your device,","Some of the information stored on your device,",MISC,,,de,12
+deutschen,deutschen,MISC,,,de,11
+deutsche,deutsche,MISC,,,de,7
 "When browsing with ads:
 ","When browsing with ads:
-",MISC,,,de,5
-…,…,MISC,,,de,2
-kommende Jahr sagt die Bundesregierung,kommende Jahr sagt die Bundesregierung,MISC,,,de,1
-Hamburger,Hamburger,MISC,,,de,1
-EZB-Zinsschritt,EZB-Zinsschritt,MISC,,,de,1
+",MISC,,,de,6
+"When browsing with ads:
+We collect personal data and also transmit it to third-party providers
+ that help us improve and finance our digital content.","When browsing with ads:
+We collect personal data and also transmit it to third-party providers
+ that help us improve and finance our digital content.",MISC,,,de,5
+russischen,russischen,MISC,,,de,4
+DER SPIEGEL.,DER SPIEGEL.,MISC,,,de,4
+ePaper,ePaper,MISC,,,de,3
+russischem,russischem,MISC,,,de,3
+Ampel-Koalition,Ampel-Koalition,MISC,,,de,2
+Invasion der Ukraine,Invasion der Ukraine,MISC,,,de,2
+Nord Stream 2,Nord Stream 2,MISC,,,de,2
+Kriegs.,Kriegs.,MISC,,,de,2
+russische,russische,MISC,,,de,2
+Krieg in der Ukraine.,Krieg in der Ukraine.,MISC,,,de,2
+europäischen,europäischen,MISC,,,de,2
+chinesischer,chinesischer,MISC,,,de,2
+bayerischen,bayerischen,MISC,,,de,2
+China-Deal:,China-Deal:,MISC,,,de,2
+Krieg gegen die Ukraine,Krieg gegen die Ukraine,MISC,,,de,2
+Atomdebatte,Atomdebatte,MISC,,,de,2
+Konferenz für den Wiederaufbau der Ukraine,Konferenz für den Wiederaufbau der Ukraine,MISC,,,de,1
+Wirtschaftsminister,Wirtschaftsminister,MISC,-0.7,0.0,de,1
+Fracking-Verbots,Fracking-Verbots,MISC,,,de,1
+Flüssiggas-Terminals,Flüssiggas-Terminals,MISC,,,de,1
+Ukraine-Krieg,Ukraine-Krieg,MISC,,,de,1
+UmweltgefÃ¤hrdung,UmweltgefÃ¤hrdung,MISC,,,de,1
+russischen Angriffskrieg,russischen Angriffskrieg,MISC,,,de,1
+G…,G…,MISC,,,de,1
+Aufstand,Aufstand,MISC,,,de,1
+"Bundeswehr-Milliarden, Atomstreit","Bundeswehr-Milliarden, Atomstreit",MISC,,,de,1
+Olaf,Olaf,MISC,,,de,1
 "Donnerstag:
 ","Donnerstag:
 ",MISC,,,de,1
-deutsche,deutsche,MISC,,,de,1
-Atomfrage,Atomfrage,MISC,,,de,1
-ZEIT Bühne,ZEIT Bühne,MISC,,,de,1
+Deutschland mÃ¼sse,Deutschland mÃ¼sse,MISC,,,de,1
+Batteriekomponenten,Batteriekomponenten,MISC,,,de,1
+Wunderautomat Foto: cookiecu…,Wunderautomat Foto: cookiecu…,MISC,,,de,1
+COP27,COP27,MISC,,,de,1
+Video: Erstes LNG-Terminal,Video: Erstes LNG-Terminal,MISC,,,de,1
 Zeit,Zeit,MISC,,,de,1
+amerikanischen,amerikanischen,MISC,,,de,1
+Hacking-Aktivitäten,Hacking-Aktivitäten,MISC,,,de,1
+Republikaner,Republikaner,MISC,,,de,1
+Midterms,Midterms,MISC,0.0,0.0,de,1
+Finnische,Finnische,MISC,,,de,1
+COP27: Die Weltklimakonferenz,COP27: Die Weltklimakonferenz,MISC,,,de,1
+"Print-Magazin
+werbefrei &amp;","Print-Magazin
+werbefrei &amp;",MISC,,,de,1
+U…,U…,MISC,,,de,1
+ZEIT Bühne,ZEIT Bühne,MISC,,,de,1
+PLUS-Inhalten,PLUS-Inhalten,MISC,,,de,1
+Laufzeit-Diskussionen.,Laufzeit-Diskussionen.,MISC,,,de,1
+Hamburger,Hamburger,MISC,,,de,1
+Atomfrage,Atomfrage,MISC,,,de,1
+Gaskommission.,Gaskommission.,MISC,,,de,1
+EZB-Zinsschritt,EZB-Zinsschritt,MISC,,,de,1
+Ein Außenministertreffen,Ein Außenministertreffen,MISC,,,de,1
+französische,französische,MISC,,,de,1
+nächsten Jahr,nächsten Jahr,MISC,,,de,1
+PO,PO,MISC,,,de,1
+Nord Stream 2.,Nord Stream 2.,MISC,,,de,1
+Bedrängnis.,Bedrängnis.,MISC,,,de,1
+Kriegsbeginn,Kriegsbeginn,MISC,,,de,1
+Hübner.,Hübner.,MISC,,,de,1
+Russlands Gas-Erpressun…,Russlands Gas-Erpressun…,MISC,,,de,1
+Deutschen,Deutschen,MISC,,,de,1
+Ostseepipeline Nord Stream 2,Ostseepipeline Nord Stream 2,MISC,,,de,1
+"Ukraine-Krieg  BILD
+</li><li>Maschinenbaugipfel: Doppelpass  FAZ","Ukraine-Krieg  BILD
+</li><li>Maschinenbaugipfel: Doppelpass  FAZ",MISC,,,de,1
+Kalter Winter“:,Kalter Winter“:,MISC,,,de,1
+Krieg gegen die Ukr…,Krieg gegen die Ukr…,MISC,,,de,1
+deutsch-spanischen,deutsch-spanischen,MISC,,,de,1
+Gas aus Russland:,Gas aus Russland:,MISC,,,de,1
+griechischen,griechischen,MISC,,,de,1
+LNG-Terminals,LNG-Terminals,MISC,,,de,1
+Parteitagsbeschluss,Parteitagsbeschluss,MISC,,,de,1
+"Atomkraft: Keine Blackouts, niedrigere Preise?","Atomkraft: Keine Blackouts, niedrigere Preise?",MISC,,,de,1
+italienischen,italienischen,MISC,,,de,1
+AKW NeckarwestheimEntscheidung,AKW NeckarwestheimEntscheidung,MISC,,,de,1
+Entwarnung für Verbraucher,Entwarnung für Verbraucher,MISC,,,de,1
+KOMMENTAR,KOMMENTAR,MISC,,,de,1
+Hamburger Hafen-Deal,Hamburger Hafen-Deal,MISC,,,de,1
+bayrische,bayrische,MISC,,,de,1
+Mini…,Mini…,MISC,,,de,1
+kommende Jahr sagt die Bundesregierung,kommende Jahr sagt die Bundesregierung,MISC,,,de,1
+"Widerstand gegen Strompreisbremse: „Glaubst du, das","Widerstand gegen Strompreisbremse: „Glaubst du, das",MISC,,,de,1
+Inter…,Inter…,MISC,,,de,1
+Ministerpräsidenten-Konferenz,Ministerpräsidenten-Konferenz,MISC,,,de,1
+Nicht-EU-Partnern,Nicht-EU-Partnern,MISC,,,de,1
+Lindner trotzig,Lindner trotzig,MISC,,,de,1
+ARD-Talk,ARD-Talk,MISC,,,de,1
+Energiekrise: Kabinett,Energiekrise: Kabinett,MISC,,,de,1
+DREI,DREI,MISC,,,de,1
+"Ein bisschen Frieden, aber","Ein bisschen Frieden, aber",MISC,,,de,1
 Krieg,Krieg,MISC,,,de,1
-Krieg gegen die Ukraine,Krieg gegen die Ukraine,MISC,,,de,1
