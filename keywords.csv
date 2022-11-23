@@ -1,11 +1,14 @@
 keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Olaf Scholz',de,Deutschland,#1818e8,#1818e8,1,1.0
+'Winfried Kretschmann',de,Deutschland,#1818e8,#1818e8,1,1.0
+'Michael Kretschmer',de,Deutschland,#1818e8,#1818e8,1,1.0
 'Joe Biden',de,USA,#18e8e8,#18e8e8,1,1.0
 'John Kerry',de,USA,#18e8e8,#18e8e8,1,1.0
 'Emmanuel Macron',de,Frankreich,#e8e808,#e8e808,1,1.0
 'Xi Jinping',de,China,#e88818,#e88818,1,1.0
 'Antonio Guterres',de,UN,#e888e8,#e888e8,1,1.0
 'Christian Lindner',de,Deutschland,#1818e8,#1818e8,3,0.9367809468181818
+'Friedrich Merz',de,Deutschland,#1818e8,#1818e8,3,0.9367809468181818
 'Annalena Baerbock',de,Deutschland,#1818e8,#1818e8,2,0.9231507481818182
 'Robert Habeck',de,Deutschland,#1818e8,#1818e8,2,0.8867844568181817
 'Markus Söder',de,Deutschland,#1818e8,#1818e8,2,0.8822301372727273
@@ -13,3 +16,5 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Sergej Lavrov',de,Russland,#e81818,#e81818,1,0.850150015
 'Wolodymyr Selenski',de,Ukraine,#e818e8,#e818e8,1,0.725830333
 'Antony Blinken',de,USA,#18e8e8,#18e8e8,3,0.6432944619204545
+'Lula sa Silva',de,Brasilien,#58e838,#58e838,1,1.0
+'jair Bolsonaro',de,Brasilien,#58e838,#58e848,1,1.0
