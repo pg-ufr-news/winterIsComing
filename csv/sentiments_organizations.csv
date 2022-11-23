@@ -1,54 +1,60 @@
 ,phrase,label,sentiment,subjectivity,language,count
 SPD,SPD,ORG,0.16333333333333336,0.02666666666666667,de,30
 FDP,FDP,ORG,-0.10454545454545454,0.09090909090909091,de,11
+SPIEGEL,SPIEGEL,ORG,0.7000000000000001,0.0,de,11
+E-Paper,E-Paper,ORG,0.7000000000000001,0.0,de,11
+CSU,CSU,ORG,-0.1111111111111111,0.0,de,9
 Grüne,Grüne,ORG,0.0,0.0,de,9
 EU,EU,ORG,-0.04375,0.0,de,8
-E-Paper,E-Paper,ORG,0.7000000000000001,0.0,de,6
-SPIEGEL,SPIEGEL,ORG,0.7000000000000001,0.0,de,6
 die Grünen,die Grünen,ORG,-0.06000000000000001,0.0,de,5
-CSU,CSU,ORG,-0.2,0.0,de,5
 Grünen,Grünen,ORG,-0.07500000000000001,0.0,de,4
 FDP-Chef,FDP-Chef,ORG,0.175,0.0,de,4
-Bundestag,Bundestag,ORG,0.2333333333333333,0.0,de,3
+Partei,Partei,ORG,0.2333333333333333,0.0,de,3
 WELT,WELT,ORG,0.5833333333333333,0.0,de,3
-Deutschland,Deutschland,ORG,0.2333333333333333,0.0,de,3
+G20,G20,ORG,-0.3333333333333333,0.0,de,3
 RWE,RWE,ORG,0.3333333333333333,0.0,de,3
-AKW,AKW,ORG,-0.5,0.0,de,2
-Partei,Partei,ORG,0.0,0.0,de,2
-Grünen-Fraktion,Grünen-Fraktion,ORG,0.0,0.0,de,2
-SPD-Chef,SPD-Chef,ORG,0.0,0.0,de,2
-internationalen Konferenz,internationalen Konferenz,ORG,0.0,0.0,de,2
+Deutschland,Deutschland,ORG,0.2333333333333333,0.0,de,3
+Bundestag,Bundestag,ORG,0.2333333333333333,0.0,de,3
 Repräsentantenhaus,Repräsentantenhaus,ORG,-0.35,0.0,de,2
-Demokraten,Demokraten,ORG,0.5,0.0,de,2
-IHN,IHN,ORG,0.0,0.0,de,2
 G7-Runde,G7-Runde,ORG,0.0,0.0,de,2
+den Grünen,den Grünen,ORG,-1.0,0.0,de,2
+SPD-Chef,SPD-Chef,ORG,0.0,0.0,de,2
+Demokraten,Demokraten,ORG,0.5,0.0,de,2
+AKW,AKW,ORG,-0.5,0.0,de,2
 AG!,AG!,ORG,0.0,0.0,de,2
 ER,ER,ORG,0.0,0.0,de,2
+internationalen Konferenz,internationalen Konferenz,ORG,0.0,0.0,de,2
 Deutschland!,Deutschland!,ORG,0.0,0.0,de,2
-den Grünen,den Grünen,ORG,-1.0,0.0,de,2
-China-Besuch,China-Besuch,ORG,1.0,0.0,de,1
-Außenministerium,Außenministerium,ORG,0.0,0.0,de,1
-Die Welt.,Die Welt.,ORG,0.0,0.0,de,1
-RWE.,RWE.,ORG,0.0,0.0,de,1
-AKW-Debatte: »Das,AKW-Debatte: »Das,ORG,0.7,0.0,de,1
-Liberalen,Liberalen,ORG,0.7,0.0,de,1
-US-Wirtschaft,US-Wirtschaft,ORG,1.0,0.0,de,1
-LNG: Dem Tempo,LNG: Dem Tempo,ORG,0.0,0.0,de,1
+Grünen-Fraktion,Grünen-Fraktion,ORG,0.0,0.0,de,2
+Polizei,Polizei,ORG,-1.0,0.0,de,2
+IHN,IHN,ORG,0.0,0.0,de,2
 Bürgergeld-Kompromiss,Bürgergeld-Kompromiss,ORG,1.0,0.0,de,1
-CDU,CDU,ORG,0.0,0.0,de,1
+AKW-Debatte: »Das,AKW-Debatte: »Das,ORG,0.7,0.0,de,1
+US-Wirtschaft,US-Wirtschaft,ORG,1.0,0.0,de,1
+Liberalen,Liberalen,ORG,0.7,0.0,de,1
 CDU-Vorsitzenden,CDU-Vorsitzenden,ORG,0.0,0.0,de,1
+Außenministerium,Außenministerium,ORG,0.0,0.0,de,1
+China-Besuch,China-Besuch,ORG,1.0,0.0,de,1
+Die Welt.,Die Welt.,ORG,0.0,0.0,de,1
+CDU,CDU,ORG,0.0,0.0,de,1
+Regensburg: Polizei,Regensburg: Polizei,ORG,0.0,0.0,de,1
 Gesellschaft vorgeworfen.,Gesellschaft vorgeworfen.,ORG,0.0,0.0,de,1
-Karlsruher Geldinstituts,Karlsruher Geldinstituts,ORG,0.0,0.0,de,1
+Bundesrepu…,Bundesrepu…,ORG,0.0,0.0,de,1
 LIVE,LIVE,ORG,0.0,0.0,de,1
 Bundesfinanzminister Lindner: Energiepreise,Bundesfinanzminister Lindner: Energiepreise,ORG,0.0,0.0,de,1
 Foto: Alexandros Michailidis,Foto: Alexandros Michailidis,ORG,0.0,0.0,de,1
 EnergiepreiseEnergiep…,EnergiepreiseEnergiep…,ORG,0.0,0.0,de,1
 FDP:,FDP:,ORG,0.0,0.0,de,1
+RWE.,RWE.,ORG,0.0,0.0,de,1
+Europäische Union,Europäische Union,ORG,0.0,0.0,de,1
+Taiwan.,Taiwan.,ORG,-0.7,0.0,de,1
+Taiwan-Politik.,Taiwan-Politik.,ORG,0.0,0.0,de,1
 (!),(!),ORG,0.0,0.0,de,1
-Bundesrepu…,Bundesrepu…,ORG,0.0,0.0,de,1
-KP-Kongress,KP-Kongress,ORG,1.0,0.0,de,1
-BBBank,BBBank,ORG,0.0,0.0,de,1
-BBBank: »Gerne bleibe ich,BBBank: »Gerne bleibe ich,ORG,0.0,0.0,de,1
+Söder,Söder,ORG,0.0,0.0,de,1
+LNG: Dem Tempo,LNG: Dem Tempo,ORG,0.0,0.0,de,1
+europäischen Porzellanladen.,europäischen Porzellanladen.,ORG,0.0,0.0,de,1
+Propagandaerfolg,Propagandaerfolg,ORG,0.0,0.0,de,1
+AKW-Entscheidung des Kanzlers: Kernspaltung der Ampel,AKW-Entscheidung des Kanzlers: Kernspaltung der Ampel,ORG,-1.0,0.0,de,1
 AfD »Partei Russlands«,AfD »Partei Russlands«,ORG,0.0,0.0,de,1
 Regierungsarbeit,Regierungsarbeit,ORG,0.7,0.0,de,1
 AfD,AfD,ORG,0.0,0.0,de,1
@@ -63,17 +69,20 @@ Grünen.,Grünen.,ORG,1.0,0.0,de,1
 | AKW-Debatte: Atomstaat Deutschland.,| AKW-Debatte: Atomstaat Deutschland.,ORG,0.0,0.0,de,1
 "Union zur Atomentscheidung: ""Zu spät"" und ""viel zu wenig""","Union zur Atomentscheidung: ""Zu spät"" und ""viel zu wenig""",ORG,0.0,0.0,de,1
 Foto: Moment/Getty,Foto: Moment/Getty,ORG,0.7,0.0,de,1
-AKW-Entscheidung des Kanzlers: Kernspaltung der Ampel,AKW-Entscheidung des Kanzlers: Kernspaltung der Ampel,ORG,-1.0,0.0,de,1
 Verfassung?,Verfassung?,ORG,0.0,0.0,de,1
+Karlsruher Geldinstituts,Karlsruher Geldinstituts,ORG,0.0,0.0,de,1
 EU-Staaten,EU-Staaten,ORG,0.5,0.0,de,1
 Minister vom Westbalkan.,Minister vom Westbalkan.,ORG,0.0,0.0,de,1
 EU-Gipfel:,EU-Gipfel:,ORG,0.0,0.0,de,1
 bayerischen SPD:,bayerischen SPD:,ORG,0.0,0.0,de,1
 bayerischen SPD,bayerischen SPD,ORG,0.0,0.0,de,1
-Bundestag: Olaf Scholz,Bundestag: Olaf Scholz,ORG,0.0,0.0,de,1
+KP-Kongress,KP-Kongress,ORG,1.0,0.0,de,1
+China,China,ORG,-1.0,0.0,de,1
 EU-Kommission,EU-Kommission,ORG,0.0,0.0,de,1
-europäischen Porzellanladen.,europäischen Porzellanladen.,ORG,0.0,0.0,de,1
+Bundestag: Olaf Scholz,Bundestag: Olaf Scholz,ORG,0.0,0.0,de,1
 Streitkräfte,Streitkräfte,ORG,0.0,0.0,de,1
-Transformation | Erdgaskrise,Transformation | Erdgaskrise,ORG,0.0,0.0,de,1
 Die Grünen,Die Grünen,ORG,0.0,0.0,de,1
+Transformation | Erdgaskrise,Transformation | Erdgaskrise,ORG,0.0,0.0,de,1
+BBBank: »Gerne bleibe ich,BBBank: »Gerne bleibe ich,ORG,0.0,0.0,de,1
+BBBank,BBBank,ORG,0.0,0.0,de,1
 RTL/ntv-Trendbarometer: Mehrheit,RTL/ntv-Trendbarometer: Mehrheit,ORG,0.0,0.0,de,1
