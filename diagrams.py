@@ -56,6 +56,7 @@ def getNewsDF():
 
 keywordsColorsDF = pd.read_csv(DATA_PATH / 'keywords.csv', delimiter=',')
 topicsColorsDF = keywordsColorsDF.drop_duplicates(subset=['topic'])
+print(topicsColorsDF)
 
 newsDf = getNewsDF()
 newsDf['title'] = newsDf['title'].fillna('')
@@ -125,7 +126,7 @@ if(not bayesDF2.empty):
   topic_idx = -1
   ##for topic in reversed(colorsTopics.keys()):
 
-  for index2, column2 in topicsColorsDF.iterrows():
+  for index2, column2 in topicsColorsDF.head(n_components).iterrows():
     topic = column2['topic']
     topic_idx += 1
     topicWords = {}  
