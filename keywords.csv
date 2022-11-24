@@ -89,6 +89,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Anthony Albanese',de,Australien,#111111,#111111,2,0.8731324631818181
 'Emmanuel Macron',de,Frankreich,#e8e808,#e8e808,2,0.8685965186363637
 'Wladimir Putin',de,Russland,#e81818,#e81818,2,0.8595411445454545
+'Putin',de,Russland,#e81818,#e81818,1,1
 'Ebrahim Raisi',de,Iran,#111111,#111111,2,0.8594970895454546
 'Patriarch Kyrill',de,Ukraine,#e818e8,#e818e8,2,0.8594960545454545
 'Xi Jinping',de,China,#e88818,#e88818,3,0.8503280921363634
@@ -97,4 +98,5 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Choe Ryong-hae',de,NordKorea,#e85858,#e85858,1,0.85
 'Helge Lund',de,UK,#e838e8,#e838e8,1,0.85
 'Wolodymyr Selenski',de,Ukraine,#e818e8,#e818e8,1,0.725830333
+'Selenski',de,Ukraine,#e818e8,#e818e8,1,1
 'Antony Blinken',de,USA,#18e8e8,#18e8e8,3,0.6432944619204545
