@@ -1,144 +1,280 @@
 ,phrase,label,sentiment,subjectivity,language,count
-Deutschland,Deutschland,LOC,-0.010000000000000002,0.06333333333333332,de,30
-China,China,LOC,-0.026086956521739136,0.13043478260869565,de,23
-Chinas,Chinas,LOC,-0.02333333333333335,0.0,de,15
-Ukraine,Ukraine,LOC,0.010714285714285716,0.0,de,14
-Berlin,Berlin,LOC,0.12727272727272726,0.0,de,11
-USA,USA,LOC,-0.06999999999999999,0.0,de,10
-Audioinhalten,Audioinhalten,LOC,0.7000000000000001,0.0,de,9
-Peking,Peking,LOC,0.0,0.0,de,9
+Deutschland,Deutschland,LOC,0.041987179487179484,0.04294871794871795,de,52
+China,China,LOC,-0.039583333333333325,0.0625,de,48
+Ukraine,Ukraine,LOC,0.05535714285714286,0.03571428571428571,de,28
+Chinas,Chinas,LOC,-0.09351851851851853,0.0,de,27
+Berlin,Berlin,LOC,0.248,0.04,de,25
+Russland,Russland,LOC,-0.021052631578947364,0.0,de,19
+Bali,Bali,LOC,0.2111111111111111,0.0,de,18
+Peking,Peking,LOC,0.0,0.058823529411764705,de,17
+Iran,Iran,LOC,-0.06538461538461539,0.0,de,13
+USA,USA,LOC,-0.11923076923076922,0.0,de,13
 "Podcasts
 ","Podcasts
-",LOC,0.7000000000000001,0.0,de,9
-den USA,den USA,LOC,0.24285714285714285,0.0,de,7
+",LOC,0.7000000000000001,0.0,de,12
+Audioinhalten,Audioinhalten,LOC,0.7000000000000001,0.0,de,12
+Indonesien,Indonesien,LOC,0.23333333333333328,0.0,de,9
+Europa,Europa,LOC,0.0,0.0,de,9
+Deutschlands,Deutschlands,LOC,0.14444444444444446,0.0,de,9
+Frankreichs,Frankreichs,LOC,-0.024999999999999994,0.0,de,8
+Brüssel,Brüssel,LOC,0.4375,0.0,de,8
+EU-Gipfel,EU-Gipfel,LOC,0.5,0.0,de,8
+den USA,den USA,LOC,0.2125,0.0,de,8
+US-Präsident,US-Präsident,LOC,-0.125,0.0,de,8
+Katar,Katar,LOC,-0.1625,0.0,de,8
+Frankreich,Frankreich,LOC,-0.042857142857142864,0.0,de,7
+Russlands,Russlands,LOC,0.24285714285714285,0.0,de,7
+Südafrika,Südafrika,LOC,0.09999999999999999,0.0,de,7
+Scholz,Scholz,LOC,0.2476190476190476,0.0,de,7
 Bayern,Bayern,LOC,-0.31666666666666665,0.0,de,6
-Scholz,Scholz,LOC,0.1722222222222222,0.0,de,6
-Bali,Bali,LOC,-0.06000000000000001,0.0,de,5
-Deutschlands,Deutschlands,LOC,0.2,0.0,de,5
+Nordkoreas,Nordkoreas,LOC,0.3333333333333333,0.0,de,6
+Staaten,Staaten,LOC,-0.35833333333333334,0.0,de,6
+Großbritannien.,Großbritannien.,LOC,0.0,0.0,de,6
+Paris,Paris,LOC,0.33999999999999997,0.0,de,5
+Arizona,Arizona,LOC,0.0,0.0,de,5
+Finanzminister,Finanzminister,LOC,0.2,0.2,de,5
 Bayerns,Bayerns,LOC,-0.6,0.0,de,5
-Iran,Iran,LOC,0.13999999999999999,0.0,de,5
-Russland,Russland,LOC,-0.48,0.0,de,5
-EU-Gipfel,EU-Gipfel,LOC,0.8,0.0,de,5
+Ägypten,Ägypten,LOC,-0.37,0.2,de,5
 Entlastungspaket,Entlastungspaket,LOC,0.0,0.2,de,4
-Türkei,Türkei,LOC,0.25,0.0,de,4
+Südostasien,Südostasien,LOC,0.175,0.0,de,4
+Südkorea,Südkorea,LOC,0.0,0.0,de,4
 Münster,Münster,LOC,-0.175,0.0,de,4
-Europa,Europa,LOC,0.0,0.0,de,4
-Brüssel,Brüssel,LOC,0.75,0.0,de,4
-Finanzminister,Finanzminister,LOC,0.0,0.25,de,4
-US-Präsident,US-Präsident,LOC,-0.3333333333333333,0.0,de,3
+Maricopa County,Maricopa County,LOC,0.0,0.0,de,4
+Polen,Polen,LOC,-0.175,0.25,de,4
+Türkei,Türkei,LOC,0.25,0.0,de,4
+Polens,Polens,LOC,0.5,0.0,de,4
+Kanadas,Kanadas,LOC,-0.9166666666666666,0.0,de,3
 Kurses,Kurses,LOC,1.0,0.0,de,3
-Xi,Xi,LOC,0.2333333333333333,0.0,de,3
-Frankreich,Frankreich,LOC,-0.10000000000000002,0.0,de,3
-Gaspreisbremse,Gaspreisbremse,LOC,0.0,0.0,de,3
-Münster.,Münster.,LOC,0.0,0.0,de,3
-München,München,LOC,0.0,0.0,de,3
-Russlands,Russlands,LOC,0.3333333333333333,0.0,de,3
 Bachmut,Bachmut,LOC,0.0,0.0,de,3
-Ägypten,Ägypten,LOC,-0.3333333333333333,0.3333333333333333,de,3
-Kiew,Kiew,LOC,0.0,0.0,de,2
-Paris,Paris,LOC,0.0,0.0,de,2
-Scharm,Scharm,LOC,0.0,0.0,de,2
-US-Präsidenten,US-Präsidenten,LOC,0.0,0.0,de,2
-Südostasien,Südostasien,LOC,0.35,0.0,de,2
-Erfurt,Erfurt,LOC,0.0,0.0,de,2
-Kasachstan,Kasachstan,LOC,0.0,0.0,de,2
-Laschetlacht,Laschetlacht,LOC,0.0,0.0,de,2
-Emsland,Emsland,LOC,0.35,0.0,de,2
-Sharm El-Sheikh,Sharm El-Sheikh,LOC,0.0,0.0,de,2
-Staaten,Staaten,LOC,-0.425,0.0,de,2
-Union,Union,LOC,-0.6,0.25,de,2
-Luxemburg,Luxemburg,LOC,0.0,0.0,de,2
-Strompreisbremse,Strompreisbremse,LOC,0.7,0.0,de,2
-Scharm el-Scheich,Scharm el-Scheich,LOC,1.0,0.0,de,2
-Isar,Isar,LOC,0.35,0.0,de,2
-CSU-geführten,CSU-geführten,LOC,-0.25,0.0,de,2
+Kasachstan,Kasachstan,LOC,0.0,0.0,de,3
+Senegal,Senegal,LOC,0.0,0.0,de,3
+Gaspreisbremse,Gaspreisbremse,LOC,0.0,0.0,de,3
+Raketeneinschlag,Raketeneinschlag,LOC,0.0,0.0,de,3
+München,München,LOC,0.0,0.0,de,3
+Südafrika.,Südafrika.,LOC,0.6666666666666666,0.0,de,3
+Xi,Xi,LOC,0.2333333333333333,0.0,de,3
+Bangkok,Bangkok,LOC,-0.10000000000000002,0.0,de,3
+Asien,Asien,LOC,-0.10000000000000002,0.0,de,3
+Lützerath,Lützerath,LOC,0.3333333333333333,0.6666666666666666,de,3
+Japans,Japans,LOC,0.2333333333333333,0.0,de,3
+Bund,Bund,LOC,0.3333333333333333,0.0,de,3
+Scharm el-Scheich,Scharm el-Scheich,LOC,0.6666666666666666,0.0,de,3
+Union,Union,LOC,-0.39999999999999997,0.16666666666666666,de,3
+Bundeswirtschaftsminister,Bundeswirtschaftsminister,LOC,0.0,0.0,de,3
+Kiew,Kiew,LOC,0.0,0.0,de,3
+Luxemburg,Luxemburg,LOC,0.0,0.0,de,3
+Münster.,Münster.,LOC,0.0,0.0,de,3
+Italiens,Italiens,LOC,0.0,0.0,de,3
+Brüssel.,Brüssel.,LOC,0.0,0.0,de,3
 Region Donezk,Region Donezk,LOC,0.0,0.0,de,2
+Großbritanniens,Großbritanniens,LOC,-0.15000000000000002,0.0,de,2
+Washington,Washington,LOC,0.0,0.0,de,2
+Indien,Indien,LOC,0.0,0.0,de,2
+Erfurt,Erfurt,LOC,0.0,0.0,de,2
+Irans,Irans,LOC,-0.7,0.0,de,2
+Taiwan,Taiwan,LOC,-0.6625,0.0,de,2
+Vietnam,Vietnam,LOC,-0.425,0.0,de,2
+Impfstoffproduktionsstätten,Impfstoffproduktionsstätten,LOC,0.7,0.0,de,2
+Gifhorn,Gifhorn,LOC,0.425,0.0,de,2
+Schkeuditz,Schkeuditz,LOC,0.7,0.0,de,2
+Hessens,Hessens,LOC,0.0,0.0,de,2
+Sharm El-Sheikh,Sharm El-Sheikh,LOC,0.0,0.0,de,2
+Pjöngjang,Pjöngjang,LOC,0.0,0.0,de,2
+Laschetlacht,Laschetlacht,LOC,0.0,0.0,de,2
+Volksrepublik,Volksrepublik,LOC,0.35,0.0,de,2
+Brandenburgs,Brandenburgs,LOC,0.0,0.0,de,2
+Strompreisbremse,Strompreisbremse,LOC,0.7,0.0,de,2
+Isar,Isar,LOC,0.35,0.0,de,2
+Nordkorea,Nordkorea,LOC,0.0,0.0,de,2
+Emsland,Emsland,LOC,0.35,0.0,de,2
+Landes,Landes,LOC,-0.175,0.25,de,2
+Teheran,Teheran,LOC,-0.7,0.0,de,2
+Afrika,Afrika,LOC,0.7,0.0,de,2
+Bundesnetzagentur-Präsident,Bundesnetzagentur-Präsident,LOC,-0.3333333333333333,0.0,de,2
+US-Präsidenten,US-Präsidenten,LOC,0.0,0.0,de,2
+Indonesiens,Indonesiens,LOC,0.7,0.0,de,2
+CSU-geführten,CSU-geführten,LOC,-0.25,0.0,de,2
 Balkan,Balkan,LOC,0.0,0.0,de,2
+Montag.,Montag.,LOC,0.0,0.0,de,2
+Apec,Apec,LOC,-0.15000000000000002,0.0,de,2
+Niedersachsen.,Niedersachsen.,LOC,0.0,0.0,de,2
 Pyrenäen,Pyrenäen,LOC,0.0,0.0,de,2
-Singapur,Singapur,LOC,0.0,0.0,de,1
+Spanien,Spanien,LOC,-0.35,0.0,de,2
+Scharm,Scharm,LOC,0.0,0.0,de,2
+Sharm el Sheikh,Sharm el Sheikh,LOC,0.0,0.0,de,1
+Illner,Illner,LOC,0.0,0.0,de,1
+Bali:,Bali:,LOC,0.0,0.0,de,1
+Nordamerika,Nordamerika,LOC,0.0,0.0,de,1
+Pazifik,Pazifik,LOC,0.7,0.0,de,1
+Phnom Penh,Phnom Penh,LOC,-1.0,0.0,de,1
+Video: Angespannte Lage,Video: Angespannte Lage,LOC,0.0,0.0,de,1
+Mecklenburg-Vorpommern,Mecklenburg-Vorpommern,LOC,0.0,0.0,de,1
+Küste,Küste,LOC,0.0,0.0,de,1
+Westafrika,Westafrika,LOC,0.0,0.0,de,1
+Paris.,Paris.,LOC,0.7,0.0,de,1
+BRD,BRD,LOC,-0.85,0.0,de,1
+Honorarkonsuln,Honorarkonsuln,LOC,0.0,0.0,de,1
+Shanghaier,Shanghaier,LOC,0.0,0.0,de,1
+Schanghai: Lukaschenko,Schanghai: Lukaschenko,LOC,0.0,0.0,de,1
+Regensburg: Söder-Beleidigung,Regensburg: Söder-Beleidigung,LOC,0.0,0.0,de,1
+Bürger?,Bürger?,LOC,0.0,0.0,de,1
+Sachsen,Sachsen,LOC,0.0,1.0,de,1
+Italien,Italien,LOC,1.0,0.0,de,1
+Budapest,Budapest,LOC,0.0,0.0,de,1
+Geduld.,Geduld.,LOC,0.0,0.0,de,1
+Bummel-Staat,Bummel-Staat,LOC,0.0,0.0,de,1
+Maskenpflicht,Maskenpflicht,LOC,0.0,0.0,de,1
+italienischen Regierung,italienischen Regierung,LOC,1.0,0.0,de,1
+Vi…,Vi…,LOC,0.0,0.0,de,1
+Nachbar-Dach.,Nachbar-Dach.,LOC,0.0,0.0,de,1
+Ex-Sowjetrepublik-Moldau,Ex-Sowjetrepublik-Moldau,LOC,0.0,0.0,de,1
+Moldau,Moldau,LOC,-0.7,0.0,de,1
+Shanghai,Shanghai,LOC,-1.0,0.0,de,1
+Gasfeldern,Gasfeldern,LOC,1.0,0.0,de,1
+westafrikanischen Küste,westafrikanischen Küste,LOC,0.0,0.0,de,1
+Gas-Projekt,Gas-Projekt,LOC,0.0,0.0,de,1
+Midterms,Midterms,LOC,-0.7,0.0,de,1
+Maricopa Cou…,Maricopa Cou…,LOC,0.0,0.0,de,1
+(74),(74),LOC,0.0,0.0,de,1
+Wismar,Wismar,LOC,0.0,0.0,de,1
 Kambodscha,Kambodscha,LOC,0.0,0.0,de,1
-Gipfeln,Gipfeln,LOC,0.7,0.0,de,1
-Samstagmorgen.,Samstagmorgen.,LOC,0.0,0.0,de,1
-Bidens,Bidens,LOC,0.0,0.0,de,1
-Spanien,Spanien,LOC,0.0,0.0,de,1
-Bali;,Bali;,LOC,0.0,0.0,de,1
-Vietnam,Vietnam,LOC,0.0,0.0,de,1
+Thailand,Thailand,LOC,0.0,0.0,de,1
+Straße gehen“.,Straße gehen“.,LOC,0.0,0.0,de,1
 "Bali
 ","Bali
 ",LOC,0.0,0.0,de,1
-Midterms,Midterms,LOC,-0.7,0.0,de,1
-Frankreichs,Frankreichs,LOC,0.0,0.0,de,1
-Skandal-Satz,Skandal-Satz,LOC,0.0,0.0,de,1
-Gas-Erpress,Gas-Erpress,LOC,0.0,0.0,de,1
-Nord-Stream-2-Pipeline,Nord-Stream-2-Pipeline,LOC,0.0,0.0,de,1
-Lubmin.,Lubmin.,LOC,0.0,0.0,de,1
-Energiepreisbremsen,Energiepreisbremsen,LOC,0.0,0.0,de,1
-Landes,Landes,LOC,-0.35,0.5,de,1
-Thailand,Thailand,LOC,0.0,0.0,de,1
 G 20,G 20,LOC,0.0,0.0,de,1
-Münsteraner Rathauses,Münsteraner Rathauses,LOC,-0.7,0.0,de,1
-Illner,Illner,LOC,0.0,0.0,de,1
-Bummel-Staat,Bummel-Staat,LOC,0.0,0.0,de,1
-Maskenpflicht,Maskenpflicht,LOC,0.0,0.0,de,1
-Regensburg: Söder-Beleidigung,Regensburg: Söder-Beleidigung,LOC,0.0,0.0,de,1
-Neckarwestheim,Neckarwestheim,LOC,0.7,0.0,de,1
-Ex-Sowjetrepublik-Moldau,Ex-Sowjetrepublik-Moldau,LOC,0.0,0.0,de,1
-Moldau,Moldau,LOC,-0.7,0.0,de,1
-Montag.,Montag.,LOC,0.0,0.0,de,1
-Wilhelmshaven,Wilhelmshaven,LOC,1.0,0.0,de,1
-Nordamerika,Nordamerika,LOC,0.0,0.0,de,1
-Putin,Putin,LOC,0.0,0.0,de,1
-Pazifik,Pazifik,LOC,0.7,0.0,de,1
-Kanadas,Kanadas,LOC,-1.0,0.0,de,1
-Bali:,Bali:,LOC,0.0,0.0,de,1
+London,London,LOC,1.0,0.0,de,1
 Cherson,Cherson,LOC,0.35,0.5,de,1
-Stadt,Stadt,LOC,0.35,0.5,de,1
-Dienstag.,Dienstag.,LOC,0.0,0.0,de,1
-Honorarkonsuln,Honorarkonsuln,LOC,0.0,0.0,de,1
+"Südafrika, Cyril","Südafrika, Cyril",LOC,0.0,0.0,de,1
 Bali: Joe Biden,Bali: Joe Biden,LOC,-0.7,0.0,de,1
-Gas-Verteilzentrum,Gas-Verteilzentrum,LOC,0.0,0.0,de,1
-Friedenssaal,Friedenssaal,LOC,-0.7,0.0,de,1
-China:,China:,LOC,0.0,0.0,de,1
-Washington,Washington,LOC,0.0,0.0,de,1
+Stadt,Stadt,LOC,0.35,0.5,de,1
+Bargeldanhänger,Bargeldanhänger,LOC,0.0,0.0,de,1
+Dienstag.,Dienstag.,LOC,0.0,0.0,de,1
+Energiesorgen,Energiesorgen,LOC,0.0,0.0,de,1
+Südkoreas,Südkoreas,LOC,0.0,0.0,de,1
+ostasiatischen Land,ostasiatischen Land,LOC,0.0,0.0,de,1
+Gipfeln,Gipfeln,LOC,0.7,0.0,de,1
+Nusa Dua.,Nusa Dua.,LOC,0.0,0.0,de,1
+Garuda-Wisnu-Kencana-Kulturpark,Garuda-Wisnu-Kencana-Kulturpark,LOC,0.35,0.5,de,1
+G20-Gipfels.,G20-Gipfels.,LOC,0.0,0.0,de,1
+Moskau,Moskau,LOC,1.0,0.0,de,1
+Wismar b…,Wismar b…,LOC,0.0,0.0,de,1
+Wahlbehörde mel…,Wahlbehörde mel…,LOC,0.0,0.0,de,1
+Indonesien.,Indonesien.,LOC,0.7,0.0,de,1
+Mecklenburg-Vorpommerns,Mecklenburg-Vorpommerns,LOC,1.0,0.0,de,1
+Bali teilnehm…,Bali teilnehm…,LOC,0.7,0.0,de,1
+Wärmepumpen-Besitzer,Wärmepumpen-Besitzer,LOC,1.0,0.0,de,1
+Samstagmorgen.,Samstagmorgen.,LOC,0.0,0.0,de,1
+Singapur,Singapur,LOC,0.0,0.0,de,1
+Bali;,Bali;,LOC,0.0,0.0,de,1
+Staatsbankett,Staatsbankett,LOC,0.0,0.0,de,1
+Staatsempfang,Staatsempfang,LOC,0.0,0.0,de,1
+Warschau,Warschau,LOC,0.0,0.0,de,1
+Bidens,Bidens,LOC,0.0,0.0,de,1
+Ampel-Fraktionen,Ampel-Fraktionen,LOC,1.0,0.0,de,1
+Energiepreisbremse: Robert Habeck,Energiepreisbremse: Robert Habeck,LOC,0.0,0.0,de,1
+Energiepreisbremsen,Energiepreisbremsen,LOC,0.0,0.0,de,1
+Portugal,Portugal,LOC,-0.7,0.0,de,1
+Ampel-Ringen,Ampel-Ringen,LOC,0.0,1.0,de,1
+Bergen,Bergen,LOC,0.0,0.0,de,1
+Neckarwestheim 2,Neckarwestheim 2,LOC,0.0,0.0,de,1
 "Niedersachsen
 ","Niedersachsen
 ",LOC,0.0,0.0,de,1
-Xis,Xis,LOC,1.0,0.0,de,1
 Atomkraftwerks Emsland,Atomkraftwerks Emsland,LOC,0.0,0.0,de,1
-Donnerstagmorgen.,Donnerstagmorgen.,LOC,0.0,0.0,de,1
+Kommissionschefin von der Leyen,Kommissionschefin von der Leyen,LOC,0.0,0.0,de,1
 AKW Emsland dampft…,AKW Emsland dampft…,LOC,0.0,0.0,de,1
+Verbändehaus,Verbändehaus,LOC,0.0,0.0,de,1
+Spreeufer,Spreeufer,LOC,0.0,0.0,de,1
 Bundesrechnungshof,Bundesrechnungshof,LOC,0.0,0.0,de,1
+Hamburger Hafens,Hamburger Hafens,LOC,0.15000000000000002,0.0,de,1
+Berlin-Kreuzberg,Berlin-Kreuzberg,LOC,0.7,0.0,de,1
+Chinesen,Chinesen,LOC,0.15000000000000002,0.0,de,1
+Donnerstagabend.,Donnerstagabend.,LOC,0.0,0.0,de,1
+Französischer,Französischer,LOC,0.0,0.0,de,1
 Moskau.,Moskau.,LOC,0.0,0.0,de,1
-Wachstumsfeuer,Wachstumsfeuer,LOC,1.0,0.0,de,1
-Bundesfinanzministerium,Bundesfinanzministerium,LOC,0.0,0.0,de,1
-Auswärtige Amt,Auswärtige Amt,LOC,-0.7,0.0,de,1
 Potsdamer Platz,Potsdamer Platz,LOC,0.7,0.0,de,1
-Maskenpflicht.,Maskenpflicht.,LOC,0.0,0.0,de,1
-Deutschlands Sonderweg,Deutschlands Sonderweg,LOC,0.0,0.0,de,1
-Bundesnetzagentur-Präsident,Bundesnetzagentur-Präsident,LOC,-0.3333333333333333,0.0,de,1
-Pekings,Pekings,LOC,0.0,0.0,de,1
 Außenministerinnen,Außenministerinnen,LOC,0.0,0.0,de,1
 "Serbien, Bosnien, Kosovo","Serbien, Bosnien, Kosovo",LOC,0.0,0.0,de,1
 Schattenhaushalte,Schattenhaushalte,LOC,0.7,0.0,de,1
+Samstag.,Samstag.,LOC,0.0,0.0,de,1
+Sachsens,Sachsens,LOC,0.0,0.0,de,1
+Koalitionskreisen,Koalitionskreisen,LOC,0.0,0.0,de,1
+"Pipeline  DER SPIEGEL
+</li><li>Nord-Stream-Gaslecks:","Pipeline  DER SPIEGEL
+</li><li>Nord-Stream-Gaslecks:",LOC,0.7,0.0,de,1
+Berliner Zeitung.,Berliner Zeitung.,LOC,0.0,0.0,de,1
+Pipeline-Anschlägen,Pipeline-Anschlägen,LOC,0.0,0.0,de,1
+Neckarwestheim,Neckarwestheim,LOC,0.7,0.0,de,1
+Wilhelmshaven,Wilhelmshaven,LOC,1.0,0.0,de,1
+Doha,Doha,LOC,0.7,0.0,de,1
+Scholz: Deutschland,Scholz: Deutschland,LOC,1.0,0.0,de,1
+Habecks,Habecks,LOC,0.0,0.0,de,1
+Putin,Putin,LOC,0.0,0.0,de,1
+Energie-Entlastungen,Energie-Entlastungen,LOC,0.7,0.0,de,1
+Schweiz,Schweiz,LOC,0.7,0.0,de,1
+Pipeline-Hauptquartier,Pipeline-Hauptquartier,LOC,0.7,0.0,de,1
+Prag,Prag,LOC,0.0,0.0,de,1
+Landtag,Landtag,LOC,0.0,0.0,de,1
+Skandal-Satz,Skandal-Satz,LOC,0.0,0.0,de,1
+Gas-Erpress,Gas-Erpress,LOC,0.0,0.0,de,1
+Bonn,Bonn,LOC,0.0,0.0,de,1
+Braun­kohletagebaus Gar…,Braun­kohletagebaus Gar…,LOC,0.0,0.0,de,1
+Nord-Stream-2-Pipeline,Nord-Stream-2-Pipeline,LOC,0.0,0.0,de,1
+Lubmin.,Lubmin.,LOC,0.0,0.0,de,1
+Gas-Verteilzentrum,Gas-Verteilzentrum,LOC,0.0,0.0,de,1
+Erdgaslieferungen,Erdgaslieferungen,LOC,1.0,0.0,de,1
+Europas,Europas,LOC,0.0,0.0,de,1
+Energiepreiskrise,Energiepreiskrise,LOC,0.0,0.0,de,1
+Nord Stream1.,Nord Stream1.,LOC,0.0,0.0,de,1
+China:,China:,LOC,0.0,0.0,de,1
+Pekings,Pekings,LOC,0.0,0.0,de,1
+Kasachstan.,Kasachstan.,LOC,0.0,0.0,de,1
+Br\u00fcssel,Br\u00fcssel,LOC,0.0,0.0,de,1
+Kreml,Kreml,LOC,0.0,0.0,de,1
+Energiepreisbremse,Energiepreisbremse,LOC,0.0,0.0,de,1
+Wirtschaftsminister,Wirtschaftsminister,LOC,0.0,0.0,de,1
+Usbekistan.,Usbekistan.,LOC,0.0,0.0,de,1
+Luft-Boden-Raketen.,Luft-Boden-Raketen.,LOC,0.0,0.0,de,1
+Peking.,Peking.,LOC,0.0,0.0,de,1
+Lindner,Lindner,LOC,0.0,1.0,de,1
+AKW-Laufzeiten,AKW-Laufzeiten,LOC,0.0,0.0,de,1
+Westbalkan,Westbalkan,LOC,0.0,0.0,de,1
+US-Außenminister,US-Außenminister,LOC,0.0,0.0,de,1
+Kurztrip,Kurztrip,LOC,0.0,0.0,de,1
+Auswärtige Amt,Auswärtige Amt,LOC,-0.7,0.0,de,1
+Friedenssaal,Friedenssaal,LOC,-0.7,0.0,de,1
+Münsteraner Rathauses,Münsteraner Rathauses,LOC,-0.7,0.0,de,1
+Korea: Wie dieser kalte Krieg,Korea: Wie dieser kalte Krieg,LOC,-0.7,0.0,de,1
+Amt,Amt,LOC,0.0,0.0,de,1
+Leipzig,Leipzig,LOC,0.7,0.0,de,1
+Landesparteitag,Landesparteitag,LOC,0.0,0.0,de,1
+NRW-Ministerpräsidenten,NRW-Ministerpräsidenten,LOC,-1.0,0.0,de,1
+Chin…,Chin…,LOC,0.0,0.0,de,1
+Gas-Hilfen,Gas-Hilfen,LOC,0.0,0.0,de,1
+Treffen,Treffen,LOC,-1.0,0.0,de,1
+Deutschlands Sonderweg,Deutschlands Sonderweg,LOC,0.0,0.0,de,1
+Leipzig.,Leipzig.,LOC,0.0,0.0,de,1
+Maskenpflicht.,Maskenpflicht.,LOC,0.0,0.0,de,1
+Bundesfinanzministerium,Bundesfinanzministerium,LOC,0.0,0.0,de,1
+Wachstumsfeuer,Wachstumsfeuer,LOC,1.0,0.0,de,1
+EU-Kommissionschefin,EU-Kommissionschefin,LOC,0.7,0.0,de,1
+Downing Street,Downing Street,LOC,0.0,0.0,de,1
+Inder,Inder,LOC,0.0,0.0,de,1
+Rishi Sunak,Rishi Sunak,LOC,0.0,0.0,de,1
+Sunak,Sunak,LOC,0.0,0.0,de,1
+Gaseinkauf,Gaseinkauf,LOC,0.0,0.0,de,1
+"Indien: ""Ein Sohn Indiens","Indien: ""Ein Sohn Indiens",LOC,0.0,0.0,de,1
+Delhi,Delhi,LOC,0.0,0.0,de,1
+Johnson-Getreue,Johnson-Getreue,LOC,0.0,0.0,de,1
+Paris…,Paris…,LOC,0.0,0.0,de,1
+Donnerstagmorgen.,Donnerstagmorgen.,LOC,0.0,0.0,de,1
+Xis,Xis,LOC,1.0,0.0,de,1
 Milliardenhöhe,Milliardenhöhe,LOC,-0.7,0.0,de,1
 Iraner,Iraner,LOC,-0.5,0.5,de,1
 Sanieren,Sanieren,LOC,0.0,0.0,de,1
-Neckarwestheim 2,Neckarwestheim 2,LOC,0.0,0.0,de,1
-Kurztrip,Kurztrip,LOC,0.0,0.0,de,1
-Erdgaslieferungen,Erdgaslieferungen,LOC,1.0,0.0,de,1
-US-Außenminister,US-Außenminister,LOC,0.0,0.0,de,1
-AKW-Laufzeiten,AKW-Laufzeiten,LOC,0.0,0.0,de,1
-Lindner,Lindner,LOC,0.0,1.0,de,1
-Europas,Europas,LOC,0.0,0.0,de,1
-Energiepreiskrise,Energiepreiskrise,LOC,0.0,0.0,de,1
-Peking.,Peking.,LOC,0.0,0.0,de,1
-Usbekistan.,Usbekistan.,LOC,0.0,0.0,de,1
-Ampel-Ringen,Ampel-Ringen,LOC,0.0,1.0,de,1
-Wirtschaftsminister,Wirtschaftsminister,LOC,0.0,0.0,de,1
-Energiepreisbremse,Energiepreisbremse,LOC,0.0,0.0,de,1
-Energiepreisbremse: Robert Habeck,Energiepreisbremse: Robert Habeck,LOC,0.0,0.0,de,1
-Gas-Hilfen,Gas-Hilfen,LOC,0.0,0.0,de,1
-Treffen,Treffen,LOC,-1.0,0.0,de,1
-Deutschland.,Deutschland.,LOC,0.0,0.0,de,1
+Scholz.,Scholz.,LOC,0.0,0.0,de,1
 Berlins,Berlins,LOC,0.0,0.0,de,1
-Sachsen,Sachsen,LOC,0.0,1.0,de,1
+Deutschland.,Deutschland.,LOC,0.0,0.0,de,1
+Porno-Aufnahmen,Porno-Aufnahmen,LOC,0.7,0.0,de,1
