@@ -399,7 +399,7 @@ def inqRandomNews():
     #if foundNothing:  newLimit = maximum(1,random.choice(range(currPage-1,limitPage-1)))
 
     ## cheat for now!     
-    ### keywordEmptyDF = keywordsDF[keywordsDF['keyword']=="'Gasheizung'"]
+    ### keywordEmptyDF = keywordsDF[keywordsDF['keyword']=="'Karl Nehammer'"]
     ### rndKey = keywordEmptyDF.sample()
     ## rm in final version
 

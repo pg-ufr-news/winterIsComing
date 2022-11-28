@@ -1,7 +1,6 @@
 keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Elon Musk',de,USA,#18e8e8,#18e8e8,1,1.0
-'Gregor Gysi',de,Deutschland,#1818e8,#1818e8,1,1.0
-'Papst Franziskus',de,Vatikan,#58b8e8,#58b8e8,1,1.0
+'David Malpass',de,USA,#111111,#111111,1,1.0
 'Sucharit Bhakdi',de,Deutschland,#1818e8,#1818e8,1,1.0
 'Andrew Forrest',de,Australien,#111111,#111111,1,1.0
 'Steffen Grosse',de,Deutschland,#111111,#111111,1,1.0
@@ -15,22 +14,22 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Jerome Powell',de,USA,#111111,#111111,1,1.0
 'Lael Brainard',de,USA,#111111,#111111,1,1.0
 'Mchael Mann',de,USA,#111111,#111111,1,1.0
-'David Malpass',de,USA,#111111,#111111,1,1.0
 'Christine Lagarde',de,EU,#111111,#111111,1,1.0
 'Otmar Issing',de,EU,#111111,#111111,1,1.0
 'Angelo Beccio',de,Vatikan,#111111,#111111,1,1.0
-'Jewgenij Roisman',de,Russland,#111111,#111111,1,1.0
 'Klaus Hasselmann',de,Deutschland,#111111,#111111,1,1.0
 'Mojib Latif',de,Deutschland,#111111,#111111,1,1.0
 'Amin Nasser',de,SaudiArabien,#111111,#111111,1,1.0
 'Frank-Walter Steinmeier',de,Deutschland,#111111,#111111,1,1.0
-'Karl Nehammer',de,Österreich,#111111,#111111,1,1.0
+'Gregor Gysi',de,Deutschland,#1818e8,#1818e8,1,1.0
 'Nicola Sturgeon',de,UK,#111111,#111111,1,1.0
 'Warren Buffet',de,USA,#111111,#111111,1,1.0
 'Martin Bachhofer',de,Deutschland,#111111,#111111,1,1.0
 'Thomas Dörflinger',de,Deutschland,#111111,#111111,1,1.0
 'Steffen Große',de,Deutschland,#111111,#111111,1,1.0
 'Lukaschenko',de,Belarus,#e81858,#e81858,1,1.0
+'Papst Franziskus',de,Vatikan,#58b8e8,#58b8e8,1,1.0
+'Jewgenij Roisman',de,Russland,#111111,#111111,2,0.92530003
 'Jewgeni Wiktorowitsch Prigoschin',de,Russland,#e81818,#e81818,1,0.9004500449999999
 'Viktor Orbán',de,Ungarn,#111111,#111111,2,0.9004054904545454
 'Michael Kretschmer',de,Deutschland,#1818e8,#1818e8,2,0.8913149113636364
@@ -48,6 +47,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Joe Biden',de,USA,#18e8e8,#18e8e8,2,0.864089284090909
 'Yoon Suk-yeol',de,SüdKorea,#111111,#111111,2,0.8640437440909091
 'Antonio Guterres',de,UN,#e888e8,#e888e8,2,0.864043189090909
+'Karl Nehammer',de,Oesterreich,#111111,#111111,2,0.8640426490909091
 'Ali Chamenei',de,Iran,#111111,#111111,2,0.8640421240909091
 'Wladimir Putin',de,Russland,#e81818,#e81818,2,0.8595411445454545
 'Donald Trump',de,USA,#18e8e8,#18e8e8,4,0.8552831574545453
@@ -80,7 +80,6 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Stefan Rahmstorf',de,Deutschland,#1818e8,#1818e8,1,0.7880353735
 'Joko Widodo',de,Indonesien,#111111,#111111,3,0.7878004906363636
 'Martin Sonneborn',de,Deutschland,#1818e8,#1818e8,2,0.7869550705
-'Michael Ballweg',de,Deutschland,#1818e8,#1818e8,1,0.7867601109999999
 'Recep Tayyip Erdoğan',de,Türkei,#111111,#111111,1,0.7858258175
 'Andrzej Duda',de,Polen,#111111,#111111,2,0.7828041086363635
 'Oliver Blume',de,Deutschland,#1818e8,#1818e8,3,0.7768874532272726
@@ -104,9 +103,9 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Sergej Lavrov',de,Russland,#e81818,#e81818,1,0.7227775277499999
 'Yasir Al-Rumayyan',de,SaudiArabien,#111111,#111111,1,0.7227775277499999
 'Katalin Novák',de,Ungarn,#111111,#111111,1,0.7227584135875
+'Aljaksandr Lukaschenka',de,Belarus,#e81858,#e81858,1,0.7224999999999999
 'Raman Haloutschanka',de,Belarus,#e81858,#e81858,1,0.7224999999999999
 'Helge Lund',de,UK,#e838e8,#e838e8,1,0.7224999999999999
-'Aljaksandr Lukaschenka',de,Belarus,#e81858,#e81858,1,0.7224999999999999
 'Amin H. Nasser',de,SaudiArabien,#111111,#111111,1,0.7224999999999999
 'Choe Ryong-hae',de,NordKorea,#e85858,#e85858,1,0.7224999999999999
 'Lukaschenka',de,Belarus,#e81858,#e81858,1,0.7224999999999999
@@ -117,6 +116,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Roland Busch',de,Deutschland,#1818e8,#1818e8,3,0.6800207377965908
 'Kim Jong-un',de,NordKorea,#e85858,#e85858,2,0.676920845081818
 'Jair Lapid',de,Israel,#111111,#111111,3,0.6731364751352272
+'Michael Ballweg',de,Deutschland,#1818e8,#1818e8,1,0.6693461543499999
 'Emmanuel Macron',de,Frankreich,#e8e808,#e8e808,4,0.6448616462530113
 'Antony Blinken',de,USA,#18e8e8,#18e8e8,3,0.6432944619204545
 'Anthony Albanese',de,Australien,#111111,#111111,2,0.6368469151488636
