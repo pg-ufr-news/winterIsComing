@@ -82,7 +82,8 @@ plot = topicsDF.plot.pie(y='index', ax=axTopics, colors=topicsDF['topicColor'], 
 
 # Keywords
 keywordsDF = newsDf.groupby('keyword').count()
-keywordsDF = pd.merge(keywordsDF, keywordsColorsDF, how='left', left_on=['keyword'], right_on=['keyword'])
+keywordsDF = keywordsDF.dropna()
+keywordsDF = pd.merge(keywordsDF, keywordsColorsDF, how='inner', left_on=['keyword'], right_on=['keyword'])
 keywordsDF = keywordsDF.sort_values('index', ascending=False)
 axKeywords = plt.subplot(gs[0,1])
 axKeywords.set_title("Keywords", fontsize=24)
