@@ -183,7 +183,8 @@ def extractColors(words):
             bayes = bayesDict[word]
             #for topic in colorsTopics:  
             for index2, column2 in topicsColorsDF.iterrows():
-                topic = column2['topic']
+              topic = column2['topic']
+              if(topic in bayes):
                 if(bayes[topic] > wordValue):
                     wordValue = bayes[topic]
                     wordColor = column2['topicColor']
