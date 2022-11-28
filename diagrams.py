@@ -132,8 +132,9 @@ if(not bayesDF2.empty):
     topicWords = {}  
     topicColor = column2['topicColor']
     topicColors = []
-    bayesDF2 = bayesDF2.sort_values(by=[topic], ascending=False)
-    for index, column in bayesDF2.iterrows():    
+    if(topic in bayesDF2.columns):
+      bayesDF2 = bayesDF2.sort_values(by=[topic], ascending=False)
+      for index, column in bayesDF2.iterrows():    
         if(len(topicWords) < n_top_words):
             if(index and (type(index) == str) and (column[topic]<100)):    
               #don't use 2grams  

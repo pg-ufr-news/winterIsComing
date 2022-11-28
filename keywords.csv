@@ -1,10 +1,10 @@
 keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Elon Musk',de,USA,#18e8e8,#18e8e8,1,1.0
-'David Malpass',de,USA,#111111,#111111,1,1.0
-'Sucharit Bhakdi',de,Deutschland,#1818e8,#1818e8,1,1.0
+'Otmar Issing',de,EU,#111111,#111111,1,1.0
+'Mchael Mann',de,USA,#111111,#111111,1,1.0
 'Andrew Forrest',de,Australien,#111111,#111111,1,1.0
 'Steffen Grosse',de,Deutschland,#111111,#111111,1,1.0
-'Charles Koch',de,USA,#111111,#111111,1,1.0
+'David Malpass',de,USA,#111111,#111111,1,1.0
 'Bruno Kahl',de,Deutschland,#111111,#111111,1,1.0
 'Philipp Wolff',de,Deutschland,#111111,#111111,1,1.0
 'Stephan Harbarth',de,Deutschland,#111111,#111111,1,1.0
@@ -13,9 +13,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Barack Obama',de,USA,#111111,#111111,1,1.0
 'Jerome Powell',de,USA,#111111,#111111,1,1.0
 'Lael Brainard',de,USA,#111111,#111111,1,1.0
-'Mchael Mann',de,USA,#111111,#111111,1,1.0
 'Christine Lagarde',de,EU,#111111,#111111,1,1.0
-'Otmar Issing',de,EU,#111111,#111111,1,1.0
 'Angelo Beccio',de,Vatikan,#111111,#111111,1,1.0
 'Klaus Hasselmann',de,Deutschland,#111111,#111111,1,1.0
 'Mojib Latif',de,Deutschland,#111111,#111111,1,1.0
@@ -36,6 +34,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Cyril Ramaphosa',de,Südafrika,#111111,#111111,2,0.8853849177586207
 'Markus Söder',de,Deutschland,#1818e8,#1818e8,2,0.8822301372727273
 'Volker Wissing',de,Deutschland,#1818e8,#1818e8,2,0.8776821627272727
+'Charles Koch',de,USA,#111111,#111111,1,0.87590009
 'Ursula von der Leyen',de,EU,#111111,#111111,2,0.8731390331818182
 'Narendra Modi',de,Indien,#111111,#111111,2,0.8731334081818182
 'Alice Weidel',de,Deutschland,#1818e8,#1818e8,2,0.8731326281818181
@@ -55,9 +54,10 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Xi Jinping',de,China,#e88818,#e88818,3,0.8503280921363634
 'Muhammad bin Zayid Al Nahyan',de,VAE,#111111,#111111,1,0.850150015
 'Patrick Pouyanné',de,Frankreich,#e8e808,#e8e808,1,0.85012752775
-'Bodo Schiffmann',de,Deutschland,#1818e8,#1818e8,1,0.85
 'Chan Santokhi',de,Surinam,#111111,#111111,1,0.85
 'Onufrij',de,Ukraine,#e818e8,#e818e8,1,0.85
+'Sucharit Bhakdi',de,Deutschland,#1818e8,#1818e8,1,0.85
+'Bodo Schiffmann',de,Deutschland,#1818e8,#1818e8,1,0.85
 'Sahra Wagenknecht',de,Deutschland,#1818e8,#1818e8,3,0.8459777908181817
 'Angela Merkel',de,Deutschland,#1818e8,#1818e8,3,0.8448555766818181
 'Winfried Kretschmann',de,Deutschland,#1818e8,#1818e8,2,0.8259784418181818
@@ -105,7 +105,6 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Katalin Novák',de,Ungarn,#111111,#111111,1,0.7227584135875
 'Aljaksandr Lukaschenka',de,Belarus,#e81858,#e81858,1,0.7224999999999999
 'Raman Haloutschanka',de,Belarus,#e81858,#e81858,1,0.7224999999999999
-'Helge Lund',de,UK,#e838e8,#e838e8,1,0.7224999999999999
 'Amin H. Nasser',de,SaudiArabien,#111111,#111111,1,0.7224999999999999
 'Choe Ryong-hae',de,NordKorea,#e85858,#e85858,1,0.7224999999999999
 'Lukaschenka',de,Belarus,#e81858,#e81858,1,0.7224999999999999
@@ -119,14 +118,15 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Michael Ballweg',de,Deutschland,#1818e8,#1818e8,1,0.6693461543499999
 'Emmanuel Macron',de,Frankreich,#e8e808,#e8e808,4,0.6448616462530113
 'Antony Blinken',de,USA,#18e8e8,#18e8e8,3,0.6432944619204545
-'Anthony Albanese',de,Australien,#111111,#111111,2,0.6368469151488636
 'Mark Rutte',de,Niederlande,#111111,#111111,1,0.6344548775821429
 'Ben van Beurden',de,UK,#e838e8,#e838e8,1,0.616440481525
 'Charles Holliday',de,USA,#18e8e8,#18e8e8,1,0.6145109135874999
 'Salman ibn Abd al-Aziz',de,SaudiArabien,#111111,#111111,1,0.6145109135874999
+'Helge Lund',de,UK,#e838e8,#e838e8,1,0.6141249999999999
 'Bartholomäus I.',de,Türkei,#111111,#111111,1,0.6141249999999999
 'Dmitri Walerjewitsch Utkin',de,Russland,#e81818,#e81818,1,0.6141249999999999
 'Kim Tok-hun',de,NordKorea,#e85858,#e85858,1,0.6141249999999999
 'Frank Bainimarama',de,Fidschi,#111111,#111111,1,0.6141249999999999
 'Wolodymyr Selenski',de,Ukraine,#e818e8,#e818e8,2,0.6138062251309616
+'Anthony Albanese',de,Australien,#111111,#111111,2,0.5441706578765341
 'Paul Kagame',de,Ruanda,#111111,#111111,1,0.543742049921875
