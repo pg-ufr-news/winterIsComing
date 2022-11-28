@@ -1,217 +1,619 @@
 ,phrase,label,sentiment,subjectivity,language,count
-SPD,SPD,ORG,0.1946808510638298,0.01702127659574468,de,47
-EU,EU,ORG,0.021739130434782605,0.08695652173913043,de,23
-FDP,FDP,ORG,-0.029411764705882353,0.20588235294117646,de,17
-SPIEGEL,SPIEGEL,ORG,0.6562499999999999,0.0,de,16
-E-Paper,E-Paper,ORG,0.6999999999999998,0.0,de,15
-Grüne,Grüne,ORG,0.0,0.0,de,14
-CSU,CSU,ORG,-0.02307692307692308,0.0,de,13
-EU-Ratspräsident,EU-Ratspräsident,ORG,0.11666666666666665,0.16666666666666666,de,12
-CDU,CDU,ORG,0.033333333333333326,0.0,de,12
+SPD,SPD,ORG,0.056849315068493146,0.024657534246575342,de,73
+SPIEGEL,SPIEGEL,ORG,0.6681818181818178,0.0,de,44
+EU,EU,ORG,0.07023809523809524,0.047619047619047616,de,42
+E-Paper,E-Paper,ORG,0.6999999999999995,0.0,de,42
+CDU,CDU,ORG,-0.09722222222222222,0.0,de,36
+Grüne,Grüne,ORG,0.078,0.0,de,25
+Partei,Partei,ORG,-0.06956521739130435,0.0,de,23
+FDP,FDP,ORG,0.010526315789473682,0.18421052631578946,de,19
+EU-Ratspräsident,EU-Ratspräsident,ORG,0.12352941176470586,0.11764705882352941,de,17
+CSU,CSU,ORG,0.024999999999999994,0.0,de,16
+Repräsentantenhaus,Repräsentantenhaus,ORG,-0.2333333333333333,0.0,de,12
+WELT,WELT,ORG,0.5708333333333334,0.0,de,12
+Bundestag,Bundestag,ORG,0.2125,0.075,de,12
+Musk,Musk,ORG,-0.2,0.045454545454545456,de,11
+Sahra Wagenknecht,Sahra Wagenknecht,ORG,-0.06363636363636363,0.09090909090909091,de,11
+Union,Union,ORG,-0.2,0.0,de,10
+die Grünen,die Grünen,ORG,-0.030000000000000006,0.0,de,10
+WEB.DE News.,WEB.DE News.,ORG,-0.16999999999999998,0.0,de,10
+Europäischen Union,Europäischen Union,ORG,0.175,0.0,de,8
+EU-Kommission,EU-Kommission,ORG,-0.021428571428571432,0.0,de,7
 Grünen,Grünen,ORG,0.09999999999999999,0.0,de,7
+Demokraten,Demokraten,ORG,0.028571428571428564,0.07142857142857142,de,7
 FDP-Chef,FDP-Chef,ORG,0.09999999999999999,0.0,de,7
-die Grünen,die Grünen,ORG,-0.042857142857142864,0.0,de,7
-Bundestag,Bundestag,ORG,0.2928571428571428,0.07142857142857142,de,7
-Union,Union,ORG,-0.09999999999999999,0.0,de,7
-Europäischen Union,Europäischen Union,ORG,0.2333333333333333,0.0,de,6
-Partei,Partei,ORG,-0.05000000000000001,0.0,de,6
-AKW,AKW,ORG,-0.07500000000000001,0.0,de,4
-Musk,Musk,ORG,-0.2125,0.0,de,4
-Merz,Merz,ORG,-0.1875,0.0,de,4
-WELT,WELT,ORG,0.6124999999999999,0.0,de,4
-Deutschland,Deutschland,ORG,0.175,0.0,de,4
+t3n.de,t3n.de,ORG,0.0,0.0,de,7
+G-20-Gipfels,G-20-Gipfels,ORG,0.3499999999999999,0.0,de,6
+Midterms,Midterms,ORG,-0.3083333333333333,0.0,de,6
+Ukraine.,Ukraine.,ORG,-0.16666666666666666,0.0,de,6
+RWE,RWE,ORG,-0.16666666666666666,0.0,de,6
+LIVE,LIVE,ORG,0.0,0.16666666666666666,de,6
+…,…,ORG,-0.16666666666666666,0.0,de,6
+Siemens,Siemens,ORG,-0.16666666666666666,0.0,de,6
+Nato,Nato,ORG,-0.05,0.0,de,5
+Merz,Merz,ORG,-0.29,0.0,de,5
+Wolfsburg,Wolfsburg,ORG,0.0,0.2,de,5
+Elmos,Elmos,ORG,0.0,0.0,de,5
 CDU-Chef,CDU-Chef,ORG,0.175,0.225,de,4
-G20,G20,ORG,-0.3333333333333333,0.0,de,3
-RWE,RWE,ORG,0.3333333333333333,0.0,de,3
-den Grünen,den Grünen,ORG,-0.6666666666666666,0.0,de,3
+NATO,NATO,ORG,0.5625,0.0,de,4
+Volkswagen,Volkswagen,ORG,-0.07500000000000001,0.0,de,4
+Europäische Union,Europäische Union,ORG,0.5,0.0,de,4
+VW,VW,ORG,0.35,0.0,de,4
+Katar,Katar,ORG,0.0,0.75,de,4
+Parteigliederungen,Parteigliederungen,ORG,0.0,0.0,de,4
+SPD-Chef,SPD-Chef,ORG,0.0,0.0,de,4
+AKW,AKW,ORG,-0.07500000000000001,0.0,de,4
+DWD,DWD,ORG,-0.325,0.0,de,4
+DER SPIEGEL.,DER SPIEGEL.,ORG,0.425,0.0,de,4
+Deutschland,Deutschland,ORG,0.175,0.0,de,4
+COP,COP,ORG,0.0,0.0,de,4
+CNN,CNN,ORG,0.0,0.0,de,4
 Politiker-Top-Ten,Politiker-Top-Ten,ORG,0.0,0.0,de,3
-G-20-Gipfels,G-20-Gipfels,ORG,0.4666666666666666,0.0,de,3
-Nachri…,Nachri…,ORG,0.0,0.0,de,2
-SPD-Vorsitzende,SPD-Vorsitzende,ORG,0.0,0.5,de,2
-…,…,ORG,0.0,0.0,de,2
-Strompreisbremse?,Strompreisbremse?,ORG,0.0,0.0,de,2
-G7-Runde,G7-Runde,ORG,0.0,0.0,de,2
-Spitzenpolitikern für Frieden und Klimaschutz.,Spitzenpolitikern für Frieden und Klimaschutz.,ORG,0.7,0.0,de,2
-Liberalen,Liberalen,ORG,0.5249999999999999,0.25,de,2
-EU-Ratspräsidenten,EU-Ratspräsidenten,ORG,0.0,0.0,de,2
-Demokraten,Demokraten,ORG,0.5,0.0,de,2
-Ukraine.,Ukraine.,ORG,0.0,0.0,de,2
+Nachri…,Nachri…,ORG,0.0,0.0,de,3
+China-Besuch,China-Besuch,ORG,0.3333333333333333,0.3333333333333333,de,3
+den Grünen,den Grünen,ORG,-0.6666666666666666,0.0,de,3
+"WEB.DE News
+</li><li>","WEB.DE News
+</li><li>",ORG,0.0,0.0,de,3
+Mercedes,Mercedes,ORG,0.0,0.0,de,3
+Armee,Armee,ORG,0.4666666666666666,0.3333333333333333,de,3
+G20,G20,ORG,-0.3333333333333333,0.0,de,3
+SPD-Bezirk,SPD-Bezirk,ORG,0.0,0.0,de,3
+Ukraine:,Ukraine:,ORG,-0.2333333333333333,0.0,de,3
+Infektionswellen,Infektionswellen,ORG,0.0,0.0,de,3
+Union.,Union.,ORG,-0.3333333333333333,0.0,de,3
+RTL,RTL,ORG,0.0,0.0,de,3
+UN-Sicherheitsrat,UN-Sicherheitsrat,ORG,-0.15,0.0,de,3
+Ukraine,Ukraine,ORG,-0.05000000000000001,0.0,de,3
+Gericht!,Gericht!,ORG,-0.6999999999999998,0.0,de,3
+Polizei,Polizei,ORG,-0.6666666666666666,0.0,de,3
+Forbes,Forbes,ORG,0.0,0.0,de,3
+EU-Ratspräsidenten,EU-Ratspräsidenten,ORG,0.0,0.0,de,3
+Weltklimakonferenz.,Weltklimakonferenz.,ORG,0.0,0.0,de,3
+Bundeswehr,Bundeswehr,ORG,0.0,0.0,de,3
+Milliardengewinne.,Milliardengewinne.,ORG,0.0,0.0,de,3
+FDP-Vorsitzende,FDP-Vorsitzende,ORG,0.0,0.0,de,3
+VW-Chef,VW-Chef,ORG,0.0,0.0,de,3
+CDU-Vorsitzenden,CDU-Vorsitzenden,ORG,0.0,0.0,de,3
+"Trinity""-Werk","Trinity""-Werk",ORG,0.0,0.5,de,2
+Flugbereitschaft der Bundeswehr,Flugbereitschaft der Bundeswehr,ORG,0.0,0.0,de,2
+Minister für Wirtschaft und Klimaschutz,Minister für Wirtschaft und Klimaschutz,ORG,-1.0,0.0,de,2
+Volkswagen-Konzern,Volkswagen-Konzern,ORG,-0.5,0.0,de,2
 BWIHK,BWIHK,ORG,0.0,0.0,de,2
-CDU-Vorsitzende,CDU-Vorsitzende,ORG,0.5833333333333333,0.2,de,2
-internationalen Konferenz,internationalen Konferenz,ORG,0.0,0.0,de,2
-WEB.DE News.,WEB.DE News.,ORG,0.0,0.0,de,2
-Repräsentantenhaus,Repräsentantenhaus,ORG,-0.35,0.0,de,2
-BASF,BASF,ORG,-0.5,0.0,de,2
-SPD-Chef,SPD-Chef,ORG,0.0,0.0,de,2
-CDU-Vorsitzenden,CDU-Vorsitzenden,ORG,0.0,0.0,de,2
-Grünen-Fraktion,Grünen-Fraktion,ORG,0.0,0.0,de,2
-EU-Institutionen,EU-Institutionen,ORG,0.0,0.0,de,2
-Arsenal,Arsenal,ORG,0.0,0.0,de,2
-EU-Parlaments,EU-Parlaments,ORG,0.0,0.0,de,2
-Bundeswehr,Bundeswehr,ORG,0.0,0.0,de,2
-AG!,AG!,ORG,0.0,0.0,de,2
-ER,ER,ORG,0.0,0.0,de,2
+Japan,Japan,ORG,0.0,0.0,de,2
+NZZ,NZZ,ORG,-0.5,0.0,de,2
+Tesla-Jägers Trinity,Tesla-Jägers Trinity,ORG,0.0,0.0,de,2
+FAZ,FAZ,ORG,0.85,0.0,de,2
+SPD-Vorsitzende,SPD-Vorsitzende,ORG,0.0,0.5,de,2
+Zukunftsmodells Trinity,Zukunftsmodells Trinity,ORG,0.0,0.0,de,2
+Fifa,Fifa,ORG,0.0,0.0,de,2
+Den Grünen,Den Grünen,ORG,0.0,0.4,de,2
+Fracking-Technologie.,Fracking-Technologie.,ORG,0.0,0.0,de,2
+SZ-Wirtschaftsgipfel,SZ-Wirtschaftsgipfel,ORG,0.0,0.0,de,2
+Partei.,Partei.,ORG,0.0,0.0,de,2
+Teilmobilmachung,Teilmobilmachung,ORG,0.0,0.0,de,2
+Redaktion.,Redaktion.,ORG,0.0,0.0,de,2
+NATO-Mitglied,NATO-Mitglied,ORG,1.0,0.0,de,2
+Bund für Umwelt und Naturschutz,Bund für Umwelt und Naturschutz,ORG,0.0,0.0,de,2
 Royals,Royals,ORG,1.0,0.0,de,2
-Polizei,Polizei,ORG,-1.0,0.0,de,2
-EU-Staaten,EU-Staaten,ORG,0.6,0.25,de,2
-Die Grünen,Die Grünen,ORG,0.0,0.0,de,2
-DER SPIEGEL.,DER SPIEGEL.,ORG,0.85,0.0,de,2
+Jeff Bezos,Jeff Bezos,ORG,0.0,0.0,de,2
+SPD-Basis,SPD-Basis,ORG,0.0,0.5,de,2
+Arbeiterpartei Koreas,Arbeiterpartei Koreas,ORG,0.0,0.0,de,2
+Zentralen Militärkommission,Zentralen Militärkommission,ORG,0.0,0.0,de,2
+ENTWICKLUNGEN,ENTWICKLUNGEN,ORG,0.0,0.0,de,2
+Juso,Juso,ORG,0.35,0.0,de,2
+ER,ER,ORG,0.0,0.0,de,2
+Israel-Wahl: Partei,Israel-Wahl: Partei,ORG,0.0,0.0,de,2
 Deutschland!,Deutschland!,ORG,0.0,0.0,de,2
 IHN,IHN,ORG,0.0,0.0,de,2
+EU-Institutionen,EU-Institutionen,ORG,0.0,0.0,de,2
+AG!,AG!,ORG,0.0,0.0,de,2
+Makeiev,Makeiev,ORG,0.7,0.0,de,2
+Maybrit Illners,Maybrit Illners,ORG,0.7,0.0,de,2
+Russische Kampfjets,Russische Kampfjets,ORG,0.15000000000000002,0.0,de,2
+… Berlin,… Berlin,ORG,0.0,0.0,de,2
+US-Repräsentantenhaus,US-Repräsentantenhaus,ORG,0.0,0.0,de,2
+"Foto: AP) 
+Kiew","Foto: AP) 
+Kiew",ORG,0.0,0.0,de,2
+Linken,Linken,ORG,-0.35,0.0,de,2
+Volkswagen-Elektroautos Trinity,Volkswagen-Elektroautos Trinity,ORG,0.0,0.0,de,2
+Liberalen,Liberalen,ORG,0.5249999999999999,0.25,de,2
+G7-Runde,G7-Runde,ORG,0.0,0.0,de,2
+IAEA,IAEA,ORG,0.0,0.0,de,2
+Arsenal,Arsenal,ORG,0.0,0.0,de,2
+Vereinten Nationen,Vereinten Nationen,ORG,1.0,0.0,de,2
+Bündnis Deutschland»,Bündnis Deutschland»,ORG,0.0,0.0,de,2
+COP27: Greta Thunberg,COP27: Greta Thunberg,ORG,0.0,0.0,de,2
+US-Midterms,US-Midterms,ORG,0.0,0.0,de,2
+Amazon,Amazon,ORG,0.0,0.0,de,2
 Nord Stream Pipelines,Nord Stream Pipelines,ORG,0.0,0.0,de,2
+Kommunen,Kommunen,ORG,-1.0,0.0,de,2
+Fridays for Future.,Fridays for Future.,ORG,-1.0,0.0,de,2
+Deutschen Wetterdiensts,Deutschen Wetterdiensts,ORG,-1.0,0.0,de,2
+Staatstrojaner Pegasus,Staatstrojaner Pegasus,ORG,-1.0,0.0,de,2
+EU-Staaten,EU-Staaten,ORG,0.6,0.25,de,2
+Atomlaufzeiten,Atomlaufzeiten,ORG,0.0,0.0,de,2
+"Foto: dpa)
+Kiew","Foto: dpa)
+Kiew",ORG,0.0,0.0,de,2
+Italien: Giorgia Meloni,Italien: Giorgia Meloni,ORG,-0.15000000000000002,0.0,de,2
+we…,we…,ORG,-0.35,0.0,de,2
 Grünen.,Grünen.,ORG,0.5,0.0,de,2
+Demokrat,Demokrat,ORG,0.0,0.0,de,2
+Münchner Sicherheitskonferenz,Münchner Sicherheitskonferenz,ORG,0.35,0.0,de,2
+Die Welt,Die Welt,ORG,0.425,0.0,de,2
+MH,MH,ORG,0.7,0.0,de,2
+Gewerkschaften,Gewerkschaften,ORG,0.0,0.0,de,2
+Infineon,Infineon,ORG,0.0,0.0,de,2
+Russlands,Russlands,ORG,0.5,0.0,de,2
+internationalen Konferenz,internationalen Konferenz,ORG,0.0,0.0,de,2
+Die Grünen,Die Grünen,ORG,0.0,0.0,de,2
+China,China,ORG,-0.5,0.0,de,2
+"Klima-Protestgruppe ""Letzte Generation""","Klima-Protestgruppe ""Letzte Generation""",ORG,0.0,0.0,de,2
+SPD-Politikerin,SPD-Politikerin,ORG,0.0,0.0,de,2
+"Gruppe ""Letzte Generation"" reißt","Gruppe ""Letzte Generation"" reißt",ORG,0.0,0.0,de,2
+Apple,Apple,ORG,-1.0,0.0,de,2
+RKI,RKI,ORG,0.0,0.0,de,2
+Putins Terror,Putins Terror,ORG,0.0,0.0,de,2
 Wählern,Wählern,ORG,0.0,0.0,de,2
-"SPD, Grünen","SPD, Grünen",ORG,1.0,0.0,de,1
-LIVE,LIVE,ORG,0.0,0.0,de,1
-Eurozone,Eurozone,ORG,1.0,0.0,de,1
-Erste Parlamentarisch…,Erste Parlamentarisch…,ORG,0.0,0.0,de,1
-Ministeriums für den …,Ministeriums für den …,ORG,0.0,0.0,de,1
-Ukraine“,Ukraine“,ORG,0.0,0.0,de,1
-SPD.,SPD.,ORG,0.0,0.0,de,1
-Bundesfinanzminister Lindner: Energiepreise,Bundesfinanzminister Lindner: Energiepreise,ORG,0.0,0.0,de,1
-Foto: Alexandros Michailidis,Foto: Alexandros Michailidis,ORG,0.0,0.0,de,1
-Merz-Vorschlag,Merz-Vorschlag,ORG,0.0,0.0,de,1
-CGTN: Peng Liyuan,CGTN: Peng Liyuan,ORG,0.0,0.0,de,1
-Jusos,Jusos,ORG,0.7,0.0,de,1
-Bundesrepu…,Bundesrepu…,ORG,0.0,0.0,de,1
-Queen Consort Camilla…,Queen Consort Camilla…,ORG,0.0,0.0,de,1
-Vereinte Nationen,Vereinte Nationen,ORG,0.0,0.0,de,1
-Bürgergeld-Kompromiss,Bürgergeld-Kompromiss,ORG,1.0,0.0,de,1
-Fakes.,Fakes.,ORG,0.0,0.0,de,1
-COP,COP,ORG,0.0,0.0,de,1
-DU-Landesparteitag,DU-Landesparteitag,ORG,0.0,0.0,de,1
-SPD-Generalsekretär,SPD-Generalsekretär,ORG,0.7,0.0,de,1
-Fifa,Fifa,ORG,0.0,0.0,de,1
-DAS Tuschelthema!,DAS Tuschelthema!,ORG,0.0,0.0,de,1
-Gesellschaft vorgeworfen.,Gesellschaft vorgeworfen.,ORG,0.0,0.0,de,1
-Siemens,Siemens,ORG,-1.0,0.0,de,1
-Volkswagen,Volkswagen,ORG,-1.0,0.0,de,1
-SPD-Konvent,SPD-Konvent,ORG,0.0,0.0,de,1
-SPD-Basis,SPD-Basis,ORG,0.0,0.0,de,1
-EnergiepreiseEnergiep…,EnergiepreiseEnergiep…,ORG,0.0,0.0,de,1
-Juso,Juso,ORG,0.7,0.0,de,1
-Bürgergeldes,Bürgergeldes,ORG,0.0,0.0,de,1
-Union setzt…,Union setzt…,ORG,0.0,0.0,de,1
-Midterms,Midterms,ORG,0.0,0.0,de,1
-BIP-Prognosen,BIP-Prognosen,ORG,0.7,0.0,de,1
-Redaktion.,Redaktion.,ORG,0.0,0.0,de,1
-G-20,G-20,ORG,-1.0,0.0,de,1
+IS-Terroranschlag,IS-Terroranschlag,ORG,0.35,0.25,de,2
+US-Sondergesandten,US-Sondergesandten,ORG,0.0,0.0,de,2
+UN,UN,ORG,0.0,0.0,de,2
+DER SPIEGEL,DER SPIEGEL,ORG,0.0,0.0,de,2
+Corona-Infektionszahlen,Corona-Infektionszahlen,ORG,0.0,0.0,de,2
+ASEAN,ASEAN,ORG,0.0,0.0,de,2
+CDU-Vorsitzende,CDU-Vorsitzende,ORG,0.5833333333333333,0.2,de,2
+Grünen-Fraktion,Grünen-Fraktion,ORG,0.0,0.0,de,2
+US-Behörde FCC,US-Behörde FCC,ORG,0.0,0.0,de,2
+Strompreisbremse?,Strompreisbremse?,ORG,0.0,0.0,de,2
+Spitzenpolitikern für Frieden und Klimaschutz.,Spitzenpolitikern für Frieden und Klimaschutz.,ORG,0.7,0.0,de,2
+UN-Generalsekretär,UN-Generalsekretär,ORG,0.0,0.0,de,2
+EU-Parlaments,EU-Parlaments,ORG,0.0,0.0,de,2
+Nationalmannschaft,Nationalmannschaft,ORG,0.0,0.0,de,2
+BASF,BASF,ORG,-0.5,0.0,de,2
+Mercedes-Benz,Mercedes-Benz,ORG,-0.35,0.0,de,2
+Russland-Kurs,Russland-Kurs,ORG,0.38333333333333336,0.0,de,2
+Maischberger,Maischberger,ORG,0.0,0.0,de,2
+ntv.de,ntv.de,ORG,0.0,0.0,de,2
+Tages: Türkei,Tages: Türkei,ORG,0.0,0.0,de,1
+Dax-Konzerns,Dax-Konzerns,ORG,0.35,0.0,de,1
+Boeing,Boeing,ORG,1.0,0.0,de,1
+Taiwan.,Taiwan.,ORG,-0.7,0.0,de,1
+FDP…,FDP…,ORG,-1.0,0.0,de,1
+ESMT-Präsident,ESMT-Präsident,ORG,0.35,0.0,de,1
+"Bild: Reuters
+","Bild: Reuters
+",ORG,0.0,0.0,de,1
 Fake News,Fake News,ORG,0.0,0.0,de,1
-Ukraine-Überblick: Polens,Ukraine-Überblick: Polens,ORG,0.0,0.0,de,1
-ZUMA Press/imago/Montage jW,ZUMA Press/imago/Montage jW,ORG,0.0,0.0,de,1
-de…,de…,ORG,1.0,0.0,de,1
+Gewerkschaftsbund:,Gewerkschaftsbund:,ORG,0.0,0.0,de,1
+G-20,G-20,ORG,-1.0,0.0,de,1
+Wissenschaft: Wissing: Warnungen des,Wissenschaft: Wissing: Warnungen des,ORG,0.0,0.0,de,1
+Coronavirus-Pandemie,Coronavirus-Pandemie,ORG,0.0,0.0,de,1
+Bundespflanzler!,Bundespflanzler!,ORG,0.0,0.0,de,1
+Foto: Kay Nietfeld/dpa,Foto: Kay Nietfeld/dpa,ORG,0.0,0.0,de,1
+Linke,Linke,ORG,0.0,0.0,de,1
+Westdeutsche Allgemeine Ze…,Westdeutsche Allgemeine Ze…,ORG,0.0,0.0,de,1
+CGTN: Peng Liyuan,CGTN: Peng Liyuan,ORG,0.0,0.0,de,1
+Soziales: Sachsen,Soziales: Sachsen,ORG,-0.35,0.0,de,1
+Daily,Daily,ORG,0.0,0.0,de,1
+SingapurHerr,SingapurHerr,ORG,0.0,0.0,de,1
+Klimawende: „Der deutsche Staat,Klimawende: „Der deutsche Staat,ORG,0.35,0.0,de,1
+Han…,Han…,ORG,-1.0,0.0,de,1
+Raketeneinschlags,Raketeneinschlags,ORG,0.0,0.0,de,1
+UN-Klimakonferenz in Ägypten,UN-Klimakonferenz in Ägypten,ORG,0.0,0.0,de,1
+G20 | WELT Newsstream  WELT,G20 | WELT Newsstream  WELT,ORG,-0.7,0.0,de,1
+Ve…,Ve…,ORG,0.0,0.0,de,1
+E-Autos Trinity,E-Autos Trinity,ORG,0.0,0.0,de,1
+französischen Grünen,französischen Grünen,ORG,0.0,0.0,de,1
+SPD…,SPD…,ORG,0.0,0.0,de,1
+Wolfsburg: Volkswagen-Chef,Wolfsburg: Volkswagen-Chef,ORG,0.0,0.0,de,1
+G-20-Staaten,G-20-Staaten,ORG,0.0,0.0,de,1
+Bundesfinanzminister,Bundesfinanzminister,ORG,0.0,0.0,de,1
+Gipfelerklärung +++ Biden,Gipfelerklärung +++ Biden,ORG,0.0,0.0,de,1
 "WEB.DE News
 </li><li>Strompreisbremse","WEB.DE News
 </li><li>Strompreisbremse",ORG,1.0,0.0,de,1
-Katar-WM:,Katar-WM:,ORG,0.7,0.0,de,1
-(!),(!),ORG,0.0,0.0,de,1
-VW-Chef,VW-Chef,ORG,0.0,0.0,de,1
-UN-Klimakonferenz in Ägypten,UN-Klimakonferenz in Ägypten,ORG,0.0,0.0,de,1
-Nato,Nato,ORG,0.0,0.0,de,1
-Regensburg: Polizei,Regensburg: Polizei,ORG,0.0,0.0,de,1
-Söder,Söder,ORG,0.0,0.0,de,1
+de…,de…,ORG,1.0,0.0,de,1
+"Black Friday,","Black Friday,",ORG,0.0,0.0,de,1
+Super-VW Trinity,Super-VW Trinity,ORG,0.0,0.0,de,1
+Clown.,Clown.,ORG,0.0,0.0,de,1
+PAUKENSCHLAG,PAUKENSCHLAG,ORG,-0.7,0.0,de,1
+Regierungsjets:,Regierungsjets:,ORG,0.0,0.0,de,1
+Flugbereitschaft,Flugbereitschaft,ORG,0.0,0.0,de,1
+Deutschen Presse-Agentur,Deutschen Presse-Agentur,ORG,0.0,0.0,de,1
+Europäische Union: Warum,Europäische Union: Warum,ORG,0.7,0.0,de,1
+E-Modell Trinity,E-Modell Trinity,ORG,0.0,0.0,de,1
+Bali!,Bali!,ORG,0.0,0.0,de,1
+BIP-Prognosen,BIP-Prognosen,ORG,0.7,0.0,de,1
+G-20-Treffens,G-20-Treffens,ORG,-1.0,0.0,de,1
+Colorado Springs.,Colorado Springs.,ORG,0.0,0.0,de,1
+Foto: Photothek/Getty Images),Foto: Photothek/Getty Images),ORG,0.0,0.0,de,1
+UN-Menschenrechtsexperten,UN-Menschenrechtsexperten,ORG,0.0,0.0,de,1
+Ukraine-Überblick: Polens,Ukraine-Überblick: Polens,ORG,0.0,0.0,de,1
+Elektromodell Trinity,Elektromodell Trinity,ORG,0.0,0.0,de,1
 EU-Ratspräsident: Einigung,EU-Ratspräsident: Einigung,ORG,0.0,0.0,de,1
-Erdgasspeicher,Erdgasspeicher,ORG,0.0,0.0,de,1
 Taiwan-Politik.,Taiwan-Politik.,ORG,0.0,0.0,de,1
-Bundesfinanzminister,Bundesfinanzminister,ORG,0.0,0.0,de,1
-Taiwan.,Taiwan.,ORG,-0.7,0.0,de,1
-Fo…,Fo…,ORG,0.0,0.0,de,1
-Russland: Putin,Russland: Putin,ORG,0.0,0.0,de,1
-Europäische Union,Europäische Union,ORG,0.0,0.0,de,1
-Parlament,Parlament,ORG,0.0,0.0,de,1
-ZDF-Politbarometers,ZDF-Politbarometers,ORG,0.0,0.0,de,1
-US-Außenminister,US-Außenminister,ORG,-1.0,0.0,de,1
-RTL/ntv-Trendbarometer: Mehrheit,RTL/ntv-Trendbarometer: Mehrheit,ORG,0.0,0.0,de,1
-FDP:,FDP:,ORG,0.0,0.0,de,1
-Coronavirus-Pandemie,Coronavirus-Pandemie,ORG,0.0,0.0,de,1
-Sabine Henkel.</em,Sabine Henkel.</em,ORG,1.0,0.0,de,1
-US-Midterms,US-Midterms,ORG,0.0,0.0,de,1
+CNN e…,CNN e…,ORG,0.5,0.0,de,1
 LNG: Dem Tempo,LNG: Dem Tempo,ORG,0.0,0.0,de,1
+RTL/ntv-Trendbarometer: Mehrheit,RTL/ntv-Trendbarometer: Mehrheit,ORG,0.0,0.0,de,1
+National Football League,National Football League,ORG,0.0,0.0,de,1
+Europäischen Kommission,Europäischen Kommission,ORG,0.0,0.0,de,1
+Account-Sperren,Account-Sperren,ORG,0.0,0.0,de,1
+FOCUS-online-Redakteur,FOCUS-online-Redakteur,ORG,0.0,0.0,de,1
+"Disney, Elon Musk","Disney, Elon Musk",ORG,0.0,0.0,de,1
+Versandhandel: Internationale Anti-Amazon-Kundgebungen,Versandhandel: Internationale Anti-Amazon-Kundgebungen,ORG,0.0,0.0,de,1
+ukrainischer Kirche: Putins,ukrainischer Kirche: Putins,ORG,0.0,0.0,de,1
+Russlandnähe,Russlandnähe,ORG,0.0,0.0,de,1
+k…,k…,ORG,0.0,0.0,de,1
+"Foto: dpa)
+","Foto: dpa)
+",ORG,0.0,0.0,de,1
+Kurznachrichtendienst: „Nächste Woche,Kurznachrichtendienst: „Nächste Woche,ORG,0.0,0.0,de,1
+Accounts Amnestie,Accounts Amnestie,ORG,-0.5,0.0,de,1
+Zentrum,Zentrum,ORG,0.0,0.0,de,1
+Ukrainer:,Ukrainer:,ORG,0.7,0.0,de,1
+Vox Dei“,Vox Dei“,ORG,0.0,0.0,de,1
+Vert…,Vert…,ORG,0.0,0.0,de,1
+"Foto: dpa)
+KiewAngesichts von Kälte und Dunkelheit","Foto: dpa)
+KiewAngesichts von Kälte und Dunkelheit",ORG,0.0,0.0,de,1
+Streitkr…,Streitkr…,ORG,0.0,0.0,de,1
+Ria ve…,Ria ve…,ORG,0.0,0.0,de,1
+Bloomberg,Bloomberg,ORG,0.0,0.0,de,1
+Ungarns Parlament,Ungarns Parlament,ORG,0.0,0.0,de,1
+Grossbritannien,Grossbritannien,ORG,0.0,0.0,de,1
+Verantwortlichen für die Gewalt im,Verantwortlichen für die Gewalt im,ORG,-0.7,0.0,de,1
+Vereinte Nationen,Vereinte Nationen,ORG,0.0,0.0,de,1
+russische Armee,russische Armee,ORG,0.0,0.0,de,1
+Mafia.,Mafia.,ORG,0.0,0.0,de,1
+FDP-Politiker,FDP-Politiker,ORG,0.0,0.0,de,1
+Twitter: Elon Musk,Twitter: Elon Musk,ORG,-0.15000000000000002,0.0,de,1
+Leyen: IMAGO,Leyen: IMAGO,ORG,0.0,0.0,de,1
+EU-Beamter,EU-Beamter,ORG,0.0,0.0,de,1
+Kommission,Kommission,ORG,0.0,0.0,de,1
+nup,nup,ORG,0.0,0.0,de,1
+Wahlbehörde.,Wahlbehörde.,ORG,0.0,0.0,de,1
+Antisemitismus,Antisemitismus,ORG,0.0,0.0,de,1
+Hass,Hass,ORG,0.0,0.0,de,1
+Holocaust-Leugner,Holocaust-Leugner,ORG,-0.15000000000000002,0.0,de,1
+Ze…,Ze…,ORG,-0.7,0.0,de,1
+Die WELT,Die WELT,ORG,0.7,0.0,de,1
+Zivilbevölkeru…,Zivilbevölkeru…,ORG,0.0,0.0,de,1
+Raketen-Terror,Raketen-Terror,ORG,0.0,0.0,de,1
+Kreml-Kriegskasse?,Kreml-Kriegskasse?,ORG,0.0,0.0,de,1
+Frühlings-Offensive?,Frühlings-Offensive?,ORG,0.0,0.0,de,1
+Blackouts | NDR.de,Blackouts | NDR.de,ORG,-1.0,0.0,de,1
+Ampel: Union,Ampel: Union,ORG,0.0,0.0,de,1
+DeSantis,DeSantis,ORG,0.0,0.0,de,1
+Sol…,Sol…,ORG,1.0,0.0,de,1
+uuu peO,uuu peO,ORG,0.0,0.0,de,1
+Poli…,Poli…,ORG,-0.7,0.0,de,1
+Abe…,Abe…,ORG,0.0,0.0,de,1
+Präsident Wolo…,Präsident Wolo…,ORG,0.0,0.0,de,1
+Deutschen …,Deutschen …,ORG,0.0,0.0,de,1
+Ukraine…,Ukraine…,ORG,0.0,0.0,de,1
+CDU-Politikerin,CDU-Politikerin,ORG,0.0,0.0,de,1
+US-Präsidentschaft,US-Präsidentschaft,ORG,0.0,0.0,de,1
+deutsche Fußballnationalmannschaft,deutsche Fußballnationalmannschaft,ORG,1.0,0.0,de,1
+sa…,sa…,ORG,0.0,0.0,de,1
+AFP,AFP,ORG,0.0,0.0,de,1
+Fakes.,Fakes.,ORG,0.0,0.0,de,1
+NFL,NFL,ORG,0.0,0.0,de,1
+Fo…,Fo…,ORG,0.0,0.0,de,1
+Erste Parlamentarisch…,Erste Parlamentarisch…,ORG,0.0,0.0,de,1
+"SPD, Grünen","SPD, Grünen",ORG,1.0,0.0,de,1
+SPD.,SPD.,ORG,0.0,0.0,de,1
+Bürgergeldes,Bürgergeldes,ORG,0.0,0.0,de,1
+"WEB.DE News
+</li><li>Krieg","WEB.DE News
+</li><li>Krieg",ORG,-0.7,0.0,de,1
+"Foto: imago images/ITAR-TASS) 
+","Foto: imago images/ITAR-TASS) 
+",ORG,0.0,0.0,de,1
+Söder,Söder,ORG,0.0,0.0,de,1
+Märkte z…,Märkte z…,ORG,0.0,0.0,de,1
+Regensburg: Polizei,Regensburg: Polizei,ORG,0.0,0.0,de,1
+Ostukraine  WELT,Ostukraine  WELT,ORG,-0.7,0.0,de,1
+CD…,CD…,ORG,0.0,0.0,de,1
+(!),(!),ORG,0.0,0.0,de,1
+FBI-Razzia,FBI-Razzia,ORG,1.0,0.0,de,1
+Selenskyj +++,Selenskyj +++,ORG,0.0,0.0,de,1
+Raketeneinschlag,Raketeneinschlag,ORG,0.15000000000000002,0.0,de,1
+SPD Baden-Württemberg,SPD Baden-Württemberg,ORG,0.0,0.0,de,1
+Konservativen,Konservativen,ORG,0.0,0.0,de,1
+Klimaaktivistin Luisa Neubauer,Klimaaktivistin Luisa Neubauer,ORG,0.0,0.0,de,1
+SZ-Podcast,SZ-Podcast,ORG,0.0,0.0,de,1
+ISW,ISW,ORG,0.7,0.0,de,1
+Katar-WM:,Katar-WM:,ORG,0.7,0.0,de,1
+US-Justizministeriums,US-Justizministeriums,ORG,-0.15000000000000002,0.0,de,1
+ZUMA Press/imago/Montage jW,ZUMA Press/imago/Montage jW,ORG,0.0,0.0,de,1
+Los Angeles Chargers,Los Angeles Chargers,ORG,0.0,0.0,de,1
+Kansas City Chiefs,Kansas City Chiefs,ORG,0.0,0.0,de,1
+US-Außenminister,US-Außenminister,ORG,-1.0,0.0,de,1
+Alexa,Alexa,ORG,1.0,0.0,de,1
+"Ukraine, Esoterik an Waldorfschulen.","Ukraine, Esoterik an Waldorfschulen.",ORG,0.0,0.0,de,1
+ntv,ntv,ORG,0.0,0.0,de,1
+Pandemie“,Pandemie“,ORG,0.0,0.0,de,1
+Menschlic…,Menschlic…,ORG,0.0,0.0,de,1
+Kurden,Kurden,ORG,-1.0,0.0,de,1
+Hamburger Theaterfabrik…,Hamburger Theaterfabrik…,ORG,0.0,0.0,de,1
+PARTEI,PARTEI,ORG,0.0,0.0,de,1
+Walerij Saluschnij,Walerij Saluschnij,ORG,0.0,0.0,de,1
+UNO-Sicherheitsrat,UNO-Sicherheitsrat,ORG,0.0,0.0,de,1
+WM-Auftaktspiel,WM-Auftaktspiel,ORG,0.0,0.0,de,1
+deutsche Nationalelf,deutsche Nationalelf,ORG,0.0,0.0,de,1
+SPD-Generalsekretär,SPD-Generalsekretär,ORG,0.7,0.0,de,1
+DAS Tuschelthema!,DAS Tuschelthema!,ORG,0.0,0.0,de,1
+Coronavirus: Christian Drosten,Coronavirus: Christian Drosten,ORG,0.0,0.0,de,1
+"WEB.DE News
+</li><li>Boris-Johnson-Vorwurf: Scholz","WEB.DE News
+</li><li>Boris-Johnson-Vorwurf: Scholz",ORG,0.0,0.0,de,1
+I…,I…,ORG,0.0,0.0,de,1
+CNN-Interview: Boris Johnson,CNN-Interview: Boris Johnson,ORG,0.0,0.0,de,1
+ist.</li><li>,ist.</li><li>,ORG,-1.0,0.0,de,1
+"EURACTIV Germany
+</li><li","EURACTIV Germany
+</li><li",ORG,-1.0,0.0,de,1
+SPD) kur…,SPD) kur…,ORG,0.0,0.0,de,1
+Queen Consort Camilla…,Queen Consort Camilla…,ORG,0.0,0.0,de,1
+Grüne) würd…,Grüne) würd…,ORG,0.0,0.0,de,1
+One Love-Armbinde,One Love-Armbinde,ORG,0.0,0.0,de,1
+Brexiteers,Brexiteers,ORG,0.0,0.0,de,1
+EU-Milliarden,EU-Milliarden,ORG,-0.7,0.0,de,1
+AfD e…,AfD e…,ORG,-0.7,0.0,de,1
+Bef…,Bef…,ORG,0.0,0.0,de,1
+"WEB.DE News
+</li><li>Ukraine News ++ Selenskyj","WEB.DE News
+</li><li>Ukraine News ++ Selenskyj",ORG,0.0,0.0,de,1
+Cr…,Cr…,ORG,1.0,0.0,de,1
+Russland: Putin,Russland: Putin,ORG,0.0,0.0,de,1
+DLF Kultur,DLF Kultur,ORG,-0.85,0.0,de,1
+SZ,SZ,ORG,-0.85,0.0,de,1
+DIHK,DIHK,ORG,0.0,0.0,de,1
+STERN,STERN,ORG,0.0,0.0,de,1
+Faschismus,Faschismus,ORG,0.0,0.0,de,1
+EU-Kommissar,EU-Kommissar,ORG,0.0,0.0,de,1
+Karlsruher Geldinstituts,Karlsruher Geldinstituts,ORG,0.0,0.0,de,1
+BBBank,BBBank,ORG,0.0,0.0,de,1
+BBBank: »Gerne bleibe ich,BBBank: »Gerne bleibe ich,ORG,0.0,0.0,de,1
+Startup-Verband,Startup-Verband,ORG,0.7,0.0,de,1
+Porsche-Börsengang,Porsche-Börsengang,ORG,-1.0,0.0,de,1
+KP-Führung.,KP-Führung.,ORG,0.0,0.0,de,1
+Transformation | Erdgaskrise,Transformation | Erdgaskrise,ORG,0.0,0.0,de,1
+TV-Kolumne „Maybrit Illner“,TV-Kolumne „Maybrit Illner“,ORG,0.0,0.0,de,1
+die Linke,die Linke,ORG,1.0,0.0,de,1
+Streitkräfte,Streitkräfte,ORG,0.0,0.0,de,1
+Cosco-Einstieg,Cosco-Einstieg,ORG,1.0,0.0,de,1
+Reporter-Legende,Reporter-Legende,ORG,0.0,0.0,de,1
+Argo AI.,Argo AI.,ORG,-1.0,0.0,de,1
+Ford,Ford,ORG,0.7,0.0,de,1
+INTERVIEW,INTERVIEW,ORG,0.0,0.0,de,1
+Ukraine: + Streit,Ukraine: + Streit,ORG,-1.0,0.0,de,1
+Atomstreitkräfte +++,Atomstreitkräfte +++,ORG,-0.25,0.0,de,1
+Ukraine-Liveblog: Nord Stream 2,Ukraine-Liveblog: Nord Stream 2,ORG,0.0,0.0,de,1
+SPD-Kanzlers,SPD-Kanzlers,ORG,0.0,0.0,de,1
+Chefs.,Chefs.,ORG,0.0,0.0,de,1
+DLF,DLF,ORG,-0.85,0.0,de,1
+FAZ be…,FAZ be…,ORG,0.0,0.0,de,1
+Nuklearschlag,Nuklearschlag,ORG,0.0,0.0,de,1
+Propagandaerfolg,Propagandaerfolg,ORG,0.0,0.0,de,1
+… Schwarzheide.,… Schwarzheide.,ORG,0.7,0.0,de,1
+Wahlamtes,Wahlamtes,ORG,0.0,0.0,de,1
+Sky News,Sky News,ORG,0.0,0.0,de,1
+Außenministerium,Außenministerium,ORG,0.0,0.0,de,1
+Encrochat-Hack + Instagram,Encrochat-Hack + Instagram,ORG,-0.5666666666666667,0.0,de,1
 EuGH,EuGH,ORG,-0.5666666666666667,0.0,de,1
-EU-Antrittsbesuch,EU-Antrittsbesuch,ORG,0.0,0.0,de,1
-FDP-Vorsitzende,FDP-Vorsitzende,ORG,0.0,0.0,de,1
-Mövenpick-Partei,Mövenpick-Partei,ORG,0.0,0.0,de,1
-Atomkraft: Grüne Jugend,Atomkraft: Grüne Jugend,ORG,0.0,0.0,de,1
-| AKW-Debatte: Atomstaat Deutschland.,| AKW-Debatte: Atomstaat Deutschland.,ORG,0.0,0.0,de,1
-EU-Kommission: Ursula von der Leyen,EU-Kommission: Ursula von der Leyen,ORG,0.0,0.0,de,1
-AKW-Entscheidung,AKW-Entscheidung,ORG,0.0,0.0,de,1
+University of California,University of California,ORG,0.0,0.0,de,1
+Die Welt.,Die Welt.,ORG,0.0,0.0,de,1
+RWE.,RWE.,ORG,0.0,0.0,de,1
+Gruppe »Last Generation« für ihre Protestformen,Gruppe »Last Generation« für ihre Protestformen,ORG,0.0,0.0,de,1
+hessischen NSU-Akten,hessischen NSU-Akten,ORG,0.0,0.0,de,1
+NSU-Akten,NSU-Akten,ORG,0.0,0.0,de,1
+Ble …,Ble …,ORG,0.0,0.0,de,1
+Sahra,Sahra,ORG,0.0,0.0,de,1
+Weltbild,Weltbild,ORG,-0.7,0.0,de,1
+Fracking-VorstoÃŸ,Fracking-VorstoÃŸ,ORG,0.0,0.0,de,1
+Sahra Wagenknecht: Forscher,Sahra Wagenknecht: Forscher,ORG,0.0,0.0,de,1
+Brasilien,Brasilien,ORG,0.0,0.0,de,1
+MDR,MDR,ORG,0.0,0.0,de,1
+Spiegelstrich“:,Spiegelstrich“:,ORG,0.0,0.0,de,1
+Linkenikone Sahra Wagenknecht,Linkenikone Sahra Wagenknecht,ORG,1.0,0.0,de,1
+Linken?,Linken?,ORG,-0.7,0.0,de,1
+Türkei.,Türkei.,ORG,0.0,0.0,de,1
+Kopftuch-Verfassung,Kopftuch-Verfassung,ORG,0.0,0.0,de,1
+CDU: Merz,CDU: Merz,ORG,1.0,0.0,de,1
+AfD: Alice Weidel,AfD: Alice Weidel,ORG,0.0,0.0,de,1
+Die Partei,Die Partei,ORG,1.0,0.0,de,1
+Moment!.,Moment!.,ORG,0.0,0.0,de,1
 "Union zur Atomentscheidung: ""Zu spät"" und ""viel zu wenig""","Union zur Atomentscheidung: ""Zu spät"" und ""viel zu wenig""",ORG,0.0,0.0,de,1
-Foto: Moment/Getty,Foto: Moment/Getty,ORG,0.7,0.0,de,1
-AKW-Entscheidung des Kanzlers: Kernspaltung der Ampel,AKW-Entscheidung des Kanzlers: Kernspaltung der Ampel,ORG,-1.0,0.0,de,1
-Verfassung?,Verfassung?,ORG,0.0,0.0,de,1
-Schlagzeilenemissionen,Schlagzeilenemissionen,ORG,1.0,0.0,de,1
-"Tages: Liz Truss, Gaspreisdeckel,","Tages: Liz Truss, Gaspreisdeckel,",ORG,0.0,0.0,de,1
-Lesen!,Lesen!,ORG,0.0,0.0,de,1
-Minister vom Westbalkan.,Minister vom Westbalkan.,ORG,0.0,0.0,de,1
-EU-Gipfel:,EU-Gipfel:,ORG,0.0,0.0,de,1
-bayerischen SPD:,bayerischen SPD:,ORG,0.0,0.0,de,1
-bayerischen SPD,bayerischen SPD,ORG,0.0,0.0,de,1
-Russland-Kurs,Russland-Kurs,ORG,-0.2333333333333333,0.0,de,1
-Union:,Union:,ORG,0.0,0.0,de,1
+EU-Kommission: Ursula von der Leyen,EU-Kommission: Ursula von der Leyen,ORG,0.0,0.0,de,1
+| AKW-Debatte: Atomstaat Deutschland.,| AKW-Debatte: Atomstaat Deutschland.,ORG,0.0,0.0,de,1
+Atomkraft: Grüne Jugend,Atomkraft: Grüne Jugend,ORG,0.0,0.0,de,1
+Mövenpick-Partei,Mövenpick-Partei,ORG,0.0,0.0,de,1
 Deutschen Bundestag,Deutschen Bundestag,ORG,0.85,0.0,de,1
 Rote Linien,Rote Linien,ORG,0.0,0.0,de,1
 "Linken,","Linken,",ORG,-0.7,0.0,de,1
 "Pipeline-Anschlägen  Berliner Zeitung
 </li><li>","Pipeline-Anschlägen  Berliner Zeitung
 </li><li>",ORG,0.7,0.0,de,1
-LNG,LNG,ORG,0.7,0.0,de,1
-Bundestag: Olaf Scholz,Bundestag: Olaf Scholz,ORG,0.0,0.0,de,1
-AfD »Partei Russlands«,AfD »Partei Russlands«,ORG,0.0,0.0,de,1
-Regierungsarbeit,Regierungsarbeit,ORG,0.7,0.0,de,1
-AfD,AfD,ORG,0.0,0.0,de,1
-Finanzminister Lindner.,Finanzminister Lindner.,ORG,0.0,0.0,de,1
-RT DE.,RT DE.,ORG,1.0,0.0,de,1
-Freita…,Freita…,ORG,0.0,0.0,de,1
-Wirtschaftsstabilisierungsfonds neu be…,Wirtschaftsstabilisierungsfonds neu be…,ORG,0.0,0.0,de,1
-Milliarden-Ru…,Milliarden-Ru…,ORG,0.0,0.0,de,1
-Gaspreisbremse,Gaspreisbremse,ORG,0.0,0.0,de,1
-Branche u…,Branche u…,ORG,0.0,0.0,de,1
-lO BekOeu,lO BekOeu,ORG,0.0,0.0,de,1
-Atomkraftwerken.,Atomkraftwerken.,ORG,0.0,0.0,de,1
-Sozialdemokratische Partei Europas,Sozialdemokratische Partei Europas,ORG,0.0,0.0,de,1
-Economy Class.,Economy Class.,ORG,0.0,0.0,de,1
 Sahra Wagenknecht: Regierung,Sahra Wagenknecht: Regierung,ORG,0.0,0.0,de,1
-ZDF-Philosophie-Talk,ZDF-Philosophie-Talk,ORG,0.0,0.0,de,1
-KP-Kongress,KP-Kongress,ORG,1.0,0.0,de,1
-US-Wirtschaft,US-Wirtschaft,ORG,1.0,0.0,de,1
-… Schwarzheide.,… Schwarzheide.,ORG,0.7,0.0,de,1
-Fracking-VorstoÃŸ,Fracking-VorstoÃŸ,ORG,0.0,0.0,de,1
-Ukraine,Ukraine,ORG,0.0,0.0,de,1
-RWE.,RWE.,ORG,0.0,0.0,de,1
-Die Welt.,Die Welt.,ORG,0.0,0.0,de,1
-Energiepartnerschaft,Energiepartnerschaft,ORG,0.0,0.0,de,1
-Encrochat-Hack + Instagram,Encrochat-Hack + Instagram,ORG,-0.5666666666666667,0.0,de,1
-China-Besuch,China-Besuch,ORG,1.0,0.0,de,1
-Außenministerium,Außenministerium,ORG,0.0,0.0,de,1
-Getreideabkommen +++ Kreml-Sprecher Peskow:,Getreideabkommen +++ Kreml-Sprecher Peskow:,ORG,0.7,0.0,de,1
-China,China,ORG,-1.0,0.0,de,1
-Getreideabkommen +++,Getreideabkommen +++,ORG,0.0,0.0,de,1
-ENTWICKLUNGEN,ENTWICKLUNGEN,ORG,0.0,0.0,de,1
-Zentralen Militärkommission,Zentralen Militärkommission,ORG,0.0,0.0,de,1
-Arbeiterpartei Koreas,Arbeiterpartei Koreas,ORG,0.0,0.0,de,1
-Bundeskanzleramt,Bundeskanzleramt,ORG,0.35,0.0,de,1
-EU-Spitzen,EU-Spitzen,ORG,0.0,0.0,de,1
-… Italiens,… Italiens,ORG,0.0,0.0,de,1
-AKW-Debatte: »Das,AKW-Debatte: »Das,ORG,0.7,0.0,de,1
-Union.,Union.,ORG,-1.0,0.0,de,1
-MDR,MDR,ORG,0.0,0.0,de,1
-Spiegelstrich“:,Spiegelstrich“:,ORG,0.0,0.0,de,1
-CDU: Merz,CDU: Merz,ORG,1.0,0.0,de,1
-Wirtschaftsminister,Wirtschaftsminister,ORG,0.0,0.0,de,1
-Kirche für Entschädigungszahlungen und Zeugenberichte,Kirche für Entschädigungszahlungen und Zeugenberichte,ORG,1.0,0.0,de,1
-Europäischen Union.,Europäischen Union.,ORG,0.0,0.0,de,1
-EU-Energieministertreffens,EU-Energieministertreffens,ORG,0.0,0.0,de,1
-Großbritanniens.,Großbritanniens.,ORG,0.0,0.0,de,1
-EU-Kommission,EU-Kommission,ORG,0.0,0.0,de,1
-Liz…,Liz…,ORG,0.0,0.0,de,1
+Economy Class.,Economy Class.,ORG,0.0,0.0,de,1
+Sozialdemokratische Partei Europas,Sozialdemokratische Partei Europas,ORG,0.0,0.0,de,1
+Atomkraftwerken.,Atomkraftwerken.,ORG,0.0,0.0,de,1
+lO BekOeu,lO BekOeu,ORG,0.0,0.0,de,1
+Branche u…,Branche u…,ORG,0.0,0.0,de,1
+Gaspreisbremse,Gaspreisbremse,ORG,0.0,0.0,de,1
+Milliarden-Ru…,Milliarden-Ru…,ORG,0.0,0.0,de,1
+Wirtschaftsstabilisierungsfonds neu be…,Wirtschaftsstabilisierungsfonds neu be…,ORG,0.0,0.0,de,1
+Freita…,Freita…,ORG,0.0,0.0,de,1
+RT DE.,RT DE.,ORG,1.0,0.0,de,1
+Finanzminister Lindner.,Finanzminister Lindner.,ORG,0.0,0.0,de,1
+AfD,AfD,ORG,0.0,0.0,de,1
+Regierungsarbeit,Regierungsarbeit,ORG,0.7,0.0,de,1
+AfD »Partei Russlands«,AfD »Partei Russlands«,ORG,0.0,0.0,de,1
+Bundestag: Olaf Scholz,Bundestag: Olaf Scholz,ORG,0.0,0.0,de,1
+LNG,LNG,ORG,0.7,0.0,de,1
+AKW-Entscheidung,AKW-Entscheidung,ORG,0.0,0.0,de,1
+Foto: Moment/Getty,Foto: Moment/Getty,ORG,0.7,0.0,de,1
+britischen Parlament,britischen Parlament,ORG,0.7,0.0,de,1
+AKW-Entscheidung des Kanzlers: Kernspaltung der Ampel,AKW-Entscheidung des Kanzlers: Kernspaltung der Ampel,ORG,-1.0,0.0,de,1
+Atomwaffen-Drohung,Atomwaffen-Drohung,ORG,0.0,0.0,de,1
 europäischen Porzellanladen.,europäischen Porzellanladen.,ORG,0.0,0.0,de,1
-SPD-Kanzlers,SPD-Kanzlers,ORG,0.0,0.0,de,1
-INTERVIEW,INTERVIEW,ORG,0.0,0.0,de,1
-Reporter-Legende,Reporter-Legende,ORG,0.0,0.0,de,1
-Streitkräfte,Streitkräfte,ORG,0.0,0.0,de,1
-Transformation | Erdgaskrise,Transformation | Erdgaskrise,ORG,0.0,0.0,de,1
-BBBank: »Gerne bleibe ich,BBBank: »Gerne bleibe ich,ORG,0.0,0.0,de,1
-BBBank,BBBank,ORG,0.0,0.0,de,1
-Karlsruher Geldinstituts,Karlsruher Geldinstituts,ORG,0.0,0.0,de,1
-Propagandaerfolg,Propagandaerfolg,ORG,0.0,0.0,de,1
-Verantwortlichen für die Gewalt im,Verantwortlichen für die Gewalt im,ORG,-0.7,0.0,de,1
+Liz…,Liz…,ORG,0.0,0.0,de,1
+EU +++ Russland,EU +++ Russland,ORG,-0.15000000000000002,0.0,de,1
+RTL/ntv-Trendbarometer:,RTL/ntv-Trendbarometer:,ORG,-0.7,0.0,de,1
+London Review,London Review,ORG,-1.0,0.0,de,1
+Foreign Affairs,Foreign Affairs,ORG,0.7,0.0,de,1
+Großbritanniens.,Großbritanniens.,ORG,0.0,0.0,de,1
+EU-Energieministertreffens,EU-Energieministertreffens,ORG,0.0,0.0,de,1
+Europäischen Union.,Europäischen Union.,ORG,0.0,0.0,de,1
+Konservative Partei,Konservative Partei,ORG,0.7,0.0,de,1
+Regier…,Regier…,ORG,0.0,0.0,de,1
+Kirche für Entschädigungszahlungen und Zeugenberichte,Kirche für Entschädigungszahlungen und Zeugenberichte,ORG,1.0,0.0,de,1
+Wirtschaftsminister,Wirtschaftsminister,ORG,0.0,0.0,de,1
+KP-Kongress,KP-Kongress,ORG,1.0,0.0,de,1
+Schlagzeilenemissionen,Schlagzeilenemissionen,ORG,1.0,0.0,de,1
+ZDF-Philosophie-Talk,ZDF-Philosophie-Talk,ORG,0.0,0.0,de,1
+Union:,Union:,ORG,0.0,0.0,de,1
+bayerischen SPD,bayerischen SPD,ORG,0.0,0.0,de,1
+bayerischen SPD:,bayerischen SPD:,ORG,0.0,0.0,de,1
+EU-Gipfel:,EU-Gipfel:,ORG,0.0,0.0,de,1
+Minister vom Westbalkan.,Minister vom Westbalkan.,ORG,0.0,0.0,de,1
+Lesen!,Lesen!,ORG,0.0,0.0,de,1
+"Tages: Liz Truss, Gaspreisdeckel,","Tages: Liz Truss, Gaspreisdeckel,",ORG,0.0,0.0,de,1
+Verfassung?,Verfassung?,ORG,0.0,0.0,de,1
+Tages: Jair Bolsonaro,Tages: Jair Bolsonaro,ORG,0.0,0.0,de,1
+Politikerranking!,Politikerranking!,ORG,0.0,0.0,de,1
+INSA,INSA,ORG,0.0,0.0,de,1
+US-Subventionsoffensive,US-Subventionsoffensive,ORG,-1.0,0.0,de,1
+FDP:,FDP:,ORG,0.0,0.0,de,1
+Flüchtlingshilfe,Flüchtlingshilfe,ORG,0.0,0.0,de,1
+"Foto: imago/ITAR-TASS) 
+","Foto: imago/ITAR-TASS) 
+",ORG,-0.7,0.0,de,1
+WirtschaftsWoche Online,WirtschaftsWoche Online,ORG,0.7,0.0,de,1
+Dax-Wert Siemens Energy,Dax-Wert Siemens Energy,ORG,-1.0,0.0,de,1
+Siemens Gamesa,Siemens Gamesa,ORG,-1.0,0.0,de,1
+Windkraftfirma: Siemens Gamesa: Kaesers Kartenhaus.,Windkraftfirma: Siemens Gamesa: Kaesers Kartenhaus.,ORG,0.0,0.0,de,1
+Union setzt…,Union setzt…,ORG,0.0,0.0,de,1
+Sabine Henkel.</em,Sabine Henkel.</em,ORG,1.0,0.0,de,1
+"Landtag: Energie, Preise, Klimawandel","Landtag: Energie, Preise, Klimawandel",ORG,0.0,0.0,de,1
+Europa,Europa,ORG,0.0,0.0,de,1
+Erdgasspeicher,Erdgasspeicher,ORG,0.0,0.0,de,1
+Energiepartnerschaft,Energiepartnerschaft,ORG,0.0,0.0,de,1
+EnergiepreiseEnergiep…,EnergiepreiseEnergiep…,ORG,0.0,0.0,de,1
+Foto: Alexandros Michailidis,Foto: Alexandros Michailidis,ORG,0.0,0.0,de,1
+Bundesfinanzminister Lindner: Energiepreise,Bundesfinanzminister Lindner: Energiepreise,ORG,0.0,0.0,de,1
+Demokraten.,Demokraten.,ORG,0.0,0.0,de,1
+Cision Germany,Cision Germany,ORG,-1.0,0.0,de,1
+FRANKFURT,FRANKFURT,ORG,-1.0,0.0,de,1
+F.A.Z.-Institut und Cision Germany,F.A.Z.-Institut und Cision Germany,ORG,-1.0,0.0,de,1
+Cision Germany.,Cision Germany.,ORG,0.0,0.0,de,1
+F.A.Z.-Institut,F.A.Z.-Institut,ORG,0.0,0.0,de,1
+US-Wahl,US-Wahl,ORG,-0.15000000000000002,0.0,de,1
+Ukraine“,Ukraine“,ORG,0.0,0.0,de,1
+US-Zwischenwahlen,US-Zwischenwahlen,ORG,0.7,0.0,de,1
+WTO,WTO,ORG,-0.85,0.0,de,1
+RWE-Chef,RWE-Chef,ORG,0.0,0.0,de,1
+Zukunftspartei des,Zukunftspartei des,ORG,0.0,0.0,de,1
+Die Linke,Die Linke,ORG,0.0,0.0,de,1
+Riesen-Erfolg,Riesen-Erfolg,ORG,0.7,0.0,de,1
+"WEB.DE News
+</li><li>Hält","WEB.DE News
+</li><li>Hält",ORG,-1.0,0.0,de,1
+Deutsche Presse-Agen…,Deutsche Presse-Agen…,ORG,0.0,0.0,de,1
+Weltklimakonferenz,Weltklimakonferenz,ORG,-1.0,0.0,de,1
+Asean-Gruppe,Asean-Gruppe,ORG,0.0,0.0,de,1
+"Kolumbien  DER SPIEGEL
+</li><li>As…","Kolumbien  DER SPIEGEL
+</li><li>As…",ORG,1.0,0.0,de,1
+Teheran,Teheran,ORG,0.0,0.0,de,1
+Raisi: Russland,Raisi: Russland,ORG,1.0,0.0,de,1
+ASEAN-Mitgliedern,ASEAN-Mitgliedern,ORG,0.0,0.0,de,1
+Parlament,Parlament,ORG,0.0,0.0,de,1
+"Frankfurter Allgemeine Zeitung
+</li><li>Iran:","Frankfurter Allgemeine Zeitung
+</li><li>Iran:",ORG,1.0,0.0,de,1
+Foto: AP,Foto: AP,ORG,0.0,0.0,de,1
+Asean,Asean,ORG,0.0,0.0,de,1
+APK-Vorsitzenden,APK-Vorsitzenden,ORG,0.0,0.0,de,1
+APK,APK,ORG,0.0,0.0,de,1
+Air Force …,Air Force …,ORG,0.0,0.0,de,1
+APEC,APEC,ORG,0.0,0.0,de,1
+Murdochs,Murdochs,ORG,0.0,0.0,de,1
+Fridays for Future,Fridays for Future,ORG,0.0,0.0,de,1
+COPD27: Neubauer: „Shitshow“ bei Protest,COPD27: Neubauer: „Shitshow“ bei Protest,ORG,0.0,0.0,de,1
+Fridays for Future.…,Fridays for Future.…,ORG,-1.0,0.0,de,1
+"COPD27: Neubauer: ""Shitshow"" bei Protest auf","COPD27: Neubauer: ""Shitshow"" bei Protest auf",ORG,0.0,0.0,de,1
+China:,China:,ORG,1.0,0.0,de,1
+ZDF-Politbarometers,ZDF-Politbarometers,ORG,0.0,0.0,de,1
+"New York Times 
+«","New York Times 
+«",ORG,0.0,0.0,de,1
+"Foto: Reuters)
+Brüssel","Foto: Reuters)
+Brüssel",ORG,0.0,0.0,de,1
+US-Republikanern.,US-Republikanern.,ORG,0.0,0.0,de,1
+zerstört.</li><li>Kiew,zerstört.</li><li>Kiew,ORG,0.0,0.0,de,1
+"WEB.DE News
+</li><li>Ukraine","WEB.DE News
+</li><li>Ukraine",ORG,0.0,0.0,de,1
+Justizminister,Justizminister,ORG,0.0,0.0,de,1
+Strom.</li><li>,Strom.</li><li>,ORG,0.0,0.0,de,1
+Ukraine: ++ Selenskyj:,Ukraine: ++ Selenskyj:,ORG,0.0,0.0,de,1
+Ukraine-Dienst,Ukraine-Dienst,ORG,0.0,0.0,de,1
+EU-Antrittsbesuch,EU-Antrittsbesuch,ORG,0.0,0.0,de,1
+Polizeiminister,Polizeiminister,ORG,0.0,0.0,de,1
+Israel-Wahl: Benjamin Netanyahu,Israel-Wahl: Benjamin Netanyahu,ORG,1.0,0.0,de,1
+SPD: Bald Schröder-Verfahren.,SPD: Bald Schröder-Verfahren.,ORG,0.0,0.0,de,1
+US-Wirtschaft,US-Wirtschaft,ORG,1.0,0.0,de,1
+Olaf-Scholz-Reise: Autoindustrie und Mittelstand,Olaf-Scholz-Reise: Autoindustrie und Mittelstand,ORG,-0.7,0.0,de,1
+AKW-Debatte: »Das,AKW-Debatte: »Das,ORG,0.7,0.0,de,1
+… Italiens,… Italiens,ORG,0.0,0.0,de,1
+EU-Spitzen,EU-Spitzen,ORG,0.0,0.0,de,1
+Radikalenerlass,Radikalenerlass,ORG,-0.7,0.0,de,1
+ZUMA Press/imago/Montage,ZUMA Press/imago/Montage,ORG,-0.7,0.0,de,1
+linke Partei,linke Partei,ORG,-0.85,0.0,de,1
+Mensc…,Mensc…,ORG,0.2333333333333333,0.0,de,1
+Deutsche Fußball-Bund,Deutsche Fußball-Bund,ORG,0.0,0.0,de,1
+DFB.,DFB.,ORG,0.0,0.0,de,1
+"Tages: Twitter-Chef Musk, Klimaproteste","Tages: Twitter-Chef Musk, Klimaproteste",ORG,0.0,0.0,de,1
+Bundeskanzleramt,Bundeskanzleramt,ORG,0.35,0.0,de,1
+NZZ-Interview,NZZ-Interview,ORG,0.0,0.0,de,1
+witzig-jugendlichen Wortspielen?,witzig-jugendlichen Wortspielen?,ORG,0.0,0.0,de,1
+Getreideabkommen +++,Getreideabkommen +++,ORG,0.0,0.0,de,1
+Getreideabkommen +++ Kreml-Sprecher Peskow:,Getreideabkommen +++ Kreml-Sprecher Peskow:,ORG,0.7,0.0,de,1
+MAGA-Kappe,MAGA-Kappe,ORG,0.0,0.0,de,1
+SPIEGEL-Informationen,SPIEGEL-Informationen,ORG,0.0,0.0,de,1
+"Tages: Klimakrise, Klimaproteste","Tages: Klimakrise, Klimaproteste",ORG,0.0,0.0,de,1
+Jusos,Jusos,ORG,0.7,0.0,de,1
+Zentrum der internationalen Politik.,Zentrum der internationalen Politik.,ORG,0.0,0.0,de,1
+Kriegszwecke +++ Russland,Kriegszwecke +++ Russland,ORG,-0.1333333333333333,0.0,de,1
+Eurozone,Eurozone,ORG,1.0,0.0,de,1
+Ministeriums für den …,Ministeriums für den …,ORG,0.0,0.0,de,1
+Merz-Vorschlag,Merz-Vorschlag,ORG,0.0,0.0,de,1
+"Foto: Reuters)
+Tokio","Foto: Reuters)
+Tokio",ORG,0.0,0.0,de,1
+Bundesrepu…,Bundesrepu…,ORG,0.0,0.0,de,1
+ukrainische Außenministerium,ukrainische Außenministerium,ORG,0.7,0.0,de,1
+"Melnyk  tagesschau
+","Melnyk  tagesschau
+",ORG,0.7,0.0,de,1
+Leopard-2-Lieferung,Leopard-2-Lieferung,ORG,0.7,0.0,de,1
+SPD-Debattenkonvent: Zwischenstopp Neukölln.,SPD-Debattenkonvent: Zwischenstopp Neukölln.,ORG,0.0,0.0,de,1
+SPD-Konvent,SPD-Konvent,ORG,0.0,0.0,de,1
+em>tagesschau.de</em>,em>tagesschau.de</em>,ORG,-0.7,0.0,de,1
+Gesellschaft vorgeworfen.,Gesellschaft vorgeworfen.,ORG,0.0,0.0,de,1
+DU-Landesparteitag,DU-Landesparteitag,ORG,0.0,0.0,de,1
+Ministerrat,Ministerrat,ORG,0.0,0.0,de,1
+Organisatoren,Organisatoren,ORG,-1.0,0.0,de,1
+Rave-Party,Rave-Party,ORG,0.0,0.0,de,1
+Italiens Polizei,Italiens Polizei,ORG,0.0,0.0,de,1
+SPD-Parteivorsitzende,SPD-Parteivorsitzende,ORG,-1.0,0.0,de,1
+NFL-Team,NFL-Team,ORG,0.0,0.0,de,1
+US-Football-Profiliga NFL,US-Football-Profiliga NFL,ORG,1.0,0.0,de,1
+Washington Commanders,Washington Commanders,ORG,1.0,0.0,de,1
+Bürgergeld-Kompromiss,Bürgergeld-Kompromiss,ORG,1.0,0.0,de,1
+Marktkirche Hannover,Marktkirche Hannover,ORG,0.0,0.0,de,1
