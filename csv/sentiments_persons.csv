@@ -1,371 +1,462 @@
 ,phrase,label,sentiment,subjectivity,language,count
-Olaf Scholz,Olaf Scholz,PER,0.03359557109557109,0.04650349650349651,de,286
-Robert Habeck,Robert Habeck,PER,0.09515503875968992,0.032364341085271316,de,86
-Donald Trump,Donald Trump,PER,-0.063855421686747,0.012048192771084338,de,83
-Joe Biden,Joe Biden,PER,0.06363636363636364,0.015151515151515152,de,66
-Wladimir Putin,Wladimir Putin,PER,0.02461538461538461,0.0,de,65
-Xi Jinping,Xi Jinping,PER,-0.00781250000000001,0.03125,de,64
+Olaf Scholz,Olaf Scholz,PER,0.041442199775533095,0.04478114478114478,de,297
+Donald Trump,Donald Trump,PER,0.014963503649635033,0.0072992700729927005,de,137
+Robert Habeck,Robert Habeck,PER,0.07203703703703704,0.030925925925925926,de,90
+Xi Jinping,Xi Jinping,PER,0.035526315789473684,0.02631578947368421,de,76
+Joe Biden,Joe Biden,PER,0.060000000000000005,0.02857142857142857,de,70
+Wladimir Putin,Wladimir Putin,PER,0.028358208955223875,0.0,de,67
 Christian Lindner,Christian Lindner,PER,0.03157894736842107,0.07017543859649122,de,57
-Friedrich Merz,Friedrich Merz,PER,-0.06,0.06727272727272728,de,55
-Annalena Baerbock,Annalena Baerbock,PER,0.010961538461538455,0.038461538461538464,de,52
-Angela Merkel,Angela Merkel,PER,0.2892857142857142,0.05714285714285714,de,42
+Friedrich Merz,Friedrich Merz,PER,-0.07678571428571428,0.06607142857142857,de,56
+Annalena Baerbock,Annalena Baerbock,PER,0.010363636363636356,0.03636363636363636,de,55
+Angela Merkel,Angela Merkel,PER,0.2206521739130434,0.05217391304347826,de,46
+Mike Pence,Mike Pence,PER,0.2136363636363636,0.0,de,44
+Elon Musk,Elon Musk,PER,-0.021969696969696962,0.018939393939393936,de,44
 Emmanuel Macron,Emmanuel Macron,PER,0.015789473684210523,0.02631578947368421,de,38
-Elon Musk,Elon Musk,PER,-0.01761904761904762,0.009523809523809523,de,35
 Luisa Neubauer,Luisa Neubauer,PER,-0.02941176470588234,0.0,de,34
 Jeff Bezos,Jeff Bezos,PER,0.012903225806451616,0.025806451612903226,de,31
 Giorgia Meloni,Giorgia Meloni,PER,0.22000000000000003,0.08333333333333333,de,30
+Wolodymyr Selenskyj,Wolodymyr Selenskyj,PER,-0.012931034482758636,0.08620689655172414,de,29
 Boris Johnson,Boris Johnson,PER,0.1611111111111111,0.0,de,27
-Wolodymyr Selenskyj,Wolodymyr Selenskyj,PER,0.02604166666666664,0.10416666666666667,de,24
+Frank-Walter Steinmeier,Frank-Walter Steinmeier,PER,0.1046296296296296,0.014814814814814815,de,27
+Markus Söder,Markus Söder,PER,-0.30000000000000004,0.0,de,26
+Winfried Kretschmann,Winfried Kretschmann,PER,0.09358974358974358,0.0,de,26
 Greta Thunberg,Greta Thunberg,PER,-0.021739130434782608,0.15217391304347827,de,23
-Markus Söder,Markus Söder,PER,-0.33913043478260874,0.0,de,23
-Kanye West,Kanye West,PER,-0.12249999999999998,0.0,de,20
-Winfried Kretschmann,Winfried Kretschmann,PER,0.12916666666666665,0.0,de,20
-Rishi Sunak,Rishi Sunak,PER,0.215,0.0,de,20
+Rishi Sunak,Rishi Sunak,PER,0.19545454545454544,0.0,de,22
+Jair Bolsonaro,Jair Bolsonaro,PER,0.06904761904761905,0.0,de,21
+Kanye West,Kanye West,PER,-0.11666666666666665,0.0,de,21
+Benjamin Netanjahu,Benjamin Netanjahu,PER,0.185,0.0,de,20
+Ron DeSantis,Ron DeSantis,PER,-0.020000000000000007,0.025,de,20
+Barack Obama,Barack Obama,PER,0.2,0.17647058823529413,de,17
 Charles Michel,Charles Michel,PER,0.13124999999999998,0.0625,de,16
+Bill Gates,Bill Gates,PER,0.228125,0.0,de,16
 Sahra Wagenknecht,Sahra Wagenknecht,PER,0.125,0.0,de,16
 Jair Lapid,Jair Lapid,PER,0.24666666666666667,0.0,de,15
 Christian Drosten,Christian Drosten,PER,0.3196428571428571,0.0,de,14
 Gerhard Schröder,Gerhard Schröder,PER,-0.08571428571428572,0.0,de,14
 Michael Kretschmer,Michael Kretschmer,PER,0.07628205128205126,0.038461538461538464,de,13
 Viktor Orbán,Viktor Orbán,PER,-0.13846153846153844,0.038461538461538464,de,13
-Ron DeSantis,Ron DeSantis,PER,0.21538461538461537,0.0,de,13
-Justin Trudeau,Justin Trudeau,PER,-0.3958333333333333,0.0,de,12
 Oliver Blume,Oliver Blume,PER,0.08749999999999998,0.125,de,12
-Charles III,Charles III,PER,0.16999999999999998,0.0,de,10
-Ursula von der Leyen,Ursula von der Leyen,PER,0.05499999999999999,0.0,de,10
-Kim Jong-un,Kim Jong-un,PER,0.2,0.2,de,10
+Justin Trudeau,Justin Trudeau,PER,-0.3958333333333333,0.0,de,12
+Charles III,Charles III,PER,0.15454545454545454,0.0,de,11
+Christine Lagarde,Christine Lagarde,PER,0.09090909090909091,0.09090909090909091,de,11
 Andrzej Duda,Andrzej Duda,PER,0.1,0.0,de,10
+Kim Jong-un,Kim Jong-un,PER,0.2,0.2,de,10
+Ursula von der Leyen,Ursula von der Leyen,PER,0.05499999999999999,0.0,de,10
+Luiz Inácio Lula da Silva,Luiz Inácio Lula da Silva,PER,0.0,0.0,de,9
 Ola Källenius,Ola Källenius,PER,-0.08125000000000002,0.0625,de,8
 Katarina Barley,Katarina Barley,PER,0.21249999999999994,0.0,de,8
-John Kerry,John Kerry,PER,0.23125,0.125,de,8
-Benjamin Netanjahu,Benjamin Netanjahu,PER,0.0,0.0,de,8
+Jennifer Gates,Jennifer Gates,PER,0.0875,0.0,de,8
+Donald Trumps,Donald Trumps,PER,-0.029166666666666664,0.125,de,8
 Volker Wissing,Volker Wissing,PER,-0.2875,0.0,de,8
+John Kerry,John Kerry,PER,0.23125,0.125,de,8
 Nick Fuentes,Nick Fuentes,PER,0.07857142857142856,0.0,de,7
 Gabor Steingart,Gabor Steingart,PER,-0.042857142857142864,0.0,de,7
 Cyril Ramaphosa,Cyril Ramaphosa,PER,0.0,0.0,de,7
-Donald Trumps,Donald Trumps,PER,-0.03333333333333333,0.14285714285714285,de,7
+Melinda Gates,Melinda Gates,PER,0.0,0.14285714285714285,de,7
+Joe Bidens,Joe Bidens,PER,0.3499999999999999,0.0,de,6
+Michelle Obama,Michelle Obama,PER,0.08333333333333333,0.0,de,6
 Wolfgang Schäuble,Wolfgang Schäuble,PER,-0.025000000000000005,0.0,de,6
-Ebrahim Raisi,Ebrahim Raisi,PER,-0.27999999999999997,0.0,de,5
-Peter Tschentscher,Peter Tschentscher,PER,0.74,0.0,de,5
+Liz Truss,Liz Truss,PER,0.30833333333333335,0.0,de,6
 Joko Widodo,Joko Widodo,PER,0.27999999999999997,0.0,de,5
 Fumio Kishida,Fumio Kishida,PER,0.0,0.0,de,5
+Ebrahim Raisi,Ebrahim Raisi,PER,-0.27999999999999997,0.0,de,5
 Herbert Blomstedt,Herbert Blomstedt,PER,0.5599999999999999,0.0,de,5
-Greta Thunbergs,Greta Thunbergs,PER,0.5249999999999999,0.0,de,4
-Bill Gates,Bill Gates,PER,0.5249999999999999,0.0,de,4
-Jair Bolsonaro,Jair Bolsonaro,PER,0.125,0.0,de,4
-Antony Blinken,Antony Blinken,PER,0.0,0.0,de,4
-Yoon Suk-yeol,Yoon Suk-yeol,PER,-0.25,0.0,de,4
-CDU-Chef Friedrich Merz,CDU-Chef Friedrich Merz,PER,0.0,0.0,de,4
-Ricarda Lang,Ricarda Lang,PER,-0.25,0.0,de,4
-Siemens-Chef Roland Busch,Siemens-Chef Roland Busch,PER,0.0,0.0,de,4
-Roberto Saviano,Roberto Saviano,PER,0.35,0.0,de,4
+Peter Tschentscher,Peter Tschentscher,PER,0.74,0.0,de,5
 Queen Elizabeth II,Queen Elizabeth II,PER,0.0,0.0,de,4
-Karl Lauterbach,Karl Lauterbach,PER,0.037500000000000006,0.0,de,4
+Siemens-Chef Roland Busch,Siemens-Chef Roland Busch,PER,0.0,0.0,de,4
+Ricarda Lang,Ricarda Lang,PER,-0.25,0.0,de,4
+Gregor Gysi,Gregor Gysi,PER,-0.25,0.0,de,4
+Antony Blinken,Antony Blinken,PER,0.0,0.0,de,4
+Kevin Kühnert,Kevin Kühnert,PER,0.0,0.0,de,4
+Alexander Lukaschenko,Alexander Lukaschenko,PER,0.38749999999999996,0.0,de,4
+Yoon Suk-yeol,Yoon Suk-yeol,PER,-0.25,0.0,de,4
+Kamala Harris,Kamala Harris,PER,0.0,0.0,de,4
+Greta Thunbergs,Greta Thunbergs,PER,0.5249999999999999,0.0,de,4
 Michael Ballweg,Michael Ballweg,PER,-0.25,0.0,de,4
-Liz Truss,Liz Truss,PER,0.2125,0.0,de,4
+CDU-Chef Friedrich Merz,CDU-Chef Friedrich Merz,PER,0.0,0.0,de,4
+Roberto Saviano,Roberto Saviano,PER,0.35,0.0,de,4
 Wirtschaftsminister Habeck,Wirtschaftsminister Habeck,PER,0.0,0.25,de,4
-Luiz Inácio Lula da Silva,Luiz Inácio Lula da Silva,PER,0.0,0.0,de,3
-Klima-Aktivistin Luisa Neubauer,Klima-Aktivistin Luisa Neubauer,PER,-1.0,0.0,de,3
-Klimaaktivistin Luisa Neubauer,Klimaaktivistin Luisa Neubauer,PER,0.0,0.3333333333333333,de,3
+Karl Lauterbach,Karl Lauterbach,PER,0.037500000000000006,0.0,de,4
 Twitter-Besitzer Elon Musk,Twitter-Besitzer Elon Musk,PER,0.0,0.0,de,3
-Xi Jinpings,Xi Jinpings,PER,0.0,0.0,de,3
-Benjamin Netanyahu,Benjamin Netanyahu,PER,0.0,0.0,de,3
-Viktor Orbáns,Viktor Orbáns,PER,-0.3333333333333333,0.0,de,3
-Stefan Rahmstorf,Stefan Rahmstorf,PER,-0.75,0.0,de,3
-Markus Krebber,Markus Krebber,PER,0.2333333333333333,0.0,de,3
-Wolodimir Selenski,Wolodimir Selenski,PER,-0.6666666666666666,0.0,de,3
-Gerhart Baum,Gerhart Baum,PER,0.0,0.0,de,3
 Kim Jong Un,Kim Jong Un,PER,0.0,0.0,de,3
-Markus Lanz,Markus Lanz,PER,0.0,0.0,de,3
+Stefan Rahmstorf,Stefan Rahmstorf,PER,-0.75,0.0,de,3
+Xi Jinpings,Xi Jinpings,PER,0.0,0.0,de,3
+Wolodimir Selenski,Wolodimir Selenski,PER,-0.6666666666666666,0.0,de,3
+Markus Krebber,Markus Krebber,PER,0.2333333333333333,0.0,de,3
+Klima-Aktivistin Luisa Neubauer,Klima-Aktivistin Luisa Neubauer,PER,-1.0,0.0,de,3
+Gerhart Baum,Gerhart Baum,PER,0.0,0.0,de,3
+Ludwig Schick,Ludwig Schick,PER,0.0,0.0,de,3
+Otmar Issing,Otmar Issing,PER,0.0,0.0,de,3
+Benjamin Netanyahu,Benjamin Netanyahu,PER,0.0,0.0,de,3
+Klimaaktivistin Luisa Neubauer,Klimaaktivistin Luisa Neubauer,PER,0.0,0.3333333333333333,de,3
 Alice Weidel,Alice Weidel,PER,0.2333333333333333,0.0,de,3
-Joe Bidens,Joe Bidens,PER,0.0,0.0,de,3
-Elga Bartsch,Elga Bartsch,PER,0.0,0.0,de,3
-Alexander Lukaschenko,Alexander Lukaschenko,PER,0.18333333333333332,0.0,de,3
+Markus Lanz,Markus Lanz,PER,0.0,0.0,de,3
 Tech-Milliardär Elon,Tech-Milliardär Elon,PER,0.0,0.0,de,3
-Kim Jong-uns Militär,Kim Jong-uns Militär,PER,0.0,0.0,de,2
-Sigmar Gabriel,Sigmar Gabriel,PER,0.5,0.5,de,2
-Manuel Neuer,Manuel Neuer,PER,0.0,0.0,de,2
-Jan Böhmermann,Jan Böhmermann,PER,0.0,0.0,de,2
-Bundespräsident Steinmeier,Bundespräsident Steinmeier,PER,0.0,0.0,de,2
-Corona-Experte Christian Drosten,Corona-Experte Christian Drosten,PER,0.0,0.0,de,2
-Linken-Urgestein Gregor Gysi,Linken-Urgestein Gregor Gysi,PER,0.0,0.0,de,2
-Bundeswirtschaftsminister Habeck,Bundeswirtschaftsminister Habeck,PER,0.85,0.0,de,2
-Mateusz Morawiecki,Mateusz Morawiecki,PER,0.0,0.0,de,2
-Robin Alexander,Robin Alexander,PER,0.0,0.0,de,2
-Heidi Klum,Heidi Klum,PER,0.0,0.0,de,2
-Taylor Swift,Taylor Swift,PER,0.0,0.0,de,2
-Romano Prodi,Romano Prodi,PER,0.0,0.0,de,2
-Prinzessin Kate,Prinzessin Kate,PER,0.0,0.0,de,2
-Emmanuel Macrons,Emmanuel Macrons,PER,0.0,0.0,de,2
-Dietmar Woidke,Dietmar Woidke,PER,0.0,0.0,de,2
-Dominika Lasota,Dominika Lasota,PER,0.0,0.0,de,2
-Prinz William,Prinz William,PER,0.0,0.0,de,2
-Kamala Harris,Kamala Harris,PER,0.0,0.0,de,2
-Fumio Kishidas,Fumio Kishidas,PER,0.0,0.0,de,2
-Patrick Pouyanné,Patrick Pouyanné,PER,0.25,0.25,de,2
-Manfred Hübner,Manfred Hübner,PER,-1.0,0.0,de,2
-Dolly Parton,Dolly Parton,PER,0.5,0.0,de,2
-Ed Markey,Ed Markey,PER,0.0,0.0,de,2
-Daniel Günther,Daniel Günther,PER,-0.5,0.0,de,2
-Recep Tayyip Erdoan,Recep Tayyip Erdoan,PER,0.5,0.0,de,2
+Mojib Latif,Mojib Latif,PER,0.3333333333333333,0.0,de,3
+Elga Bartsch,Elga Bartsch,PER,0.0,0.0,de,3
+Lula da Silva,Lula da Silva,PER,0.2333333333333333,0.0,de,3
+Bundespräsident Steinmeier,Bundespräsident Steinmeier,PER,0.0,0.3333333333333333,de,3
+Virginia McLaurin,Virginia McLaurin,PER,0.2333333333333333,0.0,de,3
+Warren Buffet,Warren Buffet,PER,0.0,0.0,de,3
+Viktor Orbáns,Viktor Orbáns,PER,-0.3333333333333333,0.0,de,3
+Kandidiert Donald Trump,Kandidiert Donald Trump,PER,0.0,0.0,de,2
 Peng Liyuan,Peng Liyuan,PER,0.0,0.0,de,2
-Pedro Sánchez,Pedro Sánchez,PER,-0.5,0.0,de,2
-Frank-Walter Steinmeier,Frank-Walter Steinmeier,PER,0.5,0.0,de,2
-Katar-Emir dankt Putin,Katar-Emir dankt Putin,PER,0.0,0.0,de,2
-Filipp Piatov,Filipp Piatov,PER,0.0,0.0,de,2
-Mike Pence,Mike Pence,PER,0.0,0.0,de,2
-Wolodimir SelenskiDer,Wolodimir SelenskiDer,PER,0.0,0.0,de,2
+Jair Bolsonaros,Jair Bolsonaros,PER,0.0,0.0,de,2
 Doris Schröder-Köpf,Doris Schröder-Köpf,PER,-0.6,0.0,de,2
-Mercedes-Chef Ola Källenius,Mercedes-Chef Ola Källenius,PER,0.5,0.0,de,2
+Michael Brand,Michael Brand,PER,1.0,0.0,de,2
+Taylor Swift,Taylor Swift,PER,0.0,0.0,de,2
+Emine Sevgi Özdamar,Emine Sevgi Özdamar,PER,0.0,0.0,de,2
+Jan Böhmermann,Jan Böhmermann,PER,0.0,0.0,de,2
+Linken-Urgestein Gregor Gysi,Linken-Urgestein Gregor Gysi,PER,0.0,0.0,de,2
+Emine Sevgi,Emine Sevgi,PER,0.0,0.0,de,2
+Sandra Kathe,Sandra Kathe,PER,0.0,0.0,de,2
+Vitali Klitschko,Vitali Klitschko,PER,0.0,0.0,de,2
+Heidi Klum,Heidi Klum,PER,0.0,0.0,de,2
+Katar-Emir dankt Putin,Katar-Emir dankt Putin,PER,0.0,0.0,de,2
+Winfried Kretschmanns,Winfried Kretschmanns,PER,0.0,0.0,de,2
+Romano Prodi,Romano Prodi,PER,0.0,0.0,de,2
+Nancy Pelosi,Nancy Pelosi,PER,0.0,0.0,de,2
+Wolodimir SelenskiDer,Wolodimir SelenskiDer,PER,0.0,0.0,de,2
+Linke-Chef Martin Schirdewan,Linke-Chef Martin Schirdewan,PER,0.0,0.0,de,2
+Lanfranco Cirillo,Lanfranco Cirillo,PER,0.35,0.0,de,2
 Amazons Alexa-Abteilung,Amazons Alexa-Abteilung,PER,0.0,0.0,de,2
 Bodo Ramelow,Bodo Ramelow,PER,0.0,0.0,de,2
-Lanfranco Cirillo,Lanfranco Cirillo,PER,0.35,0.0,de,2
-Papa Scholz,Papa Scholz,PER,0.5,0.0,de,2
-Robert Habeck Bundeswirtschaftsminister,Robert Habeck Bundeswirtschaftsminister,PER,0.0,0.0,de,2
 Lars Klingbeil,Lars Klingbeil,PER,-0.5,0.0,de,2
 Stefan Niggemeier),Stefan Niggemeier),PER,0.0,0.0,de,2
+Bundeswirtschaftsminister Habeck,Bundeswirtschaftsminister Habeck,PER,0.85,0.0,de,2
+Mateusz Morawiecki,Mateusz Morawiecki,PER,0.0,0.0,de,2
+Filipp Piatov,Filipp Piatov,PER,0.0,0.0,de,2
+Harald Schmidt,Harald Schmidt,PER,0.0,0.0,de,2
+Mercedes-Chef Ola Källenius,Mercedes-Chef Ola Källenius,PER,0.5,0.0,de,2
+Robert Habeck Bundeswirtschaftsminister,Robert Habeck Bundeswirtschaftsminister,PER,0.0,0.0,de,2
+Manfred Hübner,Manfred Hübner,PER,-1.0,0.0,de,2
+Prinz William,Prinz William,PER,0.0,0.0,de,2
+Jerome Powell,Jerome Powell,PER,0.5,0.0,de,2
+Fumio Kishidas,Fumio Kishidas,PER,0.0,0.0,de,2
+Prinzessin Kate,Prinzessin Kate,PER,0.0,0.0,de,2
+Kim Jong-uns Militär,Kim Jong-uns Militär,PER,0.0,0.0,de,2
+Sigmar Gabriel,Sigmar Gabriel,PER,0.5,0.5,de,2
+Dietmar Woidke,Dietmar Woidke,PER,0.0,0.0,de,2
+Starinvestor Warren Buffett,Starinvestor Warren Buffett,PER,0.0,0.0,de,2
+Manuel Neuer,Manuel Neuer,PER,0.0,0.0,de,2
+Sergei Lawrow,Sergei Lawrow,PER,1.0,0.0,de,2
 Dagmar Rosenfeld,Dagmar Rosenfeld,PER,0.0,0.0,de,2
-Paul Kagame,Paul Kagame,PER,0.7,0.0,de,2
-Kyriakos Mitsotakis,Kyriakos Mitsotakis,PER,0.0,0.0,de,2
-Giancarlo Giorgetti,Giancarlo Giorgetti,PER,0.0,0.0,de,2
+Robin Alexander,Robin Alexander,PER,0.0,0.0,de,2
+Warren Buffett,Warren Buffett,PER,0.0,0.0,de,2
+Pedro Sánchez,Pedro Sánchez,PER,-0.5,0.0,de,2
+Mario Draghi,Mario Draghi,PER,0.5,0.0,de,2
+Patrick Pouyanné,Patrick Pouyanné,PER,0.25,0.25,de,2
 Dietrich Mateschitz,Dietrich Mateschitz,PER,-0.07500000000000001,0.0,de,2
-Milliardär Elon Musk,Milliardär Elon Musk,PER,0.5,0.0,de,2
 Richard David Precht,Richard David Precht,PER,0.5,0.0,de,2
+Irina Rastorgueva,Irina Rastorgueva,PER,-0.5,0.0,de,2
+Rainer Maria Woelki,Rainer Maria Woelki,PER,0.5,0.0,de,2
+Bob Iger,Bob Iger,PER,0.0,0.0,de,2
+Howard Marks,Howard Marks,PER,0.0,0.0,de,2
+Ray Dalio,Ray Dalio,PER,0.0,0.0,de,2
+Dmitri Peskow,Dmitri Peskow,PER,0.0,0.0,de,2
+Klaus Müller,Klaus Müller,PER,-0.3333333333333333,0.0,de,2
+Elke Büdenbender,Elke Büdenbender,PER,0.0,0.0,de,2
+Silvio Berlusconi,Silvio Berlusconi,PER,0.0,0.0,de,2
+Giancarlo Giorgetti,Giancarlo Giorgetti,PER,0.0,0.0,de,2
+Alexei Nawalny,Alexei Nawalny,PER,0.35,0.0,de,2
+Andrés Manuel López Obrador,Andrés Manuel López Obrador,PER,0.35,0.0,de,2
+Recep Tayyip Erdoan,Recep Tayyip Erdoan,PER,0.5,0.0,de,2
 Joschka Fischer,Joschka Fischer,PER,-1.0,0.0,de,2
 Annalena Baerbocks,Annalena Baerbocks,PER,0.0,0.0,de,2
-Ellen Brombacher,Ellen Brombacher,PER,0.5,0.0,de,2
-Klaus Müller,Klaus Müller,PER,-0.3333333333333333,0.0,de,2
-Mario Draghi,Mario Draghi,PER,0.5,0.0,de,2
-Great Thunberg,Great Thunberg,PER,0.0,1.0,de,2
-Alexei Nawalny,Alexei Nawalny,PER,0.35,0.0,de,2
-Dmitri Peskow,Dmitri Peskow,PER,0.0,0.0,de,2
-Andrés Manuel López Obrador,Andrés Manuel López Obrador,PER,0.35,0.0,de,2
-Willy Brandt,Willy Brandt,PER,0.0,0.0,de,2
-Winfried Kretschmanns,Winfried Kretschmanns,PER,0.0,0.0,de,2
-Martin Brudermüller,Martin Brudermüller,PER,0.0,0.0,de,2
 Christoph Heusgen,Christoph Heusgen,PER,0.35,0.0,de,2
+Kyriakos Mitsotakis,Kyriakos Mitsotakis,PER,0.0,0.0,de,2
+Daniel Günther,Daniel Günther,PER,-0.5,0.0,de,2
+Paul Kagame,Paul Kagame,PER,0.7,0.0,de,2
+Great Thunberg,Great Thunberg,PER,0.0,1.0,de,2
 CDU-Chef Merz,CDU-Chef Merz,PER,0.0,0.0,de,2
-Irina Rastorgueva,Irina Rastorgueva,PER,-0.5,0.0,de,2
-Sergei Lawrow,Sergei Lawrow,PER,1.0,0.0,de,2
-Bob Iger,Bob Iger,PER,0.0,0.0,de,2
-Silvio Berlusconi,Silvio Berlusconi,PER,0.0,0.0,de,2
-Christian Drostensieht,Christian Drostensieht,PER,0.0,0.0,de,1
-Ri Sol Ju,Ri Sol Ju,PER,0.0,0.0,de,1
+Jewgenij Roisman,Jewgenij Roisman,PER,0.35,0.0,de,2
+Angelo Becciu,Angelo Becciu,PER,0.0,0.0,de,2
+Willy Brandt,Willy Brandt,PER,0.0,0.0,de,2
+Investmentlegende Warren Buffett,Investmentlegende Warren Buffett,PER,0.0,0.0,de,2
+Dolly Parton,Dolly Parton,PER,0.5,0.0,de,2
+Corona-Experte Christian Drosten,Corona-Experte Christian Drosten,PER,0.0,0.0,de,2
+Ed Markey,Ed Markey,PER,0.0,0.0,de,2
+Melinda French Gates,Melinda French Gates,PER,0.0,0.0,de,2
+Emmanuel Macrons,Emmanuel Macrons,PER,0.0,0.0,de,2
+Milliardär Elon Musk,Milliardär Elon Musk,PER,0.5,0.0,de,2
+Papa Scholz,Papa Scholz,PER,0.5,0.0,de,2
+Ellen Brombacher,Ellen Brombacher,PER,0.5,0.0,de,2
+Boris Palmer,Boris Palmer,PER,0.925,0.0,de,2
+Jan Philipp Reemtsma,Jan Philipp Reemtsma,PER,0.35,0.0,de,2
+Martin Brudermüller,Martin Brudermüller,PER,0.0,0.0,de,2
+Dominika Lasota,Dominika Lasota,PER,0.0,0.0,de,2
+Luisa Neubauers,Luisa Neubauers,PER,0.0,0.0,de,1
+Nail Akkoyun,Nail Akkoyun,PER,-0.7,0.0,de,1
+Riyad al-Malki,Riyad al-Malki,PER,0.0,0.0,de,1
+Michelle Obama auf Twitter,Michelle Obama auf Twitter,PER,0.0,0.0,de,1
+Merrick Garland,Merrick Garland,PER,1.0,0.0,de,1
+Ralf Borchard,Ralf Borchard,PER,0.0,0.0,de,1
+Grünen-Ministerpräsident Winfried Kretschmann,Grünen-Ministerpräsident Winfried Kretschmann,PER,0.0,0.0,de,1
+Sandra Maischberger,Sandra Maischberger,PER,0.0,0.0,de,1
+Musks Rückkehr-Erlaubnis,Musks Rückkehr-Erlaubnis,PER,0.0,0.0,de,1
+Wayne Rooney,Wayne Rooney,PER,0.0,0.0,de,1
+Kate Moss,Kate Moss,PER,-1.0,0.0,de,1
+Franziska Giffey,Franziska Giffey,PER,0.0,0.0,de,1
 Jörg Rocholl,Jörg Rocholl,PER,0.35,0.5,de,1
-Vizekanzler Habeck,Vizekanzler Habeck,PER,0.0,0.0,de,1
+Kims Tochter,Kims Tochter,PER,0.0,0.0,de,1
+Andras Racz,Andras Racz,PER,0.0,0.0,de,1
+Christian Sewing,Christian Sewing,PER,0.7,0.0,de,1
+Host Frédéric Schwilden,Host Frédéric Schwilden,PER,-0.7,0.0,de,1
+Joseph Biden,Joseph Biden,PER,0.0,0.0,de,1
+Netanyahus Likud-Partei,Netanyahus Likud-Partei,PER,0.0,0.0,de,1
+Recep Tayyip Erdoğan,Recep Tayyip Erdoğan,PER,0.0,0.0,de,1
+Scheich Tamim bin Hamad Al-Thani,Scheich Tamim bin Hamad Al-Thani,PER,0.0,0.0,de,1
+Xi rüffelt Justin Trudeau,Xi rüffelt Justin Trudeau,PER,0.0,0.0,de,1
+Scheich T,Scheich T,PER,0.0,0.0,de,1
+Viktor Orban,Viktor Orban,PER,1.0,0.0,de,1
+Saskia Esken,Saskia Esken,PER,1.0,0.0,de,1
+Ri Sol Ju,Ri Sol Ju,PER,0.0,0.0,de,1
+Olaf Sch,Olaf Sch,PER,0.0,0.0,de,1
+Berkshire Hathaway,Berkshire Hathaway,PER,0.0,0.0,de,1
+Georg Bätzing,Georg Bätzing,PER,0.0,0.0,de,1
+Jack Smith,Jack Smith,PER,0.0,0.0,de,1
+Frédéric Schwilden,Frédéric Schwilden,PER,-0.7,0.0,de,1
+Joe Bidenwahrscheinlich,Joe Bidenwahrscheinlich,PER,0.0,0.0,de,1
+Daniel Peters,Daniel Peters,PER,1.0,0.0,de,1
+Bundesbankpräsident Nagel,Bundesbankpräsident Nagel,PER,0.0,0.0,de,1
+Königsgemahlin Camilla,Königsgemahlin Camilla,PER,0.0,0.0,de,1
+Gianni Infantino,Gianni Infantino,PER,0.0,0.0,de,1
+Zuma Wire,Zuma Wire,PER,0.7,0.0,de,1
+Kim J,Kim J,PER,0.0,0.0,de,1
+Rap-Star Kanye West,Rap-Star Kanye West,PER,0.0,0.0,de,1
+Wolodimir SelenskiSelenski,Wolodimir SelenskiSelenski,PER,-0.35,0.0,de,1
+Donald Trump kabbeln,Donald Trump kabbeln,PER,0.7,0.0,de,1
+Philip Lane,Philip Lane,PER,0.0,0.0,de,1
+Björn Seibert,Björn Seibert,PER,0.0,0.0,de,1
+Hans Magnus Enzensberger,Hans Magnus Enzensberger,PER,-1.0,0.0,de,1
+Twitter-Chef Musk,Twitter-Chef Musk,PER,0.7,0.0,de,1
+Oekl Geuetellu,Oekl Geuetellu,PER,0.0,0.0,de,1
+Jörg Harlan,Jörg Harlan,PER,0.7,0.0,de,1
+Focus Magazin-Autor,Focus Magazin-Autor,PER,0.7,0.0,de,1
+Franziska Reich,Franziska Reich,PER,0.7,0.0,de,1
+Focus Magazin-Redakteurin,Focus Magazin-Redakteurin,PER,0.7,0.0,de,1
+Volker Türk,Volker Türk,PER,0.0,0.0,de,1
+Christian Böhm,Christian Böhm,PER,0.0,0.0,de,1
+Elon Musks,Elon Musks,PER,-1.0,0.0,de,1
+Bel leOeup,Bel leOeup,PER,0.0,0.0,de,1
+Jason Redmond,Jason Redmond,PER,0.0,0.0,de,1
+Gerhard Mangott,Gerhard Mangott,PER,1.0,0.0,de,1
+Ble peleelllae,Ble peleelllae,PER,0.0,0.0,de,1
+Mike Pence ha,Mike Pence ha,PER,0.0,0.0,de,1
+Franziskus’ Wunschnachfolger,Franziskus’ Wunschnachfolger,PER,0.0,0.0,de,1
+Luis Tagle,Luis Tagle,PER,0.0,0.0,de,1
+Andrej Kurkow,Andrej Kurkow,PER,-0.7,0.0,de,1
+Kreml-Diktator Wladimir Putin,Kreml-Diktator Wladimir Putin,PER,-1.0,0.0,de,1
+Markus Lüpertz,Markus Lüpertz,PER,0.0,0.0,de,1
+Vellpolete kluenptenteu,Vellpolete kluenptenteu,PER,0.0,0.0,de,1
+enpaeleekuel Poulltel,enpaeleekuel Poulltel,PER,0.0,0.0,de,1
+Mohamed Amjahid,Mohamed Amjahid,PER,0.0,0.0,de,1
+nan Rivva,nan Rivva,PER,0.0,0.0,de,1
+Leonid Sluzki,Leonid Sluzki,PER,0.0,0.0,de,1
 Alexander De Croo,Alexander De Croo,PER,0.0,0.0,de,1
 Putins Kriegs-Kassen-Problem,Putins Kriegs-Kassen-Problem,PER,0.7,0.0,de,1
 Wladimir Pu,Wladimir Pu,PER,0.0,0.0,de,1
-Carlo Masala,Carlo Masala,PER,0.0,1.0,de,1
-Joseph Biden,Joseph Biden,PER,0.0,0.0,de,1
-Scheich Tamim bin Hamad Al-Thani,Scheich Tamim bin Hamad Al-Thani,PER,0.0,0.0,de,1
-Scheich T,Scheich T,PER,0.0,0.0,de,1
-Nancy Faeser,Nancy Faeser,PER,0.0,0.0,de,1
 Pinchas Goldschmidt,Pinchas Goldschmidt,PER,0.0,0.0,de,1
-Host Frédéric Schwilden,Host Frédéric Schwilden,PER,-0.7,0.0,de,1
-Olaf Sch,Olaf Sch,PER,0.0,0.0,de,1
-Boris Bondarew,Boris Bondarew,PER,0.0,0.0,de,1
-Kims Tochter,Kims Tochter,PER,0.0,0.0,de,1
-Riyad al-Malki,Riyad al-Malki,PER,0.0,0.0,de,1
-Mohamed Amjahid,Mohamed Amjahid,PER,0.0,0.0,de,1
-Merrick Garland,Merrick Garland,PER,1.0,0.0,de,1
-Jason Redmond,Jason Redmond,PER,0.0,0.0,de,1
-Jack Smith,Jack Smith,PER,0.0,0.0,de,1
-Frédéric Schwilden,Frédéric Schwilden,PER,-0.7,0.0,de,1
-Eva Weber,Eva Weber,PER,0.0,0.0,de,1
-Oekl Geuetellu,Oekl Geuetellu,PER,0.0,0.0,de,1
-Ble peleelllae,Ble peleelllae,PER,0.0,0.0,de,1
-Markus Lüpertz,Markus Lüpertz,PER,0.0,0.0,de,1
-Robert Habecks,Robert Habecks,PER,0.0,0.0,de,1
-Gerhard Mangott,Gerhard Mangott,PER,1.0,0.0,de,1
-Andras Racz,Andras Racz,PER,0.0,0.0,de,1
-Viktor Orban,Viktor Orban,PER,1.0,0.0,de,1
+Nancy Faeser,Nancy Faeser,PER,0.0,0.0,de,1
 WashingtonTwitter-Besitzer Elon Musk,WashingtonTwitter-Besitzer Elon Musk,PER,0.0,0.0,de,1
-Vellpolete kluenptenteu,Vellpolete kluenptenteu,PER,0.0,0.0,de,1
-Joe Bidenwahrscheinlich,Joe Bidenwahrscheinlich,PER,0.0,0.0,de,1
-Grünen-Ministerpräsident Winfried Kretschmann,Grünen-Ministerpräsident Winfried Kretschmann,PER,0.0,0.0,de,1
-enpaeleekuel Poulltel,enpaeleekuel Poulltel,PER,0.0,0.0,de,1
-Netanyahus Likud-Partei,Netanyahus Likud-Partei,PER,0.0,0.0,de,1
-Sandra Maischberger,Sandra Maischberger,PER,0.0,0.0,de,1
-Luisa Neubauers,Luisa Neubauers,PER,0.0,0.0,de,1
-nan Rivva,nan Rivva,PER,0.0,0.0,de,1
-Leonid Sluzki,Leonid Sluzki,PER,0.0,0.0,de,1
-Saskia Esken,Saskia Esken,PER,1.0,0.0,de,1
-Daniel Peters,Daniel Peters,PER,1.0,0.0,de,1
-Wirtschaftsforscher Hübner,Wirtschaftsforscher Hübner,PER,-0.7,0.0,de,1
-Xi rüffelt Justin Trudeau,Xi rüffelt Justin Trudeau,PER,0.0,0.0,de,1
-Recep Tayyip Erdoğan,Recep Tayyip Erdoğan,PER,0.0,0.0,de,1
-Gianni Infantino,Gianni Infantino,PER,0.0,0.0,de,1
-Elon Musks,Elon Musks,PER,-1.0,0.0,de,1
+Matthias Dworak Otmar Issing,Matthias Dworak Otmar Issing,PER,0.7,0.0,de,1
 Thomas Strobl,Thomas Strobl,PER,0.0,0.0,de,1
-Björn Seibert,Björn Seibert,PER,0.0,0.0,de,1
-Prinz William und Prinzessin Kate,Prinz William und Prinzessin Kate,PER,0.0,0.0,de,1
-Viktor Or,Viktor Or,PER,-1.0,0.0,de,1
-Oppositionschef Merz,Oppositionschef Merz,PER,-0.5,0.5,de,1
-Yoon Suk,Yoon Suk,PER,0.0,0.0,de,1
-Cyril Ramapho,Cyril Ramapho,PER,0.0,0.0,de,1
-Tesla-Gründer Elon Musk,Tesla-Gründer Elon Musk,PER,0.0,0.0,de,1
-Königsgemahlin Camilla,Königsgemahlin Camilla,PER,0.0,0.0,de,1
-Donald Trump kabbeln,Donald Trump kabbeln,PER,0.7,0.0,de,1
-Yoon Suk Yeol,Yoon Suk Yeol,PER,0.0,0.0,de,1
-Boris Johnsons Hammer-Vorwurf,Boris Johnsons Hammer-Vorwurf,PER,-0.7,0.0,de,1
-Arndt Striegler,Arndt Striegler,PER,0.7,0.0,de,1
-Hans Magnus Enzensberger,Hans Magnus Enzensberger,PER,-1.0,0.0,de,1
-Ex-Briten-Premier Johnson,Ex-Briten-Premier Johnson,PER,0.0,0.0,de,1
-Ex-Briten-Premier Boris Johnson,Ex-Briten-Premier Boris Johnson,PER,0.0,0.0,de,1
-Zuma Wire,Zuma Wire,PER,0.7,0.0,de,1
-Twitter-Chef Musk,Twitter-Chef Musk,PER,0.7,0.0,de,1
-Nail Akkoyun,Nail Akkoyun,PER,-0.7,0.0,de,1
-Vitali Klitschko,Vitali Klitschko,PER,0.0,0.0,de,1
-Lady Di,Lady Di,PER,0.0,0.0,de,1
-Volker Türk,Volker Türk,PER,0.0,0.0,de,1
-Susanne Gaschke,Susanne Gaschke,PER,0.0,0.0,de,1
-Melinda French Gates,Melinda French Gates,PER,0.0,0.0,de,1
-Tsai Ming-Yen,Tsai Ming-Yen,PER,0.0,0.0,de,1
-Jennifer Gates,Jennifer Gates,PER,0.7,0.0,de,1
-Anika Zuschke,Anika Zuschke,PER,-0.7,0.0,de,1
-Jens Kiffmeier,Jens Kiffmeier,PER,-0.7,0.0,de,1
-Felix Busjaeger,Felix Busjaeger,PER,-0.7,0.0,de,1
-Christian Böhm,Christian Böhm,PER,0.0,0.0,de,1
-Melinda Gates,Melinda Gates,PER,0.0,0.0,de,1
-Linken-Chef Martin Schirdewan,Linken-Chef Martin Schirdewan,PER,0.0,0.0,de,1
-Friedrich Bun,Friedrich Bun,PER,0.0,0.0,de,1
-Bel leOeup,Bel leOeup,PER,0.0,0.0,de,1
-John Lee,John Lee,PER,0.0,0.0,de,1
-Kim J,Kim J,PER,0.0,0.0,de,1
-Kevin Kühnert,Kevin Kühnert,PER,0.0,0.0,de,1
-Waldimir Putin,Waldimir Putin,PER,0.7,0.0,de,1
-Roland Berger,Roland Berger,PER,0.0,0.0,de,1
-Maia Sandu,Maia Sandu,PER,0.7,0.0,de,1
 Thomas Jäger,Thomas Jäger,PER,0.7,0.0,de,1
+Tesla-Gründer Elon Musk,Tesla-Gründer Elon Musk,PER,0.0,0.0,de,1
+Yoon Suk,Yoon Suk,PER,0.0,0.0,de,1
+Oppositionschef Merz,Oppositionschef Merz,PER,-0.5,0.5,de,1
+Viktor Or,Viktor Or,PER,-1.0,0.0,de,1
+Prinz William und Prinzessin Kate,Prinz William und Prinzessin Kate,PER,0.0,0.0,de,1
+Susanne Gaschke,Susanne Gaschke,PER,0.0,0.0,de,1
 Ingo Pakalski,Ingo Pakalski,PER,0.7,0.0,de,1
-Rap-Star Kanye West,Rap-Star Kanye West,PER,0.0,0.0,de,1
-Wolodimir SelenskiSelenski,Wolodimir SelenskiSelenski,PER,-0.35,0.0,de,1
-Verflüssigtes Erdgas,Verflüssigtes Erdgas,PER,0.0,0.0,de,1
+Maia Sandu,Maia Sandu,PER,0.7,0.0,de,1
+Boris Johnsons Hammer-Vorwurf,Boris Johnsons Hammer-Vorwurf,PER,-0.7,0.0,de,1
+Roland Berger,Roland Berger,PER,0.0,0.0,de,1
+Waldimir Putin,Waldimir Putin,PER,0.7,0.0,de,1
+John Lee,John Lee,PER,0.0,0.0,de,1
+Linken-Chef Martin Schirdewan,Linken-Chef Martin Schirdewan,PER,0.0,0.0,de,1
+Felix Busjaeger,Felix Busjaeger,PER,-0.7,0.0,de,1
+Jens Kiffmeier,Jens Kiffmeier,PER,-0.7,0.0,de,1
+Anika Zuschke,Anika Zuschke,PER,-0.7,0.0,de,1
+Yoon Suk Yeol,Yoon Suk Yeol,PER,0.0,0.0,de,1
+Ex-Briten-Premier Johnson,Ex-Briten-Premier Johnson,PER,0.0,0.0,de,1
+Focus Money-Autor,Focus Money-Autor,PER,0.7,0.0,de,1
 Martin Sonneborns,Martin Sonneborns,PER,0.0,0.0,de,1
 Kathy Hutchins,Kathy Hutchins,PER,0.0,0.0,de,1
-Oppositionsmediums Meduza,Oppositionsmediums Meduza,PER,0.0,0.0,de,1
+Klaus Hasselmann,Klaus Hasselmann,PER,1.0,0.0,de,1
+Eva Weber,Eva Weber,PER,0.0,0.0,de,1
+Carlo Masala,Carlo Masala,PER,0.0,1.0,de,1
+Boris Bondarew,Boris Bondarew,PER,0.0,0.0,de,1
+Ex-Vizepräsident Pence,Ex-Vizepräsident Pence,PER,0.0,0.0,de,1
+Friedrich Bun,Friedrich Bun,PER,0.0,0.0,de,1
+Andrej Plenkovic,Andrej Plenkovic,PER,-0.5,0.0,de,1
+Ex-Briten-Premier Boris Johnson,Ex-Briten-Premier Boris Johnson,PER,0.0,0.0,de,1
+Karl Nehammer,Karl Nehammer,PER,-0.5,0.0,de,1
+Arndt Striegler,Arndt Striegler,PER,0.7,0.0,de,1
+Cyril Ramapho,Cyril Ramapho,PER,0.0,0.0,de,1
+Alexander Görlach,Alexander Görlach,PER,-1.0,0.0,de,1
+Tsai Ming-Yen,Tsai Ming-Yen,PER,0.0,0.0,de,1
+Christian Drostensieht,Christian Drostensieht,PER,0.0,0.0,de,1
+Lady Di,Lady Di,PER,0.0,0.0,de,1
 Tim Vincent Dicke,Tim Vincent Dicke,PER,-0.7,0.0,de,1
-Bnluoep Qtteultlekhell llenl pel,Bnluoep Qtteultlekhell llenl pel,PER,0.0,0.0,de,1
-Wolodomyr Selenskyj,Wolodomyr Selenskyj,PER,0.0,0.0,de,1
-Türkei-Präsident Recep Tayyip,Türkei-Präsident Recep Tayyip,PER,0.0,0.0,de,1
-Tayyip Erdoan,Tayyip Erdoan,PER,0.0,0.0,de,1
+Nanfang Media,Nanfang Media,PER,0.7,0.0,de,1
+Doris Leuthard,Doris Leuthard,PER,0.0,0.0,de,1
+August 2022,August 2022,PER,0.0,0.0,de,1
+Pleelphuueelu Pupeu,Pleelphuueelu Pupeu,PER,0.0,0.0,de,1
+Bloplpeul Al Iluolua Ielveu,Bloplpeul Al Iluolua Ielveu,PER,-1.0,0.0,de,1
+Lula Brasiliens,Lula Brasiliens,PER,0.0,0.0,de,1
 Merz a,Merz a,PER,1.0,0.0,de,1
-Scholz Xi,Scholz Xi,PER,0.0,0.0,de,1
-RB-Leipzig-Trainer Ralf Rangnick,RB-Leipzig-Trainer Ralf Rangnick,PER,0.0,0.0,de,1
-Klaus Brinkbäumer,Klaus Brinkbäumer,PER,0.0,0.0,de,1
-Nancy Pelosis,Nancy Pelosis,PER,0.0,0.0,de,1
-huupeluellueu Peveklel,huupeluellueu Peveklel,PER,0.0,0.0,de,1
-Titus Rebhann,Titus Rebhann,PER,0.0,0.0,de,1
-Frank Plasberg,Frank Plasberg,PER,0.0,0.0,de,1
-Benito Mussolini,Benito Mussolini,PER,0.0,0.0,de,1
-Heid Klum,Heid Klum,PER,0.0,0.0,de,1
-Olppllenl peO ueaeu Uelteaeukellppealltt,Olppllenl peO ueaeu Uelteaeukellppealltt,PER,-1.0,0.0,de,1
-Sandra Kathe,Sandra Kathe,PER,-0.7,0.0,de,1
-Klima-Protesten ausged,Klima-Protesten ausged,PER,-1.0,0.0,de,1
-Jair Bolsanaro,Jair Bolsanaro,PER,0.0,0.0,de,1
-Lula da Silva,Lula da Silva,PER,0.7,0.0,de,1
-Alberto Fernández,Alberto Fernández,PER,0.0,0.0,de,1
-Netanjahus Likud,Netanjahus Likud,PER,0.0,0.0,de,1
-Daniel Gräber,Daniel Gräber,PER,0.0,0.0,de,1
-Steffi Lemke,Steffi Lemke,PER,0.0,0.0,de,1
-Cherax Wagenknechtae,Cherax Wagenknechtae,PER,0.0,0.0,de,1
-Twitter-Chef Elon Musk,Twitter-Chef Elon Musk,PER,-1.0,0.0,de,1
-Karl Lagerfeld,Karl Lagerfeld,PER,0.0,0.0,de,1
-Marcel Proust,Marcel Proust,PER,0.15000000000000002,0.0,de,1
-jW Jagd,jW Jagd,PER,-0.7,0.0,de,1
-Ursula vo,Ursula vo,PER,0.0,0.0,de,1
+Tayyip Erdoan,Tayyip Erdoan,PER,0.0,0.0,de,1
+Türkei-Präsident Recep Tayyip,Türkei-Präsident Recep Tayyip,PER,0.0,0.0,de,1
+Jair Bolson,Jair Bolson,PER,0.0,0.0,de,1
+Wolodomyr Selenskyj,Wolodomyr Selenskyj,PER,0.0,0.0,de,1
 Hu Jintao,Hu Jintao,PER,-0.7,0.0,de,1
 Christopher Peters,Christopher Peters,PER,-0.85,0.0,de,1
 Meloni s,Meloni s,PER,0.0,0.0,de,1
 Gerhard Schröder-mäßiger,Gerhard Schröder-mäßiger,PER,0.0,0.0,de,1
-Alena Zemaníková,Alena Zemaníková,PER,0.85,0.0,de,1
-pelueu elpleu Bealelnuapeket,pelueu elpleu Bealelnuapeket,PER,0.0,0.0,de,1
-Emanuel Macron,Emanuel Macron,PER,0.0,0.0,de,1
-Rushi Sunak,Rushi Sunak,PER,0.7,0.0,de,1
-Keir Starmer,Keir Starmer,PER,0.7,0.0,de,1
-Josef Somr,Josef Somr,PER,-1.0,0.0,de,1
-Miklós Marschall,Miklós Marschall,PER,0.7,0.0,de,1
-Emmanuel Macro,Emmanuel Macro,PER,0.0,0.0,de,1
-Egon Bahr,Egon Bahr,PER,0.0,0.0,de,1
-Wolfgang Thierse,Wolfgang Thierse,PER,0.7,0.0,de,1
-Alfons Schuhbeck,Alfons Schuhbeck,PER,-0.7,0.0,de,1
-Gretas K,Gretas K,PER,0.0,0.0,de,1
-Bryan Salesky,Bryan Salesky,PER,0.0,0.0,de,1
-Peter Rander,Peter Rander,PER,0.0,0.0,de,1
-Ali Chamenei,Ali Chamenei,PER,0.0,0.0,de,1
-Luiz Inácio „Lula“ da Silva,Luiz Inácio „Lula“ da Silva,PER,0.0,0.0,de,1
-Barley verteidi,Barley verteidi,PER,0.0,0.0,de,1
-Maybrit Illner,Maybrit Illner,PER,0.0,0.0,de,1
-Russland-Expertin Liana Fix,Russland-Expertin Liana Fix,PER,0.0,0.0,de,1
-Elon Musk Twitter,Elon Musk Twitter,PER,-0.2333333333333333,0.0,de,1
-Adolfo Urso,Adolfo Urso,PER,0.0,0.0,de,1
-Sachsen-Ministerpräsident Kretschmer,Sachsen-Ministerpräsident Kretschmer,PER,0.0,0.0,de,1
-Oliver B,Oliver B,PER,0.0,0.0,de,1
-Macron Scholz,Macron Scholz,PER,-1.0,0.0,de,1
-Desolate Truppenmoral,Desolate Truppenmoral,PER,0.7,0.0,de,1
-Zufallsgewinne von Stromerzeugern,Zufallsgewinne von Stromerzeugern,PER,0.0,0.0,de,1
 Irina Rastorgueva Russland,Irina Rastorgueva Russland,PER,1.0,0.0,de,1
-Itamar Ben-Gwir,Itamar Ben-Gwir,PER,1.0,0.0,de,1
-Neubauer d,Neubauer d,PER,0.0,0.0,de,1
-Interviewte si,Interviewte si,PER,0.0,0.0,de,1
-Henry Kissinger) „Egal ob Republikaner,Henry Kissinger) „Egal ob Republikaner,PER,0.0,0.0,de,1
-Sergej Lawrow,Sergej Lawrow,PER,0.0,0.0,de,1
-Joe Kaeser,Joe Kaeser,PER,0.0,0.0,de,1
-Jewgeni Prigoschin,Jewgeni Prigoschin,PER,0.0,0.0,de,1
-Jewgeni Wiktorowitsch PrigoschinDer,Jewgeni Wiktorowitsch PrigoschinDer,PER,0.0,0.0,de,1
+Desolate Truppenmoral,Desolate Truppenmoral,PER,0.7,0.0,de,1
+Epochenbruch sieh,Epochenbruch sieh,PER,0.0,0.0,de,1
+Oliver B,Oliver B,PER,0.0,0.0,de,1
+Adolfo Urso,Adolfo Urso,PER,0.0,0.0,de,1
+Carl Schmitt,Carl Schmitt,PER,0.0,0.0,de,1
+Carl Schmitts Großraum-Denken,Carl Schmitts Großraum-Denken,PER,0.0,0.0,de,1
+Brendan Simms,Brendan Simms,PER,0.0,0.0,de,1
+Titus Rebhann,Titus Rebhann,PER,0.0,0.0,de,1
+Klima-Protesten ausged,Klima-Protesten ausged,PER,-1.0,0.0,de,1
+John Roberts,John Roberts,PER,0.0,0.0,de,1
+Olppllenl peO ueaeu Uelteaeukellppealltt,Olppllenl peO ueaeu Uelteaeukellppealltt,PER,-1.0,0.0,de,1
+Bnluoep Qtteultlekhell llenl pel,Bnluoep Qtteultlekhell llenl pel,PER,0.0,0.0,de,1
+Heid Klum,Heid Klum,PER,0.0,0.0,de,1
+Benito Mussolini,Benito Mussolini,PER,0.0,0.0,de,1
+Frank Plasberg,Frank Plasberg,PER,0.0,0.0,de,1
+huupeluellueu Peveklel,huupeluellueu Peveklel,PER,0.0,0.0,de,1
+Beuhel Pelt PekOlll,Beuhel Pelt PekOlll,PER,-1.0,0.0,de,1
+Nancy Pelosis,Nancy Pelosis,PER,0.0,0.0,de,1
+Klaus Brinkbäumer,Klaus Brinkbäumer,PER,0.0,0.0,de,1
+RB-Leipzig-Trainer Ralf Rangnick,RB-Leipzig-Trainer Ralf Rangnick,PER,0.0,0.0,de,1
+Multimilliardär Elon Musk,Multimilliardär Elon Musk,PER,-1.0,0.0,de,1
+Martina RosenbergNach,Martina RosenbergNach,PER,0.0,0.0,de,1
+Martina Rosenberg,Martina Rosenberg,PER,0.0,0.0,de,1
+Illet Uothelleekltleke,Illet Uothelleekltleke,PER,-1.0,0.0,de,1
+Elon Musk Twitter,Elon Musk Twitter,PER,-0.2333333333333333,0.0,de,1
+Russland-Expertin Liana Fix,Russland-Expertin Liana Fix,PER,0.0,0.0,de,1
+Maybrit Illner,Maybrit Illner,PER,0.0,0.0,de,1
 BundeskanzlerOlaf Scholz,BundeskanzlerOlaf Scholz,PER,0.0,0.0,de,1
-Fabian Lichters,Fabian Lichters,PER,0.0,0.0,de,1
-Ptp GoOotel,Ptp GoOotel,PER,0.0,0.0,de,1
-Olaf Schol,Olaf Schol,PER,-1.0,0.0,de,1
-Donald Trump Rupert Murdoch,Donald Trump Rupert Murdoch,PER,0.0,0.0,de,1
-Rupert Murdoch,Rupert Murdoch,PER,0.0,0.0,de,1
-Roland Bu,Roland Bu,PER,0.0,0.0,de,1
-Xi J,Xi J,PER,0.0,0.0,de,1
-Olaf ScholzEs,Olaf ScholzEs,PER,0.0,0.0,de,1
-Katharina Dröge,Katharina Dröge,PER,-0.5,0.5,de,1
-Mara Sauer,Mara Sauer,PER,-0.2333333333333333,0.6666666666666666,de,1
-Hubertus Heil,Hubertus Heil,PER,0.5,0.5,de,1
-Jahren d,Jahren d,PER,0.0,0.0,de,1
-Renanthera Olaf Scholz,Renanthera Olaf Scholz,PER,0.0,0.0,de,1
-Xi »Differenzen«,Xi »Differenzen«,PER,0.0,0.0,de,1
-Helmut Kohl,Helmut Kohl,PER,0.0,0.0,de,1
-Nelson Mandela,Nelson Mandela,PER,0.0,0.0,de,1
-Friedrich Merz pokert,Friedrich Merz pokert,PER,0.7,0.0,de,1
-Nellltlelelnuapueltekleup pel,Nellltlelelnuapueltekleup pel,PER,0.0,0.0,de,1
-Charles Michel a,Charles Michel a,PER,0.7,0.0,de,1
-Winfried KretschmannDer,Winfried KretschmannDer,PER,0.0,0.0,de,1
-Anti-Mafia-Journalisten Saviano,Anti-Mafia-Journalisten Saviano,PER,0.0,0.0,de,1
-Vueke tlelaep,Vueke tlelaep,PER,0.0,0.0,de,1
-Henry Kissinger),Henry Kissinger),PER,0.0,0.0,de,1
-Volkswagen-Konzernchef Oliver Blume,Volkswagen-Konzernchef Oliver Blume,PER,0.7,0.0,de,1
-Li Keqiang,Li Keqiang,PER,0.0,0.0,de,1
-Giorgia Melonis,Giorgia Melonis,PER,-0.7,0.0,de,1
+Scholz Xi,Scholz Xi,PER,0.0,0.0,de,1
+Marcel Proust,Marcel Proust,PER,0.15000000000000002,0.0,de,1
 Amira Mohamed Ali,Amira Mohamed Ali,PER,-1.0,0.0,de,1
-Christoph Hickmann,Christoph Hickmann,PER,-0.35,0.5,de,1
 Anne Will,Anne Will,PER,0.0,0.8,de,1
-Microsoft-Gründer Bill Gates,Microsoft-Gründer Bill Gates,PER,0.0,0.0,de,1
 Olaf Scholz’,Olaf Scholz’,PER,0.0,0.0,de,1
-NFL-Team Washington Commanders,NFL-Team Washington Commanders,PER,-0.7,0.0,de,1
-Merz »Fake News«,Merz »Fake News«,PER,0.0,0.0,de,1
-Donald Trump«,Donald Trump«,PER,0.7,0.0,de,1
-Michael Deutschmann,Michael Deutschmann,PER,0.7,0.0,de,1
-Hendrik Wüst,Hendrik Wüst,PER,-1.0,0.0,de,1
-Clifford Coonan,Clifford Coonan,PER,0.0,0.0,de,1
-Klingbeil Markus Söder,Klingbeil Markus Söder,PER,0.0,0.0,de,1
-Louise Osborne,Louise Osborne,PER,0.0,0.0,de,1
-Rolf Mützenich,Rolf Mützenich,PER,0.7,0.0,de,1
 Drohende Merkel,Drohende Merkel,PER,0.0,0.0,de,1
-Gavin Williamson,Gavin Williamson,PER,0.7,0.0,de,1
-Greta Thunberg Marokkos,Greta Thunberg Marokkos,PER,0.7,0.0,de,1
-Tarek Al-Wazir,Tarek Al-Wazir,PER,0.6,0.25,de,1
-Tarek Al-Wa,Tarek Al-Wa,PER,0.0,0.0,de,1
-Nanfang Media,Nanfang Media,PER,0.7,0.0,de,1
-Charles Michel Russland,Charles Michel Russland,PER,-1.0,0.0,de,1
-Nato-Beitritt Schwedens,Nato-Beitritt Schwedens,PER,0.0,0.0,de,1
 Finanzminister Lindner,Finanzminister Lindner,PER,0.0,0.0,de,1
-Wahlautomaten Betrug,Wahlautomaten Betrug,PER,0.0,0.0,de,1
-Nancy Pelosi,Nancy Pelosi,PER,0.0,0.0,de,1
+Fabian Lichters,Fabian Lichters,PER,0.0,0.0,de,1
+Macron Scholz,Macron Scholz,PER,-1.0,0.0,de,1
+Mara Sauer,Mara Sauer,PER,-0.2333333333333333,0.6666666666666666,de,1
+Nellltlelelnuapueltekleup pel,Nellltlelelnuapueltekleup pel,PER,0.0,0.0,de,1
+Vueke tlelaep,Vueke tlelaep,PER,0.0,0.0,de,1
+Robert Habecks,Robert Habecks,PER,0.0,0.0,de,1
+Wirtschaftsforscher Hübner,Wirtschaftsforscher Hübner,PER,-0.7,0.0,de,1
+Vizekanzler Habeck,Vizekanzler Habeck,PER,0.0,0.0,de,1
+Verflüssigtes Erdgas,Verflüssigtes Erdgas,PER,0.0,0.0,de,1
+Zufallsgewinne von Stromerzeugern,Zufallsgewinne von Stromerzeugern,PER,0.0,0.0,de,1
+Sachsen-Ministerpräsident Kretschmer,Sachsen-Ministerpräsident Kretschmer,PER,0.0,0.0,de,1
+Barley verteidi,Barley verteidi,PER,0.0,0.0,de,1
+Egon Bahr,Egon Bahr,PER,0.0,0.0,de,1
+Luiz Inácio „Lula“ da Silva,Luiz Inácio „Lula“ da Silva,PER,0.0,0.0,de,1
+Ali Chamenei,Ali Chamenei,PER,0.0,0.0,de,1
+Peter Rander,Peter Rander,PER,0.0,0.0,de,1
+Bryan Salesky,Bryan Salesky,PER,0.0,0.0,de,1
+Gretas K,Gretas K,PER,0.0,0.0,de,1
+Alfons Schuhbeck,Alfons Schuhbeck,PER,-0.7,0.0,de,1
+Wolfgang Thierse,Wolfgang Thierse,PER,0.7,0.0,de,1
+Emmanuel Macro,Emmanuel Macro,PER,0.0,0.0,de,1
+Miklós Marschall,Miklós Marschall,PER,0.7,0.0,de,1
+Keir Starmer,Keir Starmer,PER,0.7,0.0,de,1
+Rushi Sunak,Rushi Sunak,PER,0.7,0.0,de,1
+Emanuel Macron,Emanuel Macron,PER,0.0,0.0,de,1
+pelueu elpleu Bealelnuapeket,pelueu elpleu Bealelnuapeket,PER,0.0,0.0,de,1
+Oppositionsmediums Meduza,Oppositionsmediums Meduza,PER,0.0,0.0,de,1
+Alena Zemaníková,Alena Zemaníková,PER,0.85,0.0,de,1
+Josef Somr,Josef Somr,PER,-1.0,0.0,de,1
+Andreas Arnold,Andreas Arnold,PER,0.0,0.0,de,1
+Jair Bolsanaro,Jair Bolsanaro,PER,0.0,0.0,de,1
+Alberto Fernández,Alberto Fernández,PER,0.0,0.0,de,1
+Jewgeni Wiktorowitsch PrigoschinDer,Jewgeni Wiktorowitsch PrigoschinDer,PER,0.0,0.0,de,1
+Rupert Murdoch,Rupert Murdoch,PER,0.0,0.0,de,1
+Donald Trump Rupert Murdoch,Donald Trump Rupert Murdoch,PER,0.0,0.0,de,1
+Olaf Schol,Olaf Schol,PER,-1.0,0.0,de,1
+Ptp GoOotel,Ptp GoOotel,PER,0.0,0.0,de,1
+Sergej Surowikin (56,Sergej Surowikin (56,PER,-0.22499999999999998,0.0,de,1
+Tschetschenen-Führer Ramsan Kadyrow,Tschetschenen-Führer Ramsan Kadyrow,PER,-0.22499999999999998,0.0,de,1
+Bills Ex-Frau Melinda,Bills Ex-Frau Melinda,PER,0.0,0.0,de,1
+Jewgeni Prigoschin,Jewgeni Prigoschin,PER,0.0,0.0,de,1
+Xi J,Xi J,PER,0.0,0.0,de,1
+Joe Kaeser,Joe Kaeser,PER,0.0,0.0,de,1
+Sergej Lawrow,Sergej Lawrow,PER,0.0,0.0,de,1
+Henry Kissinger),Henry Kissinger),PER,0.0,0.0,de,1
+Henry Kissinger) „Egal ob Republikaner,Henry Kissinger) „Egal ob Republikaner,PER,0.0,0.0,de,1
+Volkswagen-Konzernchef Oliver Blume,Volkswagen-Konzernchef Oliver Blume,PER,0.7,0.0,de,1
+William H Gates,William H Gates,PER,0.0,0.0,de,1
+Giorgia Melonis,Giorgia Melonis,PER,-0.7,0.0,de,1
+Roland Bu,Roland Bu,PER,0.0,0.0,de,1
+Olaf ScholzEs,Olaf ScholzEs,PER,0.0,0.0,de,1
 Stephanie Schunck,Stephanie Schunck,PER,0.0,0.0,de,1
+"Xi ""vorwärtsbewegen","Xi ""vorwärtsbewegen",PER,0.0,0.0,de,1
+Joseph Goebbels,Joseph Goebbels,PER,0.0,0.0,de,1
+Anti-Mafia-Journalisten Saviano,Anti-Mafia-Journalisten Saviano,PER,0.0,0.0,de,1
+Winfried KretschmannDer,Winfried KretschmannDer,PER,0.0,0.0,de,1
+Charles Michel a,Charles Michel a,PER,0.7,0.0,de,1
+Friedrich Merz pokert,Friedrich Merz pokert,PER,0.7,0.0,de,1
+Nelson Mandela,Nelson Mandela,PER,0.0,0.0,de,1
+Helmut Kohl,Helmut Kohl,PER,0.0,0.0,de,1
+Xi »Differenzen«,Xi »Differenzen«,PER,0.0,0.0,de,1
+Jill Biden,Jill Biden,PER,-0.7,0.0,de,1
+Renanthera Olaf Scholz,Renanthera Olaf Scholz,PER,0.0,0.0,de,1
+Mahmud Abbas,Mahmud Abbas,PER,0.0,0.0,de,1
+Jahren d,Jahren d,PER,0.0,0.0,de,1
+Hubertus Heil,Hubertus Heil,PER,0.5,0.5,de,1
+Katharina Dröge,Katharina Dröge,PER,-0.5,0.5,de,1
+Doug Emhoff,Doug Emhoff,PER,0.0,0.0,de,1
+Howard Theatre,Howard Theatre,PER,-0.7,0.0,de,1
 Rico Fischer,Rico Fischer,PER,0.0,0.0,de,1
+Wahlautomaten Betrug,Wahlautomaten Betrug,PER,0.0,0.0,de,1
+Netanjahus Likud,Netanjahus Likud,PER,0.0,0.0,de,1
+Jerome PowellDer,Jerome PowellDer,PER,0.0,0.0,de,1
+Marc Hujer,Marc Hujer,PER,0.0,1.0,de,1
+Li Keqiang,Li Keqiang,PER,0.0,0.0,de,1
+Maximilian Terhalle,Maximilian Terhalle,PER,0.7,0.0,de,1
+Interviewte si,Interviewte si,PER,0.0,0.0,de,1
+Neubauer d,Neubauer d,PER,0.0,0.0,de,1
+Itamar Ben-Gwir,Itamar Ben-Gwir,PER,1.0,0.0,de,1
+Xavier Marian DSouza,Xavier Marian DSouza,PER,0.0,0.0,de,1
+Ursula vo,Ursula vo,PER,0.0,0.0,de,1
+Microsoft-Gründer Bill Gates,Microsoft-Gründer Bill Gates,PER,0.0,0.0,de,1
+jW Jagd,jW Jagd,PER,-0.7,0.0,de,1
+Karl Lagerfeld,Karl Lagerfeld,PER,0.0,0.0,de,1
+Twitter-Chef Elon Musk,Twitter-Chef Elon Musk,PER,-1.0,0.0,de,1
+Cherax Wagenknechtae,Cherax Wagenknechtae,PER,0.0,0.0,de,1
+Steffi Lemke,Steffi Lemke,PER,0.0,0.0,de,1
+Daniel Gräber,Daniel Gräber,PER,0.0,0.0,de,1
+Alexandre de Moraes,Alexandre de Moraes,PER,0.7,0.0,de,1
+Christoph Hickmann,Christoph Hickmann,PER,-0.35,0.5,de,1
+NFL-Team Washington Commanders,NFL-Team Washington Commanders,PER,-0.7,0.0,de,1
+Nato-Beitritt Schwedens,Nato-Beitritt Schwedens,PER,0.0,0.0,de,1
+Rolf Mützenich,Rolf Mützenich,PER,0.7,0.0,de,1
+Johannes Höggerl,Johannes Höggerl,PER,0.0,0.0,de,1
+Charles Michel Russland,Charles Michel Russland,PER,-1.0,0.0,de,1
+Tarek Al-Wa,Tarek Al-Wa,PER,0.0,0.0,de,1
+Tarek Al-Wazir,Tarek Al-Wazir,PER,0.6,0.25,de,1
+Greta Thunberg Marokkos,Greta Thunberg Marokkos,PER,0.7,0.0,de,1
+Gavin Williamson,Gavin Williamson,PER,0.7,0.0,de,1
+Melinda Gates Foundation,Melinda Gates Foundation,PER,0.0,1.0,de,1
+Louise Osborne,Louise Osborne,PER,0.0,0.0,de,1
+Merz »Fake News«,Merz »Fake News«,PER,0.0,0.0,de,1
+Klingbeil Markus Söder,Klingbeil Markus Söder,PER,0.0,0.0,de,1
+Clifford Coonan,Clifford Coonan,PER,0.0,0.0,de,1
+Hendrik Wüst,Hendrik Wüst,PER,-1.0,0.0,de,1
+Michael Deutschmann,Michael Deutschmann,PER,0.7,0.0,de,1
+Jörg Se,Jörg Se,PER,0.0,0.0,de,1
+Kim Jong-Un,Kim Jong-Un,PER,0.0,0.0,de,1
+Donald Trump«,Donald Trump«,PER,0.7,0.0,de,1
 nan nan,nan nan,PER,0.0,0.0,,1
