@@ -132,8 +132,15 @@ emptyDict = {'count':0,'sentiment':0,'subjectivity':0}
 indexLocations = {}
 indexOrganizations = {}
 indexPersons = {}
+indexNewPersons = {}
 indexMisc = {}
 indexMissing = {}
+
+def personInSearch(person):
+    for keyword in keywordsDF['keyword']:
+        if((person in keyword) or (keyword in person)):
+             return True
+    return False
 
 def strangeCharacters(testString, testCharacters):
      count = 0
@@ -175,6 +182,14 @@ for index, column in objNewsDF.iterrows():
                     indexPersons[personText]['subjectivity'] += sentence.sentiment.subjectivity
                 else:    
                     indexPersons[personText] = {'phrase':personText, 'label':entity.label_, 'sentiment':sentence.sentiment.polarity,
+                                                 'subjectivity':sentence.sentiment.subjectivity, 'language':lang, 'count':1} 
+                if(not personInSearch(personText)):
+                  if(personText in indexNewPersons):
+                    indexNewPersons[personText]['count'] += 1
+                    indexNewPersons[personText]['sentiment'] += sentence.sentiment.polarity
+                    indexNewPersons[personText]['subjectivity'] += sentence.sentiment.subjectivity
+                  else:    
+                    indexNewPersons[personText] = {'phrase':personText, 'label':entity.label_, 'sentiment':sentence.sentiment.polarity,
                                                  'subjectivity':sentence.sentiment.subjectivity, 'language':lang, 'count':1}   
             elif('ORG' == entity.label_):
                 if(entity.text in indexOrganizations):
@@ -213,6 +228,12 @@ indexPersonsDF['sentiment'] = indexPersonsDF['sentiment']/indexPersonsDF['count'
 indexPersonsDF['subjectivity'] = indexPersonsDF['subjectivity']/indexPersonsDF['count']
 indexPersonsDF = indexPersonsDF.sort_values(by=['count'], ascending=False)
 indexPersonsDF.to_csv(DATA_PATH / 'csv' / "sentiments_persons.csv", index=True)
+
+indexNewPersonsDF = pd.DataFrame.from_dict(indexNewPersons, orient='index', columns=colSent)
+indexNewPersonsDF['sentiment'] = indexNewPersonsDF['sentiment']/indexNewPersonsDF['count']
+indexNewPersonsDF['subjectivity'] = indexNewPersonsDF['subjectivity']/indexNewPersonsDF['count']
+indexNewPersonsDF = indexNewPersonsDF.sort_values(by=['count'], ascending=False)
+indexNewPersonsDF.to_csv(DATA_PATH / 'csv' / "sentiments_new_persons.csv", index=True)
 
 indexOrganizationsDF = pd.DataFrame.from_dict(indexOrganizations, orient='index', columns=colSent)
 indexOrganizationsDF['sentiment'] = indexOrganizationsDF['sentiment']/indexOrganizationsDF['count']
