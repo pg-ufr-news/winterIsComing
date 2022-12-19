@@ -5,7 +5,7 @@ SPIEGEL,SPIEGEL,ORG,0.650000000000001,0.0,de,98
 Partei,Partei,ORG,-0.035555555555555556,0.05,de,90
 E-Paper,E-Paper,ORG,0.7000000000000012,0.0,de,90
 Grüne,Grüne,ORG,0.019252873563218392,0.0,de,58
-ZDF,ZDF,ORG,0.0713450292397661,0.0,de,57
+ZDF,ZDF,ORG,0.07134502923976607,0.0,de,57
 CDU,CDU,ORG,-0.10943396226415096,0.018867924528301886,de,53
 FDP,FDP,ORG,0.022826086956521746,0.09239130434782608,de,46
 WELT,WELT,ORG,0.5749999999999996,0.021739130434782608,de,46
@@ -755,7 +755,9 @@ deutschen Straßenmagazinen.,deutschen Straßenmagazinen.,ORG,-0.325,0.0,de,1
 "Europäischen Gerichtshof für Menschenrechte, für Putin","Europäischen Gerichtshof für Menschenrechte, für Putin",ORG,0.0,0.0,de,1
 NATO-Generalsekretär,NATO-Generalsekretär,ORG,-1.0,0.0,de,1
 Holocaust-Leugner,Holocaust-Leugner,ORG,-0.15000000000000002,0.0,de,1
-Russland  ,Russland  ,ORG,-0.7,0.0,de,1
+"Russland  WEB.DE News
+</li><li>Krieg","Russland  WEB.DE News
+</li><li>Krieg",ORG,0.0,0.0,de,1
 Landesparteivorstandes die Linke,Landesparteivorstandes die Linke,ORG,-0.7,0.0,de,1
 Blackouts | NDR.de,Blackouts | NDR.de,ORG,-1.0,0.0,de,1
 Frühlings-Offensive?,Frühlings-Offensive?,ORG,0.0,0.0,de,1
@@ -851,10 +853,8 @@ Marktw…,Marktw…,ORG,1.0,0.0,de,1
 GesprächJournalistin,GesprächJournalistin,ORG,1.0,0.0,de,1
 Volkspartei,Volkspartei,ORG,0.0,0.0,de,1
 Alibaba,Alibaba,ORG,-0.35,0.0,de,1
-"Russland  WEB.DE News
-</li><li>Krieg","Russland  WEB.DE News
-</li><li>Krieg",ORG,0.0,0.0,de,1
 THW,THW,ORG,0.0,0.0,de,1
+Russland  ,Russland  ,ORG,-0.7,0.0,de,1
 EU-Beamter,EU-Beamter,ORG,0.0,0.0,de,1
 Energie-Infrastruktur,Energie-Infrastruktur,ORG,0.0,0.0,de,1
 Grossbritannien,Grossbritannien,ORG,0.0,0.0,de,1
@@ -1179,8 +1179,8 @@ Foreign Affairs,Foreign Affairs,ORG,0.7,0.0,de,1
 Großbritanniens.,Großbritanniens.,ORG,0.0,0.0,de,1
 EU-Energieministertreffens,EU-Energieministertreffens,ORG,0.0,0.0,de,1
 Europäischen Union.,Europäischen Union.,ORG,0.0,0.0,de,1
-Konservative Partei,Konservative Partei,ORG,0.7,0.0,de,1
 Regier…,Regier…,ORG,0.0,0.0,de,1
+Konservative Partei,Konservative Partei,ORG,0.7,0.0,de,1
 Kirche für Entschädigungszahlungen und Zeugenberichte,Kirche für Entschädigungszahlungen und Zeugenberichte,ORG,1.0,0.0,de,1
 AfD: Alice Weidel,AfD: Alice Weidel,ORG,0.0,0.0,de,1
 Chefs.,Chefs.,ORG,0.0,0.0,de,1
@@ -1248,9 +1248,9 @@ Uni Kiel,Uni Kiel,ORG,0.0,0.0,de,1
 "Supreme Court,…","Supreme Court,…",ORG,0.0,0.0,de,1
 Reg…,Reg…,ORG,0.0,0.0,de,1
 Kreml-Sprecher Peskow: Teilmobilmachung,Kreml-Sprecher Peskow: Teilmobilmachung,ORG,0.0,0.0,de,1
+Sky News,Sky News,ORG,0.0,0.0,de,1
 Energiesystem +++,Energiesystem +++,ORG,0.0,0.0,de,1
 EU-Hilfe,EU-Hilfe,ORG,0.0,0.0,de,1
-Sky News,Sky News,ORG,0.0,0.0,de,1
 Kirche: Papst,Kirche: Papst,ORG,1.0,0.0,de,1
 Außenministerium,Außenministerium,ORG,0.0,0.0,de,1
 DIHK,DIHK,ORG,0.0,0.0,de,1
@@ -1626,10 +1626,10 @@ Brasilien: Militär,Brasilien: Militär,ORG,0.0,0.0,de,1
 "Bild: Obama-Robinson Family Archive
 ","Bild: Obama-Robinson Family Archive
 ",ORG,0.0,0.0,de,1
-Fridays for Future.…,Fridays for Future.…,ORG,-1.0,0.0,de,1
-"COPD27: Neubauer: ""Shitshow"" bei Protest auf","COPD27: Neubauer: ""Shitshow"" bei Protest auf",ORG,0.0,0.0,de,1
 Fridays for Future,Fridays for Future,ORG,0.0,0.0,de,1
 COPD27: Neubauer: „Shitshow“ bei Protest,COPD27: Neubauer: „Shitshow“ bei Protest,ORG,0.0,0.0,de,1
+Fridays for Future.…,Fridays for Future.…,ORG,-1.0,0.0,de,1
+"COPD27: Neubauer: ""Shitshow"" bei Protest auf","COPD27: Neubauer: ""Shitshow"" bei Protest auf",ORG,0.0,0.0,de,1
 Twitter relat…,Twitter relat…,ORG,0.0,0.0,de,1
 Account @bundeskanzler.,Account @bundeskanzler.,ORG,1.0,0.0,de,1
 MEEDIA-…,MEEDIA-…,ORG,0.0,0.0,de,1
