@@ -178,10 +178,7 @@ def findArchives(articles):
 def similar(a, b):
     return SequenceMatcher(None, a, b).ratio()
 
-<<<<<<< HEAD
 
-=======
->>>>>>> 490fb722d55b39712d6b5c750ab7653cdec7b3f7
 def checkDuplicates(dict1, data2):
     quote2 = str(data2['domain']) + ' ' + str(data2['title']) + ' ' + str(data2['description'])
     md52 = hashlib.md5(quote2.encode('utf-8')).hexdigest() 
@@ -212,10 +209,7 @@ def checkDuplicates(dict1, data2):
             return True
     return False
 
-<<<<<<< HEAD
-=======
 
->>>>>>> 490fb722d55b39712d6b5c750ab7653cdec7b3f7
 def removeDuplicates(df1):
     df1['md5'] = ''
     df1['group'] = ''
@@ -430,6 +424,9 @@ def inqRandomNews():
       if(randomNumber>0.8):
         print("DF2 seldoms")
         rndKey = keywordsNewsDF2.sample()
+      if(randomNumber>0.9):
+        print("DF2 last")
+        rndKey = keywordsNewsDF2.head(1).sample()
     if(not keywordsDF3.empty):
       if(randomNumber<0.4): 
         print("DF3 successors")
@@ -441,11 +438,7 @@ def inqRandomNews():
     #if foundNothing:  newLimit = maximum(1,random.choice(range(currPage-1,limitPage-1)))
 
     ## cheat for now!     
-<<<<<<< HEAD
     ### keywordEmptyDF = keywordsDF[keywordsDF['keyword']=="'Ron DeSantis'"]
-=======
-    ### keywordEmptyDF = keywordsDF[keywordsDF['keyword']=="'mildem Winter'"]
->>>>>>> 490fb722d55b39712d6b5c750ab7653cdec7b3f7
     ### rndKey = keywordEmptyDF.sample()
     ## rm in final version
     ### rndKey = keywordsDF3.head(1).sample()
