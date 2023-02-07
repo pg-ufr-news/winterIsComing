@@ -1,4 +1,5 @@
 keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
+'Wladimir Putin',de,Russland,#e81818,#e81818,3,0.2832388327938859
 'Papst Franziskus',de,Vatikan,#58b8e8,#58b8e8,3,0.2673101018211568
 'Olaf Scholz',de,Deutschland,#1818e8,#1818e8,3,0.2538674949989111
 'Recep Tayyip Erdoğan',de,Türkei,#111111,#111111,3,0.2530383878648413
@@ -11,7 +12,6 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Mateusz Morawiecki',de,Polen,#111111,#111111,3,0.2381867898095292
 'Charles III',de,UK,#e838e8,#e838e8,3,0.237780107237137
 'Selenskyj',de,Ukraine,#e818e8,#e818e8,3,0.2376067637748157
-'Wladimir Putin',de,Russland,#e81818,#e81818,3,0.2364409006131278
 'Papst Benedikt XVI',de,Vatikan,#58b8e8,#58b8e8,3,0.2344932781974316
 'Markus Söder',de,Deutschland,#1818e8,#1818e8,3,0.2320494401839106
 'Donald Trump',de,USA,#18e8e8,#18e8e8,3,0.2290131737241083
@@ -126,7 +126,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Michael Ballweg',de,Deutschland,#1818e8,#1818e8,1,0.1791192817129013
 'Alexei Nawalny',de,Russland,#e81818,#e81818,1,0.17902709058091
 'Wolfgang Schäuble',de,Deutschland,#1818e8,#1818e8,3,0.1788425699108791
-'Generalbundesanwalt Peter Frank',de,Deutschland,#1818e8,#1818e8,2,0.17869926412496326
+'Generalbundesanwalt Peter Frank',de,Deutschland,#1818e8,#1818e8,2,0.1786992641249632
 'Jewgeni Prigoschin',de,Russland,#e81818,#e81818,3,0.1782240775362346
 'Warren Buffett',de,USA,#18e8e8,#18e8e8,2,0.1775660381506591
 'Jürgen Grässlin',de,Deutschland,#1818e8,#1818e8,1,0.176924977767875
