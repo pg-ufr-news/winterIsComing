@@ -22,7 +22,6 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Mark Zuckerberg',de,USA,#18e8e8,#18e8e8,3,0.225182839664109
 'Markus Krebber',de,Deutschland,#1818e8,#1818e8,2,0.2250233390786797
 'Frank-Walter Steinmeier',de,Deutschland,#1818e8,#1818e8,3,0.2250167100048855
-'Barack Obama',de,USA,#18e8e8,#18e8e8,3,0.2244689134245572
 'Horst Seehofer',de,Deutschland,#1818e8,#1818e8,3,0.2242071240165156
 'Friedrich Merz',de,Deutschland,#1818e8,#1818e8,3,0.2236704024248629
 'Thomas Haldenwang',de,Deutschland,#1818e8,#1818e8,3,0.2176592260627981
@@ -43,6 +42,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Antony Blinken',de,USA,#18e8e8,#18e8e8,3,0.2055824342822016
 'Charles Michel',de,EU,#111111,#111111,3,0.2054202806622414
 'Heinrich XIII. Prinz Reuß',de,Deutschland,#1818e8,#1818e8,1,0.204844291391387
+'Barack Obama',de,USA,#18e8e8,#18e8e8,3,0.2048441055017827
 'Ron DeSantis',de,USA,#18e8e8,#18e8e8,2,0.2041511122575848
 'Alexander Lukaschenko',de,Belarus,#e81858,#e81858,3,0.2038770280879501
 'Eva Kaili',de,EU,#111111,#111111,3,0.2028991812811755
@@ -195,7 +195,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Maybrit Illner',de,Deutschland,#1818e8,#1818e8,3,0.1339414333732137
 'Silvio Berlusconi',de,Italien,#111111,#111111,3,0.1337948566427067
 'Sundar Pichai',de,USA,#18e8e8,#18e8e8,2,0.1317890543879531
-'Andreas Jödecke',de,Deutschland,#1818e8,#1818e8,1,0.13177688574349603
+'Andreas Jödecke',de,Deutschland,#1818e8,#1818e8,1,0.131776885743496
 'Miguel Díaz-Canel',de,Kuba,#111111,#111111,1,0.1294581807787991
 'Dalai Lama',de,Tibet,#111111,#111111,1,0.1254581352574358
 'Kurt Krömer',de,Deutschland,#1818e8,#1818e8,1,0.1246719832028642
