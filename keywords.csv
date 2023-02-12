@@ -71,6 +71,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Charles Koch',de,USA,#18e8e8,#18e8e8,1,0.1956638016882864
 'Andrew Forrest',de,Australien,#111111,#111111,1,0.1955635583497924
 'Daniel Zhang',de,China,#e88818,#e88818,1,0.1953459196524764
+'Karl Lauterbach',de,Deutschland,#1818e8,#1818e8,3,0.19532866247144198
 'Tamim Hamad Thani',de,Katar,#111111,#111111,2,0.1953225600778274
 'Boris Pistorius',de,Deutschland,#1818e8,#1818e8,3,0.1953204395323673
 'Luisa Neubauer',de,Deutschland,#1818e8,#1818e8,2,0.1952052945494208
@@ -89,7 +90,6 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Aleksandar Vučić',de,Serbien,#111111,#111111,1,0.1923816985903539
 'Saskia Esken',de,Deutschland,#1818e8,#1818e8,3,0.1922346139600651
 'Christian Drosten',de,Deutschland,#1818e8,#1818e8,3,0.191988304210411
-'Karl Lauterbach',de,Deutschland,#1818e8,#1818e8,3,0.1918788531749585
 'Ali Chamenei',de,Iran,#111111,#111111,3,0.1915300192224583
 'Yoon Suk-yeol',de,SüdKorea,#111111,#111111,3,0.1904242957564089
 'Wolodymyr Selenskyj',de,Ukraine,#e818e8,#e818e8,3,0.190339776168724
@@ -234,7 +234,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Thomas Dörflinger',de,Deutschland,#1818e8,#1818e8,1,0.0665617738974643
 'Chan Santokhi',de,Surinam,#111111,#111111,1,0.0640952875846985
 'Sergei Surovikin',de,Russland,#e81818,#e81818,1,0.063766614208873
-'Francoise Bettencourt-Meyers',de,Frankreich,#e8e808,#e8e808,1,0.06311342330065406
+'Francoise Bettencourt-Meyers',de,Frankreich,#e8e808,#e8e808,1,0.063113423300654
 'Kim Tok-hun',de,NordKorea,#e85858,#e85858,1,0.063113423300654
 'Iris Fontbona',de,Chile,#111111,#111111,1,0.063113423300654
 'Egon Westphal',de,Deutschland,#1818e8,#1818e8,1,0.063113423300654
