@@ -2,7 +2,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Selenskyj',de,Ukraine,#e818e8,#e818e8,3,0.3620499062136678
 'Papst Franziskus',de,Vatikan,#58b8e8,#58b8e8,3,0.2673101018211568
 'Papst Benedikt XVI',de,Vatikan,#58b8e8,#58b8e8,3,0.2647199056340079
-'König Charles III',de,UK,#e838e8,#e838e8,3,0.26111816309521496
+'König Charles III',de,UK,#e838e8,#e838e8,3,0.2611181630952149
 'Wladimir Putin',de,Russland,#e81818,#e81818,3,0.254836216965712
 'Olaf Scholz',de,Deutschland,#1818e8,#1818e8,3,0.2538674949989111
 'Recep Tayyip Erdoğan',de,Türkei,#111111,#111111,3,0.2530383878648413
@@ -218,7 +218,6 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Yang Huiyan',de,China,#e88818,#e88818,1,0.074297745308834
 'Jacqueline Mars',de,USA,#18e8e8,#18e8e8,1,0.0742510862360636
 'Helge Lund',de,UK,#e838e8,#e838e8,1,0.0742510862360636
-'Choe Ryong-hae',de,NordKorea,#e85858,#e85858,1,0.0742510862360636
 'Katharina König-Press',de,Deutschland,#1818e8,#1818e8,1,0.0742510862360636
 'Sergei Ignatjew',de,Russland,#e81818,#e81818,1,0.0742510862360636
 'Gina Rinehart',de,Australien,#111111,#111111,1,0.0742510862360636
@@ -234,6 +233,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Ilham Aliyev',de,Aserbaidschan,#111111,#111111,1,0.0653796285604981
 'Chan Santokhi',de,Surinam,#111111,#111111,1,0.0640952875846985
 'Sergei Surovikin',de,Russland,#e81818,#e81818,1,0.063766614208873
+'Choe Ryong-hae',de,NordKorea,#e85858,#e85858,1,0.06311342330065406
 'Francoise Bettencourt-Meyers',de,Frankreich,#e8e808,#e8e808,1,0.063113423300654
 'Kim Tok-hun',de,NordKorea,#e85858,#e85858,1,0.063113423300654
 'Iris Fontbona',de,Chile,#111111,#111111,1,0.063113423300654
