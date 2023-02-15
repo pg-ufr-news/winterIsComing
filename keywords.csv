@@ -188,7 +188,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Hans Joachim Schellnhuber',de,Deutschland,#1818e8,#1818e8,2,0.1419909094835685
 'Sergey Brin',de,USA,#18e8e8,#18e8e8,2,0.1416478435878737
 'Carola Rackete',de,Deutschland,#1818e8,#1818e8,1,0.1415173431759021
-'Joana Cotar',de,Deutschland,#1818e8,#1818e8,1,0.13838478955681377
+'Joana Cotar',de,Deutschland,#1818e8,#1818e8,1,0.1383847895568137
 'John Roberts',de,USA,#18e8e8,#18e8e8,1,0.1373765928807739
 'Bernard Arnault',de,Frankreich,#e8e808,#e8e808,2,0.1341940440751421
 'Maybrit Illner',de,Deutschland,#1818e8,#1818e8,3,0.1339414333732137
@@ -216,10 +216,10 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Charles Holliday',de,USA,#18e8e8,#18e8e8,1,0.0749648181496656
 'Dimitry Peskov',de,Russland,#e81818,#e81818,1,0.0745093391322185
 'Yang Huiyan',de,China,#e88818,#e88818,1,0.074297745308834
-'Jacqueline Mars',de,USA,#18e8e8,#18e8e8,1,0.0742510862360636
-'Helge Lund',de,UK,#e838e8,#e838e8,1,0.0742510862360636
 'Katharina König-Press',de,Deutschland,#1818e8,#1818e8,1,0.0742510862360636
+'Helge Lund',de,UK,#e838e8,#e838e8,1,0.0742510862360636
 'Sergei Ignatjew',de,Russland,#e81818,#e81818,1,0.0742510862360636
+'Jacqueline Mars',de,USA,#18e8e8,#18e8e8,1,0.0742510862360636
 'Gina Rinehart',de,Australien,#111111,#111111,1,0.0742510862360636
 'Dmitry Peskov',de,Russland,#e81818,#e81818,1,0.0740861425996115
 'Igor Setschin',de,Russland,#e81818,#e81818,1,0.0735075777920044
@@ -232,7 +232,6 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Thomas Dörflinger',de,Deutschland,#1818e8,#1818e8,1,0.0665617738974643
 'Ilham Aliyev',de,Aserbaidschan,#111111,#111111,1,0.0653796285604981
 'Chan Santokhi',de,Surinam,#111111,#111111,1,0.0640952875846985
-'Sergei Surovikin',de,Russland,#e81818,#e81818,1,0.063766614208873
 'Choe Ryong-hae',de,NordKorea,#e85858,#e85858,1,0.063113423300654
 'Francoise Bettencourt-Meyers',de,Frankreich,#e8e808,#e8e808,1,0.063113423300654
 'Kim Tok-hun',de,NordKorea,#e85858,#e85858,1,0.063113423300654
@@ -243,6 +242,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Darren Woods',de,USA,#18e8e8,#18e8e8,1,0.0553939088378827
 'Amin H. Nasser',de,SaudiArabien,#111111,#111111,1,0.0551833295896002
 'Ethan Bradley',de,USA,#18e8e8,#18e8e8,1,0.0551485049908643
+'Sergei Surovikin',de,Russland,#e81818,#e81818,1,0.05420162207754205
 'Egon Westphal',de,Deutschland,#1818e8,#1818e8,1,0.0536464098055559
 'Guillaume Pousaz',de,Schweiz,#111111,#111111,1,0.0470448764684652
 'Miriam Adelson',de,USA,#18e8e8,#18e8e8,1,0.0455994483347225
