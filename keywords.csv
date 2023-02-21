@@ -18,7 +18,6 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Papst Benedikt XVI',de,Vatikan,#58b8e8,#58b8e8,3,0.2390544938798157
 'Mateusz Morawiecki',de,Polen,#111111,#111111,3,0.2381867898095292
 'Charles III',de,UK,#e838e8,#e838e8,3,0.237780107237137
-'Ron DeSantis',de,USA,#18e8e8,#18e8e8,3,0.2331010289104527
 'Markus Söder',de,Deutschland,#1818e8,#1818e8,3,0.2320494401839106
 'Barack Obama',de,USA,#18e8e8,#18e8e8,3,0.2290709096765152
 'Jacinda Ardern',de,Neuseeland,#1818e8,#1818e8,3,0.2278266061495537
@@ -44,6 +43,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Antony Blinken',de,USA,#18e8e8,#18e8e8,3,0.2055824342822016
 'Charles Michel',de,EU,#111111,#111111,3,0.2054202806622414
 'Alexander Lukaschenko',de,Belarus,#e81858,#e81858,3,0.2038770280879501
+'Ron DeSantis',de,USA,#18e8e8,#18e8e8,3,0.2030871345738848
 'Lael Brainard',de,USA,#18e8e8,#18e8e8,1,0.2025306415431094
 'Michael Mann',de,USA,#18e8e8,#18e8e8,3,0.2020366728643551
 'Viktor Orbán',de,Ungarn,#111111,#111111,3,0.2015690294958199
@@ -129,7 +129,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Tamim bin Hamad Al Thani',de,Katar,#111111,#111111,1,0.1766290482104179
 'Benjamin Netanjahu',de,Israel,#111111,#111111,3,0.1765678329065039
 'Sergej Lavrov',de,Russland,#e81818,#e81818,1,0.1760797508627646
-'Cyril Ramaphosa',de,Südafrika,#111111,#111111,1,0.17601881286233642
+'Cyril Ramaphosa',de,Südafrika,#111111,#111111,1,0.1760188128623364
 'Susanne Klatten',de,Deutschland,#1818e8,#1818e8,1,0.1754588418222482
 'Nicola Sturgeon',de,UK,#e838e8,#e838e8,2,0.1747205822230828
 'Fidel Castro',de,Kuba,#111111,#111111,2,0.1744044789876273
@@ -212,11 +212,11 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Katalin Novak',de,Ungarn,#111111,#111111,1,0.0846712303252764
 'Bartholomäus',de,Türkei,#111111,#111111,1,0.0826727256701752
 'Philipp Wolff',de,Deutschland,#1818e8,#1818e8,3,0.0769645096288959
-'Helge Lund',de,UK,#e838e8,#e838e8,1,0.0742510862360636
-'Gina Rinehart',de,Australien,#111111,#111111,1,0.0742510862360636
-'Katharina König-Press',de,Deutschland,#1818e8,#1818e8,1,0.0742510862360636
-'Jacqueline Mars',de,USA,#18e8e8,#18e8e8,1,0.0742510862360636
 'Sergei Ignatjew',de,Russland,#e81818,#e81818,1,0.0742510862360636
+'Gina Rinehart',de,Australien,#111111,#111111,1,0.0742510862360636
+'Helge Lund',de,UK,#e838e8,#e838e8,1,0.0742510862360636
+'Jacqueline Mars',de,USA,#18e8e8,#18e8e8,1,0.0742510862360636
+'Katharina König-Press',de,Deutschland,#1818e8,#1818e8,1,0.0742510862360636
 'Igor Setschin',de,Russland,#e81818,#e81818,1,0.0735075777920044
 'Herman Gref',de,Russland,#e81818,#e81818,1,0.0708351964558468
 'Yanis Varoufakis',de,Griechenland,#1858e8,#1858e8,1,0.0705370958585154
