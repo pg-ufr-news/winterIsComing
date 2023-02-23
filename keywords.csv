@@ -31,7 +31,6 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Thomas Haldenwang',de,Deutschland,#1818e8,#1818e8,3,0.2176592260627981
 'Kevin Kühnert',de,Deutschland,#1818e8,#1818e8,3,0.2158137437986348
 'Mike Pence',de,USA,#18e8e8,#18e8e8,3,0.2147546952772353
-'Alexej Kudrin',de,Russland,#e81818,#e81818,1,0.2141673796936554
 'Ursula von der Leyen',de,EU,#111111,#111111,3,0.212724283319859
 'Alice Weidel',de,Deutschland,#1818e8,#1818e8,2,0.2119079484743716
 'Angela Merkel',de,Deutschland,#1818e8,#1818e8,3,0.2114151729386467
@@ -110,6 +109,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Lukaschenko',de,Belarus,#e81858,#e81858,3,0.1837074882022694
 'Hun Sen',de,Kambodscha,#111111,#111111,1,0.1836343328764497
 'Stefan Rahmstorf',de,Deutschland,#1818e8,#1818e8,2,0.183327861723792
+'Alexej Kudrin',de,Russland,#e81818,#e81818,1,0.18219228773960708
 'Schellnhuber',de,Deutschland,#1818e8,#1818e8,2,0.1821111226625844
 'Selenski',de,Ukraine,#e818e8,#e818e8,3,0.1818983576607825
 'Ricarda Lang',de,Deutschland,#1818e8,#1818e8,3,0.1812946553975996
@@ -163,7 +163,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Melinda Gates',de,USA,#18e8e8,#18e8e8,1,0.1608978664171119
 'Lula sa Silva',de,Brasilien,#58e838,#58e838,1,0.1604474658500764
 'Jair Bolsonaro',de,Brasilien,#58e838,#58e848,3,0.1603162913540789
-'Cyril Ramaphosa',de,Südafrika,#111111,#111111,2,0.15946635093298595
+'Cyril Ramaphosa',de,Südafrika,#111111,#111111,2,0.1594663509329859
 'Erik Marquardt',de,EU,#111111,#111111,1,0.1593143924260272
 'Kim Jong-un',de,NordKorea,#e85858,#e85858,2,0.158551711596083
 'Joko Widodo',de,Indonesien,#111111,#111111,1,0.1579323517396349
@@ -229,11 +229,11 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Charles Holliday',de,USA,#18e8e8,#18e8e8,1,0.0637200954272157
 'Dimitry Peskov',de,Russland,#e81818,#e81818,1,0.0634829532623857
 'Yang Huiyan',de,China,#e88818,#e88818,1,0.0631530835125089
+'Kim Tok-hun',de,NordKorea,#e85858,#e85858,1,0.063113423300654
 'Iris Fontbona',de,Chile,#111111,#111111,1,0.063113423300654
 'Helge Lund',de,UK,#e838e8,#e838e8,1,0.063113423300654
-'Choe Ryong-hae',de,NordKorea,#e85858,#e85858,1,0.063113423300654
-'Kim Tok-hun',de,NordKorea,#e85858,#e85858,1,0.063113423300654
 'Francoise Bettencourt-Meyers',de,Frankreich,#e8e808,#e8e808,1,0.063113423300654
+'Choe Ryong-hae',de,NordKorea,#e85858,#e85858,1,0.063113423300654
 'Dmitry Peskov',de,Russland,#e81818,#e81818,1,0.0629732212096697
 'Michael Kahle',de,Deutschland,#1818e8,#1818e8,1,0.0606687331186543
 'Valery Gerasimov',de,Russland,#e81818,#e81818,1,0.0589368089809115
