@@ -1,5 +1,5 @@
 keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
-'König Charles III',de,UK,#e838e8,#e838e8,3,0.32487336213174733
+'König Charles III',de,UK,#e838e8,#e838e8,3,0.3248733621317473
 'Selenskyj',de,Ukraine,#e818e8,#e818e8,3,0.3154975308258729
 'Donald Trump',de,USA,#18e8e8,#18e8e8,3,0.2773740952429409
 'Papst Franziskus',de,Vatikan,#58b8e8,#58b8e8,3,0.2673101018211568
@@ -229,14 +229,13 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Charles Holliday',de,USA,#18e8e8,#18e8e8,1,0.0637200954272157
 'Dimitry Peskov',de,Russland,#e81818,#e81818,1,0.0634829532623857
 'Yang Huiyan',de,China,#e88818,#e88818,1,0.0631530835125089
+'Helge Lund',de,UK,#e838e8,#e838e8,1,0.063113423300654
 'Choe Ryong-hae',de,NordKorea,#e85858,#e85858,1,0.063113423300654
 'Francoise Bettencourt-Meyers',de,Frankreich,#e8e808,#e8e808,1,0.063113423300654
-'Kim Tok-hun',de,NordKorea,#e85858,#e85858,1,0.063113423300654
-'Helge Lund',de,UK,#e838e8,#e838e8,1,0.063113423300654
 'Iris Fontbona',de,Chile,#111111,#111111,1,0.063113423300654
+'Kim Tok-hun',de,NordKorea,#e85858,#e85858,1,0.063113423300654
 'Dmitry Peskov',de,Russland,#e81818,#e81818,1,0.0629732212096697
 'Michael Kahle',de,Deutschland,#1818e8,#1818e8,1,0.0606687331186543
-'Valery Gerasimov',de,Russland,#e81818,#e81818,1,0.0589368089809115
 'Michael Wirth',de,USA,#18e8e8,#18e8e8,1,0.0575251203980542
 'Sucharit Bhakdi',de,Deutschland,#1818e8,#1818e8,1,0.056022804177542
 'Darren Woods',de,USA,#18e8e8,#18e8e8,1,0.0553939088378827
@@ -244,6 +243,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Ethan Bradley',de,USA,#18e8e8,#18e8e8,1,0.0551485049908643
 'Sergei Surovikin',de,Russland,#e81818,#e81818,1,0.054201622077542
 'Egon Westphal',de,Deutschland,#1818e8,#1818e8,1,0.0536464098055559
+'Valery Gerasimov',de,Russland,#e81818,#e81818,1,0.05009628763377477
 'Guillaume Pousaz',de,Schweiz,#111111,#111111,1,0.0470448764684652
 'Miriam Adelson',de,USA,#18e8e8,#18e8e8,1,0.0455994483347225
 'Bodo Schiffmann',de,Deutschland,#1818e8,#1818e8,1,0.0364798437452401
