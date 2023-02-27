@@ -1,7 +1,7 @@
 keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Selenskyj',de,Ukraine,#e818e8,#e818e8,3,0.3413519543838101
 'König Charles III',de,UK,#e838e8,#e838e8,3,0.2909364484356419
-'Wladimir Putin',de,Russland,#e81818,#e81818,3,0.28524934805721885
+'Wladimir Putin',de,Russland,#e81818,#e81818,3,0.2852493480572188
 'Donald Trump',de,USA,#18e8e8,#18e8e8,3,0.2773740952429409
 'Gabor Steingart',de,Deutschland,#1818e8,#1818e8,3,0.276976222020499
 'Papst Franziskus',de,Vatikan,#58b8e8,#58b8e8,3,0.2673101018211568
@@ -100,7 +100,6 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Fumio Kishida',de,Japan,#111111,#111111,3,0.1870351350228879
 'Gautam Adani',de,Indien,#111111,#111111,3,0.186862394265635
 'Karine Jean-Pierre',de,USA,#18e8e8,#18e8e8,3,0.18611209366118
-'Christine Lagarde',de,EU,#111111,#111111,3,0.185711228137943
 'Subrahmanyam Jaishankar',de,Indien,#111111,#111111,1,0.1856098604581918
 'Jack Ma',de,China,#e88818,#e88818,2,0.1853229035189129
 'Boris Palmer',de,Deutschland,#1818e8,#1818e8,1,0.1853128180963224
@@ -148,6 +147,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Andrea Lindholz',de,Deutschland,#1818e8,#1818e8,1,0.1682330934331513
 'Rainer Maria Woelki',de,Deutschland,#1818e8,#1818e8,3,0.167805095307067
 'Paul Ronzheimer',de,Deutschland,#1818e8,#1818e8,1,0.1673837095450341
+'Christine Lagarde',de,EU,#111111,#111111,3,0.1673524284627061
 'Nicola Beer',de,EU,#111111,#111111,1,0.1667440068151918
 'Bill Gates',de,USA,#18e8e8,#18e8e8,3,0.1662608572072938
 'Justin Trudeau',de,Kanada,#111111,#111111,3,0.1634951557403245
