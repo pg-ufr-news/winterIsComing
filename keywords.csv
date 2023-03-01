@@ -20,6 +20,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Papst Benedikt XVI',de,Vatikan,#58b8e8,#58b8e8,3,0.2390544938798157
 'Charles III',de,UK,#e838e8,#e838e8,3,0.237780107237137
 'Markus Söder',de,Deutschland,#1818e8,#1818e8,3,0.2320494401839106
+'Alice Weidel',de,Deutschland,#1818e8,#1818e8,2,0.2305275016577613
 'Barack Obama',de,USA,#18e8e8,#18e8e8,3,0.2290709096765152
 'Jacinda Ardern',de,Neuseeland,#1818e8,#1818e8,3,0.2278266061495537
 'Lothar Wieler',de,Deutschland,#1818e8,#1818e8,3,0.2276949466622334
@@ -34,7 +35,6 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Mateusz Morawiecki',de,Polen,#111111,#111111,3,0.2155774012055666
 'Mike Pence',de,USA,#18e8e8,#18e8e8,3,0.2147546952772353
 'Ursula von der Leyen',de,EU,#111111,#111111,3,0.212724283319859
-'Alice Weidel',de,Deutschland,#1818e8,#1818e8,2,0.2119079484743716
 'Angela Merkel',de,Deutschland,#1818e8,#1818e8,3,0.2114151729386467
 'Andrés Manuel López Obrador',de,Mexiko,#111111,#111111,3,0.2113060175513874
 'Putin',de,Russland,#e81818,#e81818,3,0.2094561580501438
@@ -242,7 +242,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Iris Fontbona',de,Chile,#111111,#111111,1,0.0536464098055559
 'Egon Westphal',de,Deutschland,#1818e8,#1818e8,1,0.0536464098055559
 'Valery Gerasimov',de,Russland,#e81818,#e81818,1,0.0500962876337747
-'Darren Woods',de,USA,#18e8e8,#18e8e8,1,0.048734987512200297
+'Darren Woods',de,USA,#18e8e8,#18e8e8,1,0.0487349875122002
 'Ethan Bradley',de,USA,#18e8e8,#18e8e8,1,0.0468762292422346
 'Miriam Adelson',de,USA,#18e8e8,#18e8e8,1,0.0455994483347225
 'Guillaume Pousaz',de,Schweiz,#111111,#111111,1,0.0399881449981954
