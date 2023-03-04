@@ -56,7 +56,6 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Klaus-Michael Kühne',de,Deutschland,#1818e8,#1818e8,1,0.2004791125635225
 'Xi Jinping',de,China,#e88818,#e88818,3,0.1996088260611851
 'Joschka Fischer',de,Deutschland,#1818e8,#1818e8,1,0.1993511192677727
-'Paul Kagame',de,Ruanda,#111111,#111111,1,0.1989867579240369
 'Warren Buffet',de,USA,#18e8e8,#18e8e8,2,0.1988121366111569
 'Maria Kolesnikowa',de,Belarus,#e81858,#e81858,1,0.1986028807575939
 'Martin Schirdewan',de,Deutschland,#1818e8,#1818e8,3,0.1984682350970776
@@ -137,6 +136,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Yoon Suk-yeol',de,SüdKorea,#111111,#111111,3,0.1713569609384021
 'Jeff Bezos',de,USA,#18e8e8,#18e8e8,2,0.1707462259101499
 'Thierry Breton',de,EU,#111111,#111111,2,0.1707289014687776
+'Paul Kagame',de,Ruanda,#111111,#111111,1,0.16943877423543136
 'Patriarch Kyrill',de,Ukraine,#e818e8,#e818e8,3,0.1693208263747925
 'Steffen Große',de,Deutschland,#1818e8,#1818e8,3,0.1691721884226711
 'Nikos Androulakis',de,Griechenland,#1858e8,#1858e8,1,0.1689813307046576
@@ -211,7 +211,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Larry Page',de,USA,#18e8e8,#18e8e8,2,0.0977199728110289
 'Katalin Novak',de,Ungarn,#111111,#111111,1,0.0846712303252764
 'Philipp Wolff',de,Deutschland,#1818e8,#1818e8,3,0.0769645096288959
-'Bartholomäus',de,Türkei,#111111,#111111,1,0.07117190681964893
+'Bartholomäus',de,Türkei,#111111,#111111,1,0.0711719068196489
 'Herman Gref',de,Russland,#e81818,#e81818,1,0.0708351964558468
 'Yanis Varoufakis',de,Griechenland,#1858e8,#1858e8,1,0.0705370958585154
 'Barbara Frenkel',de,Deutschland,#1818e8,#1818e8,1,0.0698281636747406
