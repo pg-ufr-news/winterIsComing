@@ -12,7 +12,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Recep Tayyip Erdoğan',de,Türkei,#111111,#111111,3,0.2530383878648413
 'Kevin Kühnert',de,Deutschland,#1818e8,#1818e8,3,0.2520302358652032
 'Sandra Maischberger',de,Deutschland,#1818e8,#1818e8,3,0.2496236991650897
-'Angela Merkel',de,Deutschland,#1818e8,#1818e8,3,0.24714453067544495
+'Angela Merkel',de,Deutschland,#1818e8,#1818e8,3,0.2471445306754449
 'Jan Böhmermann',de,Deutschland,#1818e8,#1818e8,3,0.2468583772174039
 'Nancy Faeser',de,Deutschland,#1818e8,#1818e8,3,0.2448319842083268
 'David Malpass',de,USA,#18e8e8,#18e8e8,3,0.2432576681222887
@@ -212,7 +212,6 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Katalin Novak',de,Ungarn,#111111,#111111,1,0.0846712303252764
 'Philipp Wolff',de,Deutschland,#1818e8,#1818e8,3,0.0769645096288959
 'Bartholomäus',de,Türkei,#111111,#111111,1,0.0711719068196489
-'Herman Gref',de,Russland,#e81818,#e81818,1,0.0708351964558468
 'Yanis Varoufakis',de,Griechenland,#1858e8,#1858e8,1,0.0705370958585154
 'Barbara Frenkel',de,Deutschland,#1818e8,#1818e8,1,0.0698281636747406
 'Erica Chenoweth',de,USA,#18e8e8,#18e8e8,1,0.0695592324274716
@@ -233,6 +232,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Jacqueline Mars',de,USA,#18e8e8,#18e8e8,1,0.063113423300654
 'Dmitry Peskov',de,Russland,#e81818,#e81818,1,0.0629732212096697
 'Michael Kahle',de,Deutschland,#1818e8,#1818e8,1,0.0606687331186543
+'Herman Gref',de,Russland,#e81818,#e81818,1,0.060209916987469775
 'Michael Wirth',de,USA,#18e8e8,#18e8e8,1,0.0575251203980542
 'Sucharit Bhakdi',de,Deutschland,#1818e8,#1818e8,1,0.056022804177542
 'Amin H. Nasser',de,SaudiArabien,#111111,#111111,1,0.0551833295896002
