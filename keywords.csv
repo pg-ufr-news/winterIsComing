@@ -9,7 +9,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Putin',de,Russland,#e81818,#e81818,3,0.2694254707062586
 'Papst Franziskus',de,Vatikan,#58b8e8,#58b8e8,3,0.2673101018211568
 'Mike Pence',de,USA,#18e8e8,#18e8e8,3,0.2647658382583773
-'Nancy Faeser',de,Deutschland,#1818e8,#1818e8,3,0.25852568203162324
+'Nancy Faeser',de,Deutschland,#1818e8,#1818e8,3,0.2585256820316232
 'Recep Tayyip Erdoğan',de,Türkei,#111111,#111111,3,0.2530383878648413
 'Kevin Kühnert',de,Deutschland,#1818e8,#1818e8,3,0.2520302358652032
 'Sandra Maischberger',de,Deutschland,#1818e8,#1818e8,3,0.2496236991650897
@@ -28,7 +28,6 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Lothar Wieler',de,Deutschland,#1818e8,#1818e8,3,0.2276949466622334
 'Mukesh Ambani',de,Indien,#111111,#111111,1,0.2259316638086625
 'Frank-Walter Steinmeier',de,Deutschland,#1818e8,#1818e8,3,0.2250167100048855
-'Horst Seehofer',de,Deutschland,#1818e8,#1818e8,3,0.2242071240165156
 'Friedrich Merz',de,Deutschland,#1818e8,#1818e8,3,0.2236704024248629
 'Warren Buffett',de,USA,#18e8e8,#18e8e8,2,0.2195180810644239
 'Markus Krebber',de,Deutschland,#1818e8,#1818e8,2,0.2178043337431935
@@ -89,6 +88,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Christian Drosten',de,Deutschland,#1818e8,#1818e8,3,0.191988304210411
 'Ali Chamenei',de,Iran,#111111,#111111,3,0.1915300192224583
 'Eva Kaili',de,EU,#111111,#111111,3,0.1910525127253628
+'Horst Seehofer',de,Deutschland,#1818e8,#1818e8,2,0.19057646041403828
 'Wolodymyr Selenskyj',de,Ukraine,#e818e8,#e818e8,3,0.190339776168724
 'Sergej Lawrow',de,Russland,#e81818,#e81818,3,0.1901162263136014
 'Edward Snowden',de,USA,#18e8e8,#18e8e8,1,0.189299821846266
