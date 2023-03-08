@@ -12,7 +12,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Nancy Faeser',de,Deutschland,#1818e8,#1818e8,3,0.2585256820316232
 'Recep Tayyip Erdoğan',de,Türkei,#111111,#111111,3,0.2530383878648413
 'Kevin Kühnert',de,Deutschland,#1818e8,#1818e8,3,0.2520302358652032
-'Boris Johnson',de,UK,#e838e8,#e838e8,3,0.25031825240259664
+'Boris Johnson',de,UK,#e838e8,#e838e8,3,0.2503182524025966
 'Sandra Maischberger',de,Deutschland,#1818e8,#1818e8,3,0.2496236991650897
 'Angela Merkel',de,Deutschland,#1818e8,#1818e8,3,0.2471445306754449
 'Jan Böhmermann',de,Deutschland,#1818e8,#1818e8,3,0.2468583772174039
@@ -115,7 +115,6 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Aleksandar Vucic',de,Serbien,#111111,#111111,3,0.1799398351156475
 'Marine Le Pen',de,Frankreich,#e8e808,#e8e808,2,0.1795522340493467
 'Gregor Gysi',de,Deutschland,#1818e8,#1818e8,2,0.1793542177960141
-'Anthony Fauci',de,USA,#18e8e8,#18e8e8,2,0.1791878470342988
 'Michael Ballweg',de,Deutschland,#1818e8,#1818e8,1,0.1791192817129013
 'Alexei Nawalny',de,Russland,#e81818,#e81818,1,0.17902709058091
 'Benjamin Netanyahu',de,Israel,#111111,#111111,2,0.1788300694522177
@@ -171,6 +170,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Mohammed bin Salman',de,SaudiArabien,#111111,#111111,2,0.1541258243641326
 'Julian Assange',de,Australien,#111111,#111111,2,0.1535210258180711
 'Kardinal Woelki',de,Deutschland,#1818e8,#1818e8,3,0.1524672705192936
+'Anthony Fauci',de,USA,#18e8e8,#18e8e8,1,0.15230978997915395
 'Wolfgang Schäuble',de,Deutschland,#1818e8,#1818e8,2,0.1520164994242472
 'Otmar Issing',de,EU,#111111,#111111,2,0.1503360076649887
 'Volker Wissing',de,Deutschland,#1818e8,#1818e8,3,0.1503320227641828
