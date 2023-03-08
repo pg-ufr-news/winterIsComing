@@ -36,7 +36,6 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Mateusz Morawiecki',de,Polen,#111111,#111111,3,0.2155774012055666
 'Maybrit Illner',de,Deutschland,#1818e8,#1818e8,3,0.2142560238217771
 'Ursula von der Leyen',de,EU,#111111,#111111,3,0.212724283319859
-'Andrés Manuel López Obrador',de,Mexiko,#111111,#111111,3,0.2113060175513874
 'Alice Weidel',de,Deutschland,#1818e8,#1818e8,3,0.2099905305000062
 'Annalena Baerbock',de,Deutschland,#1818e8,#1818e8,3,0.2087602907003272
 'Antony Blinken',de,USA,#18e8e8,#18e8e8,3,0.2069797514125986
@@ -53,6 +52,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Karl Nehammer',de,Oesterreich,#111111,#111111,3,0.2008827578387327
 'Anthony Albanese',de,Australien,#111111,#111111,2,0.2005131603908586
 'Klaus-Michael Kühne',de,Deutschland,#1818e8,#1818e8,1,0.2004791125635225
+'Andrés Manuel López Obrador',de,Mexiko,#111111,#111111,3,0.19988196349010787
 'Xi Jinping',de,China,#e88818,#e88818,3,0.1996088260611851
 'Joschka Fischer',de,Deutschland,#1818e8,#1818e8,1,0.1993511192677727
 'Warren Buffet',de,USA,#18e8e8,#18e8e8,2,0.1988121366111569
@@ -199,7 +199,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Dalai Lama',de,Tibet,#111111,#111111,1,0.1254581352574358
 'Hans Joachim Schellnhuber',de,Deutschland,#1818e8,#1818e8,2,0.1236925730610332
 'Jochen Thewes',de,Deutschland,#1818e8,#1818e8,1,0.1212283256646623
-'Klaus Hasselmann',de,Deutschland,#1818e8,#1818e8,1,0.12121590765148377
+'Klaus Hasselmann',de,Deutschland,#1818e8,#1818e8,1,0.1212159076514837
 'Tamim bin Hamad Al-Thani',de,Katar,#111111,#111111,1,0.1182916347102054
 'Alberto Ángel Fernández',de,Argentinien,#111111,#111111,1,0.1155569800506883
 'Lee Hsien Loong',de,Singapur,#111111,#111111,1,0.1155152699447566
