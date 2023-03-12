@@ -39,7 +39,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Annalena Baerbock',de,Deutschland,#1818e8,#1818e8,3,0.2087602907003272
 'Antony Blinken',de,USA,#18e8e8,#18e8e8,3,0.2069797514125986
 'Charles Michel',de,EU,#111111,#111111,3,0.2054202806622414
-'Papst Benedikt XVI',de,Vatikan,#58b8e8,#58b8e8,2,0.20319702479784332
+'Papst Benedikt XVI',de,Vatikan,#58b8e8,#58b8e8,2,0.2031970247978433
 'Ron DeSantis',de,USA,#18e8e8,#18e8e8,3,0.2030871345738848
 'Lael Brainard',de,USA,#18e8e8,#18e8e8,1,0.2025306415431094
 'Michael Mann',de,USA,#18e8e8,#18e8e8,3,0.2020366728643551
@@ -212,7 +212,6 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Katalin Novak',de,Ungarn,#111111,#111111,1,0.0846712303252764
 'Philipp Wolff',de,Deutschland,#1818e8,#1818e8,3,0.0769645096288959
 'Bartholomäus',de,Türkei,#111111,#111111,1,0.0711719068196489
-'Yanis Varoufakis',de,Griechenland,#1858e8,#1858e8,1,0.0705370958585154
 'Barbara Frenkel',de,Deutschland,#1818e8,#1818e8,1,0.0698281636747406
 'Erica Chenoweth',de,USA,#18e8e8,#18e8e8,1,0.0695592324274716
 'Doris König',de,Deutschland,#1818e8,#1818e8,2,0.0675356756496823
@@ -232,6 +231,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Dmitry Peskov',de,Russland,#e81818,#e81818,1,0.0629732212096697
 'Michael Kahle',de,Deutschland,#1818e8,#1818e8,1,0.0606687331186543
 'Herman Gref',de,Russland,#e81818,#e81818,1,0.0602099169874697
+'Yanis Varoufakis',de,Griechenland,#1858e8,#1858e8,1,0.06010654647973809
 'Michael Wirth',de,USA,#18e8e8,#18e8e8,1,0.0575251203980542
 'Sucharit Bhakdi',de,Deutschland,#1818e8,#1818e8,1,0.056022804177542
 'Amin H. Nasser',de,SaudiArabien,#111111,#111111,1,0.0551833295896002
