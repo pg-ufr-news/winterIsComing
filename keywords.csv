@@ -43,7 +43,6 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Ron DeSantis',de,USA,#18e8e8,#18e8e8,3,0.2030871345738848
 'Lael Brainard',de,USA,#18e8e8,#18e8e8,1,0.2025306415431094
 'Michael Mann',de,USA,#18e8e8,#18e8e8,3,0.2020366728643551
-'Winfried Kretschmann',de,Deutschland,#1818e8,#1818e8,3,0.2013153689380992
 'Larry Ellison',de,USA,#18e8e8,#18e8e8,1,0.2012940506394696
 'Elon Musk',de,USA,#18e8e8,#18e8e8,3,0.2009162658927084
 'Mark Zuckerberg',de,USA,#18e8e8,#18e8e8,3,0.2009033582599472
@@ -70,6 +69,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Jerome Powell',de,USA,#18e8e8,#18e8e8,1,0.1950739991294
 'Louis Klamroth',de,Deutschland,#1818e8,#1818e8,3,0.1947771371267906
 'Mark Rutte',de,Niederlande,#111111,#111111,3,0.1943050045260161
+'Winfried Kretschmann',de,Deutschland,#1818e8,#1818e8,3,0.1942511417792025
 'Roberta Metsola',de,EU,#111111,#111111,3,0.1941109550507718
 'Rafael Grossi',de,UN,#e888e8,#e888e8,3,0.1940986615712149
 'Liz Truss',de,UK,#e838e8,#e838e8,2,0.1940257940768495
@@ -83,7 +83,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Aleksandar Vučić',de,Serbien,#111111,#111111,1,0.1923816985903539
 'Saskia Esken',de,Deutschland,#1818e8,#1818e8,3,0.1922346139600651
 'Christian Drosten',de,Deutschland,#1818e8,#1818e8,3,0.191988304210411
-'Viktor Orbán',de,Ungarn,#111111,#111111,3,0.19174886596982074
+'Viktor Orbán',de,Ungarn,#111111,#111111,3,0.1917488659698207
 'Ali Chamenei',de,Iran,#111111,#111111,3,0.1915300192224583
 'Eva Kaili',de,EU,#111111,#111111,3,0.1910525127253628
 'Horst Seehofer',de,Deutschland,#1818e8,#1818e8,2,0.1905764604140382
