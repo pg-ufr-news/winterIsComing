@@ -19,6 +19,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Sandra Maischberger',de,Deutschland,#1818e8,#1818e8,3,0.2496236991650897
 'Angela Merkel',de,Deutschland,#1818e8,#1818e8,3,0.2471445306754449
 'David Malpass',de,USA,#18e8e8,#18e8e8,3,0.2432576681222887
+'Papst Benedikt XVI',de,Vatikan,#58b8e8,#58b8e8,2,0.24130459971453044
 'Robert Habeck',de,Deutschland,#1818e8,#1818e8,3,0.2402252071345328
 'Christian Lindner',de,Deutschland,#1818e8,#1818e8,3,0.2394332111721883
 'Markus Söder',de,Deutschland,#1818e8,#1818e8,3,0.2320494401839106
@@ -39,7 +40,6 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Annalena Baerbock',de,Deutschland,#1818e8,#1818e8,3,0.2087602907003272
 'Antony Blinken',de,USA,#18e8e8,#18e8e8,3,0.2069797514125986
 'Charles Michel',de,EU,#111111,#111111,3,0.2054202806622414
-'Papst Benedikt XVI',de,Vatikan,#58b8e8,#58b8e8,2,0.2031970247978433
 'Ron DeSantis',de,USA,#18e8e8,#18e8e8,3,0.2030871345738848
 'Lael Brainard',de,USA,#18e8e8,#18e8e8,1,0.2025306415431094
 'Michael Mann',de,USA,#18e8e8,#18e8e8,3,0.2020366728643551
@@ -240,7 +240,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Egon Westphal',de,Deutschland,#1818e8,#1818e8,1,0.0536464098055559
 'Iris Fontbona',de,Chile,#111111,#111111,1,0.0536464098055559
 'Igor Setschin',de,Russland,#e81818,#e81818,1,0.0531092249547231
-'Herman Gref',de,Russland,#e81818,#e81818,1,0.05117842943934924
+'Herman Gref',de,Russland,#e81818,#e81818,1,0.0511784294393492
 'Valery Gerasimov',de,Russland,#e81818,#e81818,1,0.0500962876337747
 'Ethan Bradley',de,USA,#18e8e8,#18e8e8,1,0.0468762292422346
 'Miriam Adelson',de,USA,#18e8e8,#18e8e8,1,0.0455994483347225
