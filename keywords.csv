@@ -164,7 +164,6 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Joko Widodo',de,Indonesien,#111111,#111111,1,0.1579323517396349
 'Patrick Pouyanné',de,Frankreich,#e8e808,#e8e808,1,0.1576387496538875
 'Stefan Rahmstorf',de,Deutschland,#1818e8,#1818e8,2,0.1562787274652232
-'Holger Münch',de,Deutschland,#1818e8,#1818e8,1,0.1546449376092776
 'Pedro Sánchez',de,Spanien,#111111,#111111,3,0.1544474795243077
 'Mojib Latif',de,Deutschland,#1818e8,#1818e8,1,0.1542132362785454
 'Mohammed bin Salman',de,SaudiArabien,#111111,#111111,2,0.1541258243641326
@@ -193,6 +192,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Kurt Krömer',de,Deutschland,#1818e8,#1818e8,2,0.1336491184497072
 'Sundar Pichai',de,USA,#18e8e8,#18e8e8,2,0.1317890543879531
 'Andreas Jödecke',de,Deutschland,#1818e8,#1818e8,1,0.131776885743496
+'Holger Münch',de,Deutschland,#1818e8,#1818e8,1,0.13174822696788596
 'MacKenzie Scott',de,USA,#18e8e8,#18e8e8,1,0.1298879936879949
 'Miguel Díaz-Canel',de,Kuba,#111111,#111111,1,0.1294581807787991
 'Dalai Lama',de,Tibet,#111111,#111111,1,0.1254581352574358
@@ -238,7 +238,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Kim Tok-hun',de,NordKorea,#e85858,#e85858,1,0.0536464098055559
 'Egon Westphal',de,Deutschland,#1818e8,#1818e8,1,0.0536464098055559
 'Iris Fontbona',de,Chile,#111111,#111111,1,0.0536464098055559
-'Dmitry Peskov',de,Russland,#e81818,#e81818,1,0.05352723802821924
+'Dmitry Peskov',de,Russland,#e81818,#e81818,1,0.0535272380282192
 'Herman Gref',de,Russland,#e81818,#e81818,1,0.0511784294393492
 'Valery Gerasimov',de,Russland,#e81818,#e81818,1,0.0500962876337747
 'Ethan Bradley',de,USA,#18e8e8,#18e8e8,1,0.0468762292422346
