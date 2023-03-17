@@ -192,7 +192,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Kurt Krömer',de,Deutschland,#1818e8,#1818e8,2,0.1336491184497072
 'Sundar Pichai',de,USA,#18e8e8,#18e8e8,2,0.1317890543879531
 'Andreas Jödecke',de,Deutschland,#1818e8,#1818e8,1,0.131776885743496
-'Holger Münch',de,Deutschland,#1818e8,#1818e8,1,0.13174822696788596
+'Holger Münch',de,Deutschland,#1818e8,#1818e8,1,0.1317482269678859
 'MacKenzie Scott',de,USA,#18e8e8,#18e8e8,1,0.1298879936879949
 'Miguel Díaz-Canel',de,Kuba,#111111,#111111,1,0.1294581807787991
 'Dalai Lama',de,Tibet,#111111,#111111,1,0.1254581352574358
@@ -218,9 +218,8 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Chan Santokhi',de,Surinam,#111111,#111111,1,0.0640952875846985
 'Yang Huiyan',de,China,#e88818,#e88818,1,0.0631530835125089
 'Sergei Ignatjew',de,Russland,#e81818,#e81818,1,0.063113423300654
-'Helge Lund',de,UK,#e838e8,#e838e8,1,0.063113423300654
 'Katharina König-Press',de,Deutschland,#1818e8,#1818e8,1,0.063113423300654
-'Choe Ryong-hae',de,NordKorea,#e85858,#e85858,1,0.063113423300654
+'Helge Lund',de,UK,#e838e8,#e838e8,1,0.063113423300654
 'Jacqueline Mars',de,USA,#18e8e8,#18e8e8,1,0.063113423300654
 'Francoise Bettencourt-Meyers',de,Frankreich,#e8e808,#e8e808,1,0.063113423300654
 'Michael Kahle',de,Deutschland,#1818e8,#1818e8,1,0.0606687331186543
@@ -234,6 +233,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Sergei Surovikin',de,Russland,#e81818,#e81818,1,0.054201622077542
 'Charles Holliday',de,USA,#18e8e8,#18e8e8,1,0.0541620811131333
 'Dimitry Peskov',de,Russland,#e81818,#e81818,1,0.0539605102730278
+'Choe Ryong-hae',de,NordKorea,#e85858,#e85858,1,0.0536464098055559
 'Gina Rinehart',de,Australien,#111111,#111111,1,0.0536464098055559
 'Kim Tok-hun',de,NordKorea,#e85858,#e85858,1,0.0536464098055559
 'Egon Westphal',de,Deutschland,#1818e8,#1818e8,1,0.0536464098055559
