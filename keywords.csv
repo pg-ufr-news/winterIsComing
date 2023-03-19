@@ -1,5 +1,6 @@
 keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Olaf Scholz',de,Deutschland,#1818e8,#1818e8,3,0.3307675859662062
+'Kevin Kühnert',de,Deutschland,#1818e8,#1818e8,3,0.31602687048542266
 'Joe Biden',de,USA,#18e8e8,#18e8e8,3,0.3131797667354872
 'Donald Trump',de,USA,#18e8e8,#18e8e8,3,0.3089112741383179
 'König Charles III',de,UK,#e838e8,#e838e8,3,0.2909364484356419
@@ -15,7 +16,6 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Putin',de,Russland,#e81818,#e81818,3,0.26463311976709
 'Charles III',de,UK,#e838e8,#e838e8,3,0.261615580697021
 'Nancy Faeser',de,Deutschland,#1818e8,#1818e8,3,0.2585256820316232
-'Kevin Kühnert',de,Deutschland,#1818e8,#1818e8,3,0.2520302358652032
 'Boris Johnson',de,UK,#e838e8,#e838e8,3,0.2503182524025966
 'Angela Merkel',de,Deutschland,#1818e8,#1818e8,3,0.2471445306754449
 'David Malpass',de,USA,#18e8e8,#18e8e8,3,0.2432576681222887
@@ -216,10 +216,10 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Alexei Miller',de,Russland,#e81818,#e81818,1,0.0652195234927817
 'Chan Santokhi',de,Surinam,#111111,#111111,1,0.0640952875846985
 'Yang Huiyan',de,China,#e88818,#e88818,1,0.0631530835125089
-'Helge Lund',de,UK,#e838e8,#e838e8,1,0.063113423300654
-'Katharina König-Press',de,Deutschland,#1818e8,#1818e8,1,0.063113423300654
 'Jacqueline Mars',de,USA,#18e8e8,#18e8e8,1,0.063113423300654
+'Katharina König-Press',de,Deutschland,#1818e8,#1818e8,1,0.063113423300654
 'Sergei Ignatjew',de,Russland,#e81818,#e81818,1,0.063113423300654
+'Helge Lund',de,UK,#e838e8,#e838e8,1,0.063113423300654
 'Francoise Bettencourt-Meyers',de,Frankreich,#e8e808,#e8e808,1,0.063113423300654
 'Michael Kahle',de,Deutschland,#1818e8,#1818e8,1,0.0606687331186543
 'Doris König',de,Deutschland,#1818e8,#1818e8,2,0.0605556393022299
@@ -227,16 +227,16 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Barbara Frenkel',de,Deutschland,#1818e8,#1818e8,1,0.0593539391235295
 'Erica Chenoweth',de,USA,#18e8e8,#18e8e8,1,0.0591253475633508
 'Michael Wirth',de,USA,#18e8e8,#18e8e8,1,0.0575251203980542
-'Thomas Dörflinger',de,Deutschland,#1818e8,#1818e8,1,0.05657750781284465
+'Thomas Dörflinger',de,Deutschland,#1818e8,#1818e8,1,0.0565775078128446
 'Sucharit Bhakdi',de,Deutschland,#1818e8,#1818e8,1,0.056022804177542
 'Amin H. Nasser',de,SaudiArabien,#111111,#111111,1,0.0551833295896002
 'Sergei Surovikin',de,Russland,#e81818,#e81818,1,0.054201622077542
 'Charles Holliday',de,USA,#18e8e8,#18e8e8,1,0.0541620811131333
 'Dimitry Peskov',de,Russland,#e81818,#e81818,1,0.0539605102730278
-'Kim Tok-hun',de,NordKorea,#e85858,#e85858,1,0.0536464098055559
-'Gina Rinehart',de,Australien,#111111,#111111,1,0.0536464098055559
 'Egon Westphal',de,Deutschland,#1818e8,#1818e8,1,0.0536464098055559
+'Gina Rinehart',de,Australien,#111111,#111111,1,0.0536464098055559
 'Choe Ryong-hae',de,NordKorea,#e85858,#e85858,1,0.0536464098055559
+'Kim Tok-hun',de,NordKorea,#e85858,#e85858,1,0.0536464098055559
 'Iris Fontbona',de,Chile,#111111,#111111,1,0.0536464098055559
 'Dmitry Peskov',de,Russland,#e81818,#e81818,1,0.0535272380282192
 'Herman Gref',de,Russland,#e81818,#e81818,1,0.0511784294393492
