@@ -114,7 +114,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Anthony Albanese',de,Australien,#111111,#111111,2,0.1799324508776843
 'Marine Le Pen',de,Frankreich,#e8e808,#e8e808,2,0.1795522340493467
 'Gregor Gysi',de,Deutschland,#1818e8,#1818e8,2,0.1793542177960141
-'Jewgeni Prigoschin',de,Russland,#e81818,#e81818,3,0.17918141863307213
+'Jewgeni Prigoschin',de,Russland,#e81818,#e81818,3,0.1791814186330721
 'Michael Ballweg',de,Deutschland,#1818e8,#1818e8,1,0.1791192817129013
 'Alexei Nawalny',de,Russland,#e81818,#e81818,1,0.17902709058091
 'Benjamin Netanyahu',de,Israel,#111111,#111111,2,0.1788300694522177
@@ -212,11 +212,10 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Larry Page',de,USA,#18e8e8,#18e8e8,1,0.0830624268893745
 'Philipp Wolff',de,Deutschland,#1818e8,#1818e8,3,0.0769645096288959
 'Bartholomäus',de,Türkei,#111111,#111111,1,0.0711719068196489
-'Chan Santokhi',de,Surinam,#111111,#111111,1,0.0640952875846985
 'Yang Huiyan',de,China,#e88818,#e88818,1,0.0631530835125089
+'Sergei Ignatjew',de,Russland,#e81818,#e81818,1,0.063113423300654
 'Jacqueline Mars',de,USA,#18e8e8,#18e8e8,1,0.063113423300654
 'Katharina König-Press',de,Deutschland,#1818e8,#1818e8,1,0.063113423300654
-'Sergei Ignatjew',de,Russland,#e81818,#e81818,1,0.063113423300654
 'Francoise Bettencourt-Meyers',de,Frankreich,#e8e808,#e8e808,1,0.063113423300654
 'Michael Kahle',de,Deutschland,#1818e8,#1818e8,1,0.0606687331186543
 'Doris König',de,Deutschland,#1818e8,#1818e8,2,0.0605556393022299
@@ -229,6 +228,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Ilham Aliyev',de,Aserbaidschan,#111111,#111111,1,0.0557226992764233
 'Alexei Miller',de,Russland,#e81818,#e81818,1,0.0554365949688644
 'Amin H. Nasser',de,SaudiArabien,#111111,#111111,1,0.0551833295896002
+'Chan Santokhi',de,Surinam,#111111,#111111,1,0.054480994446993725
 'Sergei Surovikin',de,Russland,#e81818,#e81818,1,0.054201622077542
 'Charles Holliday',de,USA,#18e8e8,#18e8e8,1,0.0541620811131333
 'Dimitry Peskov',de,Russland,#e81818,#e81818,1,0.0539605102730278
