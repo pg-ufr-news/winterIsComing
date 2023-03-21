@@ -86,6 +86,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Ali Chamenei',de,Iran,#111111,#111111,3,0.1915300192224583
 'Jair Bolsonaro',de,Brasilien,#58e838,#58e848,3,0.191220077650967
 'Eva Kaili',de,EU,#111111,#111111,3,0.1910525127253628
+'Roland Busch',de,Deutschland,#1818e8,#1818e8,1,0.19059826500810964
 'Horst Seehofer',de,Deutschland,#1818e8,#1818e8,2,0.1905764604140382
 'Wolodymyr Selenskyj',de,Ukraine,#e818e8,#e818e8,3,0.190339776168724
 'Sergej Lawrow',de,Russland,#e81818,#e81818,3,0.1901162263136014
@@ -154,7 +155,6 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Andrzej Duda',de,Polen,#111111,#111111,3,0.1631082021493734
 'Giorgia Meloni',de,Italien,#111111,#111111,3,0.1626880248386783
 'Martin Sonneborn',de,Deutschland,#1818e8,#1818e8,1,0.1626472021141365
-'Roland Busch',de,Deutschland,#1818e8,#1818e8,1,0.1622329353036584
 'Bruno Kahl',de,Deutschland,#1818e8,#1818e8,1,0.1613759550518236
 'Michael Kretschmer',de,Deutschland,#1818e8,#1818e8,3,0.1612801363368294
 'Melinda Gates',de,USA,#18e8e8,#18e8e8,1,0.1608978664171119
@@ -214,8 +214,8 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Philipp Wolff',de,Deutschland,#1818e8,#1818e8,3,0.0769645096288959
 'Bartholomäus',de,Türkei,#111111,#111111,1,0.0711719068196489
 'Yang Huiyan',de,China,#e88818,#e88818,1,0.0631530835125089
-'Jacqueline Mars',de,USA,#18e8e8,#18e8e8,1,0.063113423300654
 'Sergei Ignatjew',de,Russland,#e81818,#e81818,1,0.063113423300654
+'Jacqueline Mars',de,USA,#18e8e8,#18e8e8,1,0.063113423300654
 'Francoise Bettencourt-Meyers',de,Frankreich,#e8e808,#e8e808,1,0.063113423300654
 'Katharina König-Press',de,Deutschland,#1818e8,#1818e8,1,0.063113423300654
 'Michael Kahle',de,Deutschland,#1818e8,#1818e8,1,0.0606687331186543
