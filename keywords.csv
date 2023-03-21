@@ -39,6 +39,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Jan Böhmermann',de,Deutschland,#1818e8,#1818e8,2,0.2098304456347933
 'Annalena Baerbock',de,Deutschland,#1818e8,#1818e8,3,0.2087602907003272
 'Antony Blinken',de,USA,#18e8e8,#18e8e8,3,0.2069797514125986
+'Jens Stoltenberg',de,Norwegen,#e818e8,#e818e8,3,0.20622257048437226
 'Charles Michel',de,EU,#111111,#111111,3,0.2054202806622414
 'Ron DeSantis',de,USA,#18e8e8,#18e8e8,3,0.2030871345738848
 'Lael Brainard',de,USA,#18e8e8,#18e8e8,1,0.2025306415431094
@@ -54,7 +55,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Joschka Fischer',de,Deutschland,#1818e8,#1818e8,1,0.1993511192677727
 'Warren Buffet',de,USA,#18e8e8,#18e8e8,2,0.1988121366111569
 'Martin Schirdewan',de,Deutschland,#1818e8,#1818e8,3,0.1984682350970776
-'Boris Pistorius',de,Deutschland,#1818e8,#1818e8,3,0.19825906587523948
+'Boris Pistorius',de,Deutschland,#1818e8,#1818e8,3,0.1982590658752394
 'Franziska Giffey',de,Deutschland,#1818e8,#1818e8,3,0.198223685399118
 'Mahmud Abbas',de,Palistina,#111111,#111111,3,0.1964318511390082
 'Gerhard Schröder',de,Deutschland,#1818e8,#1818e8,3,0.1963320691463661
@@ -73,7 +74,6 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Roberta Metsola',de,EU,#111111,#111111,3,0.1941109550507718
 'Rafael Grossi',de,UN,#e888e8,#e888e8,3,0.1940986615712149
 'Liz Truss',de,UK,#e838e8,#e838e8,2,0.1940257940768495
-'Jens Stoltenberg',de,Norwegen,#e818e8,#e818e8,3,0.1940023754361599
 'John Kerry',de,USA,#18e8e8,#18e8e8,2,0.1939010358869461
 'Tino Chrupalla',de,Deutschland,#1818e8,#1818e8,2,0.1937899845784159
 'Greta Thunberg',de,Schweden,#111111,#111111,3,0.1933463404142239
@@ -213,10 +213,10 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Philipp Wolff',de,Deutschland,#1818e8,#1818e8,3,0.0769645096288959
 'Bartholomäus',de,Türkei,#111111,#111111,1,0.0711719068196489
 'Yang Huiyan',de,China,#e88818,#e88818,1,0.0631530835125089
-'Jacqueline Mars',de,USA,#18e8e8,#18e8e8,1,0.063113423300654
 'Sergei Ignatjew',de,Russland,#e81818,#e81818,1,0.063113423300654
-'Francoise Bettencourt-Meyers',de,Frankreich,#e8e808,#e8e808,1,0.063113423300654
+'Jacqueline Mars',de,USA,#18e8e8,#18e8e8,1,0.063113423300654
 'Katharina König-Press',de,Deutschland,#1818e8,#1818e8,1,0.063113423300654
+'Francoise Bettencourt-Meyers',de,Frankreich,#e8e808,#e8e808,1,0.063113423300654
 'Michael Kahle',de,Deutschland,#1818e8,#1818e8,1,0.0606687331186543
 'Doris König',de,Deutschland,#1818e8,#1818e8,2,0.0605556393022299
 'Yanis Varoufakis',de,Griechenland,#1858e8,#1858e8,1,0.060106546479738
