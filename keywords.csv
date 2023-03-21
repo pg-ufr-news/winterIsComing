@@ -54,6 +54,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Joschka Fischer',de,Deutschland,#1818e8,#1818e8,1,0.1993511192677727
 'Warren Buffet',de,USA,#18e8e8,#18e8e8,2,0.1988121366111569
 'Martin Schirdewan',de,Deutschland,#1818e8,#1818e8,3,0.1984682350970776
+'Boris Pistorius',de,Deutschland,#1818e8,#1818e8,3,0.19825906587523948
 'Franziska Giffey',de,Deutschland,#1818e8,#1818e8,3,0.198223685399118
 'Mahmud Abbas',de,Palistina,#111111,#111111,3,0.1964318511390082
 'Gerhard Schröder',de,Deutschland,#1818e8,#1818e8,3,0.1963320691463661
@@ -64,7 +65,6 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Daniel Zhang',de,China,#e88818,#e88818,1,0.1953459196524764
 'Karl Lauterbach',de,Deutschland,#1818e8,#1818e8,3,0.1953286624714419
 'Tamim Hamad Thani',de,Katar,#111111,#111111,2,0.1953225600778274
-'Boris Pistorius',de,Deutschland,#1818e8,#1818e8,3,0.1953204395323673
 'Luisa Neubauer',de,Deutschland,#1818e8,#1818e8,2,0.1952052945494208
 'Jerome Powell',de,USA,#18e8e8,#18e8e8,1,0.1950739991294
 'Louis Klamroth',de,Deutschland,#1818e8,#1818e8,3,0.1947771371267906
@@ -213,10 +213,10 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Philipp Wolff',de,Deutschland,#1818e8,#1818e8,3,0.0769645096288959
 'Bartholomäus',de,Türkei,#111111,#111111,1,0.0711719068196489
 'Yang Huiyan',de,China,#e88818,#e88818,1,0.0631530835125089
-'Sergei Ignatjew',de,Russland,#e81818,#e81818,1,0.063113423300654
 'Jacqueline Mars',de,USA,#18e8e8,#18e8e8,1,0.063113423300654
-'Katharina König-Press',de,Deutschland,#1818e8,#1818e8,1,0.063113423300654
+'Sergei Ignatjew',de,Russland,#e81818,#e81818,1,0.063113423300654
 'Francoise Bettencourt-Meyers',de,Frankreich,#e8e808,#e8e808,1,0.063113423300654
+'Katharina König-Press',de,Deutschland,#1818e8,#1818e8,1,0.063113423300654
 'Michael Kahle',de,Deutschland,#1818e8,#1818e8,1,0.0606687331186543
 'Doris König',de,Deutschland,#1818e8,#1818e8,2,0.0605556393022299
 'Yanis Varoufakis',de,Griechenland,#1858e8,#1858e8,1,0.060106546479738
@@ -228,7 +228,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Ilham Aliyev',de,Aserbaidschan,#111111,#111111,1,0.0557226992764233
 'Alexei Miller',de,Russland,#e81818,#e81818,1,0.0554365949688644
 'Amin H. Nasser',de,SaudiArabien,#111111,#111111,1,0.0551833295896002
-'Chan Santokhi',de,Surinam,#111111,#111111,1,0.054480994446993725
+'Chan Santokhi',de,Surinam,#111111,#111111,1,0.0544809944469937
 'Sergei Surovikin',de,Russland,#e81818,#e81818,1,0.054201622077542
 'Charles Holliday',de,USA,#18e8e8,#18e8e8,1,0.0541620811131333
 'Dimitry Peskov',de,Russland,#e81818,#e81818,1,0.0539605102730278
