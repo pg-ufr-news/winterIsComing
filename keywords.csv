@@ -39,7 +39,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Jan Böhmermann',de,Deutschland,#1818e8,#1818e8,2,0.2098304456347933
 'Annalena Baerbock',de,Deutschland,#1818e8,#1818e8,3,0.2087602907003272
 'Antony Blinken',de,USA,#18e8e8,#18e8e8,3,0.2069797514125986
-'Jens Stoltenberg',de,Norwegen,#e818e8,#e818e8,3,0.20622257048437226
+'Jens Stoltenberg',de,Norwegen,#e818e8,#e818e8,3,0.2062225704843722
 'Charles Michel',de,EU,#111111,#111111,3,0.2054202806622414
 'Ron DeSantis',de,USA,#18e8e8,#18e8e8,3,0.2030871345738848
 'Lael Brainard',de,USA,#18e8e8,#18e8e8,1,0.2025306415431094
@@ -202,6 +202,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Klaus Hasselmann',de,Deutschland,#1818e8,#1818e8,1,0.1212159076514837
 'Sergey Brin',de,USA,#18e8e8,#18e8e8,1,0.1204010720496926
 'Tamim bin Hamad Al-Thani',de,Katar,#111111,#111111,1,0.1182916347102054
+'Yanis Varoufakis',de,Griechenland,#1858e8,#1858e8,1,0.1174764887934916
 'Alberto Ángel Fernández',de,Argentinien,#111111,#111111,1,0.1155569800506883
 'Lee Hsien Loong',de,Singapur,#111111,#111111,1,0.1155152699447566
 'Amin Nasser',de,SaudiArabien,#111111,#111111,1,0.1139103008400592
@@ -213,13 +214,12 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Philipp Wolff',de,Deutschland,#1818e8,#1818e8,3,0.0769645096288959
 'Bartholomäus',de,Türkei,#111111,#111111,1,0.0711719068196489
 'Yang Huiyan',de,China,#e88818,#e88818,1,0.0631530835125089
-'Sergei Ignatjew',de,Russland,#e81818,#e81818,1,0.063113423300654
 'Jacqueline Mars',de,USA,#18e8e8,#18e8e8,1,0.063113423300654
-'Katharina König-Press',de,Deutschland,#1818e8,#1818e8,1,0.063113423300654
+'Sergei Ignatjew',de,Russland,#e81818,#e81818,1,0.063113423300654
 'Francoise Bettencourt-Meyers',de,Frankreich,#e8e808,#e8e808,1,0.063113423300654
+'Katharina König-Press',de,Deutschland,#1818e8,#1818e8,1,0.063113423300654
 'Michael Kahle',de,Deutschland,#1818e8,#1818e8,1,0.0606687331186543
 'Doris König',de,Deutschland,#1818e8,#1818e8,2,0.0605556393022299
-'Yanis Varoufakis',de,Griechenland,#1858e8,#1858e8,1,0.060106546479738
 'Barbara Frenkel',de,Deutschland,#1818e8,#1818e8,1,0.0593539391235295
 'Erica Chenoweth',de,USA,#18e8e8,#18e8e8,1,0.0591253475633508
 'Michael Wirth',de,USA,#18e8e8,#18e8e8,1,0.0575251203980542
