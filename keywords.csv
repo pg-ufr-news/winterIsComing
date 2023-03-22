@@ -1,6 +1,5 @@
 keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Olaf Scholz',de,Deutschland,#1818e8,#1818e8,3,0.3307675859662062
-'Kevin Kühnert',de,Deutschland,#1818e8,#1818e8,3,0.3160268704854226
 'Joe Biden',de,USA,#18e8e8,#18e8e8,3,0.3131797667354872
 'Donald Trump',de,USA,#18e8e8,#18e8e8,3,0.3089112741383179
 'König Charles III',de,UK,#e838e8,#e838e8,3,0.2909364484356419
@@ -10,6 +9,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Gabor Steingart',de,Deutschland,#1818e8,#1818e8,3,0.276976222020499
 'Emmanuel Macron',de,Frankreich,#e8e808,#e8e808,3,0.2746140980891369
 'Christian Lindner',de,Deutschland,#1818e8,#1818e8,3,0.2721181381327237
+'Kevin Kühnert',de,Deutschland,#1818e8,#1818e8,3,0.2690738749126092
 'Selenski',de,Ukraine,#e818e8,#e818e8,3,0.2686588781025742
 'Papst Franziskus',de,Vatikan,#58b8e8,#58b8e8,3,0.2673101018211568
 'Mike Pence',de,USA,#18e8e8,#18e8e8,3,0.2647658382583773
@@ -57,7 +57,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Martin Schirdewan',de,Deutschland,#1818e8,#1818e8,3,0.1984682350970776
 'Boris Pistorius',de,Deutschland,#1818e8,#1818e8,3,0.1982590658752394
 'Franziska Giffey',de,Deutschland,#1818e8,#1818e8,3,0.198223685399118
-'Giorgia Meloni',de,Italien,#111111,#111111,3,0.19778485065833112
+'Giorgia Meloni',de,Italien,#111111,#111111,3,0.1977848506583311
 'Mahmud Abbas',de,Palistina,#111111,#111111,3,0.1964318511390082
 'Gerhard Schröder',de,Deutschland,#1818e8,#1818e8,3,0.1963320691463661
 'Ola Källenius',de,Deutschland,#1818e8,#1818e8,1,0.1960636859801629
