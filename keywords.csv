@@ -17,6 +17,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Charles III',de,UK,#e838e8,#e838e8,3,0.261615580697021
 'Nancy Faeser',de,Deutschland,#1818e8,#1818e8,3,0.2585256820316232
 'Boris Johnson',de,UK,#e838e8,#e838e8,3,0.2503182524025966
+'Robert Habeck',de,Deutschland,#1818e8,#1818e8,3,0.24889229154106357
 'Angela Merkel',de,Deutschland,#1818e8,#1818e8,3,0.2471445306754449
 'David Malpass',de,USA,#18e8e8,#18e8e8,3,0.2432576681222887
 'Mukesh Ambani',de,Indien,#111111,#111111,1,0.2429420042373631
@@ -25,7 +26,6 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Barack Obama',de,USA,#18e8e8,#18e8e8,3,0.2290709096765152
 'Jacinda Ardern',de,Neuseeland,#1818e8,#1818e8,3,0.2278266061495537
 'Lothar Wieler',de,Deutschland,#1818e8,#1818e8,3,0.2276949466622334
-'Robert Habeck',de,Deutschland,#1818e8,#1818e8,3,0.2227968847007165
 'Warren Buffett',de,USA,#18e8e8,#18e8e8,2,0.2195180810644239
 'Friedrich Merz',de,Deutschland,#1818e8,#1818e8,3,0.2178046447884062
 'Markus Krebber',de,Deutschland,#1818e8,#1818e8,2,0.2178043337431935
@@ -186,7 +186,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Joana Cotar',de,Deutschland,#1818e8,#1818e8,1,0.1383847895568137
 'Jewgenij Roisman',de,Russland,#e81818,#e81818,1,0.1378615462471255
 'Michelle Obama',de,USA,#18e8e8,#18e8e8,1,0.1370617963897147
-'Lula sa Silva',de,Brasilien,#58e838,#58e838,1,0.13653036097256493
+'Lula sa Silva',de,Brasilien,#58e838,#58e838,1,0.1365303609725649
 'John Roberts',de,USA,#18e8e8,#18e8e8,1,0.1347869056153244
 'Ebrahim Raisi',de,Iran,#111111,#111111,3,0.1346740925721293
 'Silvio Berlusconi',de,Italien,#111111,#111111,3,0.1337948566427067
