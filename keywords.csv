@@ -208,7 +208,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Yanis Varoufakis',de,Griechenland,#1858e8,#1858e8,1,0.1021052404744678
 'Frank Bainimarama',de,Fidschi,#111111,#111111,1,0.1009511867862552
 'Ayatollah Ali Chamenei',de,Iran,#111111,#111111,1,0.1003985244609884
-'Amin Nasser',de,SaudiArabien,#111111,#111111,1,0.09727380071405031
+'Amin Nasser',de,SaudiArabien,#111111,#111111,1,0.0972738007140503
 'Katalin Novak',de,Ungarn,#111111,#111111,1,0.0846712303252764
 'Larry Page',de,USA,#18e8e8,#18e8e8,1,0.0830624268893745
 'Philipp Wolff',de,Deutschland,#1818e8,#1818e8,3,0.0769645096288959
@@ -225,7 +225,6 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Michael Wirth',de,USA,#18e8e8,#18e8e8,1,0.0575251203980542
 'Thomas Dörflinger',de,Deutschland,#1818e8,#1818e8,1,0.0565775078128446
 'Sucharit Bhakdi',de,Deutschland,#1818e8,#1818e8,1,0.056022804177542
-'Ilham Aliyev',de,Aserbaidschan,#111111,#111111,1,0.0557226992764233
 'Alexei Miller',de,Russland,#e81818,#e81818,1,0.0554365949688644
 'Amin H. Nasser',de,SaudiArabien,#111111,#111111,1,0.0551833295896002
 'Chan Santokhi',de,Surinam,#111111,#111111,1,0.0544809944469937
@@ -240,6 +239,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Dmitry Peskov',de,Russland,#e81818,#e81818,1,0.0535272380282192
 'Herman Gref',de,Russland,#e81818,#e81818,1,0.0511784294393492
 'Valery Gerasimov',de,Russland,#e81818,#e81818,1,0.0500962876337747
+'Ilham Aliyev',de,Aserbaidschan,#111111,#111111,1,0.04751430938495981
 'Ethan Bradley',de,USA,#18e8e8,#18e8e8,1,0.0468762292422346
 'Gina Rinehart',de,Australien,#111111,#111111,1,0.0455994483347225
 'Miriam Adelson',de,USA,#18e8e8,#18e8e8,1,0.0455994483347225
