@@ -109,6 +109,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Alexander Lukaschenko',de,Belarus,#e81858,#e81858,3,0.1827981734202121
 'Alexej Kudrin',de,Russland,#e81818,#e81818,1,0.182192287739607
 'Schellnhuber',de,Deutschland,#1818e8,#1818e8,2,0.1821111226625844
+'Julian Reichelt',de,Deutschland,#1818e8,#1818e8,2,0.18156653200521577
 'Ricarda Lang',de,Deutschland,#1818e8,#1818e8,3,0.1812946553975996
 'Sergej Schoigu',de,Russland,#e81818,#e81818,3,0.1807792522332517
 'Steffi Lemke',de,Deutschland,#1818e8,#1818e8,3,0.1804764733434121
@@ -127,7 +128,6 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Benjamin Netanjahu',de,Israel,#111111,#111111,3,0.1765678329065039
 'Subrahmanyam Jaishankar',de,Indien,#111111,#111111,2,0.1763561850258266
 'Sergej Lavrov',de,Russland,#e81818,#e81818,1,0.1760797508627646
-'Julian Reichelt',de,Deutschland,#1818e8,#1818e8,1,0.1756978173323394
 'Susanne Klatten',de,Deutschland,#1818e8,#1818e8,1,0.1754588418222482
 'Nicola Sturgeon',de,UK,#e838e8,#e838e8,2,0.1747205822230828
 'Fidel Castro',de,Kuba,#111111,#111111,2,0.1744044789876273
@@ -214,8 +214,8 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Philipp Wolff',de,Deutschland,#1818e8,#1818e8,3,0.0769645096288959
 'Bartholomäus',de,Türkei,#111111,#111111,1,0.0711719068196489
 'Yang Huiyan',de,China,#e88818,#e88818,1,0.0631530835125089
-'Jacqueline Mars',de,USA,#18e8e8,#18e8e8,1,0.063113423300654
 'Sergei Ignatjew',de,Russland,#e81818,#e81818,1,0.063113423300654
+'Jacqueline Mars',de,USA,#18e8e8,#18e8e8,1,0.063113423300654
 'Francoise Bettencourt-Meyers',de,Frankreich,#e8e808,#e8e808,1,0.063113423300654
 'Katharina König-Press',de,Deutschland,#1818e8,#1818e8,1,0.063113423300654
 'Michael Kahle',de,Deutschland,#1818e8,#1818e8,1,0.0606687331186543
@@ -241,7 +241,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Herman Gref',de,Russland,#e81818,#e81818,1,0.0511784294393492
 'Valery Gerasimov',de,Russland,#e81818,#e81818,1,0.0500962876337747
 'Ethan Bradley',de,USA,#18e8e8,#18e8e8,1,0.0468762292422346
-'Gina Rinehart',de,Australien,#111111,#111111,1,0.045599448334722514
+'Gina Rinehart',de,Australien,#111111,#111111,1,0.0455994483347225
 'Miriam Adelson',de,USA,#18e8e8,#18e8e8,1,0.0455994483347225
 'Igor Setschin',de,Russland,#e81818,#e81818,1,0.0452928562115146
 'Darren Woods',de,USA,#18e8e8,#18e8e8,1,0.0423248293853701
