@@ -3,7 +3,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Joe Biden',de,USA,#18e8e8,#18e8e8,3,0.3131797667354872
 'Donald Trump',de,USA,#18e8e8,#18e8e8,3,0.3089112741383179
 'König Charles III',de,UK,#e838e8,#e838e8,3,0.2909364484356419
-'Wladimir Putin',de,Russland,#e81818,#e81818,3,0.2852493480572188
+'Wladimir Putin',de,Russland,#e81818,#e81818,2,0.2852493480572188
 'Maybrit Illner',de,Deutschland,#1818e8,#1818e8,3,0.2778234408248703
 'Selenskyj',de,Ukraine,#e818e8,#e818e8,3,0.2776987301884915
 'Gabor Steingart',de,Deutschland,#1818e8,#1818e8,3,0.276976222020499
@@ -196,7 +196,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'MacKenzie Scott',de,USA,#18e8e8,#18e8e8,1,0.1298879936879949
 'Miguel Díaz-Canel',de,Kuba,#111111,#111111,1,0.1294581807787991
 'Dalai Lama',de,Tibet,#111111,#111111,1,0.1254581352574358
-'Muhammad bin Zayid Al Nahyan',de,VAE,#111111,#111111,1,0.12539447135309567
+'Muhammad bin Zayid Al Nahyan',de,VAE,#111111,#111111,1,0.1253944713530956
 'Hans Joachim Schellnhuber',de,Deutschland,#1818e8,#1818e8,2,0.1236925730610332
 'Jochen Thewes',de,Deutschland,#1818e8,#1818e8,1,0.1212283256646623
 'Klaus Hasselmann',de,Deutschland,#1818e8,#1818e8,1,0.1212159076514837
