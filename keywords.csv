@@ -23,6 +23,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Mukesh Ambani',de,Indien,#111111,#111111,1,0.2429420042373631
 'Papst Benedikt XVI',de,Vatikan,#58b8e8,#58b8e8,2,0.2413045997145304
 'Markus Söder',de,Deutschland,#1818e8,#1818e8,3,0.2320494401839106
+'Jens Stoltenberg',de,Norwegen,#e818e8,#e818e8,3,0.23024608491171636
 'Barack Obama',de,USA,#18e8e8,#18e8e8,3,0.2290709096765152
 'Jacinda Ardern',de,Neuseeland,#1818e8,#1818e8,3,0.2278266061495537
 'Lothar Wieler',de,Deutschland,#1818e8,#1818e8,3,0.2276949466622334
@@ -38,7 +39,6 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Alice Weidel',de,Deutschland,#1818e8,#1818e8,3,0.2099905305000062
 'Jan Böhmermann',de,Deutschland,#1818e8,#1818e8,2,0.2098304456347933
 'Annalena Baerbock',de,Deutschland,#1818e8,#1818e8,3,0.2087602907003272
-'Jens Stoltenberg',de,Norwegen,#e818e8,#e818e8,3,0.2062225704843722
 'Charles Michel',de,EU,#111111,#111111,3,0.2054202806622414
 'Ron DeSantis',de,USA,#18e8e8,#18e8e8,3,0.2030871345738848
 'Lael Brainard',de,USA,#18e8e8,#18e8e8,1,0.2025306415431094
@@ -101,7 +101,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Fumio Kishida',de,Japan,#111111,#111111,3,0.1870351350228879
 'Gautam Adani',de,Indien,#111111,#111111,3,0.186862394265635
 'Karine Jean-Pierre',de,USA,#18e8e8,#18e8e8,3,0.18611209366118
-'MacKenzie Scott',de,USA,#18e8e8,#18e8e8,2,0.18570482463479565
+'MacKenzie Scott',de,USA,#18e8e8,#18e8e8,2,0.1857048246347956
 'Jack Ma',de,China,#e88818,#e88818,2,0.1853229035189129
 'Boris Palmer',de,Deutschland,#1818e8,#1818e8,1,0.1853128180963224
 'Katarina Barley',de,EU,#111111,#111111,1,0.1851917272145462
@@ -231,10 +231,10 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Sergei Surovikin',de,Russland,#e81818,#e81818,1,0.054201622077542
 'Charles Holliday',de,USA,#18e8e8,#18e8e8,1,0.0541620811131333
 'Dimitry Peskov',de,Russland,#e81818,#e81818,1,0.0539605102730278
-'Kim Tok-hun',de,NordKorea,#e85858,#e85858,1,0.0536464098055559
-'Choe Ryong-hae',de,NordKorea,#e85858,#e85858,1,0.0536464098055559
 'Egon Westphal',de,Deutschland,#1818e8,#1818e8,1,0.0536464098055559
+'Choe Ryong-hae',de,NordKorea,#e85858,#e85858,1,0.0536464098055559
 'Helge Lund',de,UK,#e838e8,#e838e8,1,0.0536464098055559
+'Kim Tok-hun',de,NordKorea,#e85858,#e85858,1,0.0536464098055559
 'Iris Fontbona',de,Chile,#111111,#111111,1,0.0536464098055559
 'Dmitry Peskov',de,Russland,#e81818,#e81818,1,0.0535272380282192
 'Herman Gref',de,Russland,#e81818,#e81818,1,0.0511784294393492
