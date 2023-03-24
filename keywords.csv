@@ -52,7 +52,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Andrés Manuel López Obrador',de,Mexiko,#111111,#111111,3,0.1998819634901078
 'Xi Jinping',de,China,#e88818,#e88818,3,0.1996088260611851
 'Joschka Fischer',de,Deutschland,#1818e8,#1818e8,1,0.1993511192677727
-'Antony Blinken',de,USA,#18e8e8,#18e8e8,3,0.19906819188252697
+'Antony Blinken',de,USA,#18e8e8,#18e8e8,3,0.1990681918825269
 'Warren Buffet',de,USA,#18e8e8,#18e8e8,2,0.1988121366111569
 'Martin Schirdewan',de,Deutschland,#1818e8,#1818e8,3,0.1984682350970776
 'Boris Pistorius',de,Deutschland,#1818e8,#1818e8,3,0.1982590658752394
@@ -101,6 +101,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Fumio Kishida',de,Japan,#111111,#111111,3,0.1870351350228879
 'Gautam Adani',de,Indien,#111111,#111111,3,0.186862394265635
 'Karine Jean-Pierre',de,USA,#18e8e8,#18e8e8,3,0.18611209366118
+'MacKenzie Scott',de,USA,#18e8e8,#18e8e8,2,0.18570482463479565
 'Jack Ma',de,China,#e88818,#e88818,2,0.1853229035189129
 'Boris Palmer',de,Deutschland,#1818e8,#1818e8,1,0.1853128180963224
 'Katarina Barley',de,EU,#111111,#111111,1,0.1851917272145462
@@ -193,7 +194,6 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Sundar Pichai',de,USA,#18e8e8,#18e8e8,2,0.1317890543879531
 'Andreas Jödecke',de,Deutschland,#1818e8,#1818e8,1,0.131776885743496
 'Holger Münch',de,Deutschland,#1818e8,#1818e8,1,0.1317482269678859
-'MacKenzie Scott',de,USA,#18e8e8,#18e8e8,1,0.1298879936879949
 'Miguel Díaz-Canel',de,Kuba,#111111,#111111,1,0.1294581807787991
 'Dalai Lama',de,Tibet,#111111,#111111,1,0.1254581352574358
 'Muhammad bin Zayid Al Nahyan',de,VAE,#111111,#111111,1,0.1253944713530956
@@ -214,8 +214,8 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Philipp Wolff',de,Deutschland,#1818e8,#1818e8,3,0.0769645096288959
 'Bartholomäus',de,Türkei,#111111,#111111,1,0.0711719068196489
 'Yang Huiyan',de,China,#e88818,#e88818,1,0.0631530835125089
-'Sergei Ignatjew',de,Russland,#e81818,#e81818,1,0.063113423300654
 'Jacqueline Mars',de,USA,#18e8e8,#18e8e8,1,0.063113423300654
+'Sergei Ignatjew',de,Russland,#e81818,#e81818,1,0.063113423300654
 'Francoise Bettencourt-Meyers',de,Frankreich,#e8e808,#e8e808,1,0.063113423300654
 'Katharina König-Press',de,Deutschland,#1818e8,#1818e8,1,0.063113423300654
 'Michael Kahle',de,Deutschland,#1818e8,#1818e8,1,0.0606687331186543
@@ -231,10 +231,10 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Sergei Surovikin',de,Russland,#e81818,#e81818,1,0.054201622077542
 'Charles Holliday',de,USA,#18e8e8,#18e8e8,1,0.0541620811131333
 'Dimitry Peskov',de,Russland,#e81818,#e81818,1,0.0539605102730278
-'Helge Lund',de,UK,#e838e8,#e838e8,1,0.0536464098055559
-'Choe Ryong-hae',de,NordKorea,#e85858,#e85858,1,0.0536464098055559
 'Kim Tok-hun',de,NordKorea,#e85858,#e85858,1,0.0536464098055559
+'Choe Ryong-hae',de,NordKorea,#e85858,#e85858,1,0.0536464098055559
 'Egon Westphal',de,Deutschland,#1818e8,#1818e8,1,0.0536464098055559
+'Helge Lund',de,UK,#e838e8,#e838e8,1,0.0536464098055559
 'Iris Fontbona',de,Chile,#111111,#111111,1,0.0536464098055559
 'Dmitry Peskov',de,Russland,#e81818,#e81818,1,0.0535272380282192
 'Herman Gref',de,Russland,#e81818,#e81818,1,0.0511784294393492
