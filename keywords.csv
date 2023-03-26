@@ -162,7 +162,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Yoon Suk-yeol',de,SüdKorea,#111111,#111111,3,0.1596952708885508
 'Cyril Ramaphosa',de,Südafrika,#111111,#111111,2,0.1594663509329859
 'Erik Marquardt',de,EU,#111111,#111111,1,0.1593143924260272
-'Ulf Poschardt',de,Deutschland,#1818e8,#1818e8,2,0.15858133260599114
+'Ulf Poschardt',de,Deutschland,#1818e8,#1818e8,2,0.1585813326059911
 'Kim Jong-un',de,NordKorea,#e85858,#e85858,2,0.158551711596083
 'Joko Widodo',de,Indonesien,#111111,#111111,1,0.1579323517396349
 'Patrick Pouyanné',de,Frankreich,#e8e808,#e8e808,1,0.1576387496538875
@@ -213,10 +213,10 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Larry Page',de,USA,#18e8e8,#18e8e8,1,0.0830624268893745
 'Philipp Wolff',de,Deutschland,#1818e8,#1818e8,3,0.0769645096288959
 'Bartholomäus',de,Türkei,#111111,#111111,1,0.0711719068196489
-'Sergei Ignatjew',de,Russland,#e81818,#e81818,1,0.063113423300654
 'Francoise Bettencourt-Meyers',de,Frankreich,#e8e808,#e8e808,1,0.063113423300654
-'Katharina König-Press',de,Deutschland,#1818e8,#1818e8,1,0.063113423300654
+'Sergei Ignatjew',de,Russland,#e81818,#e81818,1,0.063113423300654
 'Jacqueline Mars',de,USA,#18e8e8,#18e8e8,1,0.063113423300654
+'Katharina König-Press',de,Deutschland,#1818e8,#1818e8,1,0.063113423300654
 'Michael Kahle',de,Deutschland,#1818e8,#1818e8,1,0.0606687331186543
 'Doris König',de,Deutschland,#1818e8,#1818e8,2,0.0605556393022299
 'Barbara Frenkel',de,Deutschland,#1818e8,#1818e8,1,0.0593539391235295
@@ -225,14 +225,13 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Thomas Dörflinger',de,Deutschland,#1818e8,#1818e8,1,0.0565775078128446
 'Sucharit Bhakdi',de,Deutschland,#1818e8,#1818e8,1,0.056022804177542
 'Alexei Miller',de,Russland,#e81818,#e81818,1,0.0554365949688644
-'Amin H. Nasser',de,SaudiArabien,#111111,#111111,1,0.0551833295896002
 'Chan Santokhi',de,Surinam,#111111,#111111,1,0.0544809944469937
 'Sergei Surovikin',de,Russland,#e81818,#e81818,1,0.054201622077542
 'Charles Holliday',de,USA,#18e8e8,#18e8e8,1,0.0541620811131333
 'Dimitry Peskov',de,Russland,#e81818,#e81818,1,0.0539605102730278
 'Yang Huiyan',de,China,#e88818,#e88818,1,0.0536801209856325
-'Kim Tok-hun',de,NordKorea,#e85858,#e85858,1,0.0536464098055559
 'Choe Ryong-hae',de,NordKorea,#e85858,#e85858,1,0.0536464098055559
+'Kim Tok-hun',de,NordKorea,#e85858,#e85858,1,0.0536464098055559
 'Egon Westphal',de,Deutschland,#1818e8,#1818e8,1,0.0536464098055559
 'Helge Lund',de,UK,#e838e8,#e838e8,1,0.0536464098055559
 'Iris Fontbona',de,Chile,#111111,#111111,1,0.0536464098055559
@@ -240,6 +239,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Herman Gref',de,Russland,#e81818,#e81818,1,0.0511784294393492
 'Valery Gerasimov',de,Russland,#e81818,#e81818,1,0.0500962876337747
 'Ilham Aliyev',de,Aserbaidschan,#111111,#111111,1,0.0475143093849598
+'Amin H. Nasser',de,SaudiArabien,#111111,#111111,1,0.047055845151160174
 'Ethan Bradley',de,USA,#18e8e8,#18e8e8,1,0.0468762292422346
 'Gina Rinehart',de,Australien,#111111,#111111,1,0.0455994483347225
 'Miriam Adelson',de,USA,#18e8e8,#18e8e8,1,0.0455994483347225
