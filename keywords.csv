@@ -40,7 +40,6 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Jan Böhmermann',de,Deutschland,#1818e8,#1818e8,2,0.2098304456347933
 'Annalena Baerbock',de,Deutschland,#1818e8,#1818e8,3,0.2087602907003272
 'Charles Michel',de,EU,#111111,#111111,3,0.2054202806622414
-'Bodo Ramelow',de,Deutschland,#1818e8,#1818e8,2,0.2051401248787271
 'Ron DeSantis',de,USA,#18e8e8,#18e8e8,3,0.2030871345738848
 'Lael Brainard',de,USA,#18e8e8,#18e8e8,1,0.2025306415431094
 'Michael Mann',de,USA,#18e8e8,#18e8e8,3,0.2020366728643551
@@ -119,6 +118,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Anthony Albanese',de,Australien,#111111,#111111,2,0.1799324508776843
 'Marine Le Pen',de,Frankreich,#e8e808,#e8e808,2,0.1795522340493467
 'Gregor Gysi',de,Deutschland,#1818e8,#1818e8,2,0.1793542177960141
+'Bodo Ramelow',de,Deutschland,#1818e8,#1818e8,2,0.17931963114691804
 'Jewgeni Prigoschin',de,Russland,#e81818,#e81818,3,0.1791814186330721
 'Michael Ballweg',de,Deutschland,#1818e8,#1818e8,1,0.1791192817129013
 'Alexei Nawalny',de,Russland,#e81818,#e81818,1,0.17902709058091
@@ -242,7 +242,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Ethan Bradley',de,USA,#18e8e8,#18e8e8,1,0.0468762292422346
 'Gina Rinehart',de,Australien,#111111,#111111,1,0.0455994483347225
 'Miriam Adelson',de,USA,#18e8e8,#18e8e8,1,0.0455994483347225
-'Dmitry Peskov',de,Russland,#e81818,#e81818,1,0.045498152323986324
+'Dmitry Peskov',de,Russland,#e81818,#e81818,1,0.0454981523239863
 'Darren Woods',de,USA,#18e8e8,#18e8e8,1,0.0423248293853701
 'Guillaume Pousaz',de,Schweiz,#111111,#111111,1,0.0399881449981954
 'Igor Setschin',de,Russland,#e81818,#e81818,1,0.0386489427797874
