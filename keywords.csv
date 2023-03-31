@@ -113,7 +113,6 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Ricarda Lang',de,Deutschland,#1818e8,#1818e8,3,0.1812946553975996
 'Paul Ronzheimer',de,Deutschland,#1818e8,#1818e8,2,0.1807919277286636
 'Sergej Schoigu',de,Russland,#e81818,#e81818,3,0.1807792522332517
-'Steffi Lemke',de,Deutschland,#1818e8,#1818e8,3,0.1804764733434121
 'Aleksandar Vucic',de,Serbien,#111111,#111111,3,0.1799398351156475
 'Anthony Albanese',de,Australien,#111111,#111111,2,0.1799324508776843
 'Marine Le Pen',de,Frankreich,#e8e808,#e8e808,2,0.1795522340493467
@@ -156,6 +155,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Wolodymyr Selenski',de,Ukraine,#e818e8,#e818e8,1,0.163572193295483
 'Justin Trudeau',de,Kanada,#111111,#111111,3,0.1634951557403245
 'Andrzej Duda',de,Polen,#111111,#111111,3,0.1631082021493734
+'Steffi Lemke',de,Deutschland,#1818e8,#1818e8,3,0.1629047618873548
 'Martin Sonneborn',de,Deutschland,#1818e8,#1818e8,1,0.1626472021141365
 'Bruno Kahl',de,Deutschland,#1818e8,#1818e8,1,0.1613759550518236
 'Michael Kretschmer',de,Deutschland,#1818e8,#1818e8,3,0.1612801363368294
@@ -229,11 +229,11 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Dimitry Peskov',de,Russland,#e81818,#e81818,1,0.0539605102730278
 'Jacqueline Mars',de,USA,#18e8e8,#18e8e8,1,0.0539464398055559
 'Yang Huiyan',de,China,#e88818,#e88818,1,0.0536801209856325
+'Choe Ryong-hae',de,NordKorea,#e85858,#e85858,1,0.0536464098055559
 'Helge Lund',de,UK,#e838e8,#e838e8,1,0.0536464098055559
 'Iris Fontbona',de,Chile,#111111,#111111,1,0.0536464098055559
-'Katharina König-Press',de,Deutschland,#1818e8,#1818e8,1,0.0536464098055559
-'Choe Ryong-hae',de,NordKorea,#e85858,#e85858,1,0.0536464098055559
 'Egon Westphal',de,Deutschland,#1818e8,#1818e8,1,0.0536464098055559
+'Katharina König-Press',de,Deutschland,#1818e8,#1818e8,1,0.0536464098055559
 'Herman Gref',de,Russland,#e81818,#e81818,1,0.0511784294393492
 'Valery Gerasimov',de,Russland,#e81818,#e81818,1,0.0500962876337747
 'Ilham Aliyev',de,Aserbaidschan,#111111,#111111,1,0.0475143093849598
