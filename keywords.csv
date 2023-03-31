@@ -27,7 +27,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Barack Obama',de,USA,#18e8e8,#18e8e8,3,0.2290709096765152
 'Jacinda Ardern',de,Neuseeland,#1818e8,#1818e8,3,0.2278266061495537
 'Lothar Wieler',de,Deutschland,#1818e8,#1818e8,3,0.2276949466622334
-'Ron DeSantis',de,USA,#18e8e8,#18e8e8,3,0.22757665938780208
+'Ron DeSantis',de,USA,#18e8e8,#18e8e8,3,0.227576659387802
 'Warren Buffett',de,USA,#18e8e8,#18e8e8,2,0.2195180810644239
 'Charles Koch',de,USA,#18e8e8,#18e8e8,1,0.2185644564350434
 'Friedrich Merz',de,Deutschland,#1818e8,#1818e8,3,0.2178046447884062
@@ -215,7 +215,6 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Bartholomäus',de,Türkei,#111111,#111111,1,0.0711719068196489
 'Sergei Ignatjew',de,Russland,#e81818,#e81818,1,0.063113423300654
 'Francoise Bettencourt-Meyers',de,Frankreich,#e8e808,#e8e808,1,0.063113423300654
-'Katharina König-Press',de,Deutschland,#1818e8,#1818e8,1,0.063113423300654
 'Michael Kahle',de,Deutschland,#1818e8,#1818e8,1,0.0606687331186543
 'Doris König',de,Deutschland,#1818e8,#1818e8,2,0.0605556393022299
 'Barbara Frenkel',de,Deutschland,#1818e8,#1818e8,1,0.0593539391235295
@@ -230,8 +229,9 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Dimitry Peskov',de,Russland,#e81818,#e81818,1,0.0539605102730278
 'Jacqueline Mars',de,USA,#18e8e8,#18e8e8,1,0.0539464398055559
 'Yang Huiyan',de,China,#e88818,#e88818,1,0.0536801209856325
-'Choe Ryong-hae',de,NordKorea,#e85858,#e85858,1,0.0536464098055559
+'Katharina König-Press',de,Deutschland,#1818e8,#1818e8,1,0.0536464098055559
 'Egon Westphal',de,Deutschland,#1818e8,#1818e8,1,0.0536464098055559
+'Choe Ryong-hae',de,NordKorea,#e85858,#e85858,1,0.0536464098055559
 'Iris Fontbona',de,Chile,#111111,#111111,1,0.0536464098055559
 'Helge Lund',de,UK,#e838e8,#e838e8,1,0.0536464098055559
 'Herman Gref',de,Russland,#e81818,#e81818,1,0.0511784294393492
