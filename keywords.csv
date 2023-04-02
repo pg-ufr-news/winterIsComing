@@ -1,6 +1,7 @@
 keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Donald Trump',de,USA,#18e8e8,#18e8e8,3,0.3581521581811766
 'Maybrit Illner',de,Deutschland,#1818e8,#1818e8,3,0.3320097206102307
+'Selenski',de,Ukraine,#e818e8,#e818e8,3,0.3287688968417335
 'Joe Biden',de,USA,#18e8e8,#18e8e8,3,0.3165566265330459
 'Boris Johnson',de,UK,#e838e8,#e838e8,3,0.308632965451298
 'Olaf Scholz',de,Deutschland,#1818e8,#1818e8,3,0.2997859267076389
@@ -11,7 +12,6 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Gabor Steingart',de,Deutschland,#1818e8,#1818e8,3,0.276976222020499
 'Emmanuel Macron',de,Frankreich,#e8e808,#e8e808,3,0.2747474547394027
 'Kevin Kühnert',de,Deutschland,#1818e8,#1818e8,3,0.2745729645848087
-'Selenski',de,Ukraine,#e818e8,#e818e8,3,0.2686588781025742
 'Papst Franziskus',de,Vatikan,#58b8e8,#58b8e8,3,0.2673101018211568
 'Mike Pence',de,USA,#18e8e8,#18e8e8,3,0.2647658382583773
 'Putin',de,Russland,#e81818,#e81818,3,0.26463311976709
@@ -228,12 +228,12 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Dimitry Peskov',de,Russland,#e81818,#e81818,1,0.0539605102730278
 'Jacqueline Mars',de,USA,#18e8e8,#18e8e8,1,0.0539464398055559
 'Yang Huiyan',de,China,#e88818,#e88818,1,0.0536801209856325
+'Helge Lund',de,UK,#e838e8,#e838e8,1,0.0536464098055559
 'Sergei Ignatjew',de,Russland,#e81818,#e81818,1,0.0536464098055559
 'Choe Ryong-hae',de,NordKorea,#e85858,#e85858,1,0.0536464098055559
-'Helge Lund',de,UK,#e838e8,#e838e8,1,0.0536464098055559
-'Katharina König-Press',de,Deutschland,#1818e8,#1818e8,1,0.0536464098055559
 'Iris Fontbona',de,Chile,#111111,#111111,1,0.0536464098055559
 'Egon Westphal',de,Deutschland,#1818e8,#1818e8,1,0.0536464098055559
+'Katharina König-Press',de,Deutschland,#1818e8,#1818e8,1,0.0536464098055559
 'Herman Gref',de,Russland,#e81818,#e81818,1,0.0511784294393492
 'Valery Gerasimov',de,Russland,#e81818,#e81818,1,0.0500962876337747
 'Ilham Aliyev',de,Aserbaidschan,#111111,#111111,1,0.0475143093849598
