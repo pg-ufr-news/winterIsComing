@@ -213,7 +213,6 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Larry Page',de,USA,#18e8e8,#18e8e8,1,0.0830624268893745
 'Philipp Wolff',de,Deutschland,#1818e8,#1818e8,3,0.0769645096288959
 'Bartholomäus',de,Türkei,#111111,#111111,1,0.0711719068196489
-'Doris König',de,Deutschland,#1818e8,#1818e8,2,0.0605556393022299
 'Barbara Frenkel',de,Deutschland,#1818e8,#1818e8,1,0.0593539391235295
 'Erica Chenoweth',de,USA,#18e8e8,#18e8e8,1,0.0591253475633508
 'Michael Wirth',de,USA,#18e8e8,#18e8e8,1,0.0575251203980542
@@ -227,13 +226,14 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Dimitry Peskov',de,Russland,#e81818,#e81818,1,0.0539605102730278
 'Jacqueline Mars',de,USA,#18e8e8,#18e8e8,1,0.0539464398055559
 'Yang Huiyan',de,China,#e88818,#e88818,1,0.0536801209856325
-'Katharina König-Press',de,Deutschland,#1818e8,#1818e8,1,0.0536464098055559
-'Egon Westphal',de,Deutschland,#1818e8,#1818e8,1,0.0536464098055559
-'Choe Ryong-hae',de,NordKorea,#e85858,#e85858,1,0.0536464098055559
-'Iris Fontbona',de,Chile,#111111,#111111,1,0.0536464098055559
-'Helge Lund',de,UK,#e838e8,#e838e8,1,0.0536464098055559
 'Sergei Ignatjew',de,Russland,#e81818,#e81818,1,0.0536464098055559
+'Choe Ryong-hae',de,NordKorea,#e85858,#e85858,1,0.0536464098055559
+'Egon Westphal',de,Deutschland,#1818e8,#1818e8,1,0.0536464098055559
+'Helge Lund',de,UK,#e838e8,#e838e8,1,0.0536464098055559
+'Iris Fontbona',de,Chile,#111111,#111111,1,0.0536464098055559
+'Katharina König-Press',de,Deutschland,#1818e8,#1818e8,1,0.0536464098055559
 'Michael Kahle',de,Deutschland,#1818e8,#1818e8,1,0.0515684231508561
+'Doris König',de,Deutschland,#1818e8,#1818e8,1,0.05147233840689541
 'Herman Gref',de,Russland,#e81818,#e81818,1,0.0511784294393492
 'Valery Gerasimov',de,Russland,#e81818,#e81818,1,0.0500962876337747
 'Ilham Aliyev',de,Aserbaidschan,#111111,#111111,1,0.0475143093849598
@@ -245,5 +245,5 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Darren Woods',de,USA,#18e8e8,#18e8e8,1,0.0423248293853701
 'Miriam Adelson',de,USA,#18e8e8,#18e8e8,1,0.0390595610845141
 'Igor Setschin',de,Russland,#e81818,#e81818,1,0.0386489427797874
-'Guillaume Pousaz',de,Schweiz,#111111,#111111,1,0.033989923248466086
+'Guillaume Pousaz',de,Schweiz,#111111,#111111,1,0.033989923248466
 'Bodo Schiffmann',de,Deutschland,#1818e8,#1818e8,1,0.0264841998559359
