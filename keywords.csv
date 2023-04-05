@@ -41,7 +41,6 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Jan Böhmermann',de,Deutschland,#1818e8,#1818e8,2,0.2098304456347933
 'Annalena Baerbock',de,Deutschland,#1818e8,#1818e8,3,0.2087602907003272
 'Ursula von der Leyen',de,EU,#111111,#111111,3,0.2085044335491528
-'Charles Michel',de,EU,#111111,#111111,3,0.2054202806622414
 'Alice Weidel',de,Deutschland,#1818e8,#1818e8,3,0.203532041097419
 'Lael Brainard',de,USA,#18e8e8,#18e8e8,1,0.2025306415431094
 'Michael Mann',de,USA,#18e8e8,#18e8e8,3,0.2020366728643551
@@ -131,6 +130,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Karl Nehammer',de,Oesterreich,#111111,#111111,3,0.1757031641629227
 'Andrzej Duda',de,Polen,#111111,#111111,3,0.1754131686451492
 'Nicola Sturgeon',de,UK,#e838e8,#e838e8,2,0.1747205822230828
+'Charles Michel',de,EU,#111111,#111111,2,0.1746078685629052
 'Fidel Castro',de,Kuba,#111111,#111111,2,0.1744044789876273
 'Chelsea Manning',de,USA,#18e8e8,#18e8e8,1,0.174377921347221
 'Sahra Wagenknecht',de,Deutschland,#1818e8,#1818e8,3,0.173142414839009
@@ -241,7 +241,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Kim Tok-hun',de,NordKorea,#e85858,#e85858,1,0.0455994483347225
 'Gina Rinehart',de,Australien,#111111,#111111,1,0.0455994483347225
 'Dmitry Peskov',de,Russland,#e81818,#e81818,1,0.0454981523239863
-'Ilham Aliyev',de,Aserbaidschan,#111111,#111111,1,0.04113723797721583
+'Ilham Aliyev',de,Aserbaidschan,#111111,#111111,1,0.0411372379772158
 'Miriam Adelson',de,USA,#18e8e8,#18e8e8,1,0.0390595610845141
 'Igor Setschin',de,Russland,#e81818,#e81818,1,0.0386489427797874
 'Darren Woods',de,USA,#18e8e8,#18e8e8,1,0.0359761049775645
