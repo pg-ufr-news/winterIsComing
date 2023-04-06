@@ -168,7 +168,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Joko Widodo',de,Indonesien,#111111,#111111,1,0.1579323517396349
 'Patrick Pouyanné',de,Frankreich,#e8e808,#e8e808,1,0.1576387496538875
 'Stefan Rahmstorf',de,Deutschland,#1818e8,#1818e8,2,0.1562787274652232
-'Schellnhuber',de,Deutschland,#1818e8,#1818e8,2,0.15614458926319674
+'Schellnhuber',de,Deutschland,#1818e8,#1818e8,2,0.1561445892631967
 'Pedro Sánchez',de,Spanien,#111111,#111111,3,0.1544474795243077
 'Mojib Latif',de,Deutschland,#1818e8,#1818e8,1,0.1542132362785454
 'Julian Assange',de,Australien,#111111,#111111,2,0.1535210258180711
@@ -213,7 +213,6 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Larry Page',de,USA,#18e8e8,#18e8e8,1,0.0830624268893745
 'Philipp Wolff',de,Deutschland,#1818e8,#1818e8,3,0.0769645096288959
 'Bartholomäus',de,Türkei,#111111,#111111,1,0.0711719068196489
-'Erica Chenoweth',de,USA,#18e8e8,#18e8e8,1,0.0591253475633508
 'Michael Wirth',de,USA,#18e8e8,#18e8e8,1,0.0575251203980542
 'Thomas Dörflinger',de,Deutschland,#1818e8,#1818e8,1,0.0565775078128446
 'Sucharit Bhakdi',de,Deutschland,#1818e8,#1818e8,1,0.056022804177542
@@ -234,6 +233,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Doris König',de,Deutschland,#1818e8,#1818e8,1,0.0514723384068954
 'Herman Gref',de,Russland,#e81818,#e81818,1,0.0511784294393492
 'Barbara Frenkel',de,Deutschland,#1818e8,#1818e8,1,0.050900893255
+'Erica Chenoweth',de,USA,#18e8e8,#18e8e8,1,0.05040656042884818
 'Valery Gerasimov',de,Russland,#e81818,#e81818,1,0.0500962876337747
 'Alexei Miller',de,Russland,#e81818,#e81818,1,0.0471211057235347
 'Amin H. Nasser',de,SaudiArabien,#111111,#111111,1,0.0470558451511601
