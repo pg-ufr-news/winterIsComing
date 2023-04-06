@@ -39,7 +39,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Jan Böhmermann',de,Deutschland,#1818e8,#1818e8,2,0.2098304456347933
 'Annalena Baerbock',de,Deutschland,#1818e8,#1818e8,3,0.2087602907003272
 'Ursula von der Leyen',de,EU,#111111,#111111,3,0.2085044335491528
-'Mukesh Ambani',de,Indien,#111111,#111111,1,0.20665071860175863
+'Mukesh Ambani',de,Indien,#111111,#111111,1,0.2066507186017586
 'Alice Weidel',de,Deutschland,#1818e8,#1818e8,3,0.203532041097419
 'Lael Brainard',de,USA,#18e8e8,#18e8e8,1,0.2025306415431094
 'Michael Mann',de,USA,#18e8e8,#18e8e8,3,0.2020366728643551
@@ -108,7 +108,6 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Hun Sen',de,Kambodscha,#111111,#111111,1,0.1836343328764497
 'Alexander Lukaschenko',de,Belarus,#e81858,#e81858,3,0.1827981734202121
 'Alexej Kudrin',de,Russland,#e81818,#e81818,1,0.182192287739607
-'Schellnhuber',de,Deutschland,#1818e8,#1818e8,2,0.1821111226625844
 'Julian Reichelt',de,Deutschland,#1818e8,#1818e8,2,0.1815665320052157
 'Ricarda Lang',de,Deutschland,#1818e8,#1818e8,3,0.1812946553975996
 'Paul Ronzheimer',de,Deutschland,#1818e8,#1818e8,2,0.1807919277286636
@@ -169,6 +168,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Joko Widodo',de,Indonesien,#111111,#111111,1,0.1579323517396349
 'Patrick Pouyanné',de,Frankreich,#e8e808,#e8e808,1,0.1576387496538875
 'Stefan Rahmstorf',de,Deutschland,#1818e8,#1818e8,2,0.1562787274652232
+'Schellnhuber',de,Deutschland,#1818e8,#1818e8,2,0.15614458926319674
 'Pedro Sánchez',de,Spanien,#111111,#111111,3,0.1544474795243077
 'Mojib Latif',de,Deutschland,#1818e8,#1818e8,1,0.1542132362785454
 'Julian Assange',de,Australien,#111111,#111111,2,0.1535210258180711
