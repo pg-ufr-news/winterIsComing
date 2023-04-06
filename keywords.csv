@@ -73,7 +73,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Liz Truss',de,UK,#e838e8,#e838e8,2,0.1940257940768495
 'John Kerry',de,USA,#18e8e8,#18e8e8,2,0.1939010358869461
 'Tino Chrupalla',de,Deutschland,#1818e8,#1818e8,2,0.1937899845784159
-'Lothar Wieler',de,Deutschland,#1818e8,#1818e8,2,0.19354092966289838
+'Lothar Wieler',de,Deutschland,#1818e8,#1818e8,2,0.1935409296628983
 'Greta Thunberg',de,Schweden,#111111,#111111,3,0.1933463404142239
 'Björn Höcke',de,Deutschland,#1818e8,#1818e8,1,0.1932045648245208
 'Antonio Guterres',de,UN,#e888e8,#e888e8,2,0.1930483098314509
@@ -217,7 +217,6 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Michael Wirth',de,USA,#18e8e8,#18e8e8,1,0.0575251203980542
 'Thomas Dörflinger',de,Deutschland,#1818e8,#1818e8,1,0.0565775078128446
 'Sucharit Bhakdi',de,Deutschland,#1818e8,#1818e8,1,0.056022804177542
-'Alexei Miller',de,Russland,#e81818,#e81818,1,0.0554365949688644
 'Chan Santokhi',de,Surinam,#111111,#111111,1,0.0544809944469937
 'Francoise Bettencourt-Meyers',de,Frankreich,#e8e808,#e8e808,1,0.0542464698055559
 'Sergei Surovikin',de,Russland,#e81818,#e81818,1,0.054201622077542
@@ -225,8 +224,8 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Dimitry Peskov',de,Russland,#e81818,#e81818,1,0.0539605102730278
 'Jacqueline Mars',de,USA,#18e8e8,#18e8e8,1,0.0539464398055559
 'Yang Huiyan',de,China,#e88818,#e88818,1,0.0536801209856325
-'Egon Westphal',de,Deutschland,#1818e8,#1818e8,1,0.0536464098055559
 'Iris Fontbona',de,Chile,#111111,#111111,1,0.0536464098055559
+'Egon Westphal',de,Deutschland,#1818e8,#1818e8,1,0.0536464098055559
 'Helge Lund',de,UK,#e838e8,#e838e8,1,0.0536464098055559
 'Katharina König-Press',de,Deutschland,#1818e8,#1818e8,1,0.0536464098055559
 'Choe Ryong-hae',de,NordKorea,#e85858,#e85858,1,0.0536464098055559
@@ -236,6 +235,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Herman Gref',de,Russland,#e81818,#e81818,1,0.0511784294393492
 'Barbara Frenkel',de,Deutschland,#1818e8,#1818e8,1,0.050900893255
 'Valery Gerasimov',de,Russland,#e81818,#e81818,1,0.0500962876337747
+'Alexei Miller',de,Russland,#e81818,#e81818,1,0.047121105723534736
 'Amin H. Nasser',de,SaudiArabien,#111111,#111111,1,0.0470558451511601
 'Ethan Bradley',de,USA,#18e8e8,#18e8e8,1,0.0468762292422346
 'Kim Tok-hun',de,NordKorea,#e85858,#e85858,1,0.0455994483347225
