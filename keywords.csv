@@ -1,6 +1,6 @@
 keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Donald Trump',de,USA,#18e8e8,#18e8e8,3,0.3795525563768092
-'König Charles III',de,UK,#e838e8,#e838e8,3,0.36719876202963686
+'König Charles III',de,UK,#e838e8,#e838e8,3,0.3671987620296368
 'Wladimir Putin',de,Russland,#e81818,#e81818,3,0.3383630367577269
 'Selenski',de,Ukraine,#e818e8,#e818e8,3,0.3287688968417335
 'Joe Biden',de,USA,#18e8e8,#18e8e8,3,0.3090583650564892
@@ -96,7 +96,6 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Marco Buschmann',de,Deutschland,#1818e8,#1818e8,3,0.1886627991579304
 'Stephan Harbarth',de,Deutschland,#1818e8,#1818e8,1,0.1880479837187309
 'Fumio Kishida',de,Japan,#111111,#111111,3,0.1870351350228879
-'Gautam Adani',de,Indien,#111111,#111111,3,0.186862394265635
 'Karine Jean-Pierre',de,USA,#18e8e8,#18e8e8,3,0.18611209366118
 'MacKenzie Scott',de,USA,#18e8e8,#18e8e8,2,0.1857048246347956
 'Jack Ma',de,China,#e88818,#e88818,2,0.1853229035189129
@@ -163,6 +162,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Melinda Gates',de,USA,#18e8e8,#18e8e8,1,0.1608978664171119
 'Cyril Ramaphosa',de,Südafrika,#111111,#111111,2,0.1594663509329859
 'Erik Marquardt',de,EU,#111111,#111111,1,0.1593143924260272
+'Gautam Adani',de,Indien,#111111,#111111,1,0.15883320012578975
 'Ulf Poschardt',de,Deutschland,#1818e8,#1818e8,2,0.1585813326059911
 'Kim Jong-un',de,NordKorea,#e85858,#e85858,2,0.158551711596083
 'Joko Widodo',de,Indonesien,#111111,#111111,1,0.1579323517396349
