@@ -154,7 +154,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Bernard Arnault',de,Frankreich,#e8e808,#e8e808,2,0.1650925401911435
 'Wolodymyr Selenski',de,Ukraine,#e818e8,#e818e8,1,0.163572193295483
 'Justin Trudeau',de,Kanada,#111111,#111111,3,0.1634951557403245
-'Christian Drosten',de,Deutschland,#1818e8,#1818e8,2,0.16319044857884932
+'Christian Drosten',de,Deutschland,#1818e8,#1818e8,2,0.1631904485788493
 'Steffi Lemke',de,Deutschland,#1818e8,#1818e8,3,0.1629047618873548
 'Martin Sonneborn',de,Deutschland,#1818e8,#1818e8,1,0.1626472021141365
 'Bruno Kahl',de,Deutschland,#1818e8,#1818e8,1,0.1613759550518236
@@ -215,7 +215,6 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Bartholomäus',de,Türkei,#111111,#111111,1,0.0711719068196489
 'Michael Wirth',de,USA,#18e8e8,#18e8e8,1,0.0575251203980542
 'Thomas Dörflinger',de,Deutschland,#1818e8,#1818e8,1,0.0565775078128446
-'Sucharit Bhakdi',de,Deutschland,#1818e8,#1818e8,1,0.056022804177542
 'Chan Santokhi',de,Surinam,#111111,#111111,1,0.0544809944469937
 'Francoise Bettencourt-Meyers',de,Frankreich,#e8e808,#e8e808,1,0.0542464698055559
 'Charles Holliday',de,USA,#18e8e8,#18e8e8,1,0.0541620811131333
@@ -233,6 +232,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Barbara Frenkel',de,Deutschland,#1818e8,#1818e8,1,0.050900893255
 'Erica Chenoweth',de,USA,#18e8e8,#18e8e8,1,0.0504065604288481
 'Valery Gerasimov',de,Russland,#e81818,#e81818,1,0.0500962876337747
+'Sucharit Bhakdi',de,Deutschland,#1818e8,#1818e8,1,0.0477693985509107
 'Alexei Miller',de,Russland,#e81818,#e81818,1,0.0471211057235347
 'Amin H. Nasser',de,SaudiArabien,#111111,#111111,1,0.0470558451511601
 'Ethan Bradley',de,USA,#18e8e8,#18e8e8,1,0.0468762292422346
