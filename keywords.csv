@@ -22,6 +22,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Nancy Faeser',de,Deutschland,#1818e8,#1818e8,3,0.2585256820316232
 'Recep Tayyip Erdoğan',de,Türkei,#111111,#111111,3,0.2544303169141659
 'Angela Merkel',de,Deutschland,#1818e8,#1818e8,3,0.2471445306754449
+'Elon Musk',de,USA,#18e8e8,#18e8e8,3,0.2439248191906203
 'David Malpass',de,USA,#18e8e8,#18e8e8,3,0.2432576681222887
 'Papst Benedikt XVI',de,Vatikan,#58b8e8,#58b8e8,2,0.2413045997145304
 'Ricarda Lang',de,Deutschland,#1818e8,#1818e8,3,0.2363265143606869
@@ -44,7 +45,6 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Mukesh Ambani',de,Indien,#111111,#111111,1,0.2066507186017586
 'Michael Mann',de,USA,#18e8e8,#18e8e8,3,0.2020366728643551
 'Larry Ellison',de,USA,#18e8e8,#18e8e8,1,0.2012940506394696
-'Elon Musk',de,USA,#18e8e8,#18e8e8,3,0.2009162658927084
 'Mark Zuckerberg',de,USA,#18e8e8,#18e8e8,3,0.2009033582599472
 'Frank-Walter Steinmeier',de,Deutschland,#1818e8,#1818e8,3,0.2007649080496072
 'Klaus-Michael Kühne',de,Deutschland,#1818e8,#1818e8,1,0.2004791125635225
@@ -231,7 +231,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Barbara Frenkel',de,Deutschland,#1818e8,#1818e8,1,0.050900893255
 'Erica Chenoweth',de,USA,#18e8e8,#18e8e8,1,0.0504065604288481
 'Valery Gerasimov',de,Russland,#e81818,#e81818,1,0.0500962876337747
-'Michael Wirth',de,USA,#18e8e8,#18e8e8,1,0.049046367338346074
+'Michael Wirth',de,USA,#18e8e8,#18e8e8,1,0.049046367338346
 'Sucharit Bhakdi',de,Deutschland,#1818e8,#1818e8,1,0.0477693985509107
 'Alexei Miller',de,Russland,#e81818,#e81818,1,0.0471211057235347
 'Amin H. Nasser',de,SaudiArabien,#111111,#111111,1,0.0470558451511601
