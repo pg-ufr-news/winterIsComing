@@ -7,6 +7,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Olaf Scholz',de,Deutschland,#1818e8,#1818e8,3,0.2997859267076389
 'Ron DeSantis',de,USA,#18e8e8,#18e8e8,3,0.2972242122940505
 'Maria Kolesnikowa',de,Belarus,#e81858,#e81858,2,0.2936405963473616
+'Papst Benedikt XVI',de,Vatikan,#58b8e8,#58b8e8,3,0.29187800657553264
 'Christian Lindner',de,Deutschland,#1818e8,#1818e8,3,0.2862653424128151
 'Maybrit Illner',de,Deutschland,#1818e8,#1818e8,2,0.2822091025186961
 'Boris Johnson',de,UK,#e838e8,#e838e8,3,0.2809272792699669
@@ -22,7 +23,6 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Angela Merkel',de,Deutschland,#1818e8,#1818e8,3,0.2471445306754449
 'Elon Musk',de,USA,#18e8e8,#18e8e8,3,0.2439248191906203
 'David Malpass',de,USA,#18e8e8,#18e8e8,3,0.2432576681222887
-'Papst Benedikt XVI',de,Vatikan,#58b8e8,#58b8e8,2,0.2413045997145304
 'Robert Habeck',de,Deutschland,#1818e8,#1818e8,3,0.236752309865691
 'Ricarda Lang',de,Deutschland,#1818e8,#1818e8,3,0.2363265143606869
 'Katalin Novák',de,Ungarn,#111111,#111111,2,0.2356911335412647
@@ -150,7 +150,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Nicola Beer',de,EU,#111111,#111111,1,0.167632495792913
 'Christine Lagarde',de,EU,#111111,#111111,3,0.1673524284627061
 'Bernard Arnault',de,Frankreich,#e8e808,#e8e808,2,0.1650925401911435
-'Roberta Metsola',de,EU,#111111,#111111,1,0.16499477679315602
+'Roberta Metsola',de,EU,#111111,#111111,1,0.164994776793156
 'John Kerry',de,USA,#18e8e8,#18e8e8,1,0.1648160755039041
 'Wolodymyr Selenski',de,Ukraine,#e818e8,#e818e8,1,0.163572193295483
 'Justin Trudeau',de,Kanada,#111111,#111111,3,0.1634951557403245
