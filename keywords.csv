@@ -11,7 +11,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Christian Lindner',de,Deutschland,#1818e8,#1818e8,3,0.2862653424128151
 'Maybrit Illner',de,Deutschland,#1818e8,#1818e8,2,0.2822091025186961
 'Boris Johnson',de,UK,#e838e8,#e838e8,3,0.2809272792699669
-'Papst Benedikt XVI',de,Vatikan,#58b8e8,#58b8e8,3,0.28031988786192996
+'Papst Benedikt XVI',de,Vatikan,#58b8e8,#58b8e8,3,0.2803198878619299
 'Selenskyj',de,Ukraine,#e818e8,#e818e8,3,0.2776987301884915
 'Gabor Steingart',de,Deutschland,#1818e8,#1818e8,3,0.276976222020499
 'Emmanuel Macron',de,Frankreich,#e8e808,#e8e808,3,0.2747474547394027
@@ -219,7 +219,6 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Dimitry Peskov',de,Russland,#e81818,#e81818,1,0.0539605102730278
 'Jacqueline Mars',de,USA,#18e8e8,#18e8e8,1,0.0539464398055559
 'Egon Westphal',de,Deutschland,#1818e8,#1818e8,1,0.0536464098055559
-'Helge Lund',de,UK,#e838e8,#e838e8,1,0.0536464098055559
 'Katharina König-Press',de,Deutschland,#1818e8,#1818e8,1,0.0536464098055559
 'Iris Fontbona',de,Chile,#111111,#111111,1,0.0536464098055559
 'Sergei Ignatjew',de,Russland,#e81818,#e81818,1,0.0536464098055559
@@ -237,6 +236,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Ethan Bradley',de,USA,#18e8e8,#18e8e8,1,0.0468762292422346
 'Sergei Surovikin',de,Russland,#e81818,#e81818,1,0.0460713787659107
 'Yang Huiyan',de,China,#e88818,#e88818,1,0.0456281028377876
+'Helge Lund',de,UK,#e838e8,#e838e8,1,0.045599448334722514
 'Choe Ryong-hae',de,NordKorea,#e85858,#e85858,1,0.0455994483347225
 'Kim Tok-hun',de,NordKorea,#e85858,#e85858,1,0.0455994483347225
 'Gina Rinehart',de,Australien,#111111,#111111,1,0.0455994483347225
