@@ -7,7 +7,6 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Wladimir Putin',de,Russland,#e81818,#e81818,3,0.3062374098804314
 'Olaf Scholz',de,Deutschland,#1818e8,#1818e8,3,0.3007179136105839
 'Ron DeSantis',de,USA,#18e8e8,#18e8e8,3,0.2972242122940505
-'Angela Merkel',de,Deutschland,#1818e8,#1818e8,3,0.2923027483468554
 'Christian Lindner',de,Deutschland,#1818e8,#1818e8,3,0.2862653424128151
 'Maybrit Illner',de,Deutschland,#1818e8,#1818e8,2,0.2822091025186961
 'Boris Johnson',de,UK,#e838e8,#e838e8,3,0.2809272792699669
@@ -19,6 +18,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Papst Franziskus',de,Vatikan,#58b8e8,#58b8e8,3,0.2673101018211568
 'Mike Pence',de,USA,#18e8e8,#18e8e8,3,0.2647658382583773
 'Putin',de,Russland,#e81818,#e81818,3,0.26463311976709
+'Angela Merkel',de,Deutschland,#1818e8,#1818e8,3,0.26250574518573616
 'Charles III',de,UK,#e838e8,#e838e8,3,0.261615580697021
 'Nancy Faeser',de,Deutschland,#1818e8,#1818e8,3,0.2585256820316232
 'Elon Musk',de,USA,#18e8e8,#18e8e8,3,0.2439248191906203
@@ -236,7 +236,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Ethan Bradley',de,USA,#18e8e8,#18e8e8,1,0.0468762292422346
 'Sergei Surovikin',de,Russland,#e81818,#e81818,1,0.0460713787659107
 'Yang Huiyan',de,China,#e88818,#e88818,1,0.0456281028377876
-'Helge Lund',de,UK,#e838e8,#e838e8,1,0.045599448334722514
+'Helge Lund',de,UK,#e838e8,#e838e8,1,0.0455994483347225
 'Choe Ryong-hae',de,NordKorea,#e85858,#e85858,1,0.0455994483347225
 'Kim Tok-hun',de,NordKorea,#e85858,#e85858,1,0.0455994483347225
 'Gina Rinehart',de,Australien,#111111,#111111,1,0.0455994483347225
