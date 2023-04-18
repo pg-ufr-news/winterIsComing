@@ -149,6 +149,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Heinrich XIII. Prinz Reuß',de,Deutschland,#1818e8,#1818e8,2,0.1676748213520621
 'Nicola Beer',de,EU,#111111,#111111,1,0.167632495792913
 'Christine Lagarde',de,EU,#111111,#111111,3,0.1673524284627061
+'Kim Jong-un',de,NordKorea,#e85858,#e85858,3,0.1669946821293978
 'Bernard Arnault',de,Frankreich,#e8e808,#e8e808,2,0.1650925401911435
 'Roberta Metsola',de,EU,#111111,#111111,1,0.164994776793156
 'John Kerry',de,USA,#18e8e8,#18e8e8,1,0.1648160755039041
@@ -164,7 +165,6 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Erik Marquardt',de,EU,#111111,#111111,1,0.1593143924260272
 'Gautam Adani',de,Indien,#111111,#111111,1,0.1588332001257897
 'Ulf Poschardt',de,Deutschland,#1818e8,#1818e8,2,0.1585813326059911
-'Kim Jong-un',de,NordKorea,#e85858,#e85858,2,0.158551711596083
 'Joko Widodo',de,Indonesien,#111111,#111111,1,0.1579323517396349
 'Patrick Pouyanné',de,Frankreich,#e8e808,#e8e808,1,0.1576387496538875
 'Stefan Rahmstorf',de,Deutschland,#1818e8,#1818e8,2,0.1562787274652232
@@ -211,7 +211,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Katalin Novak',de,Ungarn,#111111,#111111,1,0.0846712303252764
 'Larry Page',de,USA,#18e8e8,#18e8e8,1,0.0830624268893745
 'Philipp Wolff',de,Deutschland,#1818e8,#1818e8,3,0.0769645096288959
-'Frank Bainimarama',de,Fidschi,#111111,#111111,1,0.07293723245306936
+'Frank Bainimarama',de,Fidschi,#111111,#111111,1,0.0729372324530693
 'Bartholomäus',de,Türkei,#111111,#111111,1,0.0711719068196489
 'Chan Santokhi',de,Surinam,#111111,#111111,1,0.0544809944469937
 'Francoise Bettencourt-Meyers',de,Frankreich,#e8e808,#e8e808,1,0.0542464698055559
