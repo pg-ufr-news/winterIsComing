@@ -7,7 +7,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Wladimir Putin',de,Russland,#e81818,#e81818,3,0.3062374098804314
 'Olaf Scholz',de,Deutschland,#1818e8,#1818e8,3,0.3007179136105839
 'Ron DeSantis',de,USA,#18e8e8,#18e8e8,3,0.2972242122940505
-'Emmanuel Macron',de,Frankreich,#e8e808,#e8e808,3,0.29305111607394685
+'Emmanuel Macron',de,Frankreich,#e8e808,#e8e808,3,0.2930511160739468
 'Christian Lindner',de,Deutschland,#1818e8,#1818e8,3,0.2862653424128151
 'Maybrit Illner',de,Deutschland,#1818e8,#1818e8,2,0.2822091025186961
 'Boris Johnson',de,UK,#e838e8,#e838e8,3,0.2809272792699669
@@ -47,7 +47,6 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Larry Ellison',de,USA,#18e8e8,#18e8e8,1,0.2012940506394696
 'Mark Zuckerberg',de,USA,#18e8e8,#18e8e8,3,0.2009033582599472
 'Frank-Walter Steinmeier',de,Deutschland,#1818e8,#1818e8,3,0.2007649080496072
-'Klaus-Michael Kühne',de,Deutschland,#1818e8,#1818e8,1,0.2004791125635225
 'Xi Jinping',de,China,#e88818,#e88818,3,0.1996088260611851
 'Joschka Fischer',de,Deutschland,#1818e8,#1818e8,1,0.1993511192677727
 'Antony Blinken',de,USA,#18e8e8,#18e8e8,3,0.1990681918825269
@@ -55,6 +54,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Martin Schirdewan',de,Deutschland,#1818e8,#1818e8,3,0.1984682350970776
 'Boris Pistorius',de,Deutschland,#1818e8,#1818e8,3,0.1982590658752394
 'Franziska Giffey',de,Deutschland,#1818e8,#1818e8,3,0.198223685399118
+'Klaus-Michael Kühne',de,Deutschland,#1818e8,#1818e8,1,0.19810751567899412
 'Giorgia Meloni',de,Italien,#111111,#111111,3,0.1977848506583311
 'Gerhard Schröder',de,Deutschland,#1818e8,#1818e8,3,0.1963320691463661
 'Ola Källenius',de,Deutschland,#1818e8,#1818e8,1,0.1960636859801629
