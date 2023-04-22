@@ -42,6 +42,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Sandra Maischberger',de,Deutschland,#1818e8,#1818e8,2,0.2116071361922318
 'Jan Böhmermann',de,Deutschland,#1818e8,#1818e8,2,0.2098304456347933
 'Ursula von der Leyen',de,EU,#111111,#111111,3,0.2085044335491528
+'Christoph Heusgen',de,Deutschland,#1818e8,#1818e8,3,0.2083008007286693
 'Mukesh Ambani',de,Indien,#111111,#111111,1,0.2066507186017586
 'Jack Ma',de,China,#e88818,#e88818,2,0.2033843089001668
 'Michael Mann',de,USA,#18e8e8,#18e8e8,3,0.2020366728643551
@@ -84,7 +85,6 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Horst Seehofer',de,Deutschland,#1818e8,#1818e8,2,0.1905764604140382
 'Wolodymyr Selenskyj',de,Ukraine,#e818e8,#e818e8,3,0.190339776168724
 'Sergej Lawrow',de,Russland,#e81818,#e81818,3,0.1901162263136014
-'Christoph Heusgen',de,Deutschland,#1818e8,#1818e8,3,0.1897786243866698
 'Dalai Lama',de,Tibet,#111111,#111111,2,0.1893588407380511
 'Edward Snowden',de,USA,#18e8e8,#18e8e8,1,0.189299821846266
 'Rishi Sunak',de,UK,#e838e8,#e838e8,3,0.1890834447602599
@@ -242,7 +242,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Gina Rinehart',de,Australien,#111111,#111111,1,0.0455994483347225
 'Dmitry Peskov',de,Russland,#e81818,#e81818,1,0.0454981523239863
 'Ilham Aliyev',de,Aserbaidschan,#111111,#111111,1,0.0411372379772158
-'Sucharit Bhakdi',de,Deutschland,#1818e8,#1818e8,1,0.040754003768274094
+'Sucharit Bhakdi',de,Deutschland,#1818e8,#1818e8,1,0.040754003768274
 'Darren Woods',de,USA,#18e8e8,#18e8e8,1,0.0359761049775645
 'Guillaume Pousaz',de,Schweiz,#111111,#111111,1,0.033989923248466
 'Miriam Adelson',de,USA,#18e8e8,#18e8e8,1,0.0335006569218369
