@@ -186,7 +186,6 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Alice Schwarzer',de,Deutschland,#1818e8,#1818e8,1,0.1422162383933433
 'Joana Cotar',de,Deutschland,#1818e8,#1818e8,1,0.1383847895568137
 'Jewgenij Roisman',de,Russland,#e81818,#e81818,1,0.1378615462471255
-'Kurt Krömer',de,Deutschland,#1818e8,#1818e8,2,0.1367340638640693
 'Lula sa Silva',de,Brasilien,#58e838,#58e838,1,0.1365303609725649
 'John Roberts',de,USA,#18e8e8,#18e8e8,1,0.1347869056153244
 'Ebrahim Raisi',de,Iran,#111111,#111111,3,0.1346740925721293
@@ -204,6 +203,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Carola Rackete',de,Deutschland,#1818e8,#1818e8,1,0.1210398166995167
 'Sergey Brin',de,USA,#18e8e8,#18e8e8,1,0.1204010720496926
 'Tamim bin Hamad Al-Thani',de,Katar,#111111,#111111,1,0.1182916347102054
+'Kurt Krömer',de,Deutschland,#1818e8,#1818e8,2,0.11757458428445891
 'Alberto Ángel Fernández',de,Argentinien,#111111,#111111,1,0.1155569800506883
 'Lee Hsien Loong',de,Singapur,#111111,#111111,1,0.1155152699447566
 'Yanis Varoufakis',de,Griechenland,#1858e8,#1858e8,1,0.1021052404744678
@@ -214,9 +214,9 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Philipp Wolff',de,Deutschland,#1818e8,#1818e8,3,0.0769645096288959
 'Frank Bainimarama',de,Fidschi,#111111,#111111,1,0.0729372324530693
 'Bartholomäus',de,Türkei,#111111,#111111,1,0.0711719068196489
+'Katharina König-Press',de,Deutschland,#1818e8,#1818e8,1,0.0536464098055559
 'Egon Westphal',de,Deutschland,#1818e8,#1818e8,1,0.0536464098055559
 'Iris Fontbona',de,Chile,#111111,#111111,1,0.0536464098055559
-'Katharina König-Press',de,Deutschland,#1818e8,#1818e8,1,0.0536464098055559
 'Michael Kahle',de,Deutschland,#1818e8,#1818e8,1,0.0515684231508561
 'Doris König',de,Deutschland,#1818e8,#1818e8,1,0.0514723384068954
 'Herman Gref',de,Russland,#e81818,#e81818,1,0.0511784294393492
