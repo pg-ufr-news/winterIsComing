@@ -181,7 +181,6 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Julia Koch',de,USA,#18e8e8,#18e8e8,2,0.1474606893609312
 'Badri Hosseini Chamenei',de,Iran,#111111,#111111,1,0.1464430820964225
 'Yoon Suk-yeol',de,SüdKorea,#111111,#111111,3,0.1454810189442506
-'Macky Sall',de,Senegal,#111111,#111111,1,0.1448548718339928
 'Paul Kagame',de,Ruanda,#111111,#111111,1,0.1444730031001166
 'Alice Schwarzer',de,Deutschland,#1818e8,#1818e8,1,0.1422162383933433
 'Joana Cotar',de,Deutschland,#1818e8,#1818e8,1,0.1383847895568137
@@ -198,6 +197,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Miguel Díaz-Canel',de,Kuba,#111111,#111111,1,0.1294581807787991
 'Muhammad bin Zayid Al Nahyan',de,VAE,#111111,#111111,1,0.1253944713530956
 'Hans Joachim Schellnhuber',de,Deutschland,#1818e8,#1818e8,2,0.1236925730610332
+'Macky Sall',de,Senegal,#111111,#111111,1,0.12342667105889388
 'Jochen Thewes',de,Deutschland,#1818e8,#1818e8,1,0.1212283256646623
 'Klaus Hasselmann',de,Deutschland,#1818e8,#1818e8,1,0.1212159076514837
 'Carola Rackete',de,Deutschland,#1818e8,#1818e8,1,0.1210398166995167
@@ -214,9 +214,9 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Philipp Wolff',de,Deutschland,#1818e8,#1818e8,3,0.0769645096288959
 'Frank Bainimarama',de,Fidschi,#111111,#111111,1,0.0729372324530693
 'Bartholomäus',de,Türkei,#111111,#111111,1,0.0711719068196489
+'Egon Westphal',de,Deutschland,#1818e8,#1818e8,1,0.0536464098055559
 'Iris Fontbona',de,Chile,#111111,#111111,1,0.0536464098055559
 'Katharina König-Press',de,Deutschland,#1818e8,#1818e8,1,0.0536464098055559
-'Egon Westphal',de,Deutschland,#1818e8,#1818e8,1,0.0536464098055559
 'Michael Kahle',de,Deutschland,#1818e8,#1818e8,1,0.0515684231508561
 'Doris König',de,Deutschland,#1818e8,#1818e8,1,0.0514723384068954
 'Herman Gref',de,Russland,#e81818,#e81818,1,0.0511784294393492
@@ -242,7 +242,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Dmitry Peskov',de,Russland,#e81818,#e81818,1,0.0454981523239863
 'Ilham Aliyev',de,Aserbaidschan,#111111,#111111,1,0.0411372379772158
 'Sucharit Bhakdi',de,Deutschland,#1818e8,#1818e8,1,0.040754003768274
-'Sergei Surovikin',de,Russland,#e81818,#e81818,1,0.039160671951024094
+'Sergei Surovikin',de,Russland,#e81818,#e81818,1,0.039160671951024
 'Darren Woods',de,USA,#18e8e8,#18e8e8,1,0.0359761049775645
 'Guillaume Pousaz',de,Schweiz,#111111,#111111,1,0.033989923248466
 'Miriam Adelson',de,USA,#18e8e8,#18e8e8,1,0.0335006569218369
