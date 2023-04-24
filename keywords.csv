@@ -45,11 +45,11 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Ursula von der Leyen',de,EU,#111111,#111111,3,0.2085044335491528
 'Christoph Heusgen',de,Deutschland,#1818e8,#1818e8,3,0.2083008007286693
 'Mukesh Ambani',de,Indien,#111111,#111111,1,0.2066507186017586
-'Jack Ma',de,China,#e88818,#e88818,2,0.2033843089001668
 'Michael Mann',de,USA,#18e8e8,#18e8e8,3,0.2020366728643551
 'Larry Ellison',de,USA,#18e8e8,#18e8e8,1,0.2012940506394696
 'Mark Zuckerberg',de,USA,#18e8e8,#18e8e8,3,0.2009033582599472
 'Frank-Walter Steinmeier',de,Deutschland,#1818e8,#1818e8,3,0.2007649080496072
+'Jack Ma',de,China,#e88818,#e88818,2,0.20055473029241447
 'Xi Jinping',de,China,#e88818,#e88818,3,0.1996088260611851
 'Antony Blinken',de,USA,#18e8e8,#18e8e8,3,0.1990681918825269
 'Warren Buffet',de,USA,#18e8e8,#18e8e8,2,0.1988121366111569
@@ -214,9 +214,9 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Philipp Wolff',de,Deutschland,#1818e8,#1818e8,3,0.0769645096288959
 'Frank Bainimarama',de,Fidschi,#111111,#111111,1,0.0729372324530693
 'Bartholomäus',de,Türkei,#111111,#111111,1,0.0711719068196489
+'Egon Westphal',de,Deutschland,#1818e8,#1818e8,1,0.0536464098055559
 'Iris Fontbona',de,Chile,#111111,#111111,1,0.0536464098055559
 'Katharina König-Press',de,Deutschland,#1818e8,#1818e8,1,0.0536464098055559
-'Egon Westphal',de,Deutschland,#1818e8,#1818e8,1,0.0536464098055559
 'Michael Kahle',de,Deutschland,#1818e8,#1818e8,1,0.0515684231508561
 'Doris König',de,Deutschland,#1818e8,#1818e8,1,0.0514723384068954
 'Herman Gref',de,Russland,#e81818,#e81818,1,0.0511784294393492
@@ -242,7 +242,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Ilham Aliyev',de,Aserbaidschan,#111111,#111111,1,0.0411372379772158
 'Sucharit Bhakdi',de,Deutschland,#1818e8,#1818e8,1,0.040754003768274
 'Sergei Surovikin',de,Russland,#e81818,#e81818,1,0.039160671951024
-'Kim Tok-hun',de,NordKorea,#e85858,#e85858,1,0.038759531084514125
+'Kim Tok-hun',de,NordKorea,#e85858,#e85858,1,0.0387595310845141
 'Darren Woods',de,USA,#18e8e8,#18e8e8,1,0.0359761049775645
 'Guillaume Pousaz',de,Schweiz,#111111,#111111,1,0.033989923248466
 'Miriam Adelson',de,USA,#18e8e8,#18e8e8,1,0.0335006569218369
