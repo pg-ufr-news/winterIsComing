@@ -16,7 +16,6 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Gabor Steingart',de,Deutschland,#1818e8,#1818e8,3,0.276976222020499
 'Kevin Kühnert',de,Deutschland,#1818e8,#1818e8,3,0.2745729645848087
 'Putin',de,Russland,#e81818,#e81818,3,0.26463311976709
-'Angela Merkel',de,Deutschland,#1818e8,#1818e8,3,0.2625057451857361
 'Charles III',de,UK,#e838e8,#e838e8,3,0.261615580697021
 'Nancy Faeser',de,Deutschland,#1818e8,#1818e8,3,0.2585256820316232
 'Elon Musk',de,USA,#18e8e8,#18e8e8,3,0.2577567967665727
@@ -25,6 +24,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Papst Franziskus',de,Vatikan,#58b8e8,#58b8e8,3,0.2503531747298014
 'Mike Pence',de,USA,#18e8e8,#18e8e8,3,0.2481842957014388
 'David Malpass',de,USA,#18e8e8,#18e8e8,3,0.2432576681222887
+'Angela Merkel',de,Deutschland,#1818e8,#1818e8,3,0.23717970249878478
 'Robert Habeck',de,Deutschland,#1818e8,#1818e8,3,0.236752309865691
 'Ricarda Lang',de,Deutschland,#1818e8,#1818e8,3,0.2363265143606869
 'Katalin Novák',de,Ungarn,#111111,#111111,2,0.2356911335412647
@@ -214,9 +214,9 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Philipp Wolff',de,Deutschland,#1818e8,#1818e8,3,0.0769645096288959
 'Frank Bainimarama',de,Fidschi,#111111,#111111,1,0.0729372324530693
 'Bartholomäus',de,Türkei,#111111,#111111,1,0.0711719068196489
+'Katharina König-Press',de,Deutschland,#1818e8,#1818e8,1,0.0536464098055559
 'Egon Westphal',de,Deutschland,#1818e8,#1818e8,1,0.0536464098055559
 'Iris Fontbona',de,Chile,#111111,#111111,1,0.0536464098055559
-'Katharina König-Press',de,Deutschland,#1818e8,#1818e8,1,0.0536464098055559
 'Michael Kahle',de,Deutschland,#1818e8,#1818e8,1,0.0515684231508561
 'Doris König',de,Deutschland,#1818e8,#1818e8,1,0.0514723384068954
 'Herman Gref',de,Russland,#e81818,#e81818,1,0.0511784294393492
@@ -245,5 +245,5 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Kim Tok-hun',de,NordKorea,#e85858,#e85858,1,0.0387595310845141
 'Guillaume Pousaz',de,Schweiz,#111111,#111111,1,0.033989923248466
 'Miriam Adelson',de,USA,#18e8e8,#18e8e8,1,0.0335006569218369
-'Darren Woods',de,USA,#18e8e8,#18e8e8,1,0.030579689230929828
+'Darren Woods',de,USA,#18e8e8,#18e8e8,1,0.0305796892309298
 'Bodo Schiffmann',de,Deutschland,#1818e8,#1818e8,1,0.0225115698775455
