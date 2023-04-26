@@ -24,6 +24,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Papst Franziskus',de,Vatikan,#58b8e8,#58b8e8,3,0.2503531747298014
 'Mike Pence',de,USA,#18e8e8,#18e8e8,3,0.2481842957014388
 'David Malpass',de,USA,#18e8e8,#18e8e8,3,0.2432576681222887
+'Charles Koch',de,USA,#18e8e8,#18e8e8,2,0.23888975634250062
 'Angela Merkel',de,Deutschland,#1818e8,#1818e8,3,0.2371797024987847
 'Robert Habeck',de,Deutschland,#1818e8,#1818e8,3,0.236752309865691
 'Ricarda Lang',de,Deutschland,#1818e8,#1818e8,3,0.2363265143606869
@@ -31,7 +32,6 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Joschka Fischer',de,Deutschland,#1818e8,#1818e8,1,0.2324487513776068
 'Annalena Baerbock',de,Deutschland,#1818e8,#1818e8,3,0.2324044370952781
 'Barack Obama',de,USA,#18e8e8,#18e8e8,3,0.2290709096765152
-'Charles Koch',de,USA,#18e8e8,#18e8e8,2,0.2270941593334232
 'Markus Söder',de,Deutschland,#1818e8,#1818e8,3,0.2249247868835967
 'Mateusz Morawiecki',de,Polen,#111111,#111111,3,0.2245577423883679
 'Gerhard Schröder',de,Deutschland,#1818e8,#1818e8,3,0.2218338037744111
@@ -214,9 +214,9 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Philipp Wolff',de,Deutschland,#1818e8,#1818e8,3,0.0769645096288959
 'Frank Bainimarama',de,Fidschi,#111111,#111111,1,0.0729372324530693
 'Bartholomäus',de,Türkei,#111111,#111111,1,0.0711719068196489
+'Egon Westphal',de,Deutschland,#1818e8,#1818e8,1,0.0536464098055559
 'Iris Fontbona',de,Chile,#111111,#111111,1,0.0536464098055559
 'Katharina König-Press',de,Deutschland,#1818e8,#1818e8,1,0.0536464098055559
-'Egon Westphal',de,Deutschland,#1818e8,#1818e8,1,0.0536464098055559
 'Michael Kahle',de,Deutschland,#1818e8,#1818e8,1,0.0515684231508561
 'Doris König',de,Deutschland,#1818e8,#1818e8,1,0.0514723384068954
 'Herman Gref',de,Russland,#e81818,#e81818,1,0.0511784294393492
