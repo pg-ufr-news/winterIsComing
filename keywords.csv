@@ -72,7 +72,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Winfried Kretschmann',de,Deutschland,#1818e8,#1818e8,3,0.1942511417792025
 'Rafael Grossi',de,UN,#e888e8,#e888e8,3,0.1940986615712149
 'Liz Truss',de,UK,#e838e8,#e838e8,2,0.1940257940768495
-'Frank-Walter Steinmeier',de,Deutschland,#1818e8,#1818e8,3,0.19379037502398427
+'Frank-Walter Steinmeier',de,Deutschland,#1818e8,#1818e8,3,0.1937903750239842
 'Tino Chrupalla',de,Deutschland,#1818e8,#1818e8,2,0.1937899845784159
 'Jacinda Ardern',de,Neuseeland,#1818e8,#1818e8,1,0.1936528852271206
 'Greta Thunberg',de,Schweden,#111111,#111111,3,0.1933463404142239
@@ -214,7 +214,6 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Frank Bainimarama',de,Fidschi,#111111,#111111,1,0.0729372324530693
 'Bartholomäus',de,Türkei,#111111,#111111,1,0.0711719068196489
 'Philipp Wolff',de,Deutschland,#1818e8,#1818e8,1,0.0654199081845615
-'Iris Fontbona',de,Chile,#111111,#111111,1,0.0536464098055559
 'Katharina König-Press',de,Deutschland,#1818e8,#1818e8,1,0.0536464098055559
 'Michael Kahle',de,Deutschland,#1818e8,#1818e8,1,0.0515684231508561
 'Doris König',de,Deutschland,#1818e8,#1818e8,1,0.0514723384068954
@@ -230,10 +229,11 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Charles Holliday',de,USA,#18e8e8,#18e8e8,1,0.0460377689461633
 'Dimitry Peskov',de,Russland,#e81818,#e81818,1,0.0458664337320736
 'Yang Huiyan',de,China,#e88818,#e88818,1,0.0456281028377876
-'Sergei Ignatjew',de,Russland,#e81818,#e81818,1,0.0455994483347225
+'Iris Fontbona',de,Chile,#111111,#111111,1,0.045599448334722514
 'Egon Westphal',de,Deutschland,#1818e8,#1818e8,1,0.0455994483347225
-'Helge Lund',de,UK,#e838e8,#e838e8,1,0.0455994483347225
+'Sergei Ignatjew',de,Russland,#e81818,#e81818,1,0.0455994483347225
 'Gina Rinehart',de,Australien,#111111,#111111,1,0.0455994483347225
+'Helge Lund',de,UK,#e838e8,#e838e8,1,0.0455994483347225
 'Choe Ryong-hae',de,NordKorea,#e85858,#e85858,1,0.0455994483347225
 'Dmitry Peskov',de,Russland,#e81818,#e81818,1,0.0454981523239863
 'Michael Wirth',de,USA,#18e8e8,#18e8e8,1,0.0421394572375941
