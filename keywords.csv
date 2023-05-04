@@ -127,7 +127,6 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Karl Nehammer',de,Oesterreich,#111111,#111111,3,0.1757031641629227
 'Andrzej Duda',de,Polen,#111111,#111111,3,0.1754131686451492
 'Nicola Sturgeon',de,UK,#e838e8,#e838e8,2,0.1747205822230828
-'Fidel Castro',de,Kuba,#111111,#111111,2,0.1744044789876273
 'Sahra Wagenknecht',de,Deutschland,#1818e8,#1818e8,3,0.173142414839009
 'Alice Weidel',de,Deutschland,#1818e8,#1818e8,1,0.1730025649328061
 'Robin Li',de,China,#e88818,#e88818,2,0.1723977670136602
@@ -177,6 +176,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Otmar Issing',de,EU,#111111,#111111,2,0.1503360076649887
 'Volker Wissing',de,Deutschland,#1818e8,#1818e8,3,0.1503320227641828
 'Veronika Grimm',de,Deutschland,#1818e8,#1818e8,1,0.1492485262795565
+'Fidel Castro',de,Kuba,#111111,#111111,1,0.14824412213948318
 'Julia Koch',de,USA,#18e8e8,#18e8e8,2,0.1474606893609312
 'Badri Hosseini Chamenei',de,Iran,#111111,#111111,1,0.1464430820964225
 'Yoon Suk-yeol',de,SüdKorea,#111111,#111111,3,0.1454810189442506
@@ -228,12 +228,12 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Chan Santokhi',de,Surinam,#111111,#111111,1,0.0463088452799446
 'Charles Holliday',de,USA,#18e8e8,#18e8e8,1,0.0460377689461633
 'Dimitry Peskov',de,Russland,#e81818,#e81818,1,0.0458664337320736
+'Gina Rinehart',de,Australien,#111111,#111111,1,0.0455994483347225
 'Iris Fontbona',de,Chile,#111111,#111111,1,0.0455994483347225
 'Egon Westphal',de,Deutschland,#1818e8,#1818e8,1,0.0455994483347225
-'Gina Rinehart',de,Australien,#111111,#111111,1,0.0455994483347225
-'Choe Ryong-hae',de,NordKorea,#e85858,#e85858,1,0.0455994483347225
 'Sergei Ignatjew',de,Russland,#e81818,#e81818,1,0.0455994483347225
 'Helge Lund',de,UK,#e838e8,#e838e8,1,0.0455994483347225
+'Choe Ryong-hae',de,NordKorea,#e85858,#e85858,1,0.0455994483347225
 'Dmitry Peskov',de,Russland,#e81818,#e81818,1,0.0454981523239863
 'Michael Wirth',de,USA,#18e8e8,#18e8e8,1,0.0421394572375941
 'Thomas Dörflinger',de,Deutschland,#1818e8,#1818e8,1,0.0417098326447802
