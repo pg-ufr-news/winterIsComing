@@ -6,7 +6,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Joe Biden',de,USA,#18e8e8,#18e8e8,3,0.3313125839343794
 'Selenski',de,Ukraine,#e818e8,#e818e8,3,0.3287688968417335
 'Wladimir Putin',de,Russland,#e81818,#e81818,3,0.3062374098804314
-'Olaf Scholz',de,Deutschland,#1818e8,#1818e8,3,0.30602095662910145
+'Olaf Scholz',de,Deutschland,#1818e8,#1818e8,3,0.3060209566291014
 'Ron DeSantis',de,USA,#18e8e8,#18e8e8,3,0.2985029263590338
 'Christian Lindner',de,Deutschland,#1818e8,#1818e8,3,0.2862653424128151
 'Kevin Kühnert',de,Deutschland,#1818e8,#1818e8,3,0.2837933503516328
@@ -22,6 +22,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Jens Stoltenberg',de,Norwegen,#e818e8,#e818e8,3,0.2552114217204134
 'Lothar Wieler',de,Deutschland,#1818e8,#1818e8,2,0.2523242859277492
 'David Malpass',de,USA,#18e8e8,#18e8e8,3,0.2432576681222887
+'Ursula von der Leyen',de,EU,#111111,#111111,3,0.24127930760768895
 'Nancy Faeser',de,Deutschland,#1818e8,#1818e8,3,0.2383423883632433
 'Angela Merkel',de,Deutschland,#1818e8,#1818e8,3,0.2371797024987847
 'Robert Habeck',de,Deutschland,#1818e8,#1818e8,3,0.236752309865691
@@ -43,7 +44,6 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Julian Reichelt',de,Deutschland,#1818e8,#1818e8,2,0.2138296467498878
 'Sandra Maischberger',de,Deutschland,#1818e8,#1818e8,2,0.2116071361922318
 'Jan Böhmermann',de,Deutschland,#1818e8,#1818e8,2,0.2098304456347933
-'Ursula von der Leyen',de,EU,#111111,#111111,3,0.2085044335491528
 'Mukesh Ambani',de,Indien,#111111,#111111,1,0.2066507186017586
 'Charles Koch',de,USA,#18e8e8,#18e8e8,2,0.2036568478911255
 'Michael Mann',de,USA,#18e8e8,#18e8e8,3,0.2020366728643551
@@ -228,12 +228,12 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Chan Santokhi',de,Surinam,#111111,#111111,1,0.0463088452799446
 'Charles Holliday',de,USA,#18e8e8,#18e8e8,1,0.0460377689461633
 'Dimitry Peskov',de,Russland,#e81818,#e81818,1,0.0458664337320736
+'Gina Rinehart',de,Australien,#111111,#111111,1,0.0455994483347225
 'Iris Fontbona',de,Chile,#111111,#111111,1,0.0455994483347225
 'Egon Westphal',de,Deutschland,#1818e8,#1818e8,1,0.0455994483347225
-'Gina Rinehart',de,Australien,#111111,#111111,1,0.0455994483347225
-'Choe Ryong-hae',de,NordKorea,#e85858,#e85858,1,0.0455994483347225
 'Sergei Ignatjew',de,Russland,#e81818,#e81818,1,0.0455994483347225
 'Helge Lund',de,UK,#e838e8,#e838e8,1,0.0455994483347225
+'Choe Ryong-hae',de,NordKorea,#e85858,#e85858,1,0.0455994483347225
 'Dmitry Peskov',de,Russland,#e81818,#e81818,1,0.0454981523239863
 'Michael Wirth',de,USA,#18e8e8,#18e8e8,1,0.0421394572375941
 'Thomas Dörflinger',de,Deutschland,#1818e8,#1818e8,1,0.0417098326447802
