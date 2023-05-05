@@ -179,7 +179,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Julia Koch',de,USA,#18e8e8,#18e8e8,2,0.1474606893609312
 'Badri Hosseini Chamenei',de,Iran,#111111,#111111,1,0.1464430820964225
 'Yoon Suk-yeol',de,SüdKorea,#111111,#111111,3,0.1454810189442506
-'Pedro Sánchez',de,Spanien,#111111,#111111,3,0.14532197168657063
+'Pedro Sánchez',de,Spanien,#111111,#111111,3,0.1453219716865706
 'Paul Kagame',de,Ruanda,#111111,#111111,1,0.1444730031001166
 'Nikos Androulakis',de,Griechenland,#1858e8,#1858e8,1,0.1436341310989589
 'Jair Lapid',de,Israel,#111111,#111111,2,0.140834487165512
@@ -227,12 +227,11 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Francoise Bettencourt-Meyers',de,Frankreich,#e8e808,#e8e808,1,0.0464095293347225
 'Chan Santokhi',de,Surinam,#111111,#111111,1,0.0463088452799446
 'Dimitry Peskov',de,Russland,#e81818,#e81818,1,0.0458664337320736
-'Sergei Ignatjew',de,Russland,#e81818,#e81818,1,0.0455994483347225
-'Iris Fontbona',de,Chile,#111111,#111111,1,0.0455994483347225
-'Gina Rinehart',de,Australien,#111111,#111111,1,0.0455994483347225
-'Egon Westphal',de,Deutschland,#1818e8,#1818e8,1,0.0455994483347225
-'Helge Lund',de,UK,#e838e8,#e838e8,1,0.0455994483347225
 'Choe Ryong-hae',de,NordKorea,#e85858,#e85858,1,0.0455994483347225
+'Gina Rinehart',de,Australien,#111111,#111111,1,0.0455994483347225
+'Sergei Ignatjew',de,Russland,#e81818,#e81818,1,0.0455994483347225
+'Helge Lund',de,UK,#e838e8,#e838e8,1,0.0455994483347225
+'Egon Westphal',de,Deutschland,#1818e8,#1818e8,1,0.0455994483347225
 'Dmitry Peskov',de,Russland,#e81818,#e81818,1,0.0454981523239863
 'Michael Wirth',de,USA,#18e8e8,#18e8e8,1,0.0421394572375941
 'Thomas Dörflinger',de,Deutschland,#1818e8,#1818e8,1,0.0417098326447802
@@ -241,6 +240,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Jacqueline Mars',de,USA,#18e8e8,#18e8e8,1,0.0392313282595141
 'Charles Holliday',de,USA,#18e8e8,#18e8e8,1,0.0391321036042388
 'Yang Huiyan',de,China,#e88818,#e88818,1,0.0387838874121194
+'Iris Fontbona',de,Chile,#111111,#111111,1,0.038759531084514125
 'Kim Tok-hun',de,NordKorea,#e85858,#e85858,1,0.0387595310845141
 'Guillaume Pousaz',de,Schweiz,#111111,#111111,1,0.033989923248466
 'Miriam Adelson',de,USA,#18e8e8,#18e8e8,1,0.0335006569218369
