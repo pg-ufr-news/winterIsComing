@@ -138,7 +138,7 @@ indexMissing = {}
 
 def personInSearch(person):
     for keyword in keywordsDF['keyword']:
-        if((person in keyword) or (keyword in person)):
+        if((person in keyword) or (keyword.strip("'") in person)):
              return True
     return False
 
