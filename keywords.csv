@@ -11,7 +11,6 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Queen Elizabeth II',de,UK,#e838e8,#e838e8,2,0.515
 'Georg Gänswein',de,Deutschland,#1818e8,#1818e8,2,0.514
 'Anne Will',de,Deutschland,#1818e8,#1818e8,2,0.513
-'Nikki Haley',de,USA,#18e8e8,#18e8e8,2,0.512
 'Prinz William',de,UK,#e838e8,#e838e8,2,0.511
 'Queen Camilla',de,UK,#e838e8,#e838e8,2,0.51
 'Faisal Kawusi',de,Deutschland,#1818e8,#1818e8,2,0.509
@@ -23,6 +22,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Ulrich Reitz',de,Deutschland,#1818e8,#1818e8,2,0.503
 'Nick Fuentes',de,USA,#18e8e8,#18e8e8,2,0.502
 'Kai Wegner',de,Deutschland,#1818e8,#1818e8,2,0.501
+'Nikki Haley',de,USA,#18e8e8,#18e8e8,2,0.4992415540909091
 'Jill Biden',de,USA,#18e8e8,#18e8e8,2,0.499
 'Wolfgang Kubicki',de,Deutschland,#1818e8,#1818e8,2,0.498
 'Jens Spahn',de,Deutschland,#1818e8,#1818e8,2,0.496
@@ -273,7 +273,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Kim Tok-hun',de,NordKorea,#e85858,#e85858,1,0.0387595310845141
 'Guillaume Pousaz',de,Schweiz,#111111,#111111,1,0.033989923248466
 'Miriam Adelson',de,USA,#18e8e8,#18e8e8,1,0.0335006569218369
-'Jacqueline Mars',de,USA,#18e8e8,#18e8e8,1,0.033346629020586986
+'Jacqueline Mars',de,USA,#18e8e8,#18e8e8,1,0.0333466290205869
 'Sergei Surovikin',de,Russland,#e81818,#e81818,1,0.0332865711583703
 'Iris Fontbona',de,Chile,#111111,#111111,1,0.0329456014218369
 'Darren Woods',de,USA,#18e8e8,#18e8e8,1,0.0305796892309298
