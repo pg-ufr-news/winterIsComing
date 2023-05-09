@@ -1,48 +1,47 @@
 keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Lionel Messi',de,Argentinien,#111111,#111111,2,0.5883105117045454
 'Wolodimir Selenski',de,Ukraine,#e818e8,#e818e8,3,0.5415561654545454
+'Edmund Stoiber',de,Deutschland,#1818e8,#1818e8,2,0.54
+'George Bush',de,USA,#18e8e8,#18e8e8,2,0.54
 'Willy Brandt',de,Deutschland,#1818e8,#1818e8,2,0.54
-'George Washington',de,USA,#18e8e8,#18e8e8,2,0.54
 'Bill Clinton',de,USA,#18e8e8,#18e8e8,2,0.54
 'Steven Spielberg',de,USA,#18e8e8,#18e8e8,2,0.54
 'Steve Jobs',de,USA,#18e8e8,#18e8e8,2,0.54
 'Jimmy Carter',de,USA,#18e8e8,#18e8e8,2,0.54
-'Henry Kissinger',de,USA,#18e8e8,#18e8e8,2,0.54
+'Konrad Adenauer',de,Deutschland,#1818e8,#1818e8,2,0.54
 'Rupert Murdoch',de,USA,#18e8e8,#18e8e8,2,0.54
-'Edmund Stoiber',de,Deutschland,#1818e8,#1818e8,2,0.54
-'George Bush',de,USA,#18e8e8,#18e8e8,2,0.54
+'Henry Kissinger',de,USA,#18e8e8,#18e8e8,2,0.54
+'Winston Churchill',de,UK,#e838e8,#e838e8,2,0.54
 'Peter Thiel',de,USA,#18e8e8,#18e8e8,2,0.54
 'Margeret Thatcher',de,UK,#e838e8,#e838e8,2,0.54
 'Richard Feynman',de,USA,#18e8e8,#18e8e8,2,0.54
 'Stephen Hawking',de,UK,#e838e8,#e838e8,2,0.54
 'Henry Ford',de,USA,#18e8e8,#18e8e8,2,0.54
-'Tim Cook',de,USA,#18e8e8,#18e8e8,2,0.54
 'Robert Oppenheimer',de,USA,#18e8e8,#18e8e8,2,0.54
 'Erich Honecker',de,Deutschland,#1818e8,#1818e8,2,0.54
 'Maybritt Illner',de,Deutschland,#1818e8,#1818e8,2,0.54
-'Konrad Adenauer',de,Deutschland,#1818e8,#1818e8,2,0.54
 'Joachim Gauck',de,Deutschland,#1818e8,#1818e8,2,0.54
-'Christopher Nolan',de,USA,#18e8e8,#18e8e8,2,0.54
+'Tim Cook',de,USA,#18e8e8,#18e8e8,2,0.54
 'Richard David Precht',de,Deutschland,#1818e8,#1818e8,2,0.54
+'Helge Schneider',de,Deutschland,#1818e8,#1818e8,2,0.54
+'Alexander von Humboldt',de,Deutschland,#1818e8,#1818e8,2,0.54
 'Carl Friedrich Gauß',de,Deutschland,#1818e8,#1818e8,2,0.54
 'Rudolf Steiner',de,Oesterreich,#111111,#111111,2,0.54
 'Alfred Bernhard Nobel',de,Schweden,#111111,#111111,2,0.54
 'Martin Luther King',de,USA,#18e8e8,#18e8e8,2,0.54
 'Napoleon Bonaparte',de,Frankreich,#e8e808,#e8e808,2,0.54
 'Helmut Kohl',de,Deutschland,#1818e8,#1818e8,2,0.54
-'Adolf Hitler',de,Deutschland,#1818e8,#1818e8,2,0.54
 'Peter Urban',de,Deutschland,#1818e8,#1818e8,2,0.54
-'Alexander von Humboldt',de,Deutschland,#1818e8,#1818e8,2,0.54
-'Helge Schneider',de,Deutschland,#1818e8,#1818e8,2,0.54
+'Adolf Hitler',de,Deutschland,#1818e8,#1818e8,2,0.54
+'Christopher Nolan',de,USA,#18e8e8,#18e8e8,2,0.54
 'Werner von Braun',de,Deutschland,#1818e8,#1818e8,2,0.54
 'Albert Einstein',de,Deutschland,#1818e8,#1818e8,3,0.54
 'Alfred Nobel',de,Schweden,#111111,#111111,2,0.54
 'Dieter Bohlen',de,Deutschland,#1818e8,#1818e8,2,0.54
 'Isaac Newton',de,UK,#e838e8,#e838e8,2,0.54
-'Winston Churchill',de,UK,#e838e8,#e838e8,2,0.54
 'Leonardo DiCaprio',de,USA,#18e8e8,#18e8e8,2,0.54
-'William Shakespeare',de,UK,#e838e8,#e838e8,2,0.54
 'Geoffrey Hinton',de,UK,#e838e8,#e838e8,2,0.54
+'William Shakespeare',de,UK,#e838e8,#e838e8,2,0.54
 'Markus Lanz',de,Deutschland,#1818e8,#1818e8,3,0.5387888950909091
 'Kai Wegner',de,Deutschland,#1818e8,#1818e8,3,0.5353555495454545
 'Kanye West',de,USA,#18e8e8,#18e8e8,2,0.5176829581818182
@@ -61,6 +60,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Anne Will',de,Deutschland,#1818e8,#1818e8,3,0.4864584754545454
 'Joseph Ratzinger',de,Vatikan,#58b8e8,#58b8e8,2,0.483700555
 'Prinz Harry',de,UK,#e838e8,#e838e8,3,0.4825329726823864
+'George Washington',de,USA,#18e8e8,#18e8e8,2,0.4821328681818182
 'Jens Spahn',de,Deutschland,#1818e8,#1818e8,3,0.4629154663636363
 'George Clooney',de,USA,#18e8e8,#18e8e8,1,0.459000405
 'Hillary Clinton',de,USA,#18e8e8,#18e8e8,1,0.459
