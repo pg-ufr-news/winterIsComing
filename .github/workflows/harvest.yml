@@ -10,9 +10,9 @@ on:
   schedule:
     # * is a special character in YAML so you have to quote this string : 
 #    daily,every 5 hours #m h d/m m d/w 
-    - cron:  '00 */5 * * *'
+#    - cron:  '00 */5 * * *'
 #    every 2 hour
-#    - cron:  '10 */2 * * *'
+    - cron:  '10 */2 * * *'
 #    every 3.rd of sept
 #    - cron:  '* * 2 9 *' 
   
@@ -20,7 +20,7 @@ jobs:
   docker-run-action:
     runs-on: ubuntu-latest
     container:
-      image: tamboraorg/crecoding:2020.0
+      image: credocker/crecoding:2020.0
       env:
         NEWSAPI_KEY: ${{ secrets.NEWSAPI_KEY }}
       volumes:
