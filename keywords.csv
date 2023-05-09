@@ -1,8 +1,8 @@
 keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
-'Geoffrey Hinton',en,UK,#e838e8,#e838e8,2,0.54
-'Albert Einstein',de,Deutschland,#1818e8,#1818e8,3,0.54
 'Lionel Messi',de,Argentinien,#111111,#111111,2,0.5883105117045454
 'Wolodimir Selenski',de,Ukraine,#e818e8,#e818e8,3,0.5415561654545454
+'Geoffrey Hinton',en,UK,#e838e8,#e838e8,2,0.54
+'Albert Einstein',de,Deutschland,#1818e8,#1818e8,3,0.54
 'Markus Lanz',de,Deutschland,#1818e8,#1818e8,3,0.5387888950909091
 'Kai Wegner',de,Deutschland,#1818e8,#1818e8,3,0.5353555495454545
 'Kanye West',de,USA,#18e8e8,#18e8e8,2,0.5176829581818182
@@ -38,7 +38,6 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Joe Biden',de,USA,#18e8e8,#18e8e8,3,0.3313125839343794
 'Selenski',de,Ukraine,#e818e8,#e818e8,3,0.3287688968417335
 'Emmanuel Macron',de,Frankreich,#e8e808,#e8e808,3,0.3234161993634266
-'Nick Fuentes',de,USA,#18e8e8,#18e8e8,1,0.3082907499999999
 'Olaf Scholz',de,Deutschland,#1818e8,#1818e8,3,0.3060209566291014
 'Charles III',de,UK,#e838e8,#e838e8,3,0.3046119308651951
 'Barack Obama',de,USA,#18e8e8,#18e8e8,3,0.2996641882250379
@@ -53,6 +52,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Faisal Kawusi',de,Deutschland,#1818e8,#1818e8,1,0.26570118125
 'Elon Musk',de,USA,#18e8e8,#18e8e8,3,0.2649691531606777
 'Putin',de,Russland,#e81818,#e81818,3,0.26463311976709
+'Nick Fuentes',de,USA,#18e8e8,#18e8e8,1,0.2620471374999999
 'Jens Stoltenberg',de,Norwegen,#e818e8,#e818e8,3,0.2552114217204134
 'Julian Reichelt',de,Deutschland,#1818e8,#1818e8,3,0.2457992288283137
 'David Malpass',de,USA,#18e8e8,#18e8e8,3,0.2432576681222887
@@ -278,5 +278,5 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Choe Ryong-hae',de,NordKorea,#e85858,#e85858,1,0.0329456014218369
 'Iris Fontbona',de,Chile,#111111,#111111,1,0.0329456014218369
 'Darren Woods',de,USA,#18e8e8,#18e8e8,1,0.0305796892309298
-'Miriam Adelson',de,USA,#18e8e8,#18e8e8,1,0.024204224626027105
+'Miriam Adelson',de,USA,#18e8e8,#18e8e8,1,0.0242042246260271
 'Bodo Schiffmann',de,Deutschland,#1818e8,#1818e8,1,0.0225115698775455
