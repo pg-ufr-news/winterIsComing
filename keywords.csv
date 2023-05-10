@@ -1,6 +1,7 @@
 keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Wolodimir Selenski',de,Ukraine,#e818e8,#e818e8,3,0.5415561654545454
 'Joachim Gauck',de,Deutschland,#1818e8,#1818e8,3,0.5412240172727273
+'Stephen Hawking',de,UK,#e838e8,#e838e8,2,0.54
 'Richard Feynman',de,USA,#18e8e8,#18e8e8,2,0.54
 'Rupert Murdoch',de,USA,#18e8e8,#18e8e8,2,0.54
 'William Shakespeare',de,UK,#e838e8,#e838e8,2,0.54
@@ -8,7 +9,6 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Edmund Stoiber',de,Deutschland,#1818e8,#1818e8,2,0.54
 'Christopher Nolan',de,USA,#18e8e8,#18e8e8,2,0.54
 'Richard David Precht',de,Deutschland,#1818e8,#1818e8,2,0.54
-'Stephen Hawking',de,UK,#e838e8,#e838e8,2,0.54
 'George Bush',de,USA,#18e8e8,#18e8e8,2,0.54
 'Isaac Newton',de,UK,#e838e8,#e838e8,2,0.54
 'Jimmy Carter',de,USA,#18e8e8,#18e8e8,2,0.54
@@ -21,6 +21,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Steve Jobs',de,USA,#18e8e8,#18e8e8,2,0.54
 'Adolf Hitler',de,Deutschland,#1818e8,#1818e8,2,0.54
 'Alexander von Humboldt',de,Deutschland,#1818e8,#1818e8,2,0.54
+'Henry Kissinger',de,USA,#18e8e8,#18e8e8,2,0.54
 'Robert Oppenheimer',de,USA,#18e8e8,#18e8e8,2,0.54
 'Rudolf Steiner',de,Oesterreich,#111111,#111111,2,0.54
 'Napoleon Bonaparte',de,Frankreich,#e8e808,#e8e808,2,0.54
@@ -28,7 +29,6 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Tim Cook',de,USA,#18e8e8,#18e8e8,2,0.54
 'Peter Urban',de,Deutschland,#1818e8,#1818e8,2,0.54
 'Alfred Bernhard Nobel',de,Schweden,#111111,#111111,2,0.54
-'Henry Kissinger',de,USA,#18e8e8,#18e8e8,2,0.54
 'Geoffrey Hinton',de,UK,#e838e8,#e838e8,2,0.54
 'Scott Morrison',de,Australien,#111111,#111111,2,0.54
 'Peter Thiel',de,USA,#18e8e8,#18e8e8,2,0.54
@@ -302,10 +302,9 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Ethan Bradley',de,USA,#18e8e8,#18e8e8,1,0.0468762292422346
 'Francoise Bettencourt-Meyers',de,Frankreich,#e8e808,#e8e808,1,0.0464095293347225
 'Chan Santokhi',de,Surinam,#111111,#111111,1,0.0463088452799446
-'Helge Lund',de,UK,#e838e8,#e838e8,1,0.0455994483347225
-'Gina Rinehart',de,Australien,#111111,#111111,1,0.0455994483347225
-'Sergei Ignatjew',de,Russland,#e81818,#e81818,1,0.0455994483347225
 'Egon Westphal',de,Deutschland,#1818e8,#1818e8,1,0.0455994483347225
+'Sergei Ignatjew',de,Russland,#e81818,#e81818,1,0.0455994483347225
+'Helge Lund',de,UK,#e838e8,#e838e8,1,0.0455994483347225
 'Dmitry Peskov',de,Russland,#e81818,#e81818,1,0.0454981523239863
 'Valery Gerasimov',de,Russland,#e81818,#e81818,1,0.0427318594887085
 'Michael Wirth',de,USA,#18e8e8,#18e8e8,1,0.0421394572375941
@@ -315,6 +314,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Charles Holliday',de,USA,#18e8e8,#18e8e8,1,0.0391321036042388
 'Dimitry Peskov',de,Russland,#e81818,#e81818,1,0.0389864686722625
 'Yang Huiyan',de,China,#e88818,#e88818,1,0.0387838874121194
+'Gina Rinehart',de,Australien,#111111,#111111,1,0.038759531084514125
 'Kim Tok-hun',de,NordKorea,#e85858,#e85858,1,0.0387595310845141
 'Guillaume Pousaz',de,Schweiz,#111111,#111111,1,0.033989923248466
 'Jacqueline Mars',de,USA,#18e8e8,#18e8e8,1,0.0333466290205869
