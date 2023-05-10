@@ -1,28 +1,28 @@
 keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Wolodimir Selenski',de,Ukraine,#e818e8,#e818e8,3,0.5415561654545454
 'Joachim Gauck',de,Deutschland,#1818e8,#1818e8,3,0.5412240172727273
-'William Shakespeare',de,UK,#e838e8,#e838e8,2,0.54
+'Christopher Nolan',de,USA,#18e8e8,#18e8e8,2,0.54
+'Richard David Precht',de,Deutschland,#1818e8,#1818e8,2,0.54
 'Stephen Hawking',de,UK,#e838e8,#e838e8,2,0.54
 'Richard Feynman',de,USA,#18e8e8,#18e8e8,2,0.54
 'Rupert Murdoch',de,USA,#18e8e8,#18e8e8,2,0.54
 'George Bush',de,USA,#18e8e8,#18e8e8,2,0.54
 'Erich Honecker',de,Deutschland,#1818e8,#1818e8,2,0.54
 'Edmund Stoiber',de,Deutschland,#1818e8,#1818e8,2,0.54
-'Helge Schneider',de,Deutschland,#1818e8,#1818e8,2,0.54
 'Jimmy Carter',de,USA,#18e8e8,#18e8e8,2,0.54
 'Helmut Kohl',de,Deutschland,#1818e8,#1818e8,2,0.54
+'Helge Schneider',de,Deutschland,#1818e8,#1818e8,2,0.54
 'Steven Spielberg',de,USA,#18e8e8,#18e8e8,2,0.54
 'Henry Kissinger',de,USA,#18e8e8,#18e8e8,2,0.54
 'Isaac Newton',de,UK,#e838e8,#e838e8,2,0.54
 'Geoffrey Hinton',de,UK,#e838e8,#e838e8,2,0.54
 'Willy Brandt',de,Deutschland,#1818e8,#1818e8,2,0.54
 'Maybritt Illner',de,Deutschland,#1818e8,#1818e8,2,0.54
-'Richard David Precht',de,Deutschland,#1818e8,#1818e8,2,0.54
+'Alfred Nobel',de,Schweden,#111111,#111111,2,0.54
+'William Shakespeare',de,UK,#e838e8,#e838e8,2,0.54
 'Bill Clinton',de,USA,#18e8e8,#18e8e8,2,0.54
-'Konrad Adenauer',de,Deutschland,#1818e8,#1818e8,2,0.54
-'Steve Jobs',de,USA,#18e8e8,#18e8e8,2,0.54
-'Christopher Nolan',de,USA,#18e8e8,#18e8e8,2,0.54
 'Napoleon Bonaparte',de,Frankreich,#e8e808,#e8e808,2,0.54
+'Dieter Bohlen',de,Deutschland,#1818e8,#1818e8,2,0.54
 'Tim Cook',de,USA,#18e8e8,#18e8e8,2,0.54
 'Peter Urban',de,Deutschland,#1818e8,#1818e8,2,0.54
 'Alfred Bernhard Nobel',de,Schweden,#111111,#111111,2,0.54
@@ -30,15 +30,15 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Adolf Hitler',de,Deutschland,#1818e8,#1818e8,2,0.54
 'Rudolf Steiner',de,Oesterreich,#111111,#111111,2,0.54
 'Scott Morrison',de,Australien,#111111,#111111,2,0.54
-'Dieter Bohlen',de,Deutschland,#1818e8,#1818e8,2,0.54
 'Carl Friedrich Gauß',de,Deutschland,#1818e8,#1818e8,2,0.54
+'Konrad Adenauer',de,Deutschland,#1818e8,#1818e8,2,0.54
 'Martin Luther King',de,USA,#18e8e8,#18e8e8,2,0.54
 'Billy Graham',de,USA,#18e8e8,#18e8e8,2,0.54
 'Leonardo DiCaprio',de,USA,#18e8e8,#18e8e8,2,0.54
 'Albert Einstein',de,Deutschland,#1818e8,#1818e8,3,0.54
 'Robert Oppenheimer',de,USA,#18e8e8,#18e8e8,2,0.54
 'Peter Thiel',de,USA,#18e8e8,#18e8e8,2,0.54
-'Alfred Nobel',de,Schweden,#111111,#111111,2,0.54
+'Steve Jobs',de,USA,#18e8e8,#18e8e8,2,0.54
 'Markus Lanz',de,Deutschland,#1818e8,#1818e8,3,0.5387888950909091
 'Kai Wegner',de,Deutschland,#1818e8,#1818e8,3,0.5353555495454545
 'Kanye West',de,USA,#18e8e8,#18e8e8,2,0.5176829581818182
@@ -154,6 +154,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Aleksandar Vučić',de,Serbien,#111111,#111111,1,0.1923816985903539
 'Stephan Harbarth',de,Deutschland,#1818e8,#1818e8,1,0.1922716510130988
 'Saskia Esken',de,Deutschland,#1818e8,#1818e8,3,0.1922346139600651
+'Michael Kretschmer',de,Deutschland,#1818e8,#1818e8,3,0.19203999088630497
 'Viktor Orbán',de,Ungarn,#111111,#111111,3,0.1917488659698207
 'Ali Chamenei',de,Iran,#111111,#111111,3,0.1915300192224583
 'Jair Bolsonaro',de,Brasilien,#58e838,#58e848,3,0.191220077650967
@@ -232,7 +233,6 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Steffi Lemke',de,Deutschland,#1818e8,#1818e8,3,0.1629047618873548
 'Martin Sonneborn',de,Deutschland,#1818e8,#1818e8,1,0.1626472021141365
 'Bruno Kahl',de,Deutschland,#1818e8,#1818e8,1,0.1613759550518236
-'Michael Kretschmer',de,Deutschland,#1818e8,#1818e8,3,0.1612801363368294
 'Cyril Ramaphosa',de,Südafrika,#111111,#111111,2,0.1594663509329859
 'Erik Marquardt',de,EU,#111111,#111111,1,0.1593143924260272
 'Gautam Adani',de,Indien,#111111,#111111,1,0.1588332001257897
