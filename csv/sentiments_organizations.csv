@@ -75,6 +75,7 @@ RND,RND,ORG,-0.20689655172413793,0.15517241379310345,de,29
 SPIEGEL,SPIEGEL,ORG,-0.004310344827586188,0.0,de,29
 Justizministerium,Justizministerium,ORG,0.03571428571428571,0.03571428571428571,de,28
 Deutschland,Deutschland,ORG,0.125,0.08571428571428572,de,28
+Royals,Royals,ORG,0.02619047619047617,0.0,de,28
 US-Vizepräsident,US-Vizepräsident,ORG,-0.07037037037037039,0.07407407407407407,de,27
 Weltbank,Weltbank,ORG,0.046296296296296266,0.037037037037037035,de,27
 Linke,Linke,ORG,0.0018518518518518452,0.018518518518518517,de,27
@@ -83,7 +84,6 @@ SPD-Spitzenkandidatin,SPD-Spitzenkandidatin,ORG,-0.04038461538461539,0.0,de,26
 RBB,RBB,ORG,0.20384615384615384,0.0,de,26
 Europaparlament,Europaparlament,ORG,0.13846153846153847,0.038461538461538464,de,26
 TV-Kolumne,TV-Kolumne,ORG,-0.032692307692307694,0.07692307692307693,de,26
-Royals,Royals,ORG,0.02820512820512818,0.0,de,26
 RTL,RTL,ORG,0.05,0.038461538461538464,de,26
 Verteidigungsministerium,Verteidigungsministerium,ORG,0.068,0.0,de,25
 Abgeordneten,Abgeordneten,ORG,-0.046,0.0,de,25
@@ -1429,9 +1429,9 @@ zdf.de,zdf.de,ORG,0.0,0.0,de,2
 Bündnis 90/Die Grünen,Bündnis 90/Die Grünen,ORG,0.5,0.0,de,2
 Deutsches Rotes Kreuz,Deutsches Rotes Kreuz,ORG,0.0,0.0,de,2
 Klima-Netzwerk,Klima-Netzwerk,ORG,0.0,0.0,de,2
+UN-Menschenrechtsrats,UN-Menschenrechtsrats,ORG,0.0,0.0,de,2
 Laureus World Sports Academy,Laureus World Sports Academy,ORG,1.0,0.0,de,2
 Twitch-Stream,Twitch-Stream,ORG,0.35,0.0,de,2
-UN-Menschenrechtsrats,UN-Menschenrechtsrats,ORG,0.0,0.0,de,2
 Selenskyji,Selenskyji,ORG,0.0,0.5,de,2
 Asien-Pazifik-Konferenz,Asien-Pazifik-Konferenz,ORG,0.0,0.0,de,2
 Spekulative Aktien,Spekulative Aktien,ORG,0.0,0.0,de,2
@@ -1487,10 +1487,10 @@ ChatGPT & Co.,ChatGPT & Co.,ORG,-0.7,0.0,de,1
 VR-Teams,VR-Teams,ORG,0.0,0.0,de,1
 Mercedes-Werk,Mercedes-Werk,ORG,0.0,0.0,de,1
 WELT-Chefkommentator,WELT-Chefkommentator,ORG,0.0,0.0,de,1
-Ble Uelllelel,Ble Uelllelel,ORG,0.0,0.0,de,1
 Phoenix,Phoenix,ORG,-0.5,0.0,de,1
 US-Militär-Think-Tanks Institute for the Study of War,US-Militär-Think-Tanks Institute for the Study of War,ORG,0.0,0.0,de,1
 phoenix“-Interview,phoenix“-Interview,ORG,1.0,0.0,de,1
+Ble Uelllelel,Ble Uelllelel,ORG,0.0,0.0,de,1
 Aggressorstaat,Aggressorstaat,ORG,0.0,0.0,de,1
 allerdin,allerdin,ORG,0.7,0.0,de,1
 Leopard-Kompanie,Leopard-Kompanie,ORG,0.0,0.0,de,1
@@ -1509,7 +1509,7 @@ Berliner Verlag,Berliner Verlag,ORG,0.85,0.0,de,1
 uuu Iue Plpeup Bllueleuvepeu,uuu Iue Plpeup Bllueleuvepeu,ORG,0.0,0.0,de,1
 REUTERS Panzer-Aufregung,REUTERS Panzer-Aufregung,ORG,0.7,0.0,de,1
 una,una,ORG,0.0,0.0,de,1
-Ungarns,Ungarns,ORG,0.0,0.0,de,1
+Népszabadság,Népszabadság,ORG,0.0,0.0,de,1
 Deutschen Gewerkschaftsbundes,Deutschen Gewerkschaftsbundes,ORG,0.0,0.0,de,1
 Citizens,Citizens,ORG,0.0,0.0,de,1
 AFP Donald Trump,AFP Donald Trump,ORG,0.0,0.0,de,1
@@ -1539,7 +1539,7 @@ Cartoo,Cartoo,ORG,0.0,0.0,de,1
 CC BY-SA,CC BY-SA,ORG,0.0,0.0,de,1
 EU-Kommissionsspitze,EU-Kommissionsspitze,ORG,-0.7,0.0,de,1
 umtun,umtun,ORG,0.0,0.0,de,1
-katholische Kirche im Land,katholische Kirche im Land,ORG,-0.7,0.0,de,1
+Ungarns,Ungarns,ORG,0.0,0.0,de,1
 HannoverBund,HannoverBund,ORG,0.0,0.0,de,1
 Sitzun,Sitzun,ORG,0.0,0.0,de,1
 Söldnergrupppe Wagner,Söldnergrupppe Wagner,ORG,0.0,0.0,de,1
@@ -1639,7 +1639,7 @@ WiWo History,WiWo History,ORG,0.0,0.0,de,1
 US-Luftfahrtbehörde,US-Luftfahrtbehörde,ORG,-1.0,0.0,de,1
 RATYNSKYI,RATYNSKYI,ORG,0.0,0.0,de,1
 VIACHESLAV,VIACHESLAV,ORG,0.0,0.0,de,1
-Népszabadság,Népszabadság,ORG,0.0,0.0,de,1
+katholische Kirche im Land,katholische Kirche im Land,ORG,-0.7,0.0,de,1
 innerh…,innerh…,ORG,0.0,0.0,de,1
 Startup,Startup,ORG,-0.7,0.0,de,1
 Söldnergruppe-Wagner,Söldnergruppe-Wagner,ORG,0.0,0.0,de,1
@@ -1837,7 +1837,7 @@ PMC,PMC,ORG,1.0,0.0,de,1
 Elite!,Elite!,ORG,0.0,0.0,de,1
 plupetle nulel,plupetle nulel,ORG,0.0,0.0,de,1
 Konformisten,Konformisten,ORG,0.0,0.0,de,1
-Ramstein,Ramstein,ORG,0.0,0.0,de,1
+Ukraine-K,Ukraine-K,ORG,0.0,0.0,de,1
 DWDL.de,DWDL.de,ORG,-0.15000000000000002,0.0,de,1
 Sundar Pichai,Sundar Pichai,ORG,0.0,0.0,de,1
 EZB-Chefin,EZB-Chefin,ORG,1.0,0.0,de,1
@@ -1864,8 +1864,8 @@ RMC,RMC,ORG,1.0,0.0,de,1
 Europäischen Zentr,Europäischen Zentr,ORG,0.0,0.0,de,1
 Putin-Nachschlag für Bauern,Putin-Nachschlag für Bauern,ORG,0.0,0.0,de,1
 Messi  Pr…,Messi  Pr…,ORG,0.0,0.0,de,1
-SPOX,SPOX,ORG,0.0,0.0,de,1
 E,E,ORG,0.0,0.0,de,1
+SPOX,SPOX,ORG,0.0,0.0,de,1
 Leopold-2-Panzern,Leopold-2-Panzern,ORG,0.0,0.0,de,1
 Google-CEO Sundar Pichai,Google-CEO Sundar Pichai,ORG,-0.7,0.0,de,1
 RÜCKTRITT,RÜCKTRITT,ORG,0.7,0.0,de,1
@@ -1950,7 +1950,7 @@ Panzerlieferungen ++ |,Panzerlieferungen ++ |,ORG,-0.6999999999999998,0.0,de,1
 WAZ News,WAZ News,ORG,-1.0,0.0,de,1
 VW-Marken,VW-Marken,ORG,0.7,0.0,de,1
 Internationalen Strafgerichtshofes,Internationalen Strafgerichtshofes,ORG,0.0,0.0,de,1
-Ukraine-K,Ukraine-K,ORG,0.0,0.0,de,1
+Ramstein,Ramstein,ORG,0.0,0.0,de,1
 Korruption +++,Korruption +++,ORG,-1.0,0.0,de,1
 Deutsche Kommunistische Partei,Deutsche Kommunistische Partei,ORG,0.0,0.0,de,1
 Deutsche Städtetag,Deutsche Städtetag,ORG,0.0,0.0,de,1
@@ -2259,8 +2259,8 @@ Commonwealth,Commonwealth,ORG,0.0,0.0,de,1
 Abwicklungsvertrags,Abwicklungsvertrags,ORG,0.0,0.0,de,1
 Doppelposten,Doppelposten,ORG,0.0,0.0,de,1
 Okto,Okto,ORG,0.7,0.0,de,1
-Adani,Adani,ORG,0.0,0.0,de,1
 palästinensischen Terroranschlags,palästinensischen Terroranschlags,ORG,0.0,0.0,de,1
+Adani,Adani,ORG,0.0,0.0,de,1
 Musk-Schule,Musk-Schule,ORG,0.7,0.0,de,1
 CDU-Präsidium,CDU-Präsidium,ORG,0.0,0.0,de,1
 hessischen Landtag,hessischen Landtag,ORG,-1.0,0.0,de,1
@@ -2777,10 +2777,10 @@ Fern­seh­machern,Fern­seh­machern,ORG,0.85,0.0,de,1
 West,West,ORG,0.0,0.0,de,1
 JIL* bvt,JIL* bvt,ORG,0.0,0.0,de,1
 Daimler Truck,Daimler Truck,ORG,0.0,0.0,de,1
+EU-Preisdeckel,EU-Preisdeckel,ORG,0.0,0.0,de,1
 "Truppenrückzug
 Biden","Truppenrückzug
 Biden",ORG,-0.6,0.0,de,1
-EU-Preisdeckel,EU-Preisdeckel,ORG,0.0,0.0,de,1
 Beliebigkeitsmist,Beliebigkeitsmist,ORG,0.35,0.0,de,1
 STER,STER,ORG,-1.0,0.0,de,1
 Lauterbach-Entführer,Lauterbach-Entführer,ORG,0.7,0.0,de,1
@@ -3359,8 +3359,8 @@ Deepfakes,Deepfakes,ORG,0.0,0.0,de,1
 Gewer… Potsdam,Gewer… Potsdam,ORG,0.0,0.0,de,1
 Internationalen Gerichtshof,Internationalen Gerichtshof,ORG,0.0,0.0,de,1
 COVID-19-Infektione… PEKING,COVID-19-Infektione… PEKING,ORG,0.7,0.0,de,1
-Deutschen Presse,Deutschen Presse,ORG,0.85,0.0,de,1
 Deutschen Presse… Berlin,Deutschen Presse… Berlin,ORG,1.0,0.0,de,1
+Deutschen Presse,Deutschen Presse,ORG,0.85,0.0,de,1
 US-Fernsehlegende,US-Fernsehlegende,ORG,-1.0,0.0,de,1
 Petersplat,Petersplat,ORG,0.7,0.0,de,1
 rechte Partei,rechte Partei,ORG,-0.7,0.0,de,1
@@ -3703,10 +3703,10 @@ Ungarns Blockade,Ungarns Blockade,ORG,0.0,0.0,de,1
 EU-Skandal,EU-Skandal,ORG,0.0,0.0,de,1
 TOBY,TOBY,ORG,1.0,0.0,de,1
 Antiterror-Razzia,Antiterror-Razzia,ORG,-1.0,0.0,de,1
-britischen Gewerkschaften,britischen Gewerkschaften,ORG,0.0,0.0,de,1
-Lauter Arbeitskampf,Lauter Arbeitskampf,ORG,0.7,0.0,de,1
 ANC-Partei,ANC-Partei,ORG,0.0,0.0,de,1
 Sunak Albaner,Sunak Albaner,ORG,0.7,0.0,de,1
+britischen Gewerkschaften,britischen Gewerkschaften,ORG,0.0,0.0,de,1
+Lauter Arbeitskampf,Lauter Arbeitskampf,ORG,0.7,0.0,de,1
 Patriot-FlugabwehrMit,Patriot-FlugabwehrMit,ORG,0.0,0.0,de,1
 US-Systemen,US-Systemen,ORG,0.0,0.0,de,1
 Wirtschaftsliberalen Ländern,Wirtschaftsliberalen Ländern,ORG,0.0,0.0,de,1
