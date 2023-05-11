@@ -27,7 +27,6 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Anne Will',de,Deutschland,#1818e8,#1818e8,3,0.4864584754545454
 'George Bush',de,USA,#18e8e8,#18e8e8,2,0.485800675
 'Joseph Ratzinger',de,Vatikan,#58b8e8,#58b8e8,2,0.483700555
-'Leonardo DiCaprio',de,USA,#18e8e8,#18e8e8,3,0.482550975
 'Prinz Harry',de,UK,#e838e8,#e838e8,3,0.4825329726823864
 'George Washington',de,USA,#18e8e8,#18e8e8,2,0.4821328681818182
 'Bill Clinton',de,USA,#18e8e8,#18e8e8,2,0.4821327331818182
@@ -50,15 +49,16 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Napoleon Bonaparte',de,Frankreich,#e8e808,#e8e808,1,0.459000045
 'Rudolf Steiner',de,Oesterreich,#111111,#111111,1,0.45900003
 'Richard Feynman',de,USA,#18e8e8,#18e8e8,1,0.459000015
+'Alfred Bernhard Nobel',de,Schweden,#111111,#111111,1,0.459
 'Margeret Thatcher',de,UK,#e838e8,#e838e8,1,0.459
 'Hillary Clinton',de,USA,#18e8e8,#18e8e8,1,0.459
-'Alfred Bernhard Nobel',de,Schweden,#111111,#111111,1,0.459
 'Ulrich Reitz',de,Deutschland,#1818e8,#1818e8,1,0.4531141939999999
 'Stormy Daniels',de,USA,#18e8e8,#18e8e8,3,0.4529735822499999
 'Lula da Silva',de,Brasilien,#58e838,#58e848,3,0.4478428136363636
 'Prinz Andrew',de,UK,#e838e8,#e838e8,2,0.444145409090909
 'Maybritt Illner',de,Deutschland,#1818e8,#1818e8,1,0.4407777407624999
 'Wolfgang Kubicki',de,Deutschland,#1818e8,#1818e8,3,0.4398748804090909
+'Leonardo DiCaprio',de,USA,#18e8e8,#18e8e8,3,0.4287556673863636
 'Christine Lambrecht',de,Deutschland,#1818e8,#1818e8,2,0.4284671908636363
 'Andrew Tate',de,USA,#18e8e8,#18e8e8,1,0.427465318
 'Lionel Messi',de,Argentinien,#111111,#111111,3,0.424596177107372
@@ -302,9 +302,9 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Ethan Bradley',de,USA,#18e8e8,#18e8e8,1,0.0468762292422346
 'Francoise Bettencourt-Meyers',de,Frankreich,#e8e808,#e8e808,1,0.0464095293347225
 'Chan Santokhi',de,Surinam,#111111,#111111,1,0.0463088452799446
+'Egon Westphal',de,Deutschland,#1818e8,#1818e8,1,0.0455994483347225
 'Sergei Ignatjew',de,Russland,#e81818,#e81818,1,0.0455994483347225
 'Helge Lund',de,UK,#e838e8,#e838e8,1,0.0455994483347225
-'Egon Westphal',de,Deutschland,#1818e8,#1818e8,1,0.0455994483347225
 'Dmitry Peskov',de,Russland,#e81818,#e81818,1,0.0454981523239863
 'Valery Gerasimov',de,Russland,#e81818,#e81818,1,0.0427318594887085
 'Michael Wirth',de,USA,#18e8e8,#18e8e8,1,0.0421394572375941
