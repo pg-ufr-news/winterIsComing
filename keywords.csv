@@ -78,8 +78,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Henry Ford',de,USA,#18e8e8,#18e8e8,2,0.4139051559545454
 'Helge Schneider',de,Deutschland,#1818e8,#1818e8,1,0.4081669164166666
 'Nina Gummich',de,Deutschland,#1818e8,#1818e8,1,0.4080473371071428
-'Edmund Stoiber',de,Deutschland,#1818e8,#1818e8,2,0.4070358272272727
-'Wolodimir Selenski',de,Ukraine,#e818e8,#e818e8,3,0.39986690645522727
+'Wolodimir Selenski',de,Ukraine,#e818e8,#e818e8,3,0.3998669064552272
 'Ed McVey',de,UK,#e838e8,#e838e8,1,0.3982751665
 'Gérard Biard',de,Frankreich,#e8e808,#e8e808,1,0.397375
 'Volodymyr Zelenskiy',de,Ukraine,#e818e8,#e818e8,1,0.397375
@@ -97,8 +96,8 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Alfred Nobel',de,Schweden,#111111,#111111,1,0.39060008325
 'Scott Morrison',de,Australien,#111111,#111111,2,0.39042752775
 'Richard Feynman',de,USA,#18e8e8,#18e8e8,1,0.39030002775
-'Alfred Bernhard Nobel',de,Schweden,#111111,#111111,1,0.39015
 'Margeret Thatcher',de,UK,#e838e8,#e838e8,1,0.39015
+'Alfred Bernhard Nobel',de,Schweden,#111111,#111111,1,0.39015
 'Chris Hipkins',de,Neuseeland,#1818e8,#1818e8,1,0.3900979306208333
 'Lars Klingbeil',de,Deutschland,#1818e8,#1818e8,2,0.3875616505681817
 'Chez Krömer',de,Deutschland,#1818e8,#1818e8,1,0.3762356543499999
@@ -109,6 +108,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Maria Kolesnikowa',de,Belarus,#e81858,#e81858,2,0.3577874690381145
 'Wladimir Putin',de,Russland,#e81818,#e81818,3,0.3561939043074576
 'Papst Franziskus',de,Vatikan,#58b8e8,#58b8e8,3,0.3510299150028324
+'Edmund Stoiber',de,Deutschland,#1818e8,#1818e8,2,0.3467310231431818
 'König Charles III',de,UK,#e838e8,#e838e8,3,0.339814490452464
 'Ron DeSantis',de,USA,#18e8e8,#18e8e8,3,0.335952659677906
 'Donald Trump',de,USA,#18e8e8,#18e8e8,3,0.3331925996719329
