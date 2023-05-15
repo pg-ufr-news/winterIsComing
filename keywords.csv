@@ -117,7 +117,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Charles III',de,UK,#e838e8,#e838e8,3,0.3046119308651951
 'Stephen Hawking',de,UK,#e838e8,#e838e8,1,0.3026907252605357
 'Barack Obama',de,USA,#18e8e8,#18e8e8,3,0.2996641882250379
-'Edmund Stoiber',de,Deutschland,#1818e8,#1818e8,1,0.29472169967170453
+'Edmund Stoiber',de,Deutschland,#1818e8,#1818e8,1,0.2947216996717045
 'Selenskyj',de,Ukraine,#e818e8,#e818e8,3,0.2928048225157305
 'Christian Lindner',de,Deutschland,#1818e8,#1818e8,3,0.2862653424128151
 'Kevin Kühnert',de,Deutschland,#1818e8,#1818e8,3,0.2837933503516328
@@ -131,6 +131,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Elon Musk',de,USA,#18e8e8,#18e8e8,3,0.2649691531606777
 'Putin',de,Russland,#e81818,#e81818,3,0.26463311976709
 'Jens Stoltenberg',de,Norwegen,#e818e8,#e818e8,3,0.2552114217204134
+'Friedrich Merz',de,Deutschland,#1818e8,#1818e8,3,0.2537258767065089
 'Julian Reichelt',de,Deutschland,#1818e8,#1818e8,3,0.2457992288283137
 'David Malpass',de,USA,#18e8e8,#18e8e8,3,0.2432576681222887
 'Ursula von der Leyen',de,EU,#111111,#111111,3,0.2412793076076889
@@ -147,7 +148,6 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Gerhard Schröder',de,Deutschland,#1818e8,#1818e8,3,0.2218338037744111
 'Warren Buffett',de,USA,#18e8e8,#18e8e8,2,0.2195180810644239
 'Mike Pence',de,USA,#18e8e8,#18e8e8,3,0.2184257181908278
-'Friedrich Merz',de,Deutschland,#1818e8,#1818e8,3,0.2178046447884062
 'Recep Tayyip Erdoğan',de,Türkei,#111111,#111111,2,0.216266069377041
 'Narendra Modi',de,Indien,#111111,#111111,2,0.2158185291315234
 'Lothar Wieler',de,Deutschland,#1818e8,#1818e8,1,0.2144756430385868
