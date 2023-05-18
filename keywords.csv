@@ -86,7 +86,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Chez Krömer',de,Deutschland,#1818e8,#1818e8,1,0.3762356543499999
 'Leonardo da Vinci',de,Italien,#111111,#111111,2,0.3741244261
 'Christine Lambrecht',de,Deutschland,#1818e8,#1818e8,2,0.3736931517795454
-'Meg Bellamy',de,UK,#e838e8,#e838e8,2,0.35814673152500004
+'Meg Bellamy',de,UK,#e838e8,#e838e8,2,0.358146731525
 'Maria Kolesnikowa',de,Belarus,#e81858,#e81858,2,0.3577874690381145
 'Wladimir Putin',de,Russland,#e81818,#e81818,3,0.3561939043074576
 'Henry Kissinger',de,USA,#18e8e8,#18e8e8,2,0.3559933651285714
@@ -111,11 +111,11 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Barack Obama',de,USA,#18e8e8,#18e8e8,3,0.2996641882250379
 'Selenskyj',de,Ukraine,#e818e8,#e818e8,3,0.2928048225157305
 'Ed McVey',de,UK,#e838e8,#e838e8,1,0.28941897429625
-'Milo Yiannopoulos',de,UK,#e838e8,#e838e8,1,0.2871034374999999
-'Volodymyr Zelenskiy',de,Ukraine,#e818e8,#e818e8,1,0.2871034374999999
 'Daniel Dillmann',de,Deutschland,#1818e8,#1818e8,1,0.2871034374999999
-'Herschel Walker',de,USA,#18e8e8,#18e8e8,1,0.2871034374999999
+'Volodymyr Zelenskiy',de,Ukraine,#e818e8,#e818e8,1,0.2871034374999999
 'Gérard Biard',de,Frankreich,#e8e808,#e8e808,1,0.2871034374999999
+'Milo Yiannopoulos',de,UK,#e838e8,#e838e8,1,0.2871034374999999
+'Herschel Walker',de,USA,#18e8e8,#18e8e8,1,0.2871034374999999
 'Christian Lindner',de,Deutschland,#1818e8,#1818e8,3,0.2862653424128151
 'Kevin Kühnert',de,Deutschland,#1818e8,#1818e8,3,0.2837933503516328
 'Carl Friedrich Gauß',de,Deutschland,#1818e8,#1818e8,1,0.2834270661975
@@ -147,6 +147,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Markus Söder',de,Deutschland,#1818e8,#1818e8,3,0.2249247868835967
 'Mateusz Morawiecki',de,Polen,#111111,#111111,3,0.2245577423883679
 'Gerhard Schröder',de,Deutschland,#1818e8,#1818e8,3,0.2218338037744111
+'Marco Buschmann',de,Deutschland,#1818e8,#1818e8,3,0.2198613538296954
 'Warren Buffett',de,USA,#18e8e8,#18e8e8,2,0.2195180810644239
 'Mike Pence',de,USA,#18e8e8,#18e8e8,3,0.2184257181908278
 'Recep Tayyip Erdoğan',de,Türkei,#111111,#111111,2,0.216266069377041
@@ -202,7 +203,6 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Oliver Blume',de,Deutschland,#1818e8,#1818e8,3,0.189021618034757
 'Vitali Klitschko',de,Ukraine,#e818e8,#e818e8,3,0.1889048929591594
 'Daniel Freund',de,EU,#111111,#111111,3,0.1888132190045975
-'Marco Buschmann',de,Deutschland,#1818e8,#1818e8,3,0.1886627991579304
 'Antonio Guterres',de,UN,#e888e8,#e888e8,3,0.1872240515385514
 'Fumio Kishida',de,Japan,#111111,#111111,3,0.1870351350228879
 'Karine Jean-Pierre',de,USA,#18e8e8,#18e8e8,3,0.18611209366118
@@ -334,9 +334,9 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Ethan Bradley',de,USA,#18e8e8,#18e8e8,1,0.0468762292422346
 'Francoise Bettencourt-Meyers',de,Frankreich,#e8e808,#e8e808,1,0.0464095293347225
 'Chan Santokhi',de,Surinam,#111111,#111111,1,0.0463088452799446
+'Sergei Ignatjew',de,Russland,#e81818,#e81818,1,0.0455994483347225
 'Helge Lund',de,UK,#e838e8,#e838e8,1,0.0455994483347225
 'Egon Westphal',de,Deutschland,#1818e8,#1818e8,1,0.0455994483347225
-'Sergei Ignatjew',de,Russland,#e81818,#e81818,1,0.0455994483347225
 'Dmitry Peskov',de,Russland,#e81818,#e81818,1,0.0454981523239863
 'Herman Gref',de,Russland,#e81818,#e81818,1,0.0435016650234468
 'Valery Gerasimov',de,Russland,#e81818,#e81818,1,0.0427318594887085
