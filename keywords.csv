@@ -31,7 +31,6 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Harry Belafonte',de,USA,#18e8e8,#18e8e8,3,0.4476480844207792
 'Markus Lanz',de,Deutschland,#1818e8,#1818e8,3,0.4475271042940909
 'Nikki Haley',de,USA,#18e8e8,#18e8e8,2,0.4468344924058441
-'Rupert Murdoch',de,USA,#18e8e8,#18e8e8,2,0.4463553132954546
 'Kanye West',de,USA,#18e8e8,#18e8e8,3,0.4459130545136364
 'Queen Elizabeth II',de,UK,#e838e8,#e838e8,3,0.4458052985454545
 'Bruce Springsteen',de,USA,#18e8e8,#18e8e8,2,0.4452536944056818
@@ -69,6 +68,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Richard David Precht',de,Deutschland,#1818e8,#1818e8,2,0.4096211882409091
 'Helge Schneider',de,Deutschland,#1818e8,#1818e8,1,0.4081669164166666
 'Nina Gummich',de,Deutschland,#1818e8,#1818e8,1,0.4080473371071428
+'Rupert Murdoch',de,USA,#18e8e8,#18e8e8,2,0.4070801740284091
 'Steven Spielberg',de,USA,#18e8e8,#18e8e8,2,0.4062549809784091
 'Wolodimir Selenski',de,Ukraine,#e818e8,#e818e8,3,0.3998669064552272
 'Katy Perry',de,USA,#18e8e8,#18e8e8,3,0.3980464737840908
@@ -111,10 +111,10 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Barack Obama',de,USA,#18e8e8,#18e8e8,3,0.2996641882250379
 'Selenskyj',de,Ukraine,#e818e8,#e818e8,3,0.2928048225157305
 'Ed McVey',de,UK,#e838e8,#e838e8,1,0.28941897429625
-'Milo Yiannopoulos',de,UK,#e838e8,#e838e8,1,0.2871034374999999
-'Volodymyr Zelenskiy',de,Ukraine,#e818e8,#e818e8,1,0.2871034374999999
 'Daniel Dillmann',de,Deutschland,#1818e8,#1818e8,1,0.2871034374999999
+'Volodymyr Zelenskiy',de,Ukraine,#e818e8,#e818e8,1,0.2871034374999999
 'Gérard Biard',de,Frankreich,#e8e808,#e8e808,1,0.2871034374999999
+'Milo Yiannopoulos',de,UK,#e838e8,#e838e8,1,0.2871034374999999
 'Herschel Walker',de,USA,#18e8e8,#18e8e8,1,0.2871034374999999
 'Christian Lindner',de,Deutschland,#1818e8,#1818e8,3,0.2862653424128151
 'Kevin Kühnert',de,Deutschland,#1818e8,#1818e8,3,0.2837933503516328
@@ -334,9 +334,9 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Ethan Bradley',de,USA,#18e8e8,#18e8e8,1,0.0468762292422346
 'Francoise Bettencourt-Meyers',de,Frankreich,#e8e808,#e8e808,1,0.0464095293347225
 'Chan Santokhi',de,Surinam,#111111,#111111,1,0.0463088452799446
+'Sergei Ignatjew',de,Russland,#e81818,#e81818,1,0.0455994483347225
 'Helge Lund',de,UK,#e838e8,#e838e8,1,0.0455994483347225
 'Egon Westphal',de,Deutschland,#1818e8,#1818e8,1,0.0455994483347225
-'Sergei Ignatjew',de,Russland,#e81818,#e81818,1,0.0455994483347225
 'Herman Gref',de,Russland,#e81818,#e81818,1,0.0435016650234468
 'Valery Gerasimov',de,Russland,#e81818,#e81818,1,0.0427318594887085
 'Michael Wirth',de,USA,#18e8e8,#18e8e8,1,0.0421394572375941
