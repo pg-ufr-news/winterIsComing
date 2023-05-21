@@ -35,7 +35,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Prinz Andrew',de,UK,#e838e8,#e838e8,2,0.444145409090909
 'Adolf Hitler',de,Deutschland,#1818e8,#1818e8,3,0.4424934124318181
 'Willy Brandt',de,Deutschland,#1818e8,#1818e8,3,0.4424109969954545
-'King Charles III',de,UK,#e838e8,#e838e8,3,0.44153680456486066
+'King Charles III',de,UK,#e838e8,#e838e8,3,0.4415368045648606
 'Jean Carroll',de,USA,#18e8e8,#18e8e8,3,0.4410115325183039
 'Isaac Newton',de,UK,#e838e8,#e838e8,1,0.440519327175
 'Wolfgang Kubicki',de,Deutschland,#1818e8,#1818e8,3,0.4398748804090909
@@ -111,10 +111,10 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Barack Obama',de,USA,#18e8e8,#18e8e8,3,0.2996641882250379
 'Selenskyj',de,Ukraine,#e818e8,#e818e8,3,0.2928048225157305
 'Ed McVey',de,UK,#e838e8,#e838e8,1,0.28941897429625
-'Daniel Dillmann',de,Deutschland,#1818e8,#1818e8,1,0.2871034374999999
-'Volodymyr Zelenskiy',de,Ukraine,#e818e8,#e818e8,1,0.2871034374999999
 'Gérard Biard',de,Frankreich,#e8e808,#e8e808,1,0.2871034374999999
+'Volodymyr Zelenskiy',de,Ukraine,#e818e8,#e818e8,1,0.2871034374999999
 'Milo Yiannopoulos',de,UK,#e838e8,#e838e8,1,0.2871034374999999
+'Daniel Dillmann',de,Deutschland,#1818e8,#1818e8,1,0.2871034374999999
 'Herschel Walker',de,USA,#18e8e8,#18e8e8,1,0.2871034374999999
 'Christian Lindner',de,Deutschland,#1818e8,#1818e8,3,0.2862653424128151
 'Kevin Kühnert',de,Deutschland,#1818e8,#1818e8,3,0.2837933503516328
@@ -156,7 +156,6 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Sandra Maischberger',de,Deutschland,#1818e8,#1818e8,2,0.2116071361922318
 'Xi Jinping',de,China,#e88818,#e88818,3,0.2109909185156437
 'Mukesh Ambani',de,Indien,#111111,#111111,1,0.2066507186017586
-'Charles Koch',de,USA,#18e8e8,#18e8e8,2,0.2036568478911255
 'Mark Zuckerberg',de,USA,#18e8e8,#18e8e8,3,0.2029919317936823
 'Annalena Baerbock',de,Deutschland,#1818e8,#1818e8,3,0.2025103015309864
 'Michael Mann',de,USA,#18e8e8,#18e8e8,3,0.2020366728643551
@@ -169,6 +168,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Klaus-Michael Kühne',de,Deutschland,#1818e8,#1818e8,1,0.1981075156789941
 'Giorgia Meloni',de,Italien,#111111,#111111,3,0.1977848506583311
 'Ola Källenius',de,Deutschland,#1818e8,#1818e8,1,0.1960636859801629
+'Charles Koch',de,USA,#18e8e8,#18e8e8,2,0.1953585457074567
 'Daniel Zhang',de,China,#e88818,#e88818,1,0.1953459196524764
 'Karl Lauterbach',de,Deutschland,#1818e8,#1818e8,3,0.1953286624714419
 'Tamim Hamad Thani',de,Katar,#111111,#111111,2,0.1953225600778274
@@ -334,9 +334,9 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Ethan Bradley',de,USA,#18e8e8,#18e8e8,1,0.0468762292422346
 'Francoise Bettencourt-Meyers',de,Frankreich,#e8e808,#e8e808,1,0.0464095293347225
 'Chan Santokhi',de,Surinam,#111111,#111111,1,0.0463088452799446
+'Egon Westphal',de,Deutschland,#1818e8,#1818e8,1,0.0455994483347225
 'Sergei Ignatjew',de,Russland,#e81818,#e81818,1,0.0455994483347225
 'Helge Lund',de,UK,#e838e8,#e838e8,1,0.0455994483347225
-'Egon Westphal',de,Deutschland,#1818e8,#1818e8,1,0.0455994483347225
 'Herman Gref',de,Russland,#e81818,#e81818,1,0.0435016650234468
 'Valery Gerasimov',de,Russland,#e81818,#e81818,1,0.0427318594887085
 'Thomas Dörflinger',de,Deutschland,#1818e8,#1818e8,1,0.0417098326447802
