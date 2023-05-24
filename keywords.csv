@@ -95,7 +95,6 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Ron DeSantis',de,USA,#18e8e8,#18e8e8,3,0.335952659677906
 'Donald Trump',de,USA,#18e8e8,#18e8e8,3,0.3331925996719329
 'Billy Graham',de,USA,#18e8e8,#18e8e8,2,0.332249312175
-'Richard Feynman',de,USA,#18e8e8,#18e8e8,1,0.3320550535875
 'Scott Morrison',de,Australien,#111111,#111111,2,0.3320134135875
 'Joe Biden',de,USA,#18e8e8,#18e8e8,3,0.3313125839343794
 'Selenski',de,Ukraine,#e818e8,#e818e8,3,0.3287688968417335
@@ -120,6 +119,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Werner von Braun',de,Deutschland,#1818e8,#1818e8,2,0.2834258854856249
 'Alfred Nobel',de,Schweden,#111111,#111111,1,0.283318671148125
 'Napoleon Bonaparte',de,Frankreich,#e8e808,#e8e808,1,0.283191158398125
+'Richard Feynman',de,USA,#18e8e8,#18e8e8,1,0.282546825549375
 'Maybrit Illner',de,Deutschland,#1818e8,#1818e8,2,0.2822091025186961
 'Alfred Bernhard Nobel',de,Schweden,#111111,#111111,1,0.2818833749999999
 'Boris Johnson',de,UK,#e838e8,#e838e8,3,0.2809272792699669
@@ -151,7 +151,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Marco Buschmann',de,Deutschland,#1818e8,#1818e8,3,0.2198613538296954
 'Warren Buffett',de,USA,#18e8e8,#18e8e8,2,0.2195180810644239
 'Mike Pence',de,USA,#18e8e8,#18e8e8,3,0.2184257181908278
-'Michael Mann',de,USA,#18e8e8,#18e8e8,3,0.21759662284379275
+'Michael Mann',de,USA,#18e8e8,#18e8e8,3,0.2175966228437927
 'Recep Tayyip Erdoğan',de,Türkei,#111111,#111111,2,0.216266069377041
 'Lothar Wieler',de,Deutschland,#1818e8,#1818e8,1,0.2144756430385868
 'Sandra Maischberger',de,Deutschland,#1818e8,#1818e8,2,0.2116071361922318
@@ -334,9 +334,9 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Ethan Bradley',de,USA,#18e8e8,#18e8e8,1,0.0468762292422346
 'Francoise Bettencourt-Meyers',de,Frankreich,#e8e808,#e8e808,1,0.0464095293347225
 'Chan Santokhi',de,Surinam,#111111,#111111,1,0.0463088452799446
+'Egon Westphal',de,Deutschland,#1818e8,#1818e8,1,0.0455994483347225
 'Helge Lund',de,UK,#e838e8,#e838e8,1,0.0455994483347225
 'Sergei Ignatjew',de,Russland,#e81818,#e81818,1,0.0455994483347225
-'Egon Westphal',de,Deutschland,#1818e8,#1818e8,1,0.0455994483347225
 'Herman Gref',de,Russland,#e81818,#e81818,1,0.0435016650234468
 'Valery Gerasimov',de,Russland,#e81818,#e81818,1,0.0427318594887085
 'Thomas Dörflinger',de,Deutschland,#1818e8,#1818e8,1,0.0417098326447802
