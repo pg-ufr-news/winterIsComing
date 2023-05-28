@@ -22,7 +22,6 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Norbert Röttgen',de,Deutschland,#1818e8,#1818e8,3,0.4554836228651515
 'Olli Schulz',de,Deutschland,#1818e8,#1818e8,2,0.4551472055714286
 'Helmut Kohl',de,Deutschland,#1818e8,#1818e8,3,0.4548102305681817
-'George Bush',de,USA,#18e8e8,#18e8e8,2,0.4542448851136363
 'Mathias Döpfner',de,Deutschland,#1818e8,#1818e8,2,0.4540896752798294
 'Lula da Silva',de,Brasilien,#58e838,#58e848,3,0.4478428136363636
 'Harry Belafonte',de,USA,#18e8e8,#18e8e8,3,0.4476480844207792
@@ -59,6 +58,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Barbara Sturm',de,Deutschland,#1818e8,#1818e8,2,0.4175319799642857
 'Anne Will',de,Deutschland,#1818e8,#1818e8,3,0.4154038497886363
 'Alexander von Humboldt',de,Deutschland,#1818e8,#1818e8,2,0.4148768705681818
+'George Bush',de,USA,#18e8e8,#18e8e8,2,0.4137860700738636
 'Joseph Ratzinger',de,Vatikan,#58b8e8,#58b8e8,1,0.41114572675
 'Richard David Precht',de,Deutschland,#1818e8,#1818e8,2,0.4096211882409091
 'Billy Graham',de,USA,#18e8e8,#18e8e8,2,0.40831200534875
@@ -290,7 +290,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Yoon Suk-yeol',de,SüdKorea,#111111,#111111,3,0.1454810189442506
 'Pedro Sánchez',de,Spanien,#111111,#111111,3,0.1453219716865706
 'Paul Kagame',de,Ruanda,#111111,#111111,1,0.1444730031001166
-'Jitzchak Herzog',de,Israel,#111111,#111111,1,0.14324537034871918
+'Jitzchak Herzog',de,Israel,#111111,#111111,1,0.1432453703487191
 'Jair Lapid',de,Israel,#111111,#111111,2,0.140834487165512
 'Joana Cotar',de,Deutschland,#1818e8,#1818e8,1,0.1383847895568137
 'Jewgenij Roisman',de,Russland,#e81818,#e81818,1,0.1378615462471255
