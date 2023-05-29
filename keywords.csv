@@ -1,5 +1,4 @@
 keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
-'Königin Camilla',de,UK,#e838e8,#e838e8,3,0.4915608826363635
 'Dieter Bohlen',de,Deutschland,#1818e8,#1818e8,3,0.4749467729295454
 'Alvin Bragg',de,USA,#18e8e8,#18e8e8,2,0.4734517482499999
 'Erich Honecker',de,Deutschland,#1818e8,#1818e8,2,0.47330018
@@ -41,6 +40,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Jimmy Carter',de,USA,#18e8e8,#18e8e8,2,0.43431608225
 'Prinz Harry',de,UK,#e838e8,#e838e8,3,0.4323776879989553
 'Nadja Abd el Farrag',de,Deutschland,#1818e8,#1818e8,1,0.4322063171802419
+'Königin Camilla',de,UK,#e838e8,#e838e8,3,0.43187656933181806
 'Georg Bätzing',de,Deutschland,#1818e8,#1818e8,1,0.4316182456428571
 'Tim Cook',de,USA,#18e8e8,#18e8e8,3,0.4302195324090909
 'Kai Wegner',de,Deutschland,#1818e8,#1818e8,3,0.4301841016498294
@@ -157,7 +157,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Sandra Maischberger',de,Deutschland,#1818e8,#1818e8,2,0.2116071361922318
 'Xi Jinping',de,China,#e88818,#e88818,3,0.2109909185156437
 'Mukesh Ambani',de,Indien,#111111,#111111,1,0.2066507186017586
-'Melinda Gates',de,USA,#18e8e8,#18e8e8,2,0.20605294211077724
+'Melinda Gates',de,USA,#18e8e8,#18e8e8,2,0.2060529421107772
 'Mark Zuckerberg',de,USA,#18e8e8,#18e8e8,3,0.2029919317936823
 'Annalena Baerbock',de,Deutschland,#1818e8,#1818e8,3,0.2025103015309864
 'Jack Ma',de,China,#e88818,#e88818,2,0.2005547302924144
