@@ -40,7 +40,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Jimmy Carter',de,USA,#18e8e8,#18e8e8,2,0.43431608225
 'Prinz Harry',de,UK,#e838e8,#e838e8,3,0.4323776879989553
 'Nadja Abd el Farrag',de,Deutschland,#1818e8,#1818e8,1,0.4322063171802419
-'Königin Camilla',de,UK,#e838e8,#e838e8,3,0.43187656933181806
+'Königin Camilla',de,UK,#e838e8,#e838e8,3,0.431876569331818
 'Georg Bätzing',de,Deutschland,#1818e8,#1818e8,1,0.4316182456428571
 'Tim Cook',de,USA,#18e8e8,#18e8e8,3,0.4302195324090909
 'Kai Wegner',de,Deutschland,#1818e8,#1818e8,3,0.4301841016498294
@@ -100,7 +100,6 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Emmanuel Macron',de,Frankreich,#e8e808,#e8e808,3,0.3234161993634266
 'Olaf Scholz',de,Deutschland,#1818e8,#1818e8,3,0.3060209566291014
 'Charles III',de,UK,#e838e8,#e838e8,3,0.3046119308651951
-'Stephen Hawking',de,UK,#e838e8,#e838e8,1,0.3026907252605357
 'Barack Obama',de,USA,#18e8e8,#18e8e8,3,0.2996641882250379
 'Winston Churchill',de,UK,#e838e8,#e838e8,2,0.2984873633406154
 'Selenskyj',de,Ukraine,#e818e8,#e818e8,3,0.2928048225157305
@@ -123,6 +122,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Boris Johnson',de,UK,#e838e8,#e838e8,3,0.2809272792699669
 'Papst Benedikt XVI',de,Vatikan,#58b8e8,#58b8e8,3,0.2803198878619299
 'Katalin Novák',de,Ungarn,#111111,#111111,2,0.2760833458297175
+'Stephen Hawking',de,UK,#e838e8,#e838e8,1,0.27530391813812205
 'Maybritt Illner',de,Deutschland,#1818e8,#1818e8,1,0.2715728430582702
 'Frank Plasberg',de,Deutschland,#1818e8,#1818e8,2,0.271311355898125
 'Jan Böhmermann',de,Deutschland,#1818e8,#1818e8,3,0.2696707451532107
