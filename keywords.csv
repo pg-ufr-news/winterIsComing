@@ -63,7 +63,6 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Richard David Precht',de,Deutschland,#1818e8,#1818e8,2,0.4096211882409091
 'Billy Graham',de,USA,#18e8e8,#18e8e8,2,0.40831200534875
 'Helge Schneider',de,Deutschland,#1818e8,#1818e8,1,0.4081669164166666
-'Nina Gummich',de,Deutschland,#1818e8,#1818e8,1,0.4080473371071428
 'Rupert Murdoch',de,USA,#18e8e8,#18e8e8,2,0.4070801740284091
 'Steven Spielberg',de,USA,#18e8e8,#18e8e8,2,0.4062549809784091
 'Wolodimir Selenski',de,Ukraine,#e818e8,#e818e8,3,0.3998669064552272
@@ -91,6 +90,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Wladimir Putin',de,Russland,#e81818,#e81818,3,0.3561939043074576
 'Henry Kissinger',de,USA,#18e8e8,#18e8e8,2,0.3559933651285714
 'Papst Franziskus',de,Vatikan,#58b8e8,#58b8e8,3,0.3510299150028324
+'Nina Gummich',de,Deutschland,#1818e8,#1818e8,1,0.3477403265410714
 'Finnegan Biden',de,USA,#18e8e8,#18e8e8,1,0.3473841006568181
 'König Charles III',de,UK,#e838e8,#e838e8,3,0.339814490452464
 'Ron DeSantis',de,USA,#18e8e8,#18e8e8,3,0.335952659677906
@@ -122,7 +122,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Boris Johnson',de,UK,#e838e8,#e838e8,3,0.2809272792699669
 'Papst Benedikt XVI',de,Vatikan,#58b8e8,#58b8e8,3,0.2803198878619299
 'Katalin Novák',de,Ungarn,#111111,#111111,2,0.2760833458297175
-'Stephen Hawking',de,UK,#e838e8,#e838e8,1,0.27530391813812205
+'Stephen Hawking',de,UK,#e838e8,#e838e8,1,0.275303918138122
 'Maybritt Illner',de,Deutschland,#1818e8,#1818e8,1,0.2715728430582702
 'Frank Plasberg',de,Deutschland,#1818e8,#1818e8,2,0.271311355898125
 'Jan Böhmermann',de,Deutschland,#1818e8,#1818e8,3,0.2696707451532107
