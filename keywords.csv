@@ -132,7 +132,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Jens Stoltenberg',de,Norwegen,#e818e8,#e818e8,3,0.2552114217204134
 'Friedrich Merz',de,Deutschland,#1818e8,#1818e8,3,0.2537258767065089
 'Edmund Stoiber',de,Deutschland,#1818e8,#1818e8,1,0.2535137447209488
-'Jordan Bardella',de,Frankreich,#e8e808,#e8e808,1,0.24889736306586704
+'Jordan Bardella',de,Frankreich,#e8e808,#e8e808,1,0.248897363065867
 'Julian Reichelt',de,Deutschland,#1818e8,#1818e8,3,0.2457992288283137
 'Volodymyr Zelenskiy',de,Ukraine,#e818e8,#e818e8,1,0.2440379218749999
 'David Malpass',de,USA,#18e8e8,#18e8e8,3,0.2432576681222887
@@ -211,6 +211,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Antonio Guterres',de,UN,#e888e8,#e888e8,3,0.1872240515385514
 'Fumio Kishida',de,Japan,#111111,#111111,3,0.1870351350228879
 'Karine Jean-Pierre',de,USA,#18e8e8,#18e8e8,3,0.18611209366118
+'Cyril Ramaphosa',de,Südafrika,#111111,#111111,2,0.18595214374758345
 'MacKenzie Scott',de,USA,#18e8e8,#18e8e8,2,0.1857048246347956
 'Mahmud Abbas',de,Palistina,#111111,#111111,2,0.1855698821979333
 'Markus Krebber',de,Deutschland,#1818e8,#1818e8,1,0.1851339386817144
@@ -268,7 +269,6 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Christian Drosten',de,Deutschland,#1818e8,#1818e8,2,0.1631904485788493
 'Steffi Lemke',de,Deutschland,#1818e8,#1818e8,3,0.1629047618873548
 'Bruno Kahl',de,Deutschland,#1818e8,#1818e8,1,0.1613759550518236
-'Cyril Ramaphosa',de,Südafrika,#111111,#111111,2,0.1594663509329859
 'Erik Marquardt',de,EU,#111111,#111111,1,0.1593143924260272
 'Gautam Adani',de,Indien,#111111,#111111,1,0.1588332001257897
 'Ulf Poschardt',de,Deutschland,#1818e8,#1818e8,2,0.1585813326059911
@@ -335,8 +335,8 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Ethan Bradley',de,USA,#18e8e8,#18e8e8,1,0.0468762292422346
 'Francoise Bettencourt-Meyers',de,Frankreich,#e8e808,#e8e808,1,0.0464095293347225
 'Chan Santokhi',de,Surinam,#111111,#111111,1,0.0463088452799446
-'Egon Westphal',de,Deutschland,#1818e8,#1818e8,1,0.0455994483347225
 'Helge Lund',de,UK,#e838e8,#e838e8,1,0.0455994483347225
+'Egon Westphal',de,Deutschland,#1818e8,#1818e8,1,0.0455994483347225
 'Herman Gref',de,Russland,#e81818,#e81818,1,0.0435016650234468
 'Valery Gerasimov',de,Russland,#e81818,#e81818,1,0.0427318594887085
 'Thomas Dörflinger',de,Deutschland,#1818e8,#1818e8,1,0.0417098326447802
