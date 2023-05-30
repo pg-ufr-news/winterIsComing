@@ -211,7 +211,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Antonio Guterres',de,UN,#e888e8,#e888e8,3,0.1872240515385514
 'Fumio Kishida',de,Japan,#111111,#111111,3,0.1870351350228879
 'Karine Jean-Pierre',de,USA,#18e8e8,#18e8e8,3,0.18611209366118
-'Cyril Ramaphosa',de,Südafrika,#111111,#111111,2,0.18595214374758345
+'Cyril Ramaphosa',de,Südafrika,#111111,#111111,2,0.1859521437475834
 'MacKenzie Scott',de,USA,#18e8e8,#18e8e8,2,0.1857048246347956
 'Mahmud Abbas',de,Palistina,#111111,#111111,2,0.1855698821979333
 'Markus Krebber',de,Deutschland,#1818e8,#1818e8,1,0.1851339386817144
@@ -338,7 +338,6 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Helge Lund',de,UK,#e838e8,#e838e8,1,0.0455994483347225
 'Egon Westphal',de,Deutschland,#1818e8,#1818e8,1,0.0455994483347225
 'Herman Gref',de,Russland,#e81818,#e81818,1,0.0435016650234468
-'Valery Gerasimov',de,Russland,#e81818,#e81818,1,0.0427318594887085
 'Thomas Dörflinger',de,Deutschland,#1818e8,#1818e8,1,0.0417098326447802
 'Ilham Aliyev',de,Aserbaidschan,#111111,#111111,1,0.0411372379772158
 'Amin H. Nasser',de,SaudiArabien,#111111,#111111,1,0.040147483378486
@@ -347,6 +346,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Gina Rinehart',de,Australien,#111111,#111111,1,0.0387595310845141
 'Sergei Ignatjew',de,Russland,#e81818,#e81818,1,0.0387595310845141
 'Dmitry Peskov',de,Russland,#e81818,#e81818,1,0.0386734294753883
+'Valery Gerasimov',de,Russland,#e81818,#e81818,1,0.036322080565402225
 'Michael Wirth',de,USA,#18e8e8,#18e8e8,1,0.0359685536519549
 'Guillaume Pousaz',de,Schweiz,#111111,#111111,1,0.033989923248466
 'Sergei Surovikin',de,Russland,#e81818,#e81818,1,0.0332865711583703
