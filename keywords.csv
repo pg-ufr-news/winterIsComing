@@ -1,17 +1,4 @@
 keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
-'Dieter Bohlen',de,Deutschland,#1818e8,#1818e8,3,0.4749467729295454
-'Alvin Bragg',de,USA,#18e8e8,#18e8e8,2,0.4734517482499999
-'Erich Honecker',de,Deutschland,#1818e8,#1818e8,2,0.47330018
-'Peter Thiel',de,USA,#18e8e8,#18e8e8,2,0.4730423640909091
-'Tucker Carlson',de,USA,#18e8e8,#18e8e8,3,0.4681775214071023
-'Penny Mordaunt',de,UK,#e838e8,#e838e8,1,0.467500405
-'Lionel Richie',de,USA,#18e8e8,#18e8e8,3,0.4665692508193182
-'Andrew Tate',de,USA,#18e8e8,#18e8e8,2,0.4637955653
-'Jens Spahn',de,Deutschland,#1818e8,#1818e8,3,0.4629154663636363
-'Konrad Adenauer',de,Deutschland,#1818e8,#1818e8,3,0.4620387132272727
-'Queen Camilla',de,UK,#e838e8,#e838e8,3,0.4603747569772727
-'George Clooney',de,USA,#18e8e8,#18e8e8,2,0.45990071925
-'Steve Jobs',de,USA,#18e8e8,#18e8e8,2,0.4593093464999999
 'Christopher Nolan',de,USA,#18e8e8,#18e8e8,1,0.45900021
 'Recep Tayyip Erdoan',de,Türkei,#111111,#111111,3,0.4576731011363636
 'William Shakespeare',de,UK,#e838e8,#e838e8,2,0.4573534659772727
@@ -22,9 +9,12 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Olli Schulz',de,Deutschland,#1818e8,#1818e8,2,0.4551472055714286
 'Helmut Kohl',de,Deutschland,#1818e8,#1818e8,3,0.4548102305681817
 'Mathias Döpfner',de,Deutschland,#1818e8,#1818e8,2,0.4540896752798294
+'Alvin Bragg',de,USA,#18e8e8,#18e8e8,2,0.4537841210124999
+'Jens Spahn',de,Deutschland,#1818e8,#1818e8,3,0.4529751159545453
 'Lula da Silva',de,Brasilien,#58e838,#58e848,3,0.4478428136363636
 'Harry Belafonte',de,USA,#18e8e8,#18e8e8,3,0.4476480844207792
 'Markus Lanz',de,Deutschland,#1818e8,#1818e8,3,0.4475271042940909
+'Prince Charles',de,UK,#e838e8,#e838e8,3,0.4474550912954544
 'Nikki Haley',de,USA,#18e8e8,#18e8e8,2,0.4468344924058441
 'Queen Elizabeth II',de,UK,#e838e8,#e838e8,3,0.4458052985454545
 'Bruce Springsteen',de,USA,#18e8e8,#18e8e8,2,0.4452536944056818
@@ -33,9 +23,11 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Willy Brandt',de,Deutschland,#1818e8,#1818e8,3,0.4424109969954545
 'Jean Carroll',de,USA,#18e8e8,#18e8e8,3,0.4410115325183039
 'Wolfgang Kubicki',de,Deutschland,#1818e8,#1818e8,3,0.4398748804090909
+'Cem Özdemir',de,Deutschland,#1818e8,#1818e8,3,0.439140317910284
 'Margaret Thatcher',de,UK,#e838e8,#e838e8,2,0.4390354035
 'Georg Gänswein',de,Deutschland,#1818e8,#1818e8,1,0.43690045
 'Prinz Louis',de,UK,#e838e8,#e838e8,3,0.4354961386309147
+'King Charles',de,UK,#e838e8,#e838e8,3,0.4344996395454545
 'Jimmy Carter',de,USA,#18e8e8,#18e8e8,2,0.43431608225
 'Prinz Harry',de,UK,#e838e8,#e838e8,3,0.4323776879989553
 'Nadja Abd el Farrag',de,Deutschland,#1818e8,#1818e8,1,0.4322063171802419
@@ -45,30 +37,57 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Kai Wegner',de,Deutschland,#1818e8,#1818e8,3,0.4301841016498294
 'Leonardo DiCaprio',de,USA,#18e8e8,#18e8e8,3,0.4287556673863636
 'Bill Clinton',de,USA,#18e8e8,#18e8e8,2,0.4284000118409091
+'Queen Camilla',de,UK,#e838e8,#e838e8,3,0.4280929802488636
 'Robert Oppenheimer',de,USA,#18e8e8,#18e8e8,1,0.4267157453653846
+'Marjorie Taylor Greene',de,USA,#18e8e8,#18e8e8,1,0.426020222
+'Lady Di',de,UK,#e838e8,#e838e8,1,0.425000285
+'Cillian Murphy',de,Irland,#111111,#111111,1,0.42500018
+'Jeffrey Donaldson',de,Irland,#111111,#111111,1,0.4250001049999999
+'Mary Lou McDonald',de,Irland,#111111,#111111,1,0.425
+'Benjamin Nethanaju',de,Israel,#111111,#111111,1,0.425
+'Michelle Neill',de,Irland,#111111,#111111,1,0.425
+'Steve Milloy',de,USA,#18e8e8,#18e8e8,1,0.425
+'Gautam Idani',de,Indien,#111111,#111111,1,0.425
+'Steven Milloy',de,USA,#18e8e8,#18e8e8,1,0.425
+'Edir Macedo',de,Brasilien,#58e838,#58e848,1,0.425
+'Konrad Adenauer',de,Deutschland,#1818e8,#1818e8,3,0.424957148515909
 'Stormy Daniels',de,USA,#18e8e8,#18e8e8,3,0.4247779199124999
 'Lionel Messi',de,Argentinien,#111111,#111111,3,0.424596177107372
 'Prinz Archie',de,UK,#e838e8,#e838e8,3,0.4244387332700936
 'Prinz William',de,UK,#e838e8,#e838e8,3,0.4240274299045936
 'Prinzessin Kate',de,UK,#e838e8,#e838e8,3,0.4235836575190908
 'Ulrich Reitz',de,Deutschland,#1818e8,#1818e8,1,0.4229914375470587
+'Dieter Bohlen',de,Deutschland,#1818e8,#1818e8,3,0.4222920056264772
 'Martin Luther King',de,USA,#18e8e8,#18e8e8,2,0.4220359232272727
+'Peter Thiel',de,USA,#18e8e8,#18e8e8,2,0.4206733031136364
+'Ramsan Kadyrow',de,Russland,#e81818,#e81818,3,0.419501184090909
 'Albert Einstein',de,Deutschland,#1818e8,#1818e8,3,0.4186268750681817
 'Barbara Sturm',de,Deutschland,#1818e8,#1818e8,2,0.4175319799642857
 'Anne Will',de,Deutschland,#1818e8,#1818e8,3,0.4154038497886363
+'Königsgemahlin Camilla',de,UK,#e838e8,#e838e8,3,0.4150604783488636
 'Alexander von Humboldt',de,Deutschland,#1818e8,#1818e8,2,0.4148768705681818
 'George Bush',de,USA,#18e8e8,#18e8e8,2,0.4137860700738636
+'Penny Mordaunt',de,UK,#e838e8,#e838e8,1,0.4135686806124999
 'Joseph Ratzinger',de,Vatikan,#58b8e8,#58b8e8,1,0.41114572675
+'George Floyd',de,USA,#18e8e8,#18e8e8,2,0.4104089984999999
 'Richard David Precht',de,Deutschland,#1818e8,#1818e8,2,0.4096211882409091
 'Billy Graham',de,USA,#18e8e8,#18e8e8,2,0.40831200534875
 'Helge Schneider',de,Deutschland,#1818e8,#1818e8,1,0.4081669164166666
 'Rupert Murdoch',de,USA,#18e8e8,#18e8e8,2,0.4070801740284091
 'Steven Spielberg',de,USA,#18e8e8,#18e8e8,2,0.4062549809784091
+'Linda Yaccarino',de,USA,#18e8e8,#18e8e8,3,0.4054636509489801
+'Steve Jobs',de,USA,#18e8e8,#18e8e8,2,0.4026636645249999
+'Erich Honecker',de,Deutschland,#1818e8,#1818e8,1,0.402305498
+'Lionel Richie',de,USA,#18e8e8,#18e8e8,3,0.4015364581964205
 'Wolodimir Selenski',de,Ukraine,#e818e8,#e818e8,3,0.3998669064552272
 'Jack Teixeira',de,USA,#18e8e8,#18e8e8,3,0.3995304139782955
+'Tucker Carlson',de,USA,#18e8e8,#18e8e8,2,0.3979515981960369
+'Prinzessin Diana',de,UK,#e838e8,#e838e8,2,0.3974583935454545
 'Rudolf Steiner',de,Oesterreich,#111111,#111111,1,0.395632577175
+'Andrew Tate',de,USA,#18e8e8,#18e8e8,2,0.394676275505
 'Herbert Diess',de,Deutschland,#1818e8,#1818e8,2,0.3936968339021739
 'Joachim Gauck',de,Deutschland,#1818e8,#1818e8,3,0.3921735950144318
+'George Clooney',de,USA,#18e8e8,#18e8e8,2,0.3910661213624999
 'Chris Hipkins',de,Neuseeland,#1818e8,#1818e8,1,0.3900979306208333
 'Lars Klingbeil',de,Deutschland,#1818e8,#1818e8,2,0.3875616505681817
 'King Charles III',de,UK,#e838e8,#e838e8,3,0.384805773425586
@@ -92,7 +111,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Nina Gummich',de,Deutschland,#1818e8,#1818e8,1,0.3477403265410714
 'Finnegan Biden',de,USA,#18e8e8,#18e8e8,1,0.3473841006568181
 'König Charles III',de,UK,#e838e8,#e838e8,3,0.339814490452464
-'Geoffrey Hinton',de,UK,#e838e8,#e838e8,3,0.33813542649589895
+'Geoffrey Hinton',de,UK,#e838e8,#e838e8,3,0.3381354264958989
 'Ron DeSantis',de,USA,#18e8e8,#18e8e8,3,0.335952659677906
 'Donald Trump',de,USA,#18e8e8,#18e8e8,3,0.3331925996719329
 'Joe Biden',de,USA,#18e8e8,#18e8e8,3,0.3313125839343794
