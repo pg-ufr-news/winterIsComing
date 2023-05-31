@@ -25,8 +25,27 @@ from difflib import SequenceMatcher
 import datetime
 #from datetime import timezone
 from dateutil import parser
+from datetime import date, timedelta, datetime, timezone
 
 DATA_PATH = Path.cwd()
+
+def getAge(dateString):
+    today = datetime.now(timezone.utc)
+    timeDate = -1
+    pubDate = None
+    try:
+        pubDate = parser.parse(dateString)
+    except:
+        print('date parse error 1')
+    if(not pubDate):
+      try:
+        pubDate = parser.isoparse(dateString)
+      except:
+        print('date parse error 2')   
+    if(pubDate):
+        timeDate = today - pubDate
+        timeDate = timeDate.days 
+    return timeDate
 
 keywordsFields = ["keyword","language","topic","topicColor","keywordColor","limitPages","ratioNew"]
 keywordsDF = pd.read_csv(DATA_PATH / 'keywords.csv', delimiter=',')  #,index_col='keyword'
@@ -61,18 +80,18 @@ def getNewsDF():
     return newsDF     
 
 newsDf = getNewsDF()
+newsDf['age'] = newsDf['published'].apply(
+    lambda x: 
+        getAge(x)
+)
+newsDf = newsDf[(newsDf.age>0) & (newsDf.age < 60)]
 
 keywordsNewsDF = pd.DataFrame(None) 
 if(not newsDf.empty):
   keywordsNewsDF = newsDf.groupby('keyword').count()
   keywordsNewsDF = keywordsNewsDF.drop(columns = ['language'])
 
-'''
-newsDf['age'] = newsDf['published'].apply(
-    lambda x: 
-        datetime.datetime.now(datetime.timezone.utc) - parser.parse(x)
-)
-'''
+
 keywordsNewsDF2 = pd.DataFrame(None) 
 if(not keywordsNewsDF.empty):
   keywordsNewsDF2 = pd.merge(keywordsDF, keywordsNewsDF, how='left', left_on=['keyword'], right_on=['keyword'])
@@ -419,7 +438,7 @@ def inqRandomNews():
     rndKey = keywordsDF.sample()
     randomNumber = random.random()
    
-    #randomNumber = 0.95
+    #randomNumber = 0.85
 
     print(['randomNumber: ',randomNumber])
     if(not keywordsNewsDF2.empty):
