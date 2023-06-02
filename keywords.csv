@@ -1,17 +1,18 @@
 keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Lady Gaga',de,USA,#18e8e8,#18e8e8,2,0.51
-'Prinz George',de,UK,#e838e8,#e838e8,2,0.51
-'Millie Mackintosh',de,UK,#e838e8,#e838e8,2,0.51
+'Don Lemon',de,USA,#18e8e8,#18e8e8,2,0.51
 'James Cleverly',de,UK,#e838e8,#e838e8,2,0.51
 'Kemal Kilicdaroglu',de,Türkei,#111111,#111111,2,0.51
 'Michael Cohen',de,USA,#18e8e8,#18e8e8,2,0.51
 'Dmitri Medwedew',de,Russland,#e81818,#e81818,2,0.51
-'Patrick Graichen',de,Deutschland,#1818e8,#1818e8,2,0.51
+'Millie Mackintosh',de,UK,#e838e8,#e838e8,2,0.51
 'Kevin McCarthy',de,USA,#18e8e8,#18e8e8,2,0.51
 'Daniel Penny',de,USA,#18e8e8,#18e8e8,2,0.51
 'Karl Jenkins',de,UK,#e838e8,#e838e8,2,0.51
-'Don Lemon',de,USA,#18e8e8,#18e8e8,2,0.51
+'Prinz George',de,UK,#e838e8,#e838e8,2,0.51
+'Patrick Graichen',de,Deutschland,#1818e8,#1818e8,2,0.51
 'Mario Czaja',de,Deutschland,#1818e8,#1818e8,2,0.5066331681818181
+'Ted Cruz',de,USA,#18e8e8,#18e8e8,2,0.5
 'Raphael Warnock',de,USA,#18e8e8,#18e8e8,2,0.5
 'Lachlan Murdoch',de,UK,#e838e8,#e838e8,2,0.5
 'Hendrik Wüst',de,Deutschland,#1818e8,#1818e8,2,0.5
@@ -22,10 +23,8 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Greg Abbott',de,USA,#18e8e8,#18e8e8,2,0.5
 'Matt Damon',de,USA,#18e8e8,#18e8e8,2,0.5
 'Peter Tschentscher',de,Deutschland,#1818e8,#1818e8,2,0.5
-'Ted Cruz',de,USA,#18e8e8,#18e8e8,2,0.5
-'Jeffrey Epstein',de,USA,#18e8e8,#18e8e8,2,0.5
-'Prinz Heinrich XIII',de,Deutschland,#1818e8,#1818e8,2,0.5
 'Cristiano Ronaldo',de,Portugal,#111111,#111111,1,0.5
+'Prinz Heinrich XIII',de,Deutschland,#1818e8,#1818e8,2,0.5
 'Stefan Aust',de,Deutschland,#1818e8,#1818e8,2,0.5
 'Johnny Depp',de,USA,#18e8e8,#18e8e8,2,0.5
 'Lindsey Graham',de,USA,#18e8e8,#18e8e8,2,0.5
@@ -34,6 +33,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Martin Scorsese',de,USA,#18e8e8,#18e8e8,2,0.5
 'Rudy Giuliani',de,USA,#18e8e8,#18e8e8,2,0.5
 'Megyn Kell',de,USA,#18e8e8,#18e8e8,2,0.5
+'Jeffrey Epstein',de,USA,#18e8e8,#18e8e8,2,0.5
 'Kim Kardashian',de,USA,#18e8e8,#18e8e8,3,0.488451005
 'Norbert Röttgen',de,Deutschland,#1818e8,#1818e8,3,0.4554836228651515
 'Olli Schulz',de,Deutschland,#1818e8,#1818e8,2,0.4551472055714286
@@ -73,10 +73,9 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Robert Oppenheimer',de,USA,#18e8e8,#18e8e8,1,0.4267157453653846
 'Marjorie Taylor Greene',de,USA,#18e8e8,#18e8e8,1,0.426020222
 'Lady Di',de,UK,#e838e8,#e838e8,1,0.425000285
-'Steve Milloy',de,USA,#18e8e8,#18e8e8,1,0.425
 'Edir Macedo',de,Brasilien,#58e838,#58e848,1,0.425
-'Mary Lou McDonald',de,Irland,#111111,#111111,1,0.425
 'Steven Milloy',de,USA,#18e8e8,#18e8e8,1,0.425
+'Steve Milloy',de,USA,#18e8e8,#18e8e8,1,0.425
 'Michelle Neill',de,Irland,#111111,#111111,1,0.4249999999999999
 'Konrad Adenauer',de,Deutschland,#1818e8,#1818e8,3,0.424957148515909
 'Stormy Daniels',de,USA,#18e8e8,#18e8e8,3,0.4247779199124999
@@ -139,6 +138,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Pippa Middleton',de,UK,#e838e8,#e838e8,1,0.3646564429374999
 'Jeffrey Donaldson',de,Irland,#111111,#111111,1,0.3623001942499999
 'Katy Perry',de,USA,#18e8e8,#18e8e8,3,0.3614742758982953
+'Mary Lou McDonald',de,Irland,#111111,#111111,1,0.36124999999999996
 'Meg Bellamy',de,UK,#e838e8,#e838e8,2,0.358146731525
 'Penny Mordaunt',de,UK,#e838e8,#e838e8,2,0.3563338585206249
 'Wladimir Putin',de,Russland,#e81818,#e81818,3,0.3561939043074576
