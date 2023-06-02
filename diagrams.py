@@ -56,6 +56,27 @@ def getNewsDF():
     newsDF = getNewsDFbyList(files)
     return newsDF         
 
+def extractTopPercent(df1, limit=0.95, maxSize=25, counter='count'):
+  df1 = df1.sort_values(by=[counter], ascending=False)
+  df1['fraction'] = 0.0
+  df1['fracSum'] = 0.0
+  countAll = df1[counter].sum()
+  fracSum = 0.0
+  for index, column in df1.iterrows():
+      fraction = column[counter]/countAll 
+      fracSum += fraction
+      df1.loc[index,'fraction'] = fraction
+      df1.loc[index,'fracSum'] = fracSum 
+  df2 = df1[df1['fracSum']<=limit] 
+  df2 = df2.sort_values(counter, ascending=False)
+  rest = df1[df1['fraction']>limit].sum()
+  df2 = df2.head(maxSize)  #todo add to rest...
+  newRow = pd.Series(data={counter:rest, 'fraction':rest/countAll, 'fracSum':1.0}, name='Other')
+  #df2 = df2.append(newRow, ignore_index=False)
+  print(df2[counter])
+  #df2 = df2.sort_values([counter], ascending=False)
+  return df2  
+
 keywordsColorsDF = pd.read_csv(DATA_PATH / 'keywords.csv', delimiter=',')
 topicsColorsDF = keywordsColorsDF.drop_duplicates(subset=['topic'])
 print(topicsColorsDF)
@@ -96,6 +117,36 @@ plot = keywordsDF.plot.pie(y='index', ax=axKeywords, colors=keywordsDF['keywordC
 plt.savefig(DATA_PATH / 'img' / 'keywords_pie_all.png', dpi=300)
 plt.close('all')
 
+
+#Persons
+personsDF = pd.DataFrame(None) 
+if(os.path.exists(DATA_PATH / 'csv' / 'sentiments_persons.csv')):
+    personsDF = pd.read_csv(DATA_PATH / 'csv' / 'sentiments_persons.csv', delimiter=',' ,index_col='phrase')
+    for sublist in personsDF.index.str.split():
+       if isinstance(sublist, list): 
+         german_stop_words += sublist 
+    personsDF = extractTopPercent(personsDF, limit=0.75, maxSize=25, counter='count')
+print(personsDF)
+
+#Organizations
+orgsDF = pd.DataFrame(None) 
+if(os.path.exists(DATA_PATH / 'csv' / 'sentiments_organizations.csv')):
+    orgsDF = pd.read_csv(DATA_PATH / 'csv' / 'sentiments_organizations.csv', delimiter=',' ,index_col='phrase')
+    for sublist in orgsDF.index.str.split():
+       if isinstance(sublist, list): 
+         german_stop_words += sublist 
+    orgsDF = extractTopPercent(orgsDF, limit=0.75, maxSize=25, counter='count')
+print(orgsDF)
+
+#Locations
+locationsDF = pd.DataFrame(None) 
+if(os.path.exists(DATA_PATH / 'csv' / 'sentiments_locations.csv')):
+    locationsDF = pd.read_csv(DATA_PATH / 'csv' / 'sentiments_locations.csv', delimiter=',' ,index_col='phrase')
+    for sublist in locationsDF.index.str.split():
+       if isinstance(sublist, list): 
+         german_stop_words += sublist 
+    locationsDF = extractTopPercent(locationsDF, limit=0.75, maxSize=25, counter='count')
+print(locationsDF)
 
 #
 bayesDF = pd.DataFrame(None) 
@@ -303,26 +354,7 @@ plot_top_words(lda, tf_feature_names, n_top_words, "Topics in LDA model", "topic
 
 #Sentiments, Counts, Entities
 
-def extractTopPercent(df1, limit=0.95, maxSize=25, counter='count'):
-  df1 = df1.sort_values(by=[counter], ascending=False)
-  df1['fraction'] = 0.0
-  df1['fracSum'] = 0.0
-  countAll = df1[counter].sum()
-  fracSum = 0.0
-  for index, column in df1.iterrows():
-      fraction = column[counter]/countAll 
-      fracSum += fraction
-      df1.loc[index,'fraction'] = fraction
-      df1.loc[index,'fracSum'] = fracSum 
-  df2 = df1[df1['fracSum']<=limit] 
-  df2 = df2.sort_values(counter, ascending=False)
-  rest = df1[df1['fraction']>limit].sum()
-  df2 = df2.head(maxSize)  #todo add to rest...
-  newRow = pd.Series(data={counter:rest, 'fraction':rest/countAll, 'fracSum':1.0}, name='Other')
-  #df2 = df2.append(newRow, ignore_index=False)
-  print(df2[counter])
-  #df2 = df2.sort_values([counter], ascending=False)
-  return df2  
+
 
 #Domains
 domainsDF = pd.DataFrame(None) 
@@ -347,12 +379,6 @@ plt.tight_layout()
 plt.savefig(DATA_PATH / 'img' / 'domains_count.png')
 plt.close('all')
 
-#Persons
-personsDF = pd.DataFrame(None) 
-if(os.path.exists(DATA_PATH / 'csv' / 'sentiments_persons.csv')):
-    personsDF = pd.read_csv(DATA_PATH / 'csv' / 'sentiments_persons.csv', delimiter=',' ,index_col='phrase')
-    personsDF = extractTopPercent(personsDF, limit=0.75, maxSize=25, counter='count')
-print(personsDF)
 
 # Bar Persons
 y_pos = np.arange(len(personsDF['count']))
@@ -370,12 +396,6 @@ plt.tight_layout()
 plt.savefig(DATA_PATH / 'img' / 'persons_count.png')
 plt.close('all')
 
-#Organizations
-orgsDF = pd.DataFrame(None) 
-if(os.path.exists(DATA_PATH / 'csv' / 'sentiments_organizations.csv')):
-    orgsDF = pd.read_csv(DATA_PATH / 'csv' / 'sentiments_organizations.csv', delimiter=',' ,index_col='phrase')
-    orgsDF = extractTopPercent(orgsDF, limit=0.75, maxSize=25, counter='count')
-print(orgsDF)
 
 # Bar Organizations
 y_pos = np.arange(len(orgsDF['count']))
@@ -393,12 +413,6 @@ plt.tight_layout()
 plt.savefig(DATA_PATH / 'img' / 'organizations_count.png')
 plt.close('all')
 
-#Locations
-locationsDF = pd.DataFrame(None) 
-if(os.path.exists(DATA_PATH / 'csv' / 'sentiments_locations.csv')):
-    locationsDF = pd.read_csv(DATA_PATH / 'csv' / 'sentiments_locations.csv', delimiter=',' ,index_col='phrase')
-    locationsDF = extractTopPercent(locationsDF, limit=0.75, maxSize=25, counter='count')
-print(locationsDF)
 
 # Bar Locations
 y_pos = np.arange(len(locationsDF['count']))
