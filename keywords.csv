@@ -1,17 +1,18 @@
 keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Lady Gaga',de,USA,#18e8e8,#18e8e8,2,0.51
-'Kevin McCarthy',de,USA,#18e8e8,#18e8e8,2,0.51
-'Don Lemon',de,USA,#18e8e8,#18e8e8,2,0.51
+'James Cleverly',de,UK,#e838e8,#e838e8,2,0.51
 'Kemal Kilicdaroglu',de,Türkei,#111111,#111111,2,0.51
 'Michael Cohen',de,USA,#18e8e8,#18e8e8,2,0.51
 'Dmitri Medwedew',de,Russland,#e81818,#e81818,2,0.51
 'Patrick Graichen',de,Deutschland,#1818e8,#1818e8,2,0.51
-'Millie Mackintosh',de,UK,#e838e8,#e838e8,2,0.51
+'Don Lemon',de,USA,#18e8e8,#18e8e8,2,0.51
 'Daniel Penny',de,USA,#18e8e8,#18e8e8,2,0.51
 'Karl Jenkins',de,UK,#e838e8,#e838e8,2,0.51
 'Prinz George',de,UK,#e838e8,#e838e8,2,0.51
-'James Cleverly',de,UK,#e838e8,#e838e8,2,0.51
+'Kevin McCarthy',de,USA,#18e8e8,#18e8e8,2,0.51
+'Millie Mackintosh',de,UK,#e838e8,#e838e8,2,0.51
 'Mario Czaja',de,Deutschland,#1818e8,#1818e8,2,0.5066331681818181
+'Barbara Walters',de,USA,#18e8e8,#18e8e8,2,0.5
 'Chip Somodevilla',de,USA,#18e8e8,#18e8e8,2,0.5
 'Greg Abbott',de,USA,#18e8e8,#18e8e8,2,0.5
 'Peter Tschentscher',de,Deutschland,#1818e8,#1818e8,2,0.5
@@ -22,10 +23,8 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Kamala Harris',de,USA,#18e8e8,#18e8e8,2,0.5
 'Holger Friedrich',de,Deutschland,#1818e8,#1818e8,2,0.5
 'Matt Damon',de,USA,#18e8e8,#18e8e8,2,0.5
-'Barbara Walters',de,USA,#18e8e8,#18e8e8,2,0.5
-'Lindsey Graham',de,USA,#18e8e8,#18e8e8,2,0.5
-'Prinz Heinrich XIII',de,Deutschland,#1818e8,#1818e8,2,0.5
 'Bettina Jarasch',de,Deutschland,#1818e8,#1818e8,2,0.5
+'Prinz Heinrich XIII',de,Deutschland,#1818e8,#1818e8,2,0.5
 'Kim Jong Un',de,NordKorea,#e85858,#e85858,2,0.5
 'Martin Scorsese',de,USA,#18e8e8,#18e8e8,2,0.5
 'Rudy Giuliani',de,USA,#18e8e8,#18e8e8,2,0.5
@@ -34,6 +33,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Cristiano Ronaldo',de,Portugal,#111111,#111111,1,0.5
 'Stefan Aust',de,Deutschland,#1818e8,#1818e8,2,0.5
 'Johnny Depp',de,USA,#18e8e8,#18e8e8,2,0.5
+'Lindsey Graham',de,USA,#18e8e8,#18e8e8,2,0.5
 'Kim Kardashian',de,USA,#18e8e8,#18e8e8,3,0.488451005
 'Norbert Röttgen',de,Deutschland,#1818e8,#1818e8,3,0.4554836228651515
 'Olli Schulz',de,Deutschland,#1818e8,#1818e8,2,0.4551472055714286
@@ -69,13 +69,12 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Kai Wegner',de,Deutschland,#1818e8,#1818e8,3,0.4301841016498294
 'Leonardo DiCaprio',de,USA,#18e8e8,#18e8e8,3,0.4287556673863636
 'Bill Clinton',de,USA,#18e8e8,#18e8e8,2,0.4284000118409091
-'Queen Camilla',de,UK,#e838e8,#e838e8,3,0.4280929802488636
 'Robert Oppenheimer',de,USA,#18e8e8,#18e8e8,1,0.4267157453653846
 'Marjorie Taylor Greene',de,USA,#18e8e8,#18e8e8,1,0.426020222
 'Lady Di',de,UK,#e838e8,#e838e8,1,0.425000285
+'Steve Milloy',de,USA,#18e8e8,#18e8e8,1,0.425
 'Edir Macedo',de,Brasilien,#58e838,#58e848,1,0.425
 'Steven Milloy',de,USA,#18e8e8,#18e8e8,1,0.425
-'Steve Milloy',de,USA,#18e8e8,#18e8e8,1,0.425
 'Michelle Neill',de,Irland,#111111,#111111,1,0.4249999999999999
 'Konrad Adenauer',de,Deutschland,#1818e8,#1818e8,3,0.424957148515909
 'Stormy Daniels',de,USA,#18e8e8,#18e8e8,3,0.4247779199124999
@@ -122,6 +121,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'William Shakespeare',de,UK,#e838e8,#e838e8,2,0.3895010160806818
 'Lars Klingbeil',de,Deutschland,#1818e8,#1818e8,2,0.3875616505681817
 'King Charles III',de,UK,#e838e8,#e838e8,3,0.384805773425586
+'Queen Camilla',de,UK,#e838e8,#e838e8,3,0.3824706168478977
 'George Washington',de,USA,#18e8e8,#18e8e8,3,0.3820464883068181
 'Henry Ford',de,USA,#18e8e8,#18e8e8,2,0.3813198325613636
 'Yoon Suk Yeol',de,SüdKorea,#111111,#111111,3,0.3810421660090909
@@ -354,7 +354,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'John Roberts',de,USA,#18e8e8,#18e8e8,1,0.1347869056153244
 'Ebrahim Raisi',de,Iran,#111111,#111111,3,0.1346740925721293
 'Patrick Pouyanné',de,Frankreich,#e8e808,#e8e808,1,0.1339929372058043
-'Igor Setschin',de,Russland,#e81818,#e81818,2,0.13299049499713694
+'Igor Setschin',de,Russland,#e81818,#e81818,2,0.1329904949971369
 'Sundar Pichai',de,USA,#18e8e8,#18e8e8,2,0.1317890543879531
 'Holger Münch',de,Deutschland,#1818e8,#1818e8,1,0.1317482269678859
 'Steffen Große',de,Deutschland,#1818e8,#1818e8,3,0.1313881733853798
