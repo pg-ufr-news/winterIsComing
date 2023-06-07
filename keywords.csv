@@ -189,13 +189,13 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Jeffrey Donaldson',de,Irland,#111111,#111111,1,0.2251990019062811
 'Markus Söder',de,Deutschland,#1818e8,#1818e8,3,0.2249247868835967
 'Mateusz Morawiecki',de,Polen,#111111,#111111,3,0.2245577423883679
-'Benjamin Nethanaju',de,Israel,#111111,#111111,1,0.2218526562499999
-'Mary Lou McDonald',de,Irland,#111111,#111111,1,0.2218526562499999
-'Steve Milloy',de,USA,#18e8e8,#18e8e8,1,0.2218526562499999
-'Raphael Warnock',de,USA,#18e8e8,#18e8e8,1,0.2218526562499999
-'Steven Milloy',de,USA,#18e8e8,#18e8e8,1,0.2218526562499999
 'Chip Somodevilla',de,USA,#18e8e8,#18e8e8,1,0.2218526562499999
+'Benjamin Nethanaju',de,Israel,#111111,#111111,1,0.2218526562499999
+'Steve Milloy',de,USA,#18e8e8,#18e8e8,1,0.2218526562499999
+'Mary Lou McDonald',de,Irland,#111111,#111111,1,0.2218526562499999
+'Steven Milloy',de,USA,#18e8e8,#18e8e8,1,0.2218526562499999
 'Megyn Kell',de,USA,#18e8e8,#18e8e8,1,0.2218526562499999
+'Raphael Warnock',de,USA,#18e8e8,#18e8e8,1,0.2218526562499999
 'Gerhard Schröder',de,Deutschland,#1818e8,#1818e8,3,0.2218338037744111
 'Marco Buschmann',de,Deutschland,#1818e8,#1818e8,3,0.2198613538296954
 'Mike Pence',de,USA,#18e8e8,#18e8e8,3,0.2184257181908278
@@ -357,7 +357,6 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Alberto Ángel Fernández',de,Argentinien,#111111,#111111,1,0.1155569800506883
 'Nikos Androulakis',de,Griechenland,#1858e8,#1858e8,2,0.1135535340121011
 'Susanne Klatten',de,Deutschland,#1818e8,#1818e8,1,0.111162752109088
-'Miguel Díaz-Canel',de,Kuba,#111111,#111111,1,0.1109395436619792
 'Otmar Issing',de,EU,#111111,#111111,2,0.1091728210379543
 'Sergej Lavrov',de,Russland,#e81818,#e81818,1,0.1085208905860952
 'Nicola Sturgeon',de,UK,#e838e8,#e838e8,1,0.1078553764077506
@@ -378,6 +377,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Amin Nasser',de,SaudiArabien,#111111,#111111,1,0.0972738007140503
 'Igor Setschin',de,Russland,#e81818,#e81818,1,0.0962356603854313
 'Andreas Jödecke',de,Deutschland,#1818e8,#1818e8,1,0.0952087999496758
+'Miguel Díaz-Canel',de,Kuba,#111111,#111111,1,0.09519870211268232
 'Generalbundesanwalt Peter Frank',de,Deutschland,#1818e8,#1818e8,1,0.0947607989411315
 'Katalin Novak',de,Ungarn,#111111,#111111,1,0.0846712303252764
 'Larry Page',de,USA,#18e8e8,#18e8e8,1,0.0830624268893745
