@@ -32,7 +32,6 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Daniel Penny',de,USA,#18e8e8,#18e8e8,1,0.4262894164166667
 'Marjorie Taylor Greene',de,USA,#18e8e8,#18e8e8,1,0.426020222
 'Lady Di',de,UK,#e838e8,#e838e8,1,0.425000285
-'Konrad Adenauer',de,Deutschland,#1818e8,#1818e8,3,0.424957148515909
 'Queen Elizabeth II',de,UK,#e838e8,#e838e8,3,0.4247986346727272
 'Stormy Daniels',de,USA,#18e8e8,#18e8e8,3,0.4247779199124999
 'Prinz Archie',de,UK,#e838e8,#e838e8,3,0.4244387332700936
@@ -89,6 +88,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Rudolf Steiner',de,Oesterreich,#111111,#111111,1,0.395632577175
 'Andrew Tate',de,USA,#18e8e8,#18e8e8,2,0.394676275505
 'Herbert Diess',de,Deutschland,#1818e8,#1818e8,2,0.3936968339021739
+'Konrad Adenauer',de,Deutschland,#1818e8,#1818e8,3,0.3934379535112499
 'Lady Gaga',de,USA,#18e8e8,#18e8e8,2,0.3930541669285714
 'Joachim Gauck',de,Deutschland,#1818e8,#1818e8,3,0.3921735950144318
 'George Clooney',de,USA,#18e8e8,#18e8e8,2,0.3910661213624999
@@ -189,13 +189,13 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Jeffrey Donaldson',de,Irland,#111111,#111111,1,0.2251990019062811
 'Markus Söder',de,Deutschland,#1818e8,#1818e8,3,0.2249247868835967
 'Mateusz Morawiecki',de,Polen,#111111,#111111,3,0.2245577423883679
-'Megyn Kell',de,USA,#18e8e8,#18e8e8,1,0.2218526562499999
-'Chip Somodevilla',de,USA,#18e8e8,#18e8e8,1,0.2218526562499999
-'Steve Milloy',de,USA,#18e8e8,#18e8e8,1,0.2218526562499999
-'Benjamin Nethanaju',de,Israel,#111111,#111111,1,0.2218526562499999
-'Steven Milloy',de,USA,#18e8e8,#18e8e8,1,0.2218526562499999
 'Raphael Warnock',de,USA,#18e8e8,#18e8e8,1,0.2218526562499999
+'Megyn Kell',de,USA,#18e8e8,#18e8e8,1,0.2218526562499999
+'Steve Milloy',de,USA,#18e8e8,#18e8e8,1,0.2218526562499999
+'Chip Somodevilla',de,USA,#18e8e8,#18e8e8,1,0.2218526562499999
+'Steven Milloy',de,USA,#18e8e8,#18e8e8,1,0.2218526562499999
 'Mary Lou McDonald',de,Irland,#111111,#111111,1,0.2218526562499999
+'Benjamin Nethanaju',de,Israel,#111111,#111111,1,0.2218526562499999
 'Gerhard Schröder',de,Deutschland,#1818e8,#1818e8,3,0.2218338037744111
 'Marco Buschmann',de,Deutschland,#1818e8,#1818e8,3,0.2198613538296954
 'Mike Pence',de,USA,#18e8e8,#18e8e8,3,0.2184257181908278
