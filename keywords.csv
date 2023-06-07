@@ -47,7 +47,6 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Ramsan Kadyrow',de,Russland,#e81818,#e81818,3,0.419501184090909
 'Albert Einstein',de,Deutschland,#1818e8,#1818e8,3,0.4186268750681817
 'Stefan Aust',de,Deutschland,#1818e8,#1818e8,2,0.4177053329999999
-'Barbara Sturm',de,Deutschland,#1818e8,#1818e8,2,0.4175319799642857
 'Anne Will',de,Deutschland,#1818e8,#1818e8,3,0.4154038497886363
 'Königsgemahlin Camilla',de,UK,#e838e8,#e838e8,3,0.4150604783488636
 'Alexander von Humboldt',de,Deutschland,#1818e8,#1818e8,2,0.4148768705681818
@@ -128,6 +127,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Penny Mordaunt',de,UK,#e838e8,#e838e8,2,0.3563338585206249
 'Wladimir Putin',de,Russland,#e81818,#e81818,3,0.3561939043074576
 'Henry Kissinger',de,USA,#18e8e8,#18e8e8,2,0.3559933651285714
+'Barbara Sturm',de,Deutschland,#1818e8,#1818e8,1,0.3549022579696428
 'Papst Franziskus',de,Vatikan,#58b8e8,#58b8e8,3,0.3510299150028324
 'Nina Gummich',de,Deutschland,#1818e8,#1818e8,1,0.3477403265410714
 'Finnegan Biden',de,USA,#18e8e8,#18e8e8,1,0.3473841006568181
@@ -189,13 +189,13 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Jeffrey Donaldson',de,Irland,#111111,#111111,1,0.2251990019062811
 'Markus Söder',de,Deutschland,#1818e8,#1818e8,3,0.2249247868835967
 'Mateusz Morawiecki',de,Polen,#111111,#111111,3,0.2245577423883679
-'Chip Somodevilla',de,USA,#18e8e8,#18e8e8,1,0.2218526562499999
-'Benjamin Nethanaju',de,Israel,#111111,#111111,1,0.2218526562499999
-'Steve Milloy',de,USA,#18e8e8,#18e8e8,1,0.2218526562499999
-'Mary Lou McDonald',de,Irland,#111111,#111111,1,0.2218526562499999
-'Steven Milloy',de,USA,#18e8e8,#18e8e8,1,0.2218526562499999
 'Megyn Kell',de,USA,#18e8e8,#18e8e8,1,0.2218526562499999
+'Chip Somodevilla',de,USA,#18e8e8,#18e8e8,1,0.2218526562499999
+'Steve Milloy',de,USA,#18e8e8,#18e8e8,1,0.2218526562499999
+'Benjamin Nethanaju',de,Israel,#111111,#111111,1,0.2218526562499999
+'Steven Milloy',de,USA,#18e8e8,#18e8e8,1,0.2218526562499999
 'Raphael Warnock',de,USA,#18e8e8,#18e8e8,1,0.2218526562499999
+'Mary Lou McDonald',de,Irland,#111111,#111111,1,0.2218526562499999
 'Gerhard Schröder',de,Deutschland,#1818e8,#1818e8,3,0.2218338037744111
 'Marco Buschmann',de,Deutschland,#1818e8,#1818e8,3,0.2198613538296954
 'Mike Pence',de,USA,#18e8e8,#18e8e8,3,0.2184257181908278
@@ -377,7 +377,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Amin Nasser',de,SaudiArabien,#111111,#111111,1,0.0972738007140503
 'Igor Setschin',de,Russland,#e81818,#e81818,1,0.0962356603854313
 'Andreas Jödecke',de,Deutschland,#1818e8,#1818e8,1,0.0952087999496758
-'Miguel Díaz-Canel',de,Kuba,#111111,#111111,1,0.09519870211268232
+'Miguel Díaz-Canel',de,Kuba,#111111,#111111,1,0.0951987021126823
 'Generalbundesanwalt Peter Frank',de,Deutschland,#1818e8,#1818e8,1,0.0947607989411315
 'Katalin Novak',de,Ungarn,#111111,#111111,1,0.0846712303252764
 'Larry Page',de,USA,#18e8e8,#18e8e8,1,0.0830624268893745
