@@ -81,7 +81,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Selenskyj',de,Ukraine,#e818e8,#e818e8,3,0.3993334345929163
 'Kim Kardashian',de,USA,#18e8e8,#18e8e8,3,0.3984880265127932
 'Kim Jong Un',de,NordKorea,#e85858,#e85858,3,0.398186481916149
-'Tucker Carlson',de,USA,#18e8e8,#18e8e8,2,0.39775483801208594
+'Tucker Carlson',de,USA,#18e8e8,#18e8e8,2,0.3977548380120859
 'Prinzessin Diana',de,UK,#e838e8,#e838e8,2,0.3974583935454545
 'King Charles',de,UK,#e838e8,#e838e8,3,0.3970044563409091
 'Cem Özdemir',de,Deutschland,#1818e8,#1818e8,3,0.3964042984055596
@@ -189,13 +189,13 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Jeffrey Donaldson',de,Irland,#111111,#111111,1,0.2251990019062811
 'Markus Söder',de,Deutschland,#1818e8,#1818e8,3,0.2249247868835967
 'Mateusz Morawiecki',de,Polen,#111111,#111111,3,0.2245577423883679
-'Mary Lou McDonald',de,Irland,#111111,#111111,1,0.2218526562499999
-'Raphael Warnock',de,USA,#18e8e8,#18e8e8,1,0.2218526562499999
-'Steve Milloy',de,USA,#18e8e8,#18e8e8,1,0.2218526562499999
-'Megyn Kell',de,USA,#18e8e8,#18e8e8,1,0.2218526562499999
-'Steven Milloy',de,USA,#18e8e8,#18e8e8,1,0.2218526562499999
 'Benjamin Nethanaju',de,Israel,#111111,#111111,1,0.2218526562499999
+'Mary Lou McDonald',de,Irland,#111111,#111111,1,0.2218526562499999
+'Steve Milloy',de,USA,#18e8e8,#18e8e8,1,0.2218526562499999
+'Raphael Warnock',de,USA,#18e8e8,#18e8e8,1,0.2218526562499999
+'Steven Milloy',de,USA,#18e8e8,#18e8e8,1,0.2218526562499999
 'Chip Somodevilla',de,USA,#18e8e8,#18e8e8,1,0.2218526562499999
+'Megyn Kell',de,USA,#18e8e8,#18e8e8,1,0.2218526562499999
 'Gerhard Schröder',de,Deutschland,#1818e8,#1818e8,3,0.2218338037744111
 'Marco Buschmann',de,Deutschland,#1818e8,#1818e8,3,0.2198613538296954
 'Mike Pence',de,USA,#18e8e8,#18e8e8,3,0.2184257181908278
@@ -242,7 +242,6 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Tino Chrupalla',de,Deutschland,#1818e8,#1818e8,2,0.1937899845784159
 'Jacinda Ardern',de,Neuseeland,#1818e8,#1818e8,1,0.1936528852271206
 'Björn Höcke',de,Deutschland,#1818e8,#1818e8,1,0.1932045648245208
-'Millie Mackintosh',de,UK,#e838e8,#e838e8,1,0.1929026099412984
 'Vitali Klitschko',de,Ukraine,#e818e8,#e818e8,3,0.1927947062880127
 'Daniel Freund',de,EU,#111111,#111111,3,0.1927152684266351
 'Rafael Grossi',de,UN,#e888e8,#e888e8,3,0.1926627400628053
@@ -306,6 +305,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Roberta Metsola',de,EU,#111111,#111111,1,0.164994776793156
 'Benjamin Netanjahu',de,Israel,#111111,#111111,3,0.1641255470614374
 'Patriarch Kyrill',de,Ukraine,#e818e8,#e818e8,3,0.164120511242103
+'Millie Mackintosh',de,UK,#e838e8,#e838e8,1,0.16411723345010365
 'Steffi Lemke',de,Deutschland,#1818e8,#1818e8,3,0.1629047618873548
 'Alexei Nawalny',de,Russland,#e81818,#e81818,2,0.161669051539228
 'Gautam Adani',de,Indien,#111111,#111111,1,0.1588332001257897
