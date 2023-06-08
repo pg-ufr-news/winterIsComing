@@ -35,7 +35,6 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Queen Elizabeth II',de,UK,#e838e8,#e838e8,3,0.4247986346727272
 'Stormy Daniels',de,USA,#18e8e8,#18e8e8,3,0.4247779199124999
 'Prinz Archie',de,UK,#e838e8,#e838e8,3,0.4244387332700936
-'Prinz William',de,UK,#e838e8,#e838e8,3,0.4240274299045936
 'Prinzessin Kate',de,UK,#e838e8,#e838e8,3,0.4235836575190908
 'Dieter Bohlen',de,Deutschland,#1818e8,#1818e8,3,0.4222920056264772
 'Königin Camilla',de,UK,#e838e8,#e838e8,3,0.4220527489320453
@@ -102,6 +101,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Wolfgang Kubicki',de,Deutschland,#1818e8,#1818e8,3,0.3858334997092045
 'Alvin Bragg',de,USA,#18e8e8,#18e8e8,1,0.3857166378606249
 'King Charles III',de,UK,#e838e8,#e838e8,3,0.384805773425586
+'Prinz William',de,UK,#e838e8,#e838e8,3,0.3835609836007227
 'Christopher Nolan',de,USA,#18e8e8,#18e8e8,2,0.3832601660786789
 'Martin Scorsese',de,USA,#18e8e8,#18e8e8,3,0.3825373909808521
 'Prinz Andrew',de,UK,#e838e8,#e838e8,3,0.3824771077272726
@@ -189,13 +189,13 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Jeffrey Donaldson',de,Irland,#111111,#111111,1,0.2251990019062811
 'Markus Söder',de,Deutschland,#1818e8,#1818e8,3,0.2249247868835967
 'Mateusz Morawiecki',de,Polen,#111111,#111111,3,0.2245577423883679
-'Mary Lou McDonald',de,Irland,#111111,#111111,1,0.2218526562499999
-'Raphael Warnock',de,USA,#18e8e8,#18e8e8,1,0.2218526562499999
-'Steven Milloy',de,USA,#18e8e8,#18e8e8,1,0.2218526562499999
-'Megyn Kell',de,USA,#18e8e8,#18e8e8,1,0.2218526562499999
-'Steve Milloy',de,USA,#18e8e8,#18e8e8,1,0.2218526562499999
 'Benjamin Nethanaju',de,Israel,#111111,#111111,1,0.2218526562499999
+'Mary Lou McDonald',de,Irland,#111111,#111111,1,0.2218526562499999
+'Steven Milloy',de,USA,#18e8e8,#18e8e8,1,0.2218526562499999
+'Raphael Warnock',de,USA,#18e8e8,#18e8e8,1,0.2218526562499999
+'Steve Milloy',de,USA,#18e8e8,#18e8e8,1,0.2218526562499999
 'Chip Somodevilla',de,USA,#18e8e8,#18e8e8,1,0.2218526562499999
+'Megyn Kell',de,USA,#18e8e8,#18e8e8,1,0.2218526562499999
 'Gerhard Schröder',de,Deutschland,#1818e8,#1818e8,3,0.2218338037744111
 'Marco Buschmann',de,Deutschland,#1818e8,#1818e8,3,0.2198613538296954
 'Mike Pence',de,USA,#18e8e8,#18e8e8,3,0.2184257181908278
