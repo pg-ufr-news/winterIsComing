@@ -65,7 +65,6 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Lionel Messi',de,Argentinien,#111111,#111111,3,0.4067700864503571
 'Steven Spielberg',de,USA,#18e8e8,#18e8e8,2,0.4062549809784091
 'Norbert Röttgen',de,Deutschland,#1818e8,#1818e8,3,0.4057484030717423
-'Linda Yaccarino',de,USA,#18e8e8,#18e8e8,3,0.4054636509489801
 'Dmitri Medwedew',de,Russland,#e81818,#e81818,3,0.4053646582272727
 'Ulrich Reitz',de,Deutschland,#1818e8,#1818e8,1,0.4045000747721427
 'Cristiano Ronaldo',de,Portugal,#111111,#111111,3,0.4040480801363635
@@ -91,6 +90,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Lady Gaga',de,USA,#18e8e8,#18e8e8,2,0.3930541669285714
 'Joachim Gauck',de,Deutschland,#1818e8,#1818e8,3,0.3921735950144318
 'George Clooney',de,USA,#18e8e8,#18e8e8,2,0.3910661213624999
+'Linda Yaccarino',de,USA,#18e8e8,#18e8e8,3,0.390505054215724
 'Chris Hipkins',de,Neuseeland,#1818e8,#1818e8,1,0.3900979306208333
 'Kamala Harris',de,USA,#18e8e8,#18e8e8,2,0.39005124575
 'William Shakespeare',de,UK,#e838e8,#e838e8,2,0.3895010160806818
@@ -189,13 +189,13 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Jeffrey Donaldson',de,Irland,#111111,#111111,1,0.2251990019062811
 'Markus Söder',de,Deutschland,#1818e8,#1818e8,3,0.2249247868835967
 'Mateusz Morawiecki',de,Polen,#111111,#111111,3,0.2245577423883679
-'Megyn Kell',de,USA,#18e8e8,#18e8e8,1,0.2218526562499999
-'Chip Somodevilla',de,USA,#18e8e8,#18e8e8,1,0.2218526562499999
-'Steven Milloy',de,USA,#18e8e8,#18e8e8,1,0.2218526562499999
-'Benjamin Nethanaju',de,Israel,#111111,#111111,1,0.2218526562499999
-'Steve Milloy',de,USA,#18e8e8,#18e8e8,1,0.2218526562499999
 'Raphael Warnock',de,USA,#18e8e8,#18e8e8,1,0.2218526562499999
+'Megyn Kell',de,USA,#18e8e8,#18e8e8,1,0.2218526562499999
+'Steven Milloy',de,USA,#18e8e8,#18e8e8,1,0.2218526562499999
+'Chip Somodevilla',de,USA,#18e8e8,#18e8e8,1,0.2218526562499999
+'Steve Milloy',de,USA,#18e8e8,#18e8e8,1,0.2218526562499999
 'Mary Lou McDonald',de,Irland,#111111,#111111,1,0.2218526562499999
+'Benjamin Nethanaju',de,Israel,#111111,#111111,1,0.2218526562499999
 'Gerhard Schröder',de,Deutschland,#1818e8,#1818e8,3,0.2218338037744111
 'Marco Buschmann',de,Deutschland,#1818e8,#1818e8,3,0.2198613538296954
 'Mike Pence',de,USA,#18e8e8,#18e8e8,3,0.2184257181908278
@@ -412,6 +412,6 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Iris Fontbona',de,Chile,#111111,#111111,1,0.0329456014218369
 'Darren Woods',de,USA,#18e8e8,#18e8e8,1,0.0305796892309298
 'Jacqueline Mars',de,USA,#18e8e8,#18e8e8,1,0.0283446346674988
-'Choe Ryong-hae',de,NordKorea,#e85858,#e85858,1,0.02800376120856136
+'Choe Ryong-hae',de,NordKorea,#e85858,#e85858,1,0.0280037612085613
 'Miriam Adelson',de,USA,#18e8e8,#18e8e8,1,0.0242042246260271
 'Bodo Schiffmann',de,Deutschland,#1818e8,#1818e8,1,0.0225115698775455
