@@ -8,7 +8,6 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Rudy Giuliani',de,USA,#18e8e8,#18e8e8,2,0.4310006937499999
 'Georg Gänswein',de,Deutschland,#1818e8,#1818e8,3,0.4308311032312499
 'Kai Wegner',de,Deutschland,#1818e8,#1818e8,3,0.4301841016498294
-'Andreas Jung',de,Deutschland,#1818e8,#1818e8,2,0.4299512299999999
 'Leonardo DiCaprio',de,USA,#18e8e8,#18e8e8,3,0.4287556673863636
 'Bill Clinton',de,USA,#18e8e8,#18e8e8,2,0.4284000118409091
 'Markus Lanz',de,Deutschland,#1818e8,#1818e8,3,0.4269982022325631
@@ -124,6 +123,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Jeffrey Epstein',de,USA,#18e8e8,#18e8e8,2,0.371656304588302
 'Peter Urban',de,Deutschland,#1818e8,#1818e8,3,0.3712181037772727
 'Katja Krasavice',de,Deutschland,#1818e8,#1818e8,2,0.3704495247269317
+'Andreas Jung',de,Deutschland,#1818e8,#1818e8,2,0.3704098054999999
 'Lachlan Murdoch',de,UK,#e838e8,#e838e8,2,0.369764047799375
 'Hillary Clinton',de,USA,#18e8e8,#18e8e8,2,0.3686952654090908
 'Johnny Depp',de,USA,#18e8e8,#18e8e8,2,0.3677629740442045
@@ -197,12 +197,12 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Jeffrey Donaldson',de,Irland,#111111,#111111,1,0.2251990019062811
 'Markus Söder',de,Deutschland,#1818e8,#1818e8,3,0.2249247868835967
 'Mateusz Morawiecki',de,Polen,#111111,#111111,3,0.2245577423883679
-'Mary Lou McDonald',de,Irland,#111111,#111111,1,0.2218526562499999
 'Steve Milloy',de,USA,#18e8e8,#18e8e8,1,0.2218526562499999
+'Mary Lou McDonald',de,Irland,#111111,#111111,1,0.2218526562499999
 'Chip Somodevilla',de,USA,#18e8e8,#18e8e8,1,0.2218526562499999
-'Raphael Warnock',de,USA,#18e8e8,#18e8e8,1,0.2218526562499999
-'Megyn Kell',de,USA,#18e8e8,#18e8e8,1,0.2218526562499999
 'Steven Milloy',de,USA,#18e8e8,#18e8e8,1,0.2218526562499999
+'Megyn Kell',de,USA,#18e8e8,#18e8e8,1,0.2218526562499999
+'Raphael Warnock',de,USA,#18e8e8,#18e8e8,1,0.2218526562499999
 'Gerhard Schröder',de,Deutschland,#1818e8,#1818e8,3,0.2218338037744111
 'Marco Buschmann',de,Deutschland,#1818e8,#1818e8,3,0.2198613538296954
 'Mike Pence',de,USA,#18e8e8,#18e8e8,3,0.2184257181908278
