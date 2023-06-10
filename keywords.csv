@@ -1,5 +1,4 @@
 keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
-'Lula da Silva',de,Brasilien,#58e838,#58e848,3,0.435620111590909
 'Prinz Louis',de,UK,#e838e8,#e838e8,3,0.4354961386309147
 'Prinz Harry',de,UK,#e838e8,#e838e8,3,0.4323776879989553
 'Nadja Abd el Farrag',de,Deutschland,#1818e8,#1818e8,1,0.4322063171802419
@@ -98,6 +97,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Alvin Bragg',de,USA,#18e8e8,#18e8e8,1,0.3857166378606249
 'Adolf Hitler',de,Deutschland,#1818e8,#1818e8,3,0.3856167301125
 'King Charles III',de,UK,#e838e8,#e838e8,3,0.384805773425586
+'Lula da Silva',de,Brasilien,#58e838,#58e848,3,0.38432238394318174
 'Prinz William',de,UK,#e838e8,#e838e8,3,0.3835609836007227
 'Christopher Nolan',de,USA,#18e8e8,#18e8e8,2,0.3832601660786789
 'Peter Tschentscher',de,Deutschland,#1818e8,#1818e8,2,0.3832523500738636
@@ -136,7 +136,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Henry Kissinger',de,USA,#18e8e8,#18e8e8,2,0.3559933651285714
 'Barbara Sturm',de,Deutschland,#1818e8,#1818e8,1,0.3549022579696428
 'Papst Franziskus',de,Vatikan,#58b8e8,#58b8e8,3,0.3510299150028324
-'Herbert Diess',de,Deutschland,#1818e8,#1818e8,2,0.34992933245321145
+'Herbert Diess',de,Deutschland,#1818e8,#1818e8,2,0.3499293324532114
 'Nina Gummich',de,Deutschland,#1818e8,#1818e8,1,0.3477403265410714
 'Finnegan Biden',de,USA,#18e8e8,#18e8e8,1,0.3473841006568181
 'König Charles III',de,UK,#e838e8,#e838e8,3,0.339814490452464
@@ -197,12 +197,12 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Jeffrey Donaldson',de,Irland,#111111,#111111,1,0.2251990019062811
 'Markus Söder',de,Deutschland,#1818e8,#1818e8,3,0.2249247868835967
 'Mateusz Morawiecki',de,Polen,#111111,#111111,3,0.2245577423883679
-'Mary Lou McDonald',de,Irland,#111111,#111111,1,0.2218526562499999
 'Steve Milloy',de,USA,#18e8e8,#18e8e8,1,0.2218526562499999
+'Mary Lou McDonald',de,Irland,#111111,#111111,1,0.2218526562499999
 'Chip Somodevilla',de,USA,#18e8e8,#18e8e8,1,0.2218526562499999
-'Raphael Warnock',de,USA,#18e8e8,#18e8e8,1,0.2218526562499999
-'Megyn Kell',de,USA,#18e8e8,#18e8e8,1,0.2218526562499999
 'Steven Milloy',de,USA,#18e8e8,#18e8e8,1,0.2218526562499999
+'Megyn Kell',de,USA,#18e8e8,#18e8e8,1,0.2218526562499999
+'Raphael Warnock',de,USA,#18e8e8,#18e8e8,1,0.2218526562499999
 'Gerhard Schröder',de,Deutschland,#1818e8,#1818e8,3,0.2218338037744111
 'Marco Buschmann',de,Deutschland,#1818e8,#1818e8,3,0.2198613538296954
 'Mike Pence',de,USA,#18e8e8,#18e8e8,3,0.2184257181908278
