@@ -12,7 +12,6 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Robert Oppenheimer',de,USA,#18e8e8,#18e8e8,1,0.4267157453653846
 'Daniel Penny',de,USA,#18e8e8,#18e8e8,1,0.4262894164166667
 'Marjorie Taylor Greene',de,USA,#18e8e8,#18e8e8,1,0.426020222
-'Michael Walzer',de,USA,#18e8e8,#18e8e8,2,0.42560006
 'Jean-Jacques Rousseau',de,Schweiz,#111111,#111111,2,0.425450045
 'Michael Sandel',de,USA,#18e8e8,#18e8e8,2,0.425150015
 'Lady Di',de,UK,#e838e8,#e838e8,1,0.425000285
@@ -128,6 +127,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Hillary Clinton',de,USA,#18e8e8,#18e8e8,2,0.3686952654090908
 'Johnny Depp',de,USA,#18e8e8,#18e8e8,2,0.3677629740442045
 'Pippa Middleton',de,UK,#e838e8,#e838e8,1,0.3646564429374999
+'Michael Walzer',de,USA,#18e8e8,#18e8e8,1,0.361760111
 'Katy Perry',de,USA,#18e8e8,#18e8e8,3,0.3614742758982953
 'Meg Bellamy',de,UK,#e838e8,#e838e8,2,0.358146731525
 'Penny Mordaunt',de,UK,#e838e8,#e838e8,2,0.3563338585206249
@@ -196,12 +196,12 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Jeffrey Donaldson',de,Irland,#111111,#111111,1,0.2251990019062811
 'Markus Söder',de,Deutschland,#1818e8,#1818e8,3,0.2249247868835967
 'Mateusz Morawiecki',de,Polen,#111111,#111111,3,0.2245577423883679
+'Chip Somodevilla',de,USA,#18e8e8,#18e8e8,1,0.2218526562499999
 'Mary Lou McDonald',de,Irland,#111111,#111111,1,0.2218526562499999
 'Steve Milloy',de,USA,#18e8e8,#18e8e8,1,0.2218526562499999
-'Chip Somodevilla',de,USA,#18e8e8,#18e8e8,1,0.2218526562499999
-'Steven Milloy',de,USA,#18e8e8,#18e8e8,1,0.2218526562499999
 'Megyn Kell',de,USA,#18e8e8,#18e8e8,1,0.2218526562499999
 'Raphael Warnock',de,USA,#18e8e8,#18e8e8,1,0.2218526562499999
+'Steven Milloy',de,USA,#18e8e8,#18e8e8,1,0.2218526562499999
 'Gerhard Schröder',de,Deutschland,#1818e8,#1818e8,3,0.2218338037744111
 'Marco Buschmann',de,Deutschland,#1818e8,#1818e8,3,0.2198613538296954
 'Mike Pence',de,USA,#18e8e8,#18e8e8,3,0.2184257181908278
@@ -240,7 +240,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Tamim Hamad Thani',de,Katar,#111111,#111111,2,0.1953225600778274
 'Luisa Neubauer',de,Deutschland,#1818e8,#1818e8,2,0.1952052945494208
 'Christian Drosten',de,Deutschland,#1818e8,#1818e8,2,0.1947864542230563
-'Michael Cohen',de,USA,#18e8e8,#18e8e8,1,0.19443013346452026
+'Michael Cohen',de,USA,#18e8e8,#18e8e8,1,0.1944301334645202
 'Marine Le Pen',de,Frankreich,#e8e808,#e8e808,2,0.1943198189419446
 'Winfried Kretschmann',de,Deutschland,#1818e8,#1818e8,3,0.1942511417792025
 'Liz Truss',de,UK,#e838e8,#e838e8,2,0.1940257940768495
