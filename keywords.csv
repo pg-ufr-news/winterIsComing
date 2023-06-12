@@ -1,4 +1,5 @@
 keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
+'John Rawls',de,USA,#18e8e8,#18e8e8,2,0.51140002775
 'Prinz Harry',de,UK,#e838e8,#e838e8,3,0.4323776879989553
 'Nadja Abd el Farrag',de,Deutschland,#1818e8,#1818e8,1,0.4322063171802419
 'Lindsey Graham',de,USA,#18e8e8,#18e8e8,2,0.4317735633636363
@@ -16,7 +17,6 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Michael Sandel',de,USA,#18e8e8,#18e8e8,2,0.425150015
 'Lady Di',de,UK,#e838e8,#e838e8,1,0.425000285
 'Immanuel Kant',de,Deutschland,#1818e8,#1818e8,1,0.425000165
-'John Rawls',de,USA,#18e8e8,#18e8e8,1,0.425000015
 'Robert Nozick',de,USA,#18e8e8,#18e8e8,1,0.425
 'Queen Elizabeth II',de,UK,#e838e8,#e838e8,3,0.4247986346727272
 'Stormy Daniels',de,USA,#18e8e8,#18e8e8,3,0.4247779199124999
@@ -196,12 +196,12 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Jeffrey Donaldson',de,Irland,#111111,#111111,1,0.2251990019062811
 'Markus Söder',de,Deutschland,#1818e8,#1818e8,3,0.2249247868835967
 'Mateusz Morawiecki',de,Polen,#111111,#111111,3,0.2245577423883679
+'Mary Lou McDonald',de,Irland,#111111,#111111,1,0.2218526562499999
 'Steve Milloy',de,USA,#18e8e8,#18e8e8,1,0.2218526562499999
 'Chip Somodevilla',de,USA,#18e8e8,#18e8e8,1,0.2218526562499999
-'Mary Lou McDonald',de,Irland,#111111,#111111,1,0.2218526562499999
-'Raphael Warnock',de,USA,#18e8e8,#18e8e8,1,0.2218526562499999
 'Steven Milloy',de,USA,#18e8e8,#18e8e8,1,0.2218526562499999
 'Megyn Kell',de,USA,#18e8e8,#18e8e8,1,0.2218526562499999
+'Raphael Warnock',de,USA,#18e8e8,#18e8e8,1,0.2218526562499999
 'Gerhard Schröder',de,Deutschland,#1818e8,#1818e8,3,0.2218338037744111
 'Marco Buschmann',de,Deutschland,#1818e8,#1818e8,3,0.2198613538296954
 'Mike Pence',de,USA,#18e8e8,#18e8e8,3,0.2184257181908278
@@ -345,7 +345,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Robin Li',de,China,#e88818,#e88818,1,0.1328455654173694
 'Sundar Pichai',de,USA,#18e8e8,#18e8e8,2,0.1317890543879531
 'Alexej Kudrin',de,Russland,#e81818,#e81818,1,0.131633927891866
-'Subrahmanyam Jaishankar',de,Indien,#111111,#111111,1,0.13151215284148574
+'Subrahmanyam Jaishankar',de,Indien,#111111,#111111,1,0.1315121528414857
 'Jair Lapid',de,Israel,#111111,#111111,2,0.1314845540906851
 'Julian Assange',de,Australien,#111111,#111111,1,0.1304932469453604
 'Sucharit Bhakdi',de,Deutschland,#1818e8,#1818e8,3,0.1301048636771233
