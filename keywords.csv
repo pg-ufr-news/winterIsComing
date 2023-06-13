@@ -62,7 +62,6 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'King Charles',de,UK,#e838e8,#e838e8,3,0.3970044563409091
 'Cem Özdemir',de,Deutschland,#1818e8,#1818e8,3,0.3964042984055596
 'Rudolf Steiner',de,Oesterreich,#111111,#111111,1,0.395632577175
-'Lindsey Graham',de,USA,#18e8e8,#18e8e8,3,0.3946860615863636
 'Andrew Tate',de,USA,#18e8e8,#18e8e8,2,0.394676275505
 'Nikki Haley',de,USA,#18e8e8,#18e8e8,3,0.3944918674021481
 'Konrad Adenauer',de,Deutschland,#1818e8,#1818e8,3,0.3934379535112499
@@ -127,7 +126,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Jean-Jacques Rousseau',de,Schweiz,#111111,#111111,1,0.3616325682499999
 'Katy Perry',de,USA,#18e8e8,#18e8e8,3,0.3614742758982953
 'Michael Sandel',de,USA,#18e8e8,#18e8e8,1,0.36137752775
-'Robert Nozick',de,USA,#18e8e8,#18e8e8,1,0.36124999999999996
+'Robert Nozick',de,USA,#18e8e8,#18e8e8,1,0.3612499999999999
 'Meg Bellamy',de,UK,#e838e8,#e838e8,2,0.358146731525
 'Penny Mordaunt',de,UK,#e838e8,#e838e8,2,0.3563338585206249
 'Wladimir Putin',de,Russland,#e81818,#e81818,3,0.3561939043074576
@@ -141,6 +140,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Jack Teixeira',de,USA,#18e8e8,#18e8e8,3,0.3490973414270057
 'Nina Gummich',de,Deutschland,#1818e8,#1818e8,1,0.3477403265410714
 'Finnegan Biden',de,USA,#18e8e8,#18e8e8,1,0.3473841006568181
+'Lindsey Graham',de,USA,#18e8e8,#18e8e8,3,0.34497986689386356
 'König Charles III',de,UK,#e838e8,#e838e8,3,0.339814490452464
 'Jean Carroll',de,USA,#18e8e8,#18e8e8,2,0.33829535119902
 'Geoffrey Hinton',de,UK,#e838e8,#e838e8,3,0.3381354264958989
@@ -198,11 +198,11 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Jeffrey Donaldson',de,Irland,#111111,#111111,1,0.2251990019062811
 'Markus Söder',de,Deutschland,#1818e8,#1818e8,3,0.2249247868835967
 'Mateusz Morawiecki',de,Polen,#111111,#111111,3,0.2245577423883679
-'Steve Milloy',de,USA,#18e8e8,#18e8e8,1,0.2218526562499999
-'Megyn Kell',de,USA,#18e8e8,#18e8e8,1,0.2218526562499999
 'Steven Milloy',de,USA,#18e8e8,#18e8e8,1,0.2218526562499999
-'Mary Lou McDonald',de,Irland,#111111,#111111,1,0.2218526562499999
+'Steve Milloy',de,USA,#18e8e8,#18e8e8,1,0.2218526562499999
 'Raphael Warnock',de,USA,#18e8e8,#18e8e8,1,0.2218526562499999
+'Megyn Kell',de,USA,#18e8e8,#18e8e8,1,0.2218526562499999
+'Mary Lou McDonald',de,Irland,#111111,#111111,1,0.2218526562499999
 'Gerhard Schröder',de,Deutschland,#1818e8,#1818e8,3,0.2218338037744111
 'Marco Buschmann',de,Deutschland,#1818e8,#1818e8,3,0.2198613538296954
 'Mike Pence',de,USA,#18e8e8,#18e8e8,3,0.2184257181908278
