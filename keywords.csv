@@ -1,4 +1,5 @@
 keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
+'Marine Le Pen',de,Frankreich,#e8e808,#e8e808,2,0.5
 'Gérald Darmanin',de,Frankreich,#e8e808,#e8e808,2,0.5
 'Aurélien Pradié',de,Frankreich,#e8e808,#e8e808,2,0.5
 'Bruno Retailleau',de,Frankreich,#e8e808,#e8e808,2,0.5
@@ -10,7 +11,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Eric Ciotti',de,Frankreich,#e8e808,#e8e808,2,0.5
 'Élisabeth Borne',de,Frankreich,#e8e808,#e8e808,2,0.5
 'Éric Ciotti',de,Frankreich,#e8e808,#e8e808,2,0.5
-'Sam Altman',de,USA,#18e8e8,#18e8e8,3,0.46268604202272723
+'Sam Altman',de,USA,#18e8e8,#18e8e8,3,0.4626860420227272
 'Camille Etienne',de,Frankreich,#e8e808,#e8e808,1,0.425
 'Queen Elizabeth II',de,UK,#e838e8,#e838e8,3,0.4247986346727272
 'Stormy Daniels',de,USA,#18e8e8,#18e8e8,3,0.4247779199124999
@@ -382,7 +383,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Joana Cotar',de,Deutschland,#1818e8,#1818e8,1,0.0999830104547978
 'Patrick Pouyanné',de,Frankreich,#e8e808,#e8e808,1,0.0990301191311935
 'Lula sa Silva',de,Brasilien,#58e838,#58e838,1,0.0986431858026779
-'Lee Hsien Loong',de,Singapur,#111111,#111111,1,0.0981879794530431
+'Lee Hsien Loong',de,Singapur,#111111,#111111,1,0.098187979453043
 'Ebrahim Raisi',de,Iran,#111111,#111111,1,0.0973027256333634
 'Igor Setschin',de,Russland,#e81818,#e81818,1,0.0962356603854313
 'Miguel Díaz-Canel',de,Kuba,#111111,#111111,1,0.0951987021126823
