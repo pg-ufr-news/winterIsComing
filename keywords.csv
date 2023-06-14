@@ -189,7 +189,6 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Paul Ronzheimer',de,Deutschland,#1818e8,#1818e8,2,0.2536225570339593
 'Warren Buffett',de,USA,#18e8e8,#18e8e8,3,0.2506326729956694
 'Tamim bin Hamad Al Thani',de,Katar,#111111,#111111,3,0.2505397764334006
-'Julian Reichelt',de,Deutschland,#1818e8,#1818e8,3,0.2457992288283137
 'Wolodymyr Selenski',de,Ukraine,#e818e8,#e818e8,3,0.2439872043011605
 'Ursula von der Leyen',de,EU,#111111,#111111,3,0.2412793076076889
 'Werner von Braun',de,Deutschland,#1818e8,#1818e8,1,0.2409120176627811
@@ -224,6 +223,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Sandra Maischberger',de,Deutschland,#1818e8,#1818e8,2,0.2116071361922318
 'Xi Jinping',de,China,#e88818,#e88818,3,0.2109909185156437
 'Ed McVey',de,UK,#e838e8,#e838e8,1,0.2091052089290406
+'Julian Reichelt',de,Deutschland,#1818e8,#1818e8,2,0.20893030450406663
 'Ola Källenius',de,Deutschland,#1818e8,#1818e8,2,0.2079684294467748
 'Gérard Biard',de,Frankreich,#e8e808,#e8e808,1,0.2074322335937499
 'Herschel Walker',de,USA,#18e8e8,#18e8e8,1,0.2074322335937499
@@ -285,10 +285,10 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Oliver Blume',de,Deutschland,#1818e8,#1818e8,3,0.189021618034757
 'Chip Somodevilla',de,USA,#18e8e8,#18e8e8,1,0.1887247728124999
 'Martin Sonneborn',de,Deutschland,#1818e8,#1818e8,1,0.188700166797016
-'Michelle Neill',de,Irland,#111111,#111111,1,0.1885747578124999
-'Edir Macedo',de,Brasilien,#58e838,#58e848,1,0.1885747578124999
 'Mary Lou McDonald',de,Irland,#111111,#111111,1,0.1885747578124999
 'Steve Milloy',de,USA,#18e8e8,#18e8e8,1,0.1885747578124999
+'Edir Macedo',de,Brasilien,#58e838,#58e848,1,0.1885747578124999
+'Michelle Neill',de,Irland,#111111,#111111,1,0.1885747578124999
 'Fumio Kishida',de,Japan,#111111,#111111,3,0.1870351350228879
 'Cyril Ramaphosa',de,Südafrika,#111111,#111111,2,0.1859521437475834
 'Lukaschenko',de,Belarus,#e81858,#e81858,3,0.1837074882022694
@@ -372,8 +372,8 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Alberto Ángel Fernández',de,Argentinien,#111111,#111111,1,0.1155569800506883
 'Nikos Androulakis',de,Griechenland,#1858e8,#1858e8,2,0.1135535340121011
 'Alexej Kudrin',de,Russland,#e81818,#e81818,1,0.1118888387080861
-'Milo Yiannopoulos',de,UK,#e838e8,#e838e8,1,0.1082809223873972
 'Daniel Dillmann',de,Deutschland,#1818e8,#1818e8,1,0.1082809223873972
+'Milo Yiannopoulos',de,UK,#e838e8,#e838e8,1,0.1082809223873972
 'Scott Morrison',de,Australien,#111111,#111111,1,0.106821806985699
 'Badri Hosseini Chamenei',de,Iran,#111111,#111111,1,0.1058051268146652
 'Yanis Varoufakis',de,Griechenland,#1858e8,#1858e8,1,0.1021052404744678
