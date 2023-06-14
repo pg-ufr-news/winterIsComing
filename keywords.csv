@@ -1,5 +1,4 @@
 keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
-'Bruno Le Maire',de,Frankreich,#e8e808,#e8e808,1,0.42500045
 'Éric Ciotti',de,Frankreich,#e8e808,#e8e808,1,0.42500003
 'Aurélien Pradié',de,Frankreich,#e8e808,#e8e808,1,0.425
 'Camille Etienne',de,Frankreich,#e8e808,#e8e808,1,0.425
@@ -123,6 +122,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Johnny Depp',de,USA,#18e8e8,#18e8e8,2,0.3677629740442045
 'Rudy Giuliani',de,USA,#18e8e8,#18e8e8,1,0.3663509646874999
 'Georg Gänswein',de,Deutschland,#1818e8,#1818e8,2,0.3662069177465624
+'Bruno Le Maire',de,Frankreich,#e8e808,#e8e808,2,0.36560081749999995
 'Pippa Middleton',de,UK,#e838e8,#e838e8,1,0.3646564429374999
 'Robert Oppenheimer',de,USA,#18e8e8,#18e8e8,1,0.3642085335605768
 'Daniel Penny',de,USA,#18e8e8,#18e8e8,1,0.3636961389541666
@@ -372,7 +372,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Daniel Dillmann',de,Deutschland,#1818e8,#1818e8,1,0.1082809223873972
 'Macky Sall',de,Senegal,#111111,#111111,1,0.1076129404000597
 'Badri Hosseini Chamenei',de,Iran,#111111,#111111,1,0.1058051268146652
-'Schellnhuber',de,Deutschland,#1818e8,#1818e8,2,0.10333303988126065
+'Schellnhuber',de,Deutschland,#1818e8,#1818e8,2,0.1033330398812606
 'Yanis Varoufakis',de,Griechenland,#1858e8,#1858e8,1,0.1021052404744678
 'John Roberts',de,USA,#18e8e8,#18e8e8,1,0.1021015110570718
 'Andrew Forrest',de,Australien,#111111,#111111,1,0.1020853997308311
