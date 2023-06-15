@@ -60,7 +60,6 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Tucker Carlson',de,USA,#18e8e8,#18e8e8,2,0.3977548380120859
 'King Charles',de,UK,#e838e8,#e838e8,3,0.3970044563409091
 'Cem Özdemir',de,Deutschland,#1818e8,#1818e8,3,0.3964042984055596
-'Lady Di',de,UK,#e838e8,#e838e8,1,0.3959337105833332
 'Selenskyj',de,Ukraine,#e818e8,#e818e8,3,0.3958073239376742
 'Rudolf Steiner',de,Oesterreich,#111111,#111111,1,0.395632577175
 'Markus Lanz',de,Deutschland,#1818e8,#1818e8,3,0.3951734341704058
@@ -122,7 +121,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Johnny Depp',de,USA,#18e8e8,#18e8e8,2,0.3677629740442045
 'Rudy Giuliani',de,USA,#18e8e8,#18e8e8,1,0.3663509646874999
 'Georg Gänswein',de,Deutschland,#1818e8,#1818e8,2,0.3662069177465624
-'Bruno Le Maire',de,Frankreich,#e8e808,#e8e808,2,0.36560081749999995
+'Bruno Le Maire',de,Frankreich,#e8e808,#e8e808,2,0.3656008174999999
 'Pippa Middleton',de,UK,#e838e8,#e838e8,1,0.3646564429374999
 'Robert Oppenheimer',de,USA,#18e8e8,#18e8e8,1,0.3642085335605768
 'Daniel Penny',de,USA,#18e8e8,#18e8e8,1,0.3636961389541666
@@ -149,6 +148,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Jean Carroll',de,USA,#18e8e8,#18e8e8,2,0.33829535119902
 'Geoffrey Hinton',de,UK,#e838e8,#e838e8,3,0.3381354264958989
 'Andreas Jung',de,Deutschland,#1818e8,#1818e8,3,0.3379812928568181
+'Lady Di',de,UK,#e838e8,#e838e8,1,0.3377437739958332
 'King Charles III',de,UK,#e838e8,#e838e8,3,0.3372034192299298
 'Ron DeSantis',de,USA,#18e8e8,#18e8e8,3,0.335952659677906
 'William Shakespeare',de,UK,#e838e8,#e838e8,2,0.3340761636685795
