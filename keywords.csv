@@ -63,7 +63,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Markus Lanz',de,Deutschland,#1818e8,#1818e8,3,0.3951734341704058
 'Andrew Tate',de,USA,#18e8e8,#18e8e8,2,0.394676275505
 'Nikki Haley',de,USA,#18e8e8,#18e8e8,3,0.3944918674021481
-'Kim Jong Un',de,NordKorea,#e85858,#e85858,3,0.39341020462872667
+'Kim Jong Un',de,NordKorea,#e85858,#e85858,3,0.3934102046287266
 'Helmut Kohl',de,Deutschland,#1818e8,#1818e8,3,0.3932196464946021
 'Lady Gaga',de,USA,#18e8e8,#18e8e8,2,0.3930541669285714
 'Joachim Gauck',de,Deutschland,#1818e8,#1818e8,3,0.3921735950144318
@@ -324,7 +324,6 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Michelle Neill',de,Irland,#111111,#111111,1,0.1602885441406249
 'Steve Milloy',de,USA,#18e8e8,#18e8e8,1,0.1602885441406249
 'Benjamin Nethanaju',de,Israel,#111111,#111111,1,0.1602885441406249
-'Mary Lou McDonald',de,Irland,#111111,#111111,1,0.1602885441406249
 'Andreas Baum',de,Deutschland,#1818e8,#1818e8,1,0.1584502875557973
 'Alice Schwarzer',de,Deutschland,#1818e8,#1818e8,2,0.1576527794525236
 'Larry Ellison',de,USA,#18e8e8,#18e8e8,1,0.1550774796114642
@@ -349,6 +348,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Erik Marquardt',de,EU,#111111,#111111,1,0.1380198150278046
 'Barbara Walters',de,USA,#18e8e8,#18e8e8,1,0.1369062889485645
 'Nick Fuentes',de,USA,#18e8e8,#18e8e8,1,0.1367902435696092
+'Mary Lou McDonald',de,Irland,#111111,#111111,1,0.13624526251953117
 'Raphael Warnock',de,USA,#18e8e8,#18e8e8,1,0.1362452625195311
 'Steven Milloy',de,USA,#18e8e8,#18e8e8,1,0.1362452625195311
 'Sundar Pichai',de,USA,#18e8e8,#18e8e8,2,0.1317890543879531
