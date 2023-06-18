@@ -4,7 +4,6 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Kemal Kılıçdaroğlu',de,Türkei,#111111,#111111,2,0.48575057
 'Tina Turner',de,USA,#18e8e8,#18e8e8,3,0.4845005695454545
 'Karim Benzema',de,Frankreich,#e8e808,#e8e808,3,0.4754073804545454
-'Rosalynn Carter',de,USA,#18e8e8,#18e8e8,1,0.425000045
 'Leon Botstein',de,USA,#18e8e8,#18e8e8,1,0.425
 'Camille Etienne',de,Frankreich,#e8e808,#e8e808,1,0.425
 'Queen Elizabeth II',de,UK,#e838e8,#e838e8,3,0.4247986346727272
@@ -126,6 +125,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Robert Oppenheimer',de,USA,#18e8e8,#18e8e8,1,0.3642085335605768
 'Daniel Penny',de,USA,#18e8e8,#18e8e8,1,0.3636961389541666
 'Marjorie Taylor Greene',de,USA,#18e8e8,#18e8e8,1,0.3624172187
+'Rosalynn Carter',de,USA,#18e8e8,#18e8e8,1,0.36170008324999997
 'Éric Ciotti',de,Frankreich,#e8e808,#e8e808,1,0.3615500554999999
 'Katy Perry',de,USA,#18e8e8,#18e8e8,3,0.3614742758982953
 'Aurélien Pradié',de,Frankreich,#e8e808,#e8e808,1,0.3612499999999999
@@ -404,7 +404,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Joko Widodo',de,Indonesien,#111111,#111111,1,0.0797800874736819
 'Otmar Issing',de,EU,#111111,#111111,1,0.0794324186999218
 'Jürgen Grässlin',de,Deutschland,#1818e8,#1818e8,1,0.0785025525495503
-'Yanis Varoufakis',de,Griechenland,#1858e8,#1858e8,1,0.07778393749280296
+'Yanis Varoufakis',de,Griechenland,#1858e8,#1858e8,1,0.0777839374928029
 'Scott Morrison',de,Australien,#111111,#111111,1,0.0774562832971674
 'Tamim bin Hamad Al-Thani',de,Katar,#111111,#111111,2,0.0773043491664048
 'Muhammad bin Zayid Al Nahyan',de,VAE,#111111,#111111,1,0.0770078797197197
