@@ -2,19 +2,19 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Malu Dreyer',de,Deutschland,#1818e8,#1818e8,2,0.55450045
 'Markus Wipperfürth',de,Deutschland,#1818e8,#1818e8,2,0.510150015
 'Missy Motown',de,Deutschland,#1818e8,#1818e8,2,0.510150015
+'Robert de Niro',de,USA,#18e8e8,#18e8e8,2,0.5
 'Tim Scott',de,USA,#18e8e8,#18e8e8,2,0.5
-'Steve Wozniak',de,USA,#18e8e8,#18e8e8,2,0.5
 'Ayatollah Chamenei',de,Iran,#111111,#111111,2,0.5
 'Mohammed Bin Salman',de,SaudiArabien,#111111,#111111,2,0.5
 'Kemal Kiliçdaroglu',de,Türkei,#111111,#111111,2,0.5
 'Kemal Klçdarolu',de,Türkei,#111111,#111111,2,0.5
-'John Paul II',de,Vatikan,#58b8e8,#58b8e8,2,0.5
+'Steve Wozniak',de,USA,#18e8e8,#18e8e8,2,0.5
 'Robert De Niro',de,USA,#18e8e8,#18e8e8,2,0.5
 'Andreas Ellermann',de,Deutschland,#1818e8,#1818e8,2,0.5
 'Jeanne du Barry',de,Frankreich,#e8e808,#e8e808,2,0.5
 'Jamie Dimon',de,USA,#18e8e8,#18e8e8,2,0.5
-'Robert de Niro',de,USA,#18e8e8,#18e8e8,2,0.5
 'Axel Springer',de,Deutschland,#1818e8,#1818e8,2,0.5
+'John Paul II',de,Vatikan,#58b8e8,#58b8e8,2,0.5
 'Karim Benzema',de,Frankreich,#e8e808,#e8e808,3,0.454503503840909
 'Queen Elizabeth II',de,UK,#e838e8,#e838e8,3,0.4247986346727272
 'Stormy Daniels',de,USA,#18e8e8,#18e8e8,3,0.4247779199124999
@@ -330,7 +330,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Andrea Lindholz',de,Deutschland,#1818e8,#1818e8,2,0.1715984894181786
 'Justin Trudeau',de,Kanada,#111111,#111111,3,0.1715884061962994
 'Thierry Breton',de,EU,#111111,#111111,2,0.1707289014687776
-'Bruno Kahl',de,Deutschland,#1818e8,#1818e8,2,0.16910460624045973
+'Bruno Kahl',de,Deutschland,#1818e8,#1818e8,2,0.1691046062404597
 'Bill Gates',de,USA,#18e8e8,#18e8e8,3,0.1690003963534724
 'Karl Nehammer',de,Oesterreich,#111111,#111111,3,0.1679352831748479
 'Christine Lagarde',de,EU,#111111,#111111,3,0.1673524284627061
@@ -423,6 +423,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Jitzchak Herzog',de,Israel,#111111,#111111,1,0.0757310617043459
 'Jochen Thewes',de,Deutschland,#1818e8,#1818e8,1,0.0747268732488106
 'Klaus Hasselmann',de,Deutschland,#1818e8,#1818e8,1,0.0744417192864673
+'Bartholomäus',de,Türkei,#111111,#111111,1,0.0742829173557677
 'Ayatollah Ali Chamenei',de,Iran,#111111,#111111,1,0.073370517173064
 'Frank Bainimarama',de,Fidschi,#111111,#111111,1,0.0729372324530693
 'Lula sa Silva',de,Brasilien,#58e838,#58e838,1,0.0712697017424347
@@ -434,7 +435,6 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Tamim bin Hamad Al-Thani',de,Katar,#111111,#111111,1,0.065709176791444
 'Philipp Wolff',de,Deutschland,#1818e8,#1818e8,1,0.0654199081845615
 'Carola Rackete',de,Deutschland,#1818e8,#1818e8,1,0.063660438501002
-'Bartholomäus',de,Türkei,#111111,#111111,1,0.0609461657967015
 'Michael Kahle',de,Deutschland,#1818e8,#1818e8,1,0.0515684231508561
 'Doris König',de,Deutschland,#1818e8,#1818e8,1,0.0514723384068954
 'Barbara Frenkel',de,Deutschland,#1818e8,#1818e8,1,0.050900893255
