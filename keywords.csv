@@ -3,7 +3,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Kemal Kılıçdaroğlu',de,Türkei,#111111,#111111,2,0.48575057
 'Tina Turner',de,USA,#18e8e8,#18e8e8,3,0.4845005695454545
 'Karim Benzema',de,Frankreich,#e8e808,#e8e808,3,0.4754073804545454
-'Selenskyj',de,Ukraine,#e818e8,#e818e8,3,0.45506347898338667
+'Selenskyj',de,Ukraine,#e818e8,#e818e8,3,0.4550634789833866
 'Pete Davidson',de,USA,#18e8e8,#18e8e8,1,0.425000225
 'Leon Botstein',de,USA,#18e8e8,#18e8e8,1,0.425
 'Camille Etienne',de,Frankreich,#e8e808,#e8e808,1,0.425
@@ -16,7 +16,6 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Jens Spahn',de,Deutschland,#1818e8,#1818e8,3,0.4217988603795453
 'Mathias Döpfner',de,Deutschland,#1818e8,#1818e8,3,0.420827078987855
 'Bruce Springsteen',de,USA,#18e8e8,#18e8e8,2,0.4207163602448295
-'Peter Thiel',de,USA,#18e8e8,#18e8e8,2,0.4206733031136364
 'Ramsan Kadyrow',de,Russland,#e81818,#e81818,3,0.419501184090909
 'Le Pen',de,Frankreich,#e8e808,#e8e808,2,0.4183006749999999
 'Königin Camilla',de,UK,#e838e8,#e838e8,3,0.418241986137693
@@ -82,6 +81,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Prinz William',de,UK,#e838e8,#e838e8,3,0.3835609836007227
 'Christopher Nolan',de,USA,#18e8e8,#18e8e8,2,0.3832601660786789
 'Prinz George',de,UK,#e838e8,#e838e8,2,0.3827385336954545
+'Peter Thiel',de,USA,#18e8e8,#18e8e8,2,0.382599920723514
 'Martin Scorsese',de,USA,#18e8e8,#18e8e8,3,0.3825373909808521
 'Sam Altman',de,USA,#18e8e8,#18e8e8,3,0.382090328747784
 'George Washington',de,USA,#18e8e8,#18e8e8,3,0.3820464883068181
