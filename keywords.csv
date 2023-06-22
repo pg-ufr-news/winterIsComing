@@ -22,7 +22,6 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Berkshire Hathaway',de,USA,#18e8e8,#18e8e8,2,0.4190960650454545
 'Königin Camilla',de,UK,#e838e8,#e838e8,3,0.418241986137693
 'Prince Charles',de,UK,#e838e8,#e838e8,3,0.4179498076011362
-'Jordan Neely',de,USA,#18e8e8,#18e8e8,1,0.417678245642857
 'Marine Le Pen',de,Frankreich,#e8e808,#e8e808,2,0.417100555
 'Tina Turner',de,USA,#18e8e8,#18e8e8,3,0.4167806141136363
 'Kai Wegner',de,Deutschland,#1818e8,#1818e8,3,0.4160653668569004
@@ -136,6 +135,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Albert Einstein',de,Deutschland,#1818e8,#1818e8,3,0.3561333688079544
 'Henry Kissinger',de,USA,#18e8e8,#18e8e8,2,0.3559933651285714
 'Stefan Aust',de,Deutschland,#1818e8,#1818e8,1,0.3550497430499999
+'Jordan Neely',de,USA,#18e8e8,#18e8e8,1,0.35502650879642844
 'Barbara Sturm',de,Deutschland,#1818e8,#1818e8,1,0.3549022579696428
 'Norbert Röttgen',de,Deutschland,#1818e8,#1818e8,3,0.3543823621564355
 'Boris Johnson',de,UK,#e838e8,#e838e8,3,0.3539527090907328
@@ -198,7 +198,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Ted Cruz',de,USA,#18e8e8,#18e8e8,1,0.3011186825843749
 'Barack Obama',de,USA,#18e8e8,#18e8e8,3,0.2996641882250379
 'Winston Churchill',de,UK,#e838e8,#e838e8,2,0.2984873633406154
-'Kemal Klçdarolu',de,Türkei,#111111,#111111,3,0.28627869066551126
+'Kemal Klçdarolu',de,Türkei,#111111,#111111,3,0.2862786906655112
 'Christian Lindner',de,Deutschland,#1818e8,#1818e8,3,0.2846494974145291
 'Kevin Kühnert',de,Deutschland,#1818e8,#1818e8,3,0.2837933503516328
 'Stefan Rahmstorf',de,Deutschland,#1818e8,#1818e8,2,0.2829869333454397
