@@ -130,11 +130,11 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Éric Ciotti',de,Frankreich,#e8e808,#e8e808,1,0.3615500554999999
 'John Paul II',de,Vatikan,#58b8e8,#58b8e8,1,0.3615050554999999
 'Katy Perry',de,USA,#18e8e8,#18e8e8,3,0.3614742758982953
-'Camille Etienne',de,Frankreich,#e8e808,#e8e808,1,0.3612499999999999
-'Thomas Bayes',de,UK,#e838e8,#e838e8,1,0.3612499999999999
 'Kemal Kiliçdaroglu',de,Türkei,#111111,#111111,1,0.3612499999999999
-'Leon Botstein',de,USA,#18e8e8,#18e8e8,1,0.3612499999999999
 'Dorothée Pacaud',de,Frankreich,#e8e808,#e8e808,1,0.3612499999999999
+'Leon Botstein',de,USA,#18e8e8,#18e8e8,1,0.3612499999999999
+'Thomas Bayes',de,UK,#e838e8,#e838e8,1,0.3612499999999999
+'Camille Etienne',de,Frankreich,#e8e808,#e8e808,1,0.3612499999999999
 'Henry Ford',de,USA,#18e8e8,#18e8e8,2,0.3606879322925437
 'Martin Luther King',de,USA,#18e8e8,#18e8e8,1,0.3587306697431818
 'Leonardo DiCaprio',de,USA,#18e8e8,#18e8e8,3,0.3582551360048295
@@ -148,6 +148,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Stefan Aust',de,Deutschland,#1818e8,#1818e8,1,0.3550497430499999
 'Barbara Sturm',de,Deutschland,#1818e8,#1818e8,1,0.3549022579696428
 'Norbert Röttgen',de,Deutschland,#1818e8,#1818e8,3,0.3543823621564355
+'Boris Johnson',de,UK,#e838e8,#e838e8,3,0.35395270909073284
 'Konrad Adenauer',de,Deutschland,#1818e8,#1818e8,3,0.353010139120926
 'Prinz Andrew',de,UK,#e838e8,#e838e8,3,0.3514093522420453
 'George Floyd',de,USA,#18e8e8,#18e8e8,2,0.3512483837249999
@@ -199,7 +200,6 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Ted Cruz',de,USA,#18e8e8,#18e8e8,1,0.3011186825843749
 'Barack Obama',de,USA,#18e8e8,#18e8e8,3,0.2996641882250379
 'Winston Churchill',de,UK,#e838e8,#e838e8,2,0.2984873633406154
-'Boris Johnson',de,UK,#e838e8,#e838e8,3,0.2982865219249264
 'Christian Lindner',de,Deutschland,#1818e8,#1818e8,3,0.2846494974145291
 'Kevin Kühnert',de,Deutschland,#1818e8,#1818e8,3,0.2837933503516328
 'Stefan Rahmstorf',de,Deutschland,#1818e8,#1818e8,2,0.2829869333454397
@@ -439,7 +439,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Lee Hsien Loong',de,Singapur,#111111,#111111,1,0.0709408151548235
 'Amin Nasser',de,SaudiArabien,#111111,#111111,1,0.0705578487659013
 'Joko Widodo',de,Indonesien,#111111,#111111,1,0.0703633293526296
-'Igor Setschin',de,Russland,#e81818,#e81818,1,0.06953026462847411
+'Igor Setschin',de,Russland,#e81818,#e81818,1,0.0695302646284741
 'Generalbundesanwalt Peter Frank',de,Deutschland,#1818e8,#1818e8,1,0.0692972604849674
 'Andreas Jödecke',de,Deutschland,#1818e8,#1818e8,1,0.0687883579636407
 'Yanis Varoufakis',de,Griechenland,#1858e8,#1858e8,1,0.0682165568688824
