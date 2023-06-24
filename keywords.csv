@@ -409,6 +409,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Nikos Androulakis',de,Griechenland,#1858e8,#1858e8,2,0.1135535340121011
 'Alexej Kudrin',de,Russland,#e81818,#e81818,1,0.1118888387080861
 'Mahmud Abbas',de,Palistina,#111111,#111111,1,0.10759377325492
+'Miguel Díaz-Canel',de,Kuba,#111111,#111111,1,0.10713614777641292
 'Larry Page',de,USA,#18e8e8,#18e8e8,1,0.1052865311893016
 'Jeffrey Donaldson',de,Irland,#111111,#111111,1,0.1038164457342955
 'Schellnhuber',de,Deutschland,#1818e8,#1818e8,2,0.1033330398812606
@@ -429,7 +430,6 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Millie Mackintosh',de,UK,#e838e8,#e838e8,1,0.085870735393038
 'Patrick Pouyanné',de,Frankreich,#e8e808,#e8e808,1,0.0853757212615144
 'Daniel Zhang',de,China,#e88818,#e88818,1,0.083152075283367
-'Miguel Díaz-Canel',de,Kuba,#111111,#111111,1,0.0812189267957799
 'Otmar Issing',de,EU,#111111,#111111,1,0.0794324186999218
 'Scott Morrison',de,Australien,#111111,#111111,1,0.0774562832971674
 'Muhammad bin Zayid Al Nahyan',de,VAE,#111111,#111111,1,0.0770078797197197
@@ -469,8 +469,8 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Amin H. Nasser',de,SaudiArabien,#111111,#111111,1,0.040147483378486
 'Dimitry Peskov',de,Russland,#e81818,#e81818,1,0.0389864686722625
 'Yang Huiyan',de,China,#e88818,#e88818,1,0.0387838874121194
-'Gina Rinehart',de,Australien,#111111,#111111,1,0.0387595310845141
 'Sergei Ignatjew',de,Russland,#e81818,#e81818,1,0.0387595310845141
+'Gina Rinehart',de,Australien,#111111,#111111,1,0.0387595310845141
 'Dmitry Peskov',de,Russland,#e81818,#e81818,1,0.0386734294753883
 'Valery Gerasimov',de,Russland,#e81818,#e81818,1,0.0363220805654022
 'Thomas Dörflinger',de,Deutschland,#1818e8,#1818e8,1,0.0354533577480631
