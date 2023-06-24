@@ -1,8 +1,8 @@
 keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Oisin Fanning',de,Irland,#111111,#111111,2,0.5
+'Jan Lipavský',de,Tschechien,#111111,#111111,2,0.5
 'Hamish Harding',de,UK,#e838e8,#e838e8,2,0.5
 'Shahzada Dawood',de,Pakistan,#111111,#111111,2,0.5
-'Jan Lipavský',de,Tschechien,#111111,#111111,2,0.5
 'Paul-Henry Nargeolet',de,Frankreich,#e8e808,#e8e808,2,0.4481324931818182
 'Amber Heard',de,USA,#18e8e8,#18e8e8,3,0.4467009804342104
 'Stockton Rush',de,USA,#18e8e8,#18e8e8,2,0.4435890036363636
@@ -33,6 +33,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Robert de Niro',de,USA,#18e8e8,#18e8e8,3,0.4163191814090908
 'Kai Wegner',de,Deutschland,#1818e8,#1818e8,3,0.4160653668569004
 'Tim Scott',de,USA,#18e8e8,#18e8e8,3,0.4158379440136363
+'Anne Will',de,Deutschland,#1818e8,#1818e8,3,0.41565846158592606
 'Robert De Niro',de,USA,#18e8e8,#18e8e8,3,0.4156376032272727
 'Königsgemahlin Camilla',de,UK,#e838e8,#e838e8,3,0.4150604783488636
 'Selenskyj',de,Ukraine,#e818e8,#e818e8,3,0.4145214148631513
@@ -94,7 +95,6 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Le Pen',de,Frankreich,#e8e808,#e8e808,2,0.3769496855909089
 'Kemal Kilicdaroglu',de,Türkei,#111111,#111111,3,0.3763903269579544
 'Chez Krömer',de,Deutschland,#1818e8,#1818e8,1,0.3762356543499999
-'Anne Will',de,Deutschland,#1818e8,#1818e8,3,0.376229065502159
 'Holger Friedrich',de,Deutschland,#1818e8,#1818e8,3,0.3753448815888888
 'Isaac Newton',de,UK,#e838e8,#e838e8,1,0.37519150309875
 'Leonardo da Vinci',de,Italien,#111111,#111111,2,0.3741244261
@@ -409,7 +409,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Nikos Androulakis',de,Griechenland,#1858e8,#1858e8,2,0.1135535340121011
 'Alexej Kudrin',de,Russland,#e81818,#e81818,1,0.1118888387080861
 'Mahmud Abbas',de,Palistina,#111111,#111111,1,0.10759377325492
-'Miguel Díaz-Canel',de,Kuba,#111111,#111111,1,0.10713614777641292
+'Miguel Díaz-Canel',de,Kuba,#111111,#111111,1,0.1071361477764129
 'Larry Page',de,USA,#18e8e8,#18e8e8,1,0.1052865311893016
 'Jeffrey Donaldson',de,Irland,#111111,#111111,1,0.1038164457342955
 'Schellnhuber',de,Deutschland,#1818e8,#1818e8,2,0.1033330398812606
