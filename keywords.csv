@@ -31,7 +31,6 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Tina Turner',de,USA,#18e8e8,#18e8e8,3,0.4167806141136363
 'Robert de Niro',de,USA,#18e8e8,#18e8e8,3,0.4163191814090908
 'Kai Wegner',de,Deutschland,#1818e8,#1818e8,3,0.4160653668569004
-'Tim Scott',de,USA,#18e8e8,#18e8e8,3,0.4158379440136363
 'Anne Will',de,Deutschland,#1818e8,#1818e8,3,0.415658461585926
 'Robert De Niro',de,USA,#18e8e8,#18e8e8,3,0.4156376032272727
 'Königsgemahlin Camilla',de,UK,#e838e8,#e838e8,3,0.4150604783488636
@@ -144,6 +143,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Christopher Nolan',de,USA,#18e8e8,#18e8e8,2,0.354371501166877
 'Boris Johnson',de,UK,#e838e8,#e838e8,3,0.3539527090907328
 'Afida Turner',de,Frankreich,#e8e808,#e8e808,1,0.3538612080987499
+'Tim Scott',de,USA,#18e8e8,#18e8e8,2,0.35346297241159086
 'Konrad Adenauer',de,Deutschland,#1818e8,#1818e8,3,0.353010139120926
 'Cristiano Ronaldo',de,Portugal,#111111,#111111,3,0.3526790119894316
 'Prinz Andrew',de,UK,#e838e8,#e838e8,3,0.3514093522420453
@@ -196,13 +196,13 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Ayatollah Chamenei',de,Iran,#111111,#111111,1,0.3077702407625
 'John Paul II',de,Vatikan,#58b8e8,#58b8e8,1,0.3077293421749999
 'Yannick Morez',de,Frankreich,#e8e808,#e8e808,1,0.3073209135874999
-'Aurélien Pradié',de,Frankreich,#e8e808,#e8e808,1,0.3070624999999999
 'Camille Etienne',de,Frankreich,#e8e808,#e8e808,1,0.3070624999999999
-'Richard Ferrand',de,Frankreich,#e8e808,#e8e808,1,0.3070624999999999
+'Aurélien Pradié',de,Frankreich,#e8e808,#e8e808,1,0.3070624999999999
 'Thomas Bayes',de,UK,#e838e8,#e838e8,1,0.3070624999999999
+'Richard Ferrand',de,Frankreich,#e8e808,#e8e808,1,0.3070624999999999
 'Olaf Scholz',de,Deutschland,#1818e8,#1818e8,3,0.3060209566291014
 'Charles III',de,UK,#e838e8,#e838e8,3,0.3046119308651951
-'Meg Bellamy',de,UK,#e838e8,#e838e8,1,0.30442475179624995
+'Meg Bellamy',de,UK,#e838e8,#e838e8,1,0.3044247517962499
 'Ted Cruz',de,USA,#18e8e8,#18e8e8,1,0.3011186825843749
 'Barack Obama',de,USA,#18e8e8,#18e8e8,3,0.2996641882250379
 'Winston Churchill',de,UK,#e838e8,#e838e8,2,0.2984873633406154
