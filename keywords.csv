@@ -130,7 +130,6 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Henry Ford',de,USA,#18e8e8,#18e8e8,2,0.3606879322925437
 'Martin Luther King',de,USA,#18e8e8,#18e8e8,1,0.3587306697431818
 'Leonardo DiCaprio',de,USA,#18e8e8,#18e8e8,3,0.3582551360048295
-'Meg Bellamy',de,UK,#e838e8,#e838e8,2,0.358146731525
 'Bruce Springsteen',de,USA,#18e8e8,#18e8e8,2,0.3579094312081051
 'Le Pen',de,Frankreich,#e8e808,#e8e808,2,0.3570562187499999
 'Sam Altman',de,USA,#18e8e8,#18e8e8,3,0.3570022517083436
@@ -197,12 +196,13 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Ayatollah Chamenei',de,Iran,#111111,#111111,1,0.3077702407625
 'John Paul II',de,Vatikan,#58b8e8,#58b8e8,1,0.3077293421749999
 'Yannick Morez',de,Frankreich,#e8e808,#e8e808,1,0.3073209135874999
-'Richard Ferrand',de,Frankreich,#e8e808,#e8e808,1,0.3070624999999999
-'Thomas Bayes',de,UK,#e838e8,#e838e8,1,0.3070624999999999
 'Aurélien Pradié',de,Frankreich,#e8e808,#e8e808,1,0.3070624999999999
 'Camille Etienne',de,Frankreich,#e8e808,#e8e808,1,0.3070624999999999
+'Richard Ferrand',de,Frankreich,#e8e808,#e8e808,1,0.3070624999999999
+'Thomas Bayes',de,UK,#e838e8,#e838e8,1,0.3070624999999999
 'Olaf Scholz',de,Deutschland,#1818e8,#1818e8,3,0.3060209566291014
 'Charles III',de,UK,#e838e8,#e838e8,3,0.3046119308651951
+'Meg Bellamy',de,UK,#e838e8,#e838e8,1,0.30442475179624995
 'Ted Cruz',de,USA,#18e8e8,#18e8e8,1,0.3011186825843749
 'Barack Obama',de,USA,#18e8e8,#18e8e8,3,0.2996641882250379
 'Winston Churchill',de,UK,#e838e8,#e838e8,2,0.2984873633406154
