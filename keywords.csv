@@ -114,7 +114,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Hillary Clinton',de,USA,#18e8e8,#18e8e8,2,0.3686952654090908
 'Johnny Depp',de,USA,#18e8e8,#18e8e8,2,0.3677629740442045
 'Patrick Graichen',de,Deutschland,#1818e8,#1818e8,3,0.3672756734493266
-'Pietro Lombardi',de,Deutschland,#1818e8,#1818e8,1,0.36648827307293236
+'Pietro Lombardi',de,Deutschland,#1818e8,#1818e8,1,0.3664882730729323
 'Rudy Giuliani',de,USA,#18e8e8,#18e8e8,1,0.3663509646874999
 'Yoon Suk Yeol',de,SüdKorea,#111111,#111111,3,0.3662098103182536
 'Georg Gänswein',de,Deutschland,#1818e8,#1818e8,2,0.3662069177465624
@@ -264,6 +264,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Sergej Schoigu',de,Russland,#e81818,#e81818,3,0.217707713489173
 'Michael Mann',de,USA,#18e8e8,#18e8e8,3,0.2175966228437927
 'Jair Bolsonaro',de,Brasilien,#58e838,#58e848,3,0.2174877110033219
+'Bodo Ramelow',de,Deutschland,#1818e8,#1818e8,2,0.21646384056578938
 'Recep Tayyip Erdoğan',de,Türkei,#111111,#111111,2,0.216266069377041
 'Martin Schirdewan',de,Deutschland,#1818e8,#1818e8,3,0.2145580507416068
 'Lothar Wieler',de,Deutschland,#1818e8,#1818e8,1,0.2144756430385868
@@ -333,7 +334,6 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Andrzej Duda',de,Polen,#111111,#111111,3,0.1813252556211041
 'Paul Kagame',de,Ruanda,#111111,#111111,1,0.1802521726350991
 'Gregor Gysi',de,Deutschland,#1818e8,#1818e8,2,0.1793542177960141
-'Bodo Ramelow',de,Deutschland,#1818e8,#1818e8,2,0.179319631146918
 'Jewgeni Prigoschin',de,Russland,#e81818,#e81818,3,0.1791814186330721
 'Hun Sen',de,Kambodscha,#111111,#111111,1,0.1785678593735536
 'Anthony Fauci',de,USA,#18e8e8,#18e8e8,1,0.1784259382242243
