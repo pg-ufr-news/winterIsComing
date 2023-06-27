@@ -82,7 +82,6 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Helmut Kohl',de,Deutschland,#1818e8,#1818e8,3,0.3846428949749572
 'Prinz William',de,UK,#e838e8,#e838e8,3,0.3835609836007227
 'Alexander von Humboldt',de,Deutschland,#1818e8,#1818e8,2,0.3832183972556817
-'Martin Scorsese',de,USA,#18e8e8,#18e8e8,3,0.3825373909808521
 'George Washington',de,USA,#18e8e8,#18e8e8,3,0.3820464883068181
 'Lula da Silva',de,Brasilien,#58e838,#58e848,3,0.3816283013517044
 'Mario Czaja',de,Deutschland,#1818e8,#1818e8,3,0.3814420658153408
@@ -187,6 +186,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Alvin Bragg',de,USA,#18e8e8,#18e8e8,1,0.3283091871815311
 'Peter Thiel',de,USA,#18e8e8,#18e8e8,2,0.3271606226149868
 'Margaret Thatcher',de,UK,#e838e8,#e838e8,1,0.3266127390744375
+'Martin Scorsese',de,USA,#18e8e8,#18e8e8,3,0.32530729233372424
 'Nadja Abd el Farrag',de,Deutschland,#1818e8,#1818e8,2,0.3251345518212706
 'Queen Camilla',de,UK,#e838e8,#e838e8,2,0.325100639320713
 'Bruno Le Maire',de,Frankreich,#e8e808,#e8e808,2,0.3249361748749999
@@ -199,10 +199,10 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Péter Szijjártó',de,Ungarn,#111111,#111111,1,0.3081726543499999
 'Ayatollah Chamenei',de,Iran,#111111,#111111,1,0.3077702407625
 'Yannick Morez',de,Frankreich,#e8e808,#e8e808,1,0.3073209135874999
-'Richard Ferrand',de,Frankreich,#e8e808,#e8e808,1,0.3070624999999999
 'Thomas Bayes',de,UK,#e838e8,#e838e8,1,0.3070624999999999
-'Camille Etienne',de,Frankreich,#e8e808,#e8e808,1,0.3070624999999999
+'Richard Ferrand',de,Frankreich,#e8e808,#e8e808,1,0.3070624999999999
 'Aurélien Pradié',de,Frankreich,#e8e808,#e8e808,1,0.3070624999999999
+'Camille Etienne',de,Frankreich,#e8e808,#e8e808,1,0.3070624999999999
 'Olaf Scholz',de,Deutschland,#1818e8,#1818e8,3,0.3060209566291014
 'Charles III',de,UK,#e838e8,#e838e8,3,0.3046119308651951
 'Meg Bellamy',de,UK,#e838e8,#e838e8,1,0.3044247517962499
