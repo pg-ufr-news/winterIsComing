@@ -1,5 +1,4 @@
 keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
-'Buzz Aldrin',de,USA,#18e8e8,#18e8e8,2,0.45275026475
 'Caren Miosga',de,Deutschland,#1818e8,#1818e8,3,0.4481589247661289
 'Hamish Harding',de,UK,#e838e8,#e838e8,3,0.439044569090909
 'Jeanne du Barry',de,Frankreich,#e8e808,#e8e808,3,0.4384815054112903
@@ -68,6 +67,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Joseph Ratzinger',de,Vatikan,#58b8e8,#58b8e8,1,0.3875739277375
 'Lars Klingbeil',de,Deutschland,#1818e8,#1818e8,2,0.3875616505681817
 'Olli Schulz',de,Deutschland,#1818e8,#1818e8,2,0.3873256647357143
+'Buzz Aldrin',de,USA,#18e8e8,#18e8e8,2,0.3863378750375
 'Wolfgang Kubicki',de,Deutschland,#1818e8,#1818e8,3,0.3858334997092045
 'Helmut Kohl',de,Deutschland,#1818e8,#1818e8,3,0.3846428949749572
 'Prinz William',de,UK,#e838e8,#e838e8,3,0.3835609836007227
@@ -82,7 +82,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Gérald Darmanin',de,Frankreich,#e8e808,#e8e808,2,0.37902619325
 'Hendrik Wüst',de,Deutschland,#1818e8,#1818e8,3,0.3785743692100332
 'Erich Honecker',de,Deutschland,#1818e8,#1818e8,1,0.3785252529153846
-'Helge Schneider',de,Deutschland,#1818e8,#1818e8,1,0.37844202895416656
+'Helge Schneider',de,Deutschland,#1818e8,#1818e8,1,0.3784420289541665
 'Le Pen',de,Frankreich,#e8e808,#e8e808,2,0.3769496855909089
 'Kemal Kilicdaroglu',de,Türkei,#111111,#111111,3,0.3763903269579544
 'Holger Friedrich',de,Deutschland,#1818e8,#1818e8,3,0.3753448815888888
@@ -196,10 +196,10 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Matt Damon',de,USA,#18e8e8,#18e8e8,1,0.308394569700974
 'Ayatollah Chamenei',de,Iran,#111111,#111111,1,0.3077702407625
 'Yannick Morez',de,Frankreich,#e8e808,#e8e808,1,0.3073209135874999
-'Aurélien Pradié',de,Frankreich,#e8e808,#e8e808,1,0.3070624999999999
 'Camille Etienne',de,Frankreich,#e8e808,#e8e808,1,0.3070624999999999
-'Richard Ferrand',de,Frankreich,#e8e808,#e8e808,1,0.3070624999999999
+'Aurélien Pradié',de,Frankreich,#e8e808,#e8e808,1,0.3070624999999999
 'Andrei Nikolajewitsch Kolmogorow',de,Russland,#e81818,#e81818,1,0.3070624999999999
+'Richard Ferrand',de,Frankreich,#e8e808,#e8e808,1,0.3070624999999999
 'Olaf Scholz',de,Deutschland,#1818e8,#1818e8,3,0.3060209566291014
 'Charles III',de,UK,#e838e8,#e838e8,3,0.3046119308651951
 'Meg Bellamy',de,UK,#e838e8,#e838e8,1,0.3044247517962499
