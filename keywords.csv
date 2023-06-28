@@ -1,9 +1,9 @@
 keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
-'James Cameron',de,USA,#18e8e8,#18e8e8,2,0.5
 'Hamish Harding',de,UK,#e838e8,#e838e8,2,0.5
 'Yevgeny Prigozhin',de,Russland,#e81818,#e81818,2,0.5
 'Caren Miosga',de,Deutschland,#1818e8,#1818e8,2,0.5
 'Salvador Dali',de,Spanien,#111111,#111111,2,0.5
+'James Cameron',de,USA,#18e8e8,#18e8e8,3,0.45722458727272725
 'Paul-Henry Nargeolet',de,Frankreich,#e8e808,#e8e808,2,0.4481324931818182
 'Amber Heard',de,USA,#18e8e8,#18e8e8,3,0.4467009804342104
 'Stockton Rush',de,USA,#18e8e8,#18e8e8,3,0.4456408417272727
@@ -318,7 +318,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Jeff Bezos',de,USA,#18e8e8,#18e8e8,2,0.1909945829327183
 'Horst Seehofer',de,Deutschland,#1818e8,#1818e8,2,0.1905764604140382
 'Karine Jean-Pierre',de,USA,#18e8e8,#18e8e8,3,0.1904188018847302
-'Michael Walzer',de,USA,#18e8e8,#18e8e8,1,0.18992062189019365
+'Michael Walzer',de,USA,#18e8e8,#18e8e8,1,0.1899206218901936
 'MacKenzie Scott',de,USA,#18e8e8,#18e8e8,1,0.1898435528700683
 'Anthony Albanese',de,Australien,#111111,#111111,2,0.1897115300642134
 'Olivier Marleix',de,Frankreich,#e8e808,#e8e808,1,0.1896874717575968
