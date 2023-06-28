@@ -37,7 +37,6 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Bill Clinton',de,USA,#18e8e8,#18e8e8,2,0.4099996259738636
 'James Cleverly',de,UK,#e838e8,#e838e8,3,0.4098634941704545
 'George Clooney',de,USA,#18e8e8,#18e8e8,3,0.4095069081581249
-'Helge Schneider',de,Deutschland,#1818e8,#1818e8,1,0.4081669164166666
 'Bettina Jarasch',de,Deutschland,#1818e8,#1818e8,2,0.4074597665909091
 'Paul-Henry Nargeolet',de,Frankreich,#e8e808,#e8e808,2,0.4074476097308612
 'Lionel Messi',de,Argentinien,#111111,#111111,3,0.4067700864503571
@@ -83,6 +82,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Gérald Darmanin',de,Frankreich,#e8e808,#e8e808,2,0.37902619325
 'Hendrik Wüst',de,Deutschland,#1818e8,#1818e8,3,0.3785743692100332
 'Erich Honecker',de,Deutschland,#1818e8,#1818e8,1,0.3785252529153846
+'Helge Schneider',de,Deutschland,#1818e8,#1818e8,1,0.37844202895416656
 'Le Pen',de,Frankreich,#e8e808,#e8e808,2,0.3769496855909089
 'Kemal Kilicdaroglu',de,Türkei,#111111,#111111,3,0.3763903269579544
 'Holger Friedrich',de,Deutschland,#1818e8,#1818e8,3,0.3753448815888888
@@ -196,10 +196,10 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Matt Damon',de,USA,#18e8e8,#18e8e8,1,0.308394569700974
 'Ayatollah Chamenei',de,Iran,#111111,#111111,1,0.3077702407625
 'Yannick Morez',de,Frankreich,#e8e808,#e8e808,1,0.3073209135874999
-'Camille Etienne',de,Frankreich,#e8e808,#e8e808,1,0.3070624999999999
 'Aurélien Pradié',de,Frankreich,#e8e808,#e8e808,1,0.3070624999999999
-'Andrei Nikolajewitsch Kolmogorow',de,Russland,#e81818,#e81818,1,0.3070624999999999
+'Camille Etienne',de,Frankreich,#e8e808,#e8e808,1,0.3070624999999999
 'Richard Ferrand',de,Frankreich,#e8e808,#e8e808,1,0.3070624999999999
+'Andrei Nikolajewitsch Kolmogorow',de,Russland,#e81818,#e81818,1,0.3070624999999999
 'Olaf Scholz',de,Deutschland,#1818e8,#1818e8,3,0.3060209566291014
 'Charles III',de,UK,#e838e8,#e838e8,3,0.3046119308651951
 'Meg Bellamy',de,UK,#e838e8,#e838e8,1,0.3044247517962499
