@@ -54,6 +54,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Dieter Bohlen',de,Deutschland,#1818e8,#1818e8,3,0.4002627711461419
 'Wolodimir Selenski',de,Ukraine,#e818e8,#e818e8,3,0.3998669064552272
 'Kim Kardashian',de,USA,#18e8e8,#18e8e8,3,0.3984880265127932
+'Lars Klingbeil',de,Deutschland,#1818e8,#1818e8,2,0.39801501161931807
 'Rudolf Steiner',de,Oesterreich,#111111,#111111,1,0.395632577175
 'Nikki Haley',de,USA,#18e8e8,#18e8e8,3,0.3944918674021481
 'James Cameron',de,USA,#18e8e8,#18e8e8,3,0.3935927591818181
@@ -65,7 +66,6 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Axel Springer',de,Deutschland,#1818e8,#1818e8,3,0.3896646980982953
 'Lauren Sánchez',de,USA,#18e8e8,#18e8e8,1,0.3877847377763157
 'Joseph Ratzinger',de,Vatikan,#58b8e8,#58b8e8,1,0.3875739277375
-'Lars Klingbeil',de,Deutschland,#1818e8,#1818e8,2,0.3875616505681817
 'Olli Schulz',de,Deutschland,#1818e8,#1818e8,2,0.3873256647357143
 'Buzz Aldrin',de,USA,#18e8e8,#18e8e8,2,0.3863378750375
 'Wolfgang Kubicki',de,Deutschland,#1818e8,#1818e8,3,0.3858334997092045
@@ -196,10 +196,10 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Matt Damon',de,USA,#18e8e8,#18e8e8,1,0.308394569700974
 'Ayatollah Chamenei',de,Iran,#111111,#111111,1,0.3077702407625
 'Yannick Morez',de,Frankreich,#e8e808,#e8e808,1,0.3073209135874999
-'Andrei Nikolajewitsch Kolmogorow',de,Russland,#e81818,#e81818,1,0.3070624999999999
 'Richard Ferrand',de,Frankreich,#e8e808,#e8e808,1,0.3070624999999999
-'Aurélien Pradié',de,Frankreich,#e8e808,#e8e808,1,0.3070624999999999
+'Andrei Nikolajewitsch Kolmogorow',de,Russland,#e81818,#e81818,1,0.3070624999999999
 'Camille Etienne',de,Frankreich,#e8e808,#e8e808,1,0.3070624999999999
+'Aurélien Pradié',de,Frankreich,#e8e808,#e8e808,1,0.3070624999999999
 'Olaf Scholz',de,Deutschland,#1818e8,#1818e8,3,0.3060209566291014
 'Charles III',de,UK,#e838e8,#e838e8,3,0.3046119308651951
 'Meg Bellamy',de,UK,#e838e8,#e838e8,1,0.3044247517962499
