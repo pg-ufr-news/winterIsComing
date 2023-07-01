@@ -1,13 +1,12 @@
 keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
-'Wolfgang Benz',de,Deutschland,#1818e8,#1818e8,2,0.5
-'Detlef Garbe',de,Deutschland,#1818e8,#1818e8,2,0.5
+'Pedro Sánchez Pérez-Castejón',de,Spanien,#111111,#111111,2,0.5
 'Tim Müller',de,Deutschland,#1818e8,#1818e8,2,0.5
 'Uwe Neumärker',de,Deutschland,#1818e8,#1818e8,2,0.5
 'Tiffany Chen',de,USA,#18e8e8,#18e8e8,2,0.5
 'Hunter Biden',de,USA,#18e8e8,#18e8e8,2,0.5
 'Patricia Blanco',de,Deutschland,#1818e8,#1818e8,2,0.5
 'König Felipe VI',de,Spanien,#111111,#111111,2,0.5
-'Pedro Sánchez Pérez-Castejón',de,Spanien,#111111,#111111,2,0.5
+'Detlef Garbe',de,Deutschland,#1818e8,#1818e8,2,0.5
 'Pedro Sánchez',de,Spanien,#111111,#111111,2,0.5
 'Robert Sesselmann',de,Deutschland,#1818e8,#1818e8,2,0.4935911636363636
 'Caren Miosga',de,Deutschland,#1818e8,#1818e8,3,0.4481589247661289
@@ -17,6 +16,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Al Pacino',de,USA,#18e8e8,#18e8e8,3,0.4349468419852272
 'Barbara Schöneberger',de,Deutschland,#1818e8,#1818e8,2,0.4329086527499999
 'Shahzada Dawood',de,Pakistan,#111111,#111111,3,0.42995276
+'Wolfgang Benz',de,Deutschland,#1818e8,#1818e8,1,0.42500019499999997
 'Queen Elizabeth II',de,UK,#e838e8,#e838e8,3,0.4247986346727272
 'Stormy Daniels',de,USA,#18e8e8,#18e8e8,3,0.4247779199124999
 'Prinz Archie',de,UK,#e838e8,#e838e8,3,0.4244387332700936
@@ -124,10 +124,10 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Marjorie Taylor Greene',de,USA,#18e8e8,#18e8e8,1,0.3624172187
 'Jamie Dimon',de,USA,#18e8e8,#18e8e8,1,0.3615589175613636
 'Katy Perry',de,USA,#18e8e8,#18e8e8,3,0.3614742758982953
-'Leon Botstein',de,USA,#18e8e8,#18e8e8,1,0.3612499999999999
-'Salvador Dali',de,Spanien,#111111,#111111,1,0.3612499999999999
 'Kemal Kiliçdaroglu',de,Türkei,#111111,#111111,1,0.3612499999999999
+'Salvador Dali',de,Spanien,#111111,#111111,1,0.3612499999999999
 'Dorothée Pacaud',de,Frankreich,#e8e808,#e8e808,1,0.3612499999999999
+'Leon Botstein',de,USA,#18e8e8,#18e8e8,1,0.3612499999999999
 'Yevgeny Prigozhin',de,Russland,#e81818,#e81818,1,0.3612499999999999
 'Henry Ford',de,USA,#18e8e8,#18e8e8,2,0.3606879322925437
 'Martin Luther King',de,USA,#18e8e8,#18e8e8,1,0.3587306697431818
@@ -414,7 +414,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Steffen Große',de,Deutschland,#1818e8,#1818e8,3,0.1177249681573005
 'Robin Li',de,China,#e88818,#e88818,2,0.1177192106047639
 'Holger Münch',de,Deutschland,#1818e8,#1818e8,2,0.116486442922703
-'Nick Fuentes',de,USA,#18e8e8,#18e8e8,1,0.11627170703416781
+'Nick Fuentes',de,USA,#18e8e8,#18e8e8,1,0.1162717070341678
 'Raphael Warnock',de,USA,#18e8e8,#18e8e8,1,0.1158084731416014
 'Ebrahim Raisi',de,Iran,#111111,#111111,2,0.1149306590610861
 'Kurt Krömer',de,Deutschland,#1818e8,#1818e8,1,0.1147813464736931
