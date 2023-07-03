@@ -24,7 +24,6 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Prinzessin Kate',de,UK,#e838e8,#e838e8,3,0.4235836575190908
 'Karim Benzema',de,Frankreich,#e8e808,#e8e808,3,0.4230988450829544
 'Chris Christie',de,USA,#18e8e8,#18e8e8,3,0.4227763102647726
-'Markus Lanz',de,Deutschland,#1818e8,#1818e8,3,0.4226681208630267
 'Jens Spahn',de,Deutschland,#1818e8,#1818e8,3,0.4217988603795453
 'Mathias Döpfner',de,Deutschland,#1818e8,#1818e8,3,0.420827078987855
 'Berkshire Hathaway',de,USA,#18e8e8,#18e8e8,2,0.4190960650454545
@@ -37,6 +36,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Robert De Niro',de,USA,#18e8e8,#18e8e8,3,0.4156376032272727
 'Königsgemahlin Camilla',de,UK,#e838e8,#e838e8,3,0.4150604783488636
 'Selenskyj',de,Ukraine,#e818e8,#e818e8,3,0.4145214148631513
+'Markus Lanz',de,Deutschland,#1818e8,#1818e8,3,0.41422028773357267
 'George Bush',de,USA,#18e8e8,#18e8e8,2,0.4137860700738636
 'Prinz George',de,UK,#e838e8,#e838e8,3,0.4120969254593181
 'Kevin McCarthy',de,USA,#18e8e8,#18e8e8,3,0.4119644780681818
@@ -70,7 +70,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Kim Jong Un',de,NordKorea,#e85858,#e85858,3,0.3934102046287266
 'Lady Gaga',de,USA,#18e8e8,#18e8e8,2,0.3930541669285714
 'Joachim Gauck',de,Deutschland,#1818e8,#1818e8,3,0.3921735950144318
-'Prinz William',de,UK,#e838e8,#e838e8,3,0.39007203515152333
+'Prinz William',de,UK,#e838e8,#e838e8,3,0.3900720351515233
 'Andreas Ellermann',de,Deutschland,#1818e8,#1818e8,2,0.3897898440602272
 'Axel Springer',de,Deutschland,#1818e8,#1818e8,3,0.3896646980982953
 'Lauren Sánchez',de,USA,#18e8e8,#18e8e8,1,0.3877847377763157
@@ -124,9 +124,9 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Jamie Dimon',de,USA,#18e8e8,#18e8e8,1,0.3615589175613636
 'Katy Perry',de,USA,#18e8e8,#18e8e8,3,0.3614742758982953
 'Dorothée Pacaud',de,Frankreich,#e8e808,#e8e808,1,0.3612499999999999
-'Salvador Dali',de,Spanien,#111111,#111111,1,0.3612499999999999
 'Leon Botstein',de,USA,#18e8e8,#18e8e8,1,0.3612499999999999
 'Kemal Kiliçdaroglu',de,Türkei,#111111,#111111,1,0.3612499999999999
+'Salvador Dali',de,Spanien,#111111,#111111,1,0.3612499999999999
 'Yevgeny Prigozhin',de,Russland,#e81818,#e81818,1,0.3612499999999999
 'Henry Ford',de,USA,#18e8e8,#18e8e8,2,0.3606879322925437
 'Martin Luther King',de,USA,#18e8e8,#18e8e8,1,0.3587306697431818
