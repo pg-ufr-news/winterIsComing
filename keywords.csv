@@ -17,9 +17,9 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Patricia Blanco',de,Deutschland,#1818e8,#1818e8,1,0.42500039
 'Wolfgang Benz',de,Deutschland,#1818e8,#1818e8,1,0.4250001949999999
 'Tiffany Chen',de,USA,#18e8e8,#18e8e8,1,0.42500012
+'Patti LaBelle',de,USA,#18e8e8,#18e8e8,1,0.425
 'Detlef Garbe',de,Deutschland,#1818e8,#1818e8,1,0.425
 'Pedro Sánchez Pérez-Castejón',de,Spanien,#111111,#111111,1,0.425
-'Patti LaBelle',de,USA,#18e8e8,#18e8e8,1,0.425
 'Queen Elizabeth II',de,UK,#e838e8,#e838e8,3,0.4247986346727272
 'Stormy Daniels',de,USA,#18e8e8,#18e8e8,3,0.4247779199124999
 'Prinz Archie',de,UK,#e838e8,#e838e8,3,0.4244387332700936
@@ -49,7 +49,6 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Bill Clinton',de,USA,#18e8e8,#18e8e8,2,0.4099996259738636
 'George Clooney',de,USA,#18e8e8,#18e8e8,3,0.4095069081581249
 'Bettina Jarasch',de,Deutschland,#1818e8,#1818e8,2,0.4074597665909091
-'Paul-Henry Nargeolet',de,Frankreich,#e8e808,#e8e808,2,0.4074476097308612
 'Lionel Messi',de,Argentinien,#111111,#111111,3,0.4067700864503571
 'Steven Spielberg',de,USA,#18e8e8,#18e8e8,2,0.4062549809784091
 'Dmitri Medwedew',de,Russland,#e81818,#e81818,3,0.4053646582272727
@@ -123,9 +122,9 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Marjorie Taylor Greene',de,USA,#18e8e8,#18e8e8,1,0.3624172187
 'Jamie Dimon',de,USA,#18e8e8,#18e8e8,1,0.3615589175613636
 'Katy Perry',de,USA,#18e8e8,#18e8e8,3,0.3614742758982953
+'Dorothée Pacaud',de,Frankreich,#e8e808,#e8e808,1,0.3612499999999999
 'Leon Botstein',de,USA,#18e8e8,#18e8e8,1,0.3612499999999999
 'Yevgeny Prigozhin',de,Russland,#e81818,#e81818,1,0.3612499999999999
-'Dorothée Pacaud',de,Frankreich,#e8e808,#e8e808,1,0.3612499999999999
 'Kemal Kiliçdaroglu',de,Türkei,#111111,#111111,1,0.3612499999999999
 'Salvador Dali',de,Spanien,#111111,#111111,1,0.3612499999999999
 'Henry Ford',de,USA,#18e8e8,#18e8e8,2,0.3606879322925437
@@ -157,6 +156,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Steve Jobs',de,USA,#18e8e8,#18e8e8,2,0.3503111850965851
 'Herbert Diess',de,Deutschland,#1818e8,#1818e8,2,0.3499293324532114
 'Isaac Newton',de,UK,#e838e8,#e838e8,1,0.3496628526339375
+'Paul-Henry Nargeolet',de,Frankreich,#e8e808,#e8e808,3,0.349631293271232
 'Jack Teixeira',de,USA,#18e8e8,#18e8e8,3,0.3490973414270057
 'Nina Gummich',de,Deutschland,#1818e8,#1818e8,1,0.3477403265410714
 'Recep Tayyip Erdoan',de,Türkei,#111111,#111111,3,0.3477333996183238
@@ -376,9 +376,9 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Steffi Lemke',de,Deutschland,#1818e8,#1818e8,3,0.1629047618873548
 'Christoph Heusgen',de,Deutschland,#1818e8,#1818e8,2,0.1624327792537362
 'Alexei Nawalny',de,Russland,#e81818,#e81818,2,0.161669051539228
-'Edir Macedo',de,Brasilien,#58e838,#58e848,1,0.1602885441406249
 'Steve Milloy',de,USA,#18e8e8,#18e8e8,1,0.1602885441406249
 'Michelle Neill',de,Irland,#111111,#111111,1,0.1602885441406249
+'Edir Macedo',de,Brasilien,#58e838,#58e848,1,0.1602885441406249
 'Andreas Baum',de,Deutschland,#1818e8,#1818e8,1,0.1584502875557973
 'Larry Ellison',de,USA,#18e8e8,#18e8e8,1,0.1550774796114642
 'Andrés Manuel López Obrador',de,Mexiko,#111111,#111111,2,0.1545336894397846
