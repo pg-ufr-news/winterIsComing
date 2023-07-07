@@ -2,9 +2,9 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Hunter Biden',de,USA,#18e8e8,#18e8e8,2,0.5
 'König Felipe VI',de,Spanien,#111111,#111111,2,0.5
 'Uwe Neumärker',de,Deutschland,#1818e8,#1818e8,2,0.5
-'Robert Sesselmann',de,Deutschland,#1818e8,#1818e8,2,0.4935911636363636
 'Pedro Sánchez',de,Spanien,#111111,#111111,2,0.4935888836363636
 'Pedro Sánchez',de,Spanien,#111111,#111111,2,0.4935888836363636
+'Robert Sesselmann',de,Deutschland,#1818e8,#1818e8,3,0.4881452127272727
 'Caren Miosga',de,Deutschland,#1818e8,#1818e8,3,0.4481589247661289
 'Hamish Harding',de,UK,#e838e8,#e838e8,3,0.439044569090909
 'Jeanne du Barry',de,Frankreich,#e8e808,#e8e808,3,0.4384815054112903
@@ -339,7 +339,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Fumio Kishida',de,Japan,#111111,#111111,3,0.1870351350228879
 'Cyril Ramaphosa',de,Südafrika,#111111,#111111,2,0.1859521437475834
 'Sergej Lawrow',de,Russland,#e81818,#e81818,3,0.1847334755483793
-'Charles Koch',de,USA,#18e8e8,#18e8e8,2,0.18469452253554872
+'Charles Koch',de,USA,#18e8e8,#18e8e8,2,0.1846945225355487
 'Lukaschenko',de,Belarus,#e81858,#e81858,3,0.1837074882022694
 'Antonio Guterres',de,UN,#e888e8,#e888e8,3,0.1822729369895868
 'Horst Seehofer',de,Deutschland,#1818e8,#1818e8,2,0.1813574230185991
@@ -376,9 +376,9 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Steffi Lemke',de,Deutschland,#1818e8,#1818e8,3,0.1629047618873548
 'Christoph Heusgen',de,Deutschland,#1818e8,#1818e8,2,0.1624327792537362
 'Alexei Nawalny',de,Russland,#e81818,#e81818,2,0.161669051539228
-'Michelle Neill',de,Irland,#111111,#111111,1,0.1602885441406249
 'Edir Macedo',de,Brasilien,#58e838,#58e848,1,0.1602885441406249
 'Steve Milloy',de,USA,#18e8e8,#18e8e8,1,0.1602885441406249
+'Michelle Neill',de,Irland,#111111,#111111,1,0.1602885441406249
 'Andreas Baum',de,Deutschland,#1818e8,#1818e8,1,0.1584502875557973
 'Larry Ellison',de,USA,#18e8e8,#18e8e8,1,0.1550774796114642
 'Andrés Manuel López Obrador',de,Mexiko,#111111,#111111,2,0.1545336894397846
