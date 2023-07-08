@@ -29,7 +29,6 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Chris Christie',de,USA,#18e8e8,#18e8e8,3,0.4227763102647726
 'Jens Spahn',de,Deutschland,#1818e8,#1818e8,3,0.4217988603795453
 'Mathias Döpfner',de,Deutschland,#1818e8,#1818e8,3,0.420827078987855
-'Berkshire Hathaway',de,USA,#18e8e8,#18e8e8,2,0.4190960650454545
 'Prince Charles',de,UK,#e838e8,#e838e8,3,0.4179498076011362
 'Marine Le Pen',de,Frankreich,#e8e808,#e8e808,2,0.417100555
 'Tina Turner',de,USA,#18e8e8,#18e8e8,3,0.4167806141136363
@@ -134,6 +133,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Le Pen',de,Frankreich,#e8e808,#e8e808,2,0.3570562187499999
 'Sam Altman',de,USA,#18e8e8,#18e8e8,3,0.3570022517083436
 'Penny Mordaunt',de,UK,#e838e8,#e838e8,2,0.3563338585206249
+'Berkshire Hathaway',de,USA,#18e8e8,#18e8e8,1,0.3562318502886363
 'Wladimir Putin',de,Russland,#e81818,#e81818,3,0.3561939043074576
 'Albert Einstein',de,Deutschland,#1818e8,#1818e8,3,0.3561333688079544
 'Henry Kissinger',de,USA,#18e8e8,#18e8e8,2,0.3559933651285714
@@ -376,9 +376,9 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Steffi Lemke',de,Deutschland,#1818e8,#1818e8,3,0.1629047618873548
 'Christoph Heusgen',de,Deutschland,#1818e8,#1818e8,2,0.1624327792537362
 'Alexei Nawalny',de,Russland,#e81818,#e81818,2,0.161669051539228
-'Edir Macedo',de,Brasilien,#58e838,#58e848,1,0.1602885441406249
 'Steve Milloy',de,USA,#18e8e8,#18e8e8,1,0.1602885441406249
 'Michelle Neill',de,Irland,#111111,#111111,1,0.1602885441406249
+'Edir Macedo',de,Brasilien,#58e838,#58e848,1,0.1602885441406249
 'Andreas Baum',de,Deutschland,#1818e8,#1818e8,1,0.1584502875557973
 'Larry Ellison',de,USA,#18e8e8,#18e8e8,1,0.1550774796114642
 'Andrés Manuel López Obrador',de,Mexiko,#111111,#111111,2,0.1545336894397846
