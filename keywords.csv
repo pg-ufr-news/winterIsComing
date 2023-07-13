@@ -49,7 +49,6 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Ulrich Reitz',de,Deutschland,#1818e8,#1818e8,1,0.4045000747721427
 'Noam Chomsky',de,USA,#18e8e8,#18e8e8,1,0.40413258325
 'Eric Ciotti',de,Frankreich,#e8e808,#e8e808,1,0.4037779336999999
-'Ramsan Kadyrow',de,Russland,#e81818,#e81818,3,0.4024382773863635
 'Lionel Richie',de,USA,#18e8e8,#18e8e8,3,0.4015364581964205
 'Elisabeth Borne',de,Frankreich,#e8e808,#e8e808,2,0.4014313650227272
 'Hamish Harding',de,UK,#e838e8,#e838e8,3,0.4008690864545453
@@ -100,6 +99,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Prinz Harry',de,UK,#e838e8,#e838e8,3,0.3704943332341863
 'Katja Krasavice',de,Deutschland,#1818e8,#1818e8,2,0.3704495247269317
 'Lachlan Murdoch',de,UK,#e838e8,#e838e8,2,0.369764047799375
+'Ramsan Kadyrow',de,Russland,#e81818,#e81818,3,0.36975352850568166
 'John Rawls',de,USA,#18e8e8,#18e8e8,1,0.369636547799375
 'Hillary Clinton',de,USA,#18e8e8,#18e8e8,2,0.3686952654090908
 'Johnny Depp',de,USA,#18e8e8,#18e8e8,2,0.3677629740442045
@@ -117,14 +117,14 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Marjorie Taylor Greene',de,USA,#18e8e8,#18e8e8,1,0.3624172187
 'Jamie Dimon',de,USA,#18e8e8,#18e8e8,1,0.3615589175613636
 'Katy Perry',de,USA,#18e8e8,#18e8e8,3,0.3614742758982953
-'Kemal Kiliçdaroglu',de,Türkei,#111111,#111111,1,0.3612499999999999
 'Pedro Sánchez Pérez-Castejón',de,Spanien,#111111,#111111,1,0.3612499999999999
-'Yevgeny Prigozhin',de,Russland,#e81818,#e81818,1,0.3612499999999999
 'Uwe Neumärker',de,Deutschland,#1818e8,#1818e8,1,0.3612499999999999
-'Salvador Dali',de,Spanien,#111111,#111111,1,0.3612499999999999
+'Yevgeny Prigozhin',de,Russland,#e81818,#e81818,1,0.3612499999999999
+'Kemal Kiliçdaroglu',de,Türkei,#111111,#111111,1,0.3612499999999999
+'Detlef Garbe',de,Deutschland,#1818e8,#1818e8,1,0.3612499999999999
 'Dorothée Pacaud',de,Frankreich,#e8e808,#e8e808,1,0.3612499999999999
 'Leon Botstein',de,USA,#18e8e8,#18e8e8,1,0.3612499999999999
-'Detlef Garbe',de,Deutschland,#1818e8,#1818e8,1,0.3612499999999999
+'Salvador Dali',de,Spanien,#111111,#111111,1,0.3612499999999999
 'Henry Ford',de,USA,#18e8e8,#18e8e8,2,0.3606879322925437
 'Martin Luther King',de,USA,#18e8e8,#18e8e8,1,0.3587306697431818
 'Leonardo DiCaprio',de,USA,#18e8e8,#18e8e8,3,0.3582551360048295
@@ -392,7 +392,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Yoon Suk-yeol',de,SüdKorea,#111111,#111111,3,0.1454810189442506
 'Kardinal Woelki',de,Deutschland,#1818e8,#1818e8,2,0.1452748996092805
 'Karl Jenkins',de,UK,#e838e8,#e838e8,1,0.1407311270079205
-'Edmund Stoiber',de,Deutschland,#1818e8,#1818e8,1,0.14028492136895293
+'Edmund Stoiber',de,Deutschland,#1818e8,#1818e8,1,0.1402849213689529
 'Dalai Lama',de,Tibet,#111111,#111111,1,0.1389121509332418
 'Erik Marquardt',de,EU,#111111,#111111,1,0.1380198150278046
 'Barbara Walters',de,USA,#18e8e8,#18e8e8,1,0.1369062889485645
