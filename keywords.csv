@@ -1,21 +1,21 @@
 keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Hunter Biden',de,USA,#18e8e8,#18e8e8,3,0.5099466416571146
-'Leandro De Niro Rodriguez',de,USA,#18e8e8,#18e8e8,2,0.5
+'Sergej Surowikin',de,Russland,#e81818,#e81818,2,0.5
 'Bettina Stark-Watzinger',de,Deutschland,#1818e8,#1818e8,2,0.5
-'Moon Hyung-jin',de,USA,#18e8e8,#18e8e8,2,0.5
+'Reinhard Marx',de,Deutschland,#1818e8,#1818e8,2,0.5
 'Sultan al-Jaber',de,VAE,#111111,#111111,2,0.5
 'Sergei Surovikin',de,Russland,#e81818,#e81818,2,0.5
 'Sergio Mattarella',de,Italien,#111111,#111111,2,0.5
 'Matteo Salvini',de,Italien,#111111,#111111,2,0.5
 'Pierre-Yves Dermagne',de,Belgien,#111111,#111111,2,0.5
-'Sergej Surowikin',de,Russland,#e81818,#e81818,2,0.5
-'Reinhard Marx',de,Deutschland,#1818e8,#1818e8,2,0.5
+'Moon Hyung-jin',de,USA,#18e8e8,#18e8e8,2,0.5
+'Gilbert Plass',de,Kanada,#111111,#111111,2,0.5
 'Chelsea Handler',de,USA,#18e8e8,#18e8e8,2,0.5
 'Kim Yo Jong',de,NordKorea,#111111,#111111,2,0.5
 'Drena De Niro',de,USA,#18e8e8,#18e8e8,2,0.5
 'Jesse Watters',de,USA,#18e8e8,#18e8e8,2,0.5
 'Jack Smith',de,USA,#18e8e8,#18e8e8,2,0.5
-'Gilbert Plass',de,Kanada,#111111,#111111,2,0.5
+'Leandro De Niro Rodriguez',de,USA,#18e8e8,#18e8e8,2,0.5
 'Alexander De Croo',de,Belgien,#111111,#111111,2,0.5
 'Pedro Sánchez',de,Spanien,#111111,#111111,2,0.4935888836363636
 'Robert Sesselmann',de,Deutschland,#1818e8,#1818e8,3,0.4881452127272727
@@ -78,7 +78,6 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Joachim Gauck',de,Deutschland,#1818e8,#1818e8,3,0.3921735950144318
 'Prinz William',de,UK,#e838e8,#e838e8,3,0.3900720351515233
 'Andreas Ellermann',de,Deutschland,#1818e8,#1818e8,2,0.3897898440602272
-'Axel Springer',de,Deutschland,#1818e8,#1818e8,3,0.3896646980982953
 'Lauren Sánchez',de,USA,#18e8e8,#18e8e8,1,0.3877847377763157
 'Joseph Ratzinger',de,Vatikan,#58b8e8,#58b8e8,1,0.3875739277375
 'Olli Schulz',de,Deutschland,#1818e8,#1818e8,2,0.3873256647357143
@@ -116,6 +115,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Ramsan Kadyrow',de,Russland,#e81818,#e81818,3,0.3697535285056816
 'John Rawls',de,USA,#18e8e8,#18e8e8,1,0.369636547799375
 'Hillary Clinton',de,USA,#18e8e8,#18e8e8,2,0.3686952654090908
+'Axel Springer',de,Deutschland,#1818e8,#1818e8,3,0.3679856352017328
 'Johnny Depp',de,USA,#18e8e8,#18e8e8,2,0.3677629740442045
 'Patrick Graichen',de,Deutschland,#1818e8,#1818e8,3,0.3672756734493266
 'Pietro Lombardi',de,Deutschland,#1818e8,#1818e8,1,0.3664882730729323
@@ -222,11 +222,11 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Ayatollah Chamenei',de,Iran,#111111,#111111,1,0.3077702407625
 'Andreas Jung',de,Deutschland,#1818e8,#1818e8,3,0.3074824027518248
 'Yannick Morez',de,Frankreich,#e8e808,#e8e808,1,0.3073209135874999
-'Richard Ferrand',de,Frankreich,#e8e808,#e8e808,1,0.3070624999999999
-'Andrei Nikolajewitsch Kolmogorow',de,Russland,#e81818,#e81818,1,0.3070624999999999
-'Camille Etienne',de,Frankreich,#e8e808,#e8e808,1,0.3070624999999999
-'Detlef Garbe',de,Deutschland,#1818e8,#1818e8,1,0.3070624999999999
 'Aurélien Pradié',de,Frankreich,#e8e808,#e8e808,1,0.3070624999999999
+'Andrei Nikolajewitsch Kolmogorow',de,Russland,#e81818,#e81818,1,0.3070624999999999
+'Richard Ferrand',de,Frankreich,#e8e808,#e8e808,1,0.3070624999999999
+'Detlef Garbe',de,Deutschland,#1818e8,#1818e8,1,0.3070624999999999
+'Camille Etienne',de,Frankreich,#e8e808,#e8e808,1,0.3070624999999999
 'Olaf Scholz',de,Deutschland,#1818e8,#1818e8,3,0.3060209566291014
 'Kevin Kühnert',de,Deutschland,#1818e8,#1818e8,3,0.3052661568897969
 'Charles III',de,UK,#e838e8,#e838e8,3,0.3046119308651951
@@ -390,9 +390,9 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Steffi Lemke',de,Deutschland,#1818e8,#1818e8,3,0.1629047618873548
 'Christoph Heusgen',de,Deutschland,#1818e8,#1818e8,2,0.1624327792537362
 'Alexei Nawalny',de,Russland,#e81818,#e81818,2,0.161669051539228
-'Edir Macedo',de,Brasilien,#58e838,#58e848,1,0.1602885441406249
 'Michelle Neill',de,Irland,#111111,#111111,1,0.1602885441406249
 'Steve Milloy',de,USA,#18e8e8,#18e8e8,1,0.1602885441406249
+'Edir Macedo',de,Brasilien,#58e838,#58e848,1,0.1602885441406249
 'Andreas Baum',de,Deutschland,#1818e8,#1818e8,1,0.1584502875557973
 'Larry Ellison',de,USA,#18e8e8,#18e8e8,1,0.1550774796114642
 'Andrés Manuel López Obrador',de,Mexiko,#111111,#111111,2,0.1545336894397846
