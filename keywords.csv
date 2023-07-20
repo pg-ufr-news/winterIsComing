@@ -233,6 +233,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Afida Turner',de,Frankreich,#e8e808,#e8e808,1,0.3007820268839374
 'Barack Obama',de,USA,#18e8e8,#18e8e8,3,0.2996641882250379
 'Winston Churchill',de,UK,#e838e8,#e838e8,2,0.2984873633406154
+'Jan Böhmermann',de,Deutschland,#1818e8,#1818e8,3,0.2935213033802291
 'Geoffrey Hinton',de,UK,#e838e8,#e838e8,1,0.287415427521514
 'King Charles III',de,UK,#e838e8,#e838e8,2,0.2866234463454403
 'Kemal Klçdarolu',de,Türkei,#111111,#111111,3,0.2862786906655112
@@ -244,7 +245,6 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Martin Scorsese',de,USA,#18e8e8,#18e8e8,2,0.2765116034836655
 'Stephen Hawking',de,UK,#e838e8,#e838e8,1,0.275303918138122
 'Frank Plasberg',de,Deutschland,#1818e8,#1818e8,2,0.271311355898125
-'Jan Böhmermann',de,Deutschland,#1818e8,#1818e8,3,0.2696707451532107
 'Jens Stoltenberg',de,Norwegen,#e818e8,#e818e8,3,0.2673455039168968
 'Elon Musk',de,USA,#18e8e8,#18e8e8,3,0.2649691531606777
 'Putin',de,Russland,#e81818,#e81818,3,0.26463311976709
@@ -390,9 +390,9 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Steffi Lemke',de,Deutschland,#1818e8,#1818e8,3,0.1629047618873548
 'Christoph Heusgen',de,Deutschland,#1818e8,#1818e8,2,0.1624327792537362
 'Alexei Nawalny',de,Russland,#e81818,#e81818,2,0.161669051539228
-'Steve Milloy',de,USA,#18e8e8,#18e8e8,1,0.1602885441406249
 'Edir Macedo',de,Brasilien,#58e838,#58e848,1,0.1602885441406249
 'Michelle Neill',de,Irland,#111111,#111111,1,0.1602885441406249
+'Steve Milloy',de,USA,#18e8e8,#18e8e8,1,0.1602885441406249
 'Andreas Baum',de,Deutschland,#1818e8,#1818e8,1,0.1584502875557973
 'Larry Ellison',de,USA,#18e8e8,#18e8e8,1,0.1550774796114642
 'Andrés Manuel López Obrador',de,Mexiko,#111111,#111111,2,0.1545336894397846
