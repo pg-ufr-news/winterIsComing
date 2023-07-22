@@ -117,7 +117,6 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Patrick Graichen',de,Deutschland,#1818e8,#1818e8,3,0.3672756734493266
 'Pietro Lombardi',de,Deutschland,#1818e8,#1818e8,1,0.3664882730729323
 'Rudy Giuliani',de,USA,#18e8e8,#18e8e8,1,0.3663509646874999
-'Yoon Suk Yeol',de,SüdKorea,#111111,#111111,3,0.3662098103182536
 'Georg Gänswein',de,Deutschland,#1818e8,#1818e8,2,0.3662069177465624
 'Willy Brandt',de,Deutschland,#1818e8,#1818e8,3,0.3649387227155795
 'Linda Yaccarino',de,USA,#18e8e8,#18e8e8,3,0.3648547760833654
@@ -129,13 +128,13 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Marjorie Taylor Greene',de,USA,#18e8e8,#18e8e8,1,0.3624172187
 'Jamie Dimon',de,USA,#18e8e8,#18e8e8,1,0.3615589175613636
 'Katy Perry',de,USA,#18e8e8,#18e8e8,3,0.3614742758982953
-'Dorothée Pacaud',de,Frankreich,#e8e808,#e8e808,1,0.3612499999999999
 'Pedro Sánchez Pérez-Castejón',de,Spanien,#111111,#111111,1,0.3612499999999999
 'Kemal Kiliçdaroglu',de,Türkei,#111111,#111111,1,0.3612499999999999
 'Yevgeny Prigozhin',de,Russland,#e81818,#e81818,1,0.3612499999999999
 'Uwe Neumärker',de,Deutschland,#1818e8,#1818e8,1,0.3612499999999999
 'Leon Botstein',de,USA,#18e8e8,#18e8e8,1,0.3612499999999999
 'Salvador Dali',de,Spanien,#111111,#111111,1,0.3612499999999999
+'Dorothée Pacaud',de,Frankreich,#e8e808,#e8e808,1,0.3612499999999999
 'Henry Ford',de,USA,#18e8e8,#18e8e8,2,0.3606879322925437
 'Steven Spielberg',de,USA,#18e8e8,#18e8e8,2,0.3593590829225568
 'Martin Luther King',de,USA,#18e8e8,#18e8e8,1,0.3587306697431818
@@ -214,6 +213,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Maria Kolesnikowa',de,Belarus,#e81858,#e81858,1,0.317229826023032
 'Markus Wipperfürth',de,Deutschland,#1818e8,#1818e8,1,0.313704319299375
 'Missy Motown',de,Deutschland,#1818e8,#1818e8,1,0.313554291549375
+'Yoon Suk Yeol',de,SüdKorea,#111111,#111111,3,0.3132295237705156
 'Noor Alfallah',de,USA,#18e8e8,#18e8e8,2,0.310536995675
 'Steve Wozniak',de,USA,#18e8e8,#18e8e8,1,0.3103929630499999
 'Matt Damon',de,USA,#18e8e8,#18e8e8,1,0.308394569700974
@@ -388,7 +388,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Steffi Lemke',de,Deutschland,#1818e8,#1818e8,3,0.1629047618873548
 'Christoph Heusgen',de,Deutschland,#1818e8,#1818e8,2,0.1624327792537362
 'Alexei Nawalny',de,Russland,#e81818,#e81818,2,0.161669051539228
-'Michael Walzer',de,USA,#18e8e8,#18e8e8,1,0.16143252860666454
+'Michael Walzer',de,USA,#18e8e8,#18e8e8,1,0.1614325286066645
 'Edir Macedo',de,Brasilien,#58e838,#58e848,1,0.1602885441406249
 'Steve Milloy',de,USA,#18e8e8,#18e8e8,1,0.1602885441406249
 'Michelle Neill',de,Irland,#111111,#111111,1,0.1602885441406249
