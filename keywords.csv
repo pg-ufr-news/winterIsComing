@@ -15,7 +15,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Geert Wilders',de,Niederlande,#111111,#111111,2,0.4692505422499999
 'Kim Yo Jong',de,NordKorea,#111111,#111111,2,0.4689072478571428
 'Bettina Stark-Watzinger',de,Deutschland,#1818e8,#1818e8,2,0.4526787727272727
-'Jack Smith',de,USA,#18e8e8,#18e8e8,3,0.44904574688636356
+'Jack Smith',de,USA,#18e8e8,#18e8e8,3,0.4490457468863635
 'Caren Miosga',de,Deutschland,#1818e8,#1818e8,3,0.4481589247661289
 'Robert Sesselmann',de,Deutschland,#1818e8,#1818e8,3,0.447152758090909
 'Sergej Surowikin',de,Russland,#e81818,#e81818,2,0.4390459340909091
@@ -128,11 +128,11 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Marjorie Taylor Greene',de,USA,#18e8e8,#18e8e8,1,0.3624172187
 'Jamie Dimon',de,USA,#18e8e8,#18e8e8,1,0.3615589175613636
 'Katy Perry',de,USA,#18e8e8,#18e8e8,3,0.3614742758982953
-'Pedro Sánchez Pérez-Castejón',de,Spanien,#111111,#111111,1,0.3612499999999999
+'Kemal Kiliçdaroglu',de,Türkei,#111111,#111111,1,0.3612499999999999
 'Uwe Neumärker',de,Deutschland,#1818e8,#1818e8,1,0.3612499999999999
 'Yevgeny Prigozhin',de,Russland,#e81818,#e81818,1,0.3612499999999999
-'Kemal Kiliçdaroglu',de,Türkei,#111111,#111111,1,0.3612499999999999
 'Leon Botstein',de,USA,#18e8e8,#18e8e8,1,0.3612499999999999
+'Pedro Sánchez Pérez-Castejón',de,Spanien,#111111,#111111,1,0.3612499999999999
 'Dorothée Pacaud',de,Frankreich,#e8e808,#e8e808,1,0.3612499999999999
 'Salvador Dali',de,Spanien,#111111,#111111,1,0.3612499999999999
 'Henry Ford',de,USA,#18e8e8,#18e8e8,2,0.3606879322925437
@@ -289,10 +289,10 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Megyn Kell',de,USA,#18e8e8,#18e8e8,1,0.2218526562499999
 'Robert Nozick',de,USA,#18e8e8,#18e8e8,1,0.2218526562499999
 'Gerhard Schröder',de,Deutschland,#1818e8,#1818e8,3,0.2218338037744111
+'Sergej Schoigu',de,Russland,#e81818,#e81818,3,0.22182858828397886
 'Eva Kaili',de,EU,#111111,#111111,3,0.2197861341940745
 'Boris Pistorius',de,Deutschland,#1818e8,#1818e8,3,0.2189350114484989
 'Mike Pence',de,USA,#18e8e8,#18e8e8,3,0.2184257181908278
-'Sergej Schoigu',de,Russland,#e81818,#e81818,3,0.217707713489173
 'Michael Mann',de,USA,#18e8e8,#18e8e8,3,0.2175966228437927
 'Bodo Ramelow',de,Deutschland,#1818e8,#1818e8,2,0.2164638405657893
 'Recep Tayyip Erdoğan',de,Türkei,#111111,#111111,2,0.216266069377041
