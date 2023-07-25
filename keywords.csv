@@ -69,7 +69,6 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Anne Will',de,Deutschland,#1818e8,#1818e8,3,0.3946270187116735
 'James Cameron',de,USA,#18e8e8,#18e8e8,3,0.3935927591818181
 'Pete Davidson',de,USA,#18e8e8,#18e8e8,1,0.39350041625
-'Kim Jong Un',de,NordKorea,#e85858,#e85858,3,0.3934102046287266
 'Lady Gaga',de,USA,#18e8e8,#18e8e8,2,0.3930541669285714
 'Joachim Gauck',de,Deutschland,#1818e8,#1818e8,3,0.3921735950144318
 'Malu Dreyer',de,Deutschland,#1818e8,#1818e8,2,0.3902178932278409
@@ -124,15 +123,16 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Pippa Middleton',de,UK,#e838e8,#e838e8,1,0.3646564429374999
 'Wolfgang Benz',de,Deutschland,#1818e8,#1818e8,2,0.3644004807499999
 'Robert Oppenheimer',de,USA,#18e8e8,#18e8e8,1,0.3642085335605768
+'Kim Jong Un',de,NordKorea,#e85858,#e85858,3,0.36393647045615674
 'Daniel Penny',de,USA,#18e8e8,#18e8e8,1,0.3636961389541666
 'Marjorie Taylor Greene',de,USA,#18e8e8,#18e8e8,1,0.3624172187
 'Jamie Dimon',de,USA,#18e8e8,#18e8e8,1,0.3615589175613636
 'Katy Perry',de,USA,#18e8e8,#18e8e8,3,0.3614742758982953
-'Pedro Sánchez Pérez-Castejón',de,Spanien,#111111,#111111,1,0.3612499999999999
+'Kemal Kiliçdaroglu',de,Türkei,#111111,#111111,1,0.3612499999999999
 'Uwe Neumärker',de,Deutschland,#1818e8,#1818e8,1,0.3612499999999999
 'Yevgeny Prigozhin',de,Russland,#e81818,#e81818,1,0.3612499999999999
-'Kemal Kiliçdaroglu',de,Türkei,#111111,#111111,1,0.3612499999999999
 'Leon Botstein',de,USA,#18e8e8,#18e8e8,1,0.3612499999999999
+'Pedro Sánchez Pérez-Castejón',de,Spanien,#111111,#111111,1,0.3612499999999999
 'Dorothée Pacaud',de,Frankreich,#e8e808,#e8e808,1,0.3612499999999999
 'Salvador Dali',de,Spanien,#111111,#111111,1,0.3612499999999999
 'Henry Ford',de,USA,#18e8e8,#18e8e8,2,0.3606879322925437
@@ -450,7 +450,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Jewgenij Roisman',de,Russland,#e81818,#e81818,1,0.0996049671635481
 'Steven Milloy',de,USA,#18e8e8,#18e8e8,1,0.0984372021703612
 'Gautam Adani',de,Indien,#111111,#111111,1,0.0980152362022505
-'Nikos Androulakis',de,Griechenland,#1858e8,#1858e8,1,0.09652054891028593
+'Nikos Androulakis',de,Griechenland,#1858e8,#1858e8,1,0.0965205489102859
 'Alfred Nobel',de,Schweden,#111111,#111111,1,0.0925864194644085
 'Sergej Lavrov',de,Russland,#e81818,#e81818,1,0.0922427569981809
 'Milo Yiannopoulos',de,UK,#e838e8,#e838e8,1,0.0920387840292876
