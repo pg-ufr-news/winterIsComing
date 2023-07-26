@@ -22,7 +22,6 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Jeanne du Barry',de,Frankreich,#e8e808,#e8e808,3,0.4384815054112903
 'Hunter Biden',de,USA,#18e8e8,#18e8e8,3,0.4367554704085474
 'Chuck Todd',de,USA,#18e8e8,#18e8e8,2,0.4365500555
-'Al Pacino',de,USA,#18e8e8,#18e8e8,3,0.4349468419852272
 'Barbara Schöneberger',de,Deutschland,#1818e8,#1818e8,2,0.4329086527499999
 'Wolodimir Selenski',de,Ukraine,#e818e8,#e818e8,3,0.4312027118505794
 'König Felipe VI',de,Spanien,#111111,#111111,1,0.4250001049999999
@@ -109,6 +108,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Katja Krasavice',de,Deutschland,#1818e8,#1818e8,2,0.3704495247269317
 'Lachlan Murdoch',de,UK,#e838e8,#e838e8,2,0.369764047799375
 'Ramsan Kadyrow',de,Russland,#e81818,#e81818,3,0.3697535285056816
+'Al Pacino',de,USA,#18e8e8,#18e8e8,2,0.36970499568744314
 'John Rawls',de,USA,#18e8e8,#18e8e8,1,0.369636547799375
 'Hillary Clinton',de,USA,#18e8e8,#18e8e8,2,0.3686952654090908
 'Axel Springer',de,Deutschland,#1818e8,#1818e8,3,0.3679856352017328
@@ -128,11 +128,11 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Marjorie Taylor Greene',de,USA,#18e8e8,#18e8e8,1,0.3624172187
 'Jamie Dimon',de,USA,#18e8e8,#18e8e8,1,0.3615589175613636
 'Katy Perry',de,USA,#18e8e8,#18e8e8,3,0.3614742758982953
-'Pedro Sánchez Pérez-Castejón',de,Spanien,#111111,#111111,1,0.3612499999999999
 'Leon Botstein',de,USA,#18e8e8,#18e8e8,1,0.3612499999999999
-'Yevgeny Prigozhin',de,Russland,#e81818,#e81818,1,0.3612499999999999
 'Kemal Kiliçdaroglu',de,Türkei,#111111,#111111,1,0.3612499999999999
+'Yevgeny Prigozhin',de,Russland,#e81818,#e81818,1,0.3612499999999999
 'Uwe Neumärker',de,Deutschland,#1818e8,#1818e8,1,0.3612499999999999
+'Pedro Sánchez Pérez-Castejón',de,Spanien,#111111,#111111,1,0.3612499999999999
 'Dorothée Pacaud',de,Frankreich,#e8e808,#e8e808,1,0.3612499999999999
 'Salvador Dali',de,Spanien,#111111,#111111,1,0.3612499999999999
 'Henry Ford',de,USA,#18e8e8,#18e8e8,2,0.3606879322925437
