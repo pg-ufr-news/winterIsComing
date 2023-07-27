@@ -52,7 +52,6 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Bill Clinton',de,USA,#18e8e8,#18e8e8,2,0.4099996259738636
 'George Clooney',de,USA,#18e8e8,#18e8e8,3,0.4095069081581249
 'Bettina Jarasch',de,Deutschland,#1818e8,#1818e8,2,0.4074597665909091
-'Dmitri Medwedew',de,Russland,#e81818,#e81818,3,0.4053646582272727
 'George Bush',de,USA,#18e8e8,#18e8e8,3,0.405319014562784
 'Kanye West',de,USA,#18e8e8,#18e8e8,3,0.4045845351656869
 'Ulrich Reitz',de,Deutschland,#1818e8,#1818e8,1,0.4045000747721427
@@ -113,6 +112,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Hillary Clinton',de,USA,#18e8e8,#18e8e8,2,0.3686952654090908
 'Axel Springer',de,Deutschland,#1818e8,#1818e8,3,0.3679856352017328
 'Johnny Depp',de,USA,#18e8e8,#18e8e8,2,0.3677629740442045
+'Dmitri Medwedew',de,Russland,#e81818,#e81818,3,0.36769359267499996
 'Patrick Graichen',de,Deutschland,#1818e8,#1818e8,3,0.3672756734493266
 'Pietro Lombardi',de,Deutschland,#1818e8,#1818e8,1,0.3664882730729323
 'Rudy Giuliani',de,USA,#18e8e8,#18e8e8,1,0.3663509646874999
@@ -128,11 +128,11 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Marjorie Taylor Greene',de,USA,#18e8e8,#18e8e8,1,0.3624172187
 'Jamie Dimon',de,USA,#18e8e8,#18e8e8,1,0.3615589175613636
 'Katy Perry',de,USA,#18e8e8,#18e8e8,3,0.3614742758982953
-'Leon Botstein',de,USA,#18e8e8,#18e8e8,1,0.3612499999999999
 'Kemal Kiliçdaroglu',de,Türkei,#111111,#111111,1,0.3612499999999999
-'Yevgeny Prigozhin',de,Russland,#e81818,#e81818,1,0.3612499999999999
 'Uwe Neumärker',de,Deutschland,#1818e8,#1818e8,1,0.3612499999999999
+'Yevgeny Prigozhin',de,Russland,#e81818,#e81818,1,0.3612499999999999
 'Pedro Sánchez Pérez-Castejón',de,Spanien,#111111,#111111,1,0.3612499999999999
+'Leon Botstein',de,USA,#18e8e8,#18e8e8,1,0.3612499999999999
 'Dorothée Pacaud',de,Frankreich,#e8e808,#e8e808,1,0.3612499999999999
 'Salvador Dali',de,Spanien,#111111,#111111,1,0.3612499999999999
 'Henry Ford',de,USA,#18e8e8,#18e8e8,2,0.3606879322925437
