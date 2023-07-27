@@ -1,12 +1,11 @@
 keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
-'Leandro De Niro Rodriguez',de,USA,#18e8e8,#18e8e8,2,0.5
-'Sergei Surovikin',de,Russland,#e81818,#e81818,2,0.5
 'Pierre-Yves Dermagne',de,Belgien,#111111,#111111,2,0.5
 'Reinhard Marx',de,Deutschland,#1818e8,#1818e8,2,0.5
 'Alexander De Croo',de,Belgien,#111111,#111111,2,0.5
 'Jesse Watters',de,USA,#18e8e8,#18e8e8,2,0.5
 'Sultan al-Jaber',de,VAE,#111111,#111111,2,0.5
 'Matteo Salvini',de,Italien,#111111,#111111,2,0.5
+'Sergei Surovikin',de,Russland,#e81818,#e81818,2,0.5
 'Drena De Niro',de,USA,#18e8e8,#18e8e8,2,0.4957170716666667
 'Pedro Sánchez',de,Spanien,#111111,#111111,2,0.4935888836363636
 'Tiffany Chen',de,USA,#18e8e8,#18e8e8,2,0.4806170386666666
@@ -22,6 +21,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Chuck Todd',de,USA,#18e8e8,#18e8e8,2,0.4365500555
 'Barbara Schöneberger',de,Deutschland,#1818e8,#1818e8,2,0.4329086527499999
 'Wolodimir Selenski',de,Ukraine,#e818e8,#e818e8,3,0.4312027118505794
+'Leandro De Niro Rodriguez',de,USA,#18e8e8,#18e8e8,2,0.42875037499999996
 'König Felipe VI',de,Spanien,#111111,#111111,1,0.4250001049999999
 'Sergio Mattarella',de,Italien,#111111,#111111,1,0.425000075
 'Gilbert Plass',de,Kanada,#111111,#111111,1,0.425
@@ -112,7 +112,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Hillary Clinton',de,USA,#18e8e8,#18e8e8,2,0.3686952654090908
 'Axel Springer',de,Deutschland,#1818e8,#1818e8,3,0.3679856352017328
 'Johnny Depp',de,USA,#18e8e8,#18e8e8,2,0.3677629740442045
-'Dmitri Medwedew',de,Russland,#e81818,#e81818,3,0.36769359267499996
+'Dmitri Medwedew',de,Russland,#e81818,#e81818,3,0.3676935926749999
 'Patrick Graichen',de,Deutschland,#1818e8,#1818e8,3,0.3672756734493266
 'Pietro Lombardi',de,Deutschland,#1818e8,#1818e8,1,0.3664882730729323
 'Rudy Giuliani',de,USA,#18e8e8,#18e8e8,1,0.3663509646874999
@@ -128,11 +128,11 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Marjorie Taylor Greene',de,USA,#18e8e8,#18e8e8,1,0.3624172187
 'Jamie Dimon',de,USA,#18e8e8,#18e8e8,1,0.3615589175613636
 'Katy Perry',de,USA,#18e8e8,#18e8e8,3,0.3614742758982953
-'Kemal Kiliçdaroglu',de,Türkei,#111111,#111111,1,0.3612499999999999
+'Pedro Sánchez Pérez-Castejón',de,Spanien,#111111,#111111,1,0.3612499999999999
 'Uwe Neumärker',de,Deutschland,#1818e8,#1818e8,1,0.3612499999999999
 'Yevgeny Prigozhin',de,Russland,#e81818,#e81818,1,0.3612499999999999
-'Pedro Sánchez Pérez-Castejón',de,Spanien,#111111,#111111,1,0.3612499999999999
 'Leon Botstein',de,USA,#18e8e8,#18e8e8,1,0.3612499999999999
+'Kemal Kiliçdaroglu',de,Türkei,#111111,#111111,1,0.3612499999999999
 'Dorothée Pacaud',de,Frankreich,#e8e808,#e8e808,1,0.3612499999999999
 'Salvador Dali',de,Spanien,#111111,#111111,1,0.3612499999999999
 'Henry Ford',de,USA,#18e8e8,#18e8e8,2,0.3606879322925437
