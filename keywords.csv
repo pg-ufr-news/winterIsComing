@@ -1,9 +1,9 @@
 keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Sultan al-Jaber',de,VAE,#111111,#111111,2,0.5
-'Jesse Watters',de,USA,#18e8e8,#18e8e8,2,0.5
-'Matteo Salvini',de,Italien,#111111,#111111,2,0.5
 'Sergei Surovikin',de,Russland,#e81818,#e81818,2,0.5
+'Matteo Salvini',de,Italien,#111111,#111111,2,0.5
 'Reinhard Marx',de,Deutschland,#1818e8,#1818e8,2,0.5
+'Jesse Watters',de,USA,#18e8e8,#18e8e8,2,0.5
 'Alexander De Croo',de,Belgien,#111111,#111111,2,0.5
 'Drena De Niro',de,USA,#18e8e8,#18e8e8,2,0.4957170716666667
 'Pedro Sánchez',de,Spanien,#111111,#111111,2,0.4935888836363636
@@ -128,9 +128,9 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Katy Perry',de,USA,#18e8e8,#18e8e8,3,0.3614742758982953
 'Pedro Sánchez Pérez-Castejón',de,Spanien,#111111,#111111,1,0.3612499999999999
 'Kemal Kiliçdaroglu',de,Türkei,#111111,#111111,1,0.3612499999999999
-'Uwe Neumärker',de,Deutschland,#1818e8,#1818e8,1,0.3612499999999999
 'Leon Botstein',de,USA,#18e8e8,#18e8e8,1,0.3612499999999999
 'Yevgeny Prigozhin',de,Russland,#e81818,#e81818,1,0.3612499999999999
+'Uwe Neumärker',de,Deutschland,#1818e8,#1818e8,1,0.3612499999999999
 'Dorothée Pacaud',de,Frankreich,#e8e808,#e8e808,1,0.3612499999999999
 'Salvador Dali',de,Spanien,#111111,#111111,1,0.3612499999999999
 'Henry Ford',de,USA,#18e8e8,#18e8e8,2,0.3606879322925437
@@ -302,7 +302,6 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Thomas Haldenwang',de,Deutschland,#1818e8,#1818e8,2,0.2122102233303716
 'Sandra Maischberger',de,Deutschland,#1818e8,#1818e8,2,0.2116071361922318
 'Xi Jinping',de,China,#e88818,#e88818,3,0.2109909185156437
-'Ed McVey',de,UK,#e838e8,#e838e8,1,0.2091052089290406
 'Julian Reichelt',de,Deutschland,#1818e8,#1818e8,2,0.2089303045040666
 'Ola Källenius',de,Deutschland,#1818e8,#1818e8,2,0.2079684294467748
 'Napoleon Bonaparte',de,Frankreich,#e8e808,#e8e808,1,0.2063982911926452
@@ -366,7 +365,8 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Macky Sall',de,Senegal,#111111,#111111,2,0.1785743603676145
 'Hun Sen',de,Kambodscha,#111111,#111111,1,0.1785678593735536
 'Anthony Fauci',de,USA,#18e8e8,#18e8e8,1,0.1784259382242243
-'Alice Schwarzer',de,Deutschland,#1818e8,#1818e8,2,0.17727542023778156
+'Ed McVey',de,UK,#e838e8,#e838e8,1,0.1777394275896845
+'Alice Schwarzer',de,Deutschland,#1818e8,#1818e8,2,0.1772754202377815
 'Mukesh Ambani',de,Indien,#111111,#111111,1,0.1764031858114948
 'Herschel Walker',de,USA,#18e8e8,#18e8e8,1,0.1763173985546874
 'David Malpass',de,USA,#18e8e8,#18e8e8,2,0.1760537972183535
