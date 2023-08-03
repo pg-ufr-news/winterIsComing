@@ -17,7 +17,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Chuck Todd',de,USA,#18e8e8,#18e8e8,2,0.4365500555
 'Barbara Schöneberger',de,Deutschland,#1818e8,#1818e8,2,0.4329086527499999
 'Wolodimir Selenski',de,Ukraine,#e818e8,#e818e8,3,0.4312027118505794
-'Reinhard Marx',de,Deutschland,#1818e8,#1818e8,1,0.42882583249999995
+'Reinhard Marx',de,Deutschland,#1818e8,#1818e8,1,0.4288258324999999
 'Leandro De Niro Rodriguez',de,USA,#18e8e8,#18e8e8,2,0.4287503749999999
 'Robert Sesselmann',de,Deutschland,#1818e8,#1818e8,3,0.4259418752863635
 'König Felipe VI',de,Spanien,#111111,#111111,1,0.4250001049999999
@@ -30,6 +30,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Gilbert Plass',de,Kanada,#111111,#111111,1,0.425
 'Queen Elizabeth II',de,UK,#e838e8,#e838e8,3,0.4247986346727272
 'Stormy Daniels',de,USA,#18e8e8,#18e8e8,3,0.4247779199124999
+'Lauren Sanchez',de,USA,#18e8e8,#18e8e8,2,0.42476340770090615
 'Königin Camilla',de,UK,#e838e8,#e838e8,3,0.4240937618534027
 'Prinzessin Kate',de,UK,#e838e8,#e838e8,3,0.4235836575190908
 'Karim Benzema',de,Frankreich,#e8e808,#e8e808,3,0.4230988450829544
@@ -123,14 +124,14 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Marjorie Taylor Greene',de,USA,#18e8e8,#18e8e8,1,0.3624172187
 'Jamie Dimon',de,USA,#18e8e8,#18e8e8,1,0.3615589175613636
 'Katy Perry',de,USA,#18e8e8,#18e8e8,3,0.3614742758982953
+'Yevgeny Prigozhin',de,Russland,#e81818,#e81818,1,0.3612499999999999
 'Kemal Kiliçdaroglu',de,Türkei,#111111,#111111,1,0.3612499999999999
 'Pedro Sánchez Pérez-Castejón',de,Spanien,#111111,#111111,1,0.3612499999999999
 'Pierre-Yves Dermagne',de,Belgien,#111111,#111111,1,0.3612499999999999
-'Yevgeny Prigozhin',de,Russland,#e81818,#e81818,1,0.3612499999999999
-'Leon Botstein',de,USA,#18e8e8,#18e8e8,1,0.3612499999999999
 'Uwe Neumärker',de,Deutschland,#1818e8,#1818e8,1,0.3612499999999999
-'Salvador Dali',de,Spanien,#111111,#111111,1,0.3612499999999999
 'Dorothée Pacaud',de,Frankreich,#e8e808,#e8e808,1,0.3612499999999999
+'Leon Botstein',de,USA,#18e8e8,#18e8e8,1,0.3612499999999999
+'Salvador Dali',de,Spanien,#111111,#111111,1,0.3612499999999999
 'Henry Ford',de,USA,#18e8e8,#18e8e8,2,0.3606879322925437
 'Steven Spielberg',de,USA,#18e8e8,#18e8e8,2,0.3593590829225568
 'Martin Luther King',de,USA,#18e8e8,#18e8e8,1,0.3587306697431818
@@ -204,7 +205,6 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Bruno Le Maire',de,Frankreich,#e8e808,#e8e808,2,0.3249361748749999
 'George Washington',de,USA,#18e8e8,#18e8e8,2,0.3247402200607953
 'Emmanuel Macron',de,Frankreich,#e8e808,#e8e808,3,0.3234161993634266
-'Lauren Sanchez',de,USA,#18e8e8,#18e8e8,1,0.3230745796481249
 'Chez Krömer',de,Deutschland,#1818e8,#1818e8,1,0.3198003061974999
 'Silvio Berlusconi',de,Italien,#111111,#111111,3,0.3184097321982022
 'Maria Kolesnikowa',de,Belarus,#e81858,#e81858,1,0.317229826023032
