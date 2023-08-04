@@ -69,7 +69,6 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Pete Davidson',de,USA,#18e8e8,#18e8e8,1,0.39350041625
 'Lady Gaga',de,USA,#18e8e8,#18e8e8,2,0.3930541669285714
 'Malu Dreyer',de,Deutschland,#1818e8,#1818e8,2,0.3902178932278409
-'Prinz William',de,UK,#e838e8,#e838e8,3,0.3900720351515233
 'Andreas Ellermann',de,Deutschland,#1818e8,#1818e8,2,0.3897898440602272
 'Rupert Murdoch',de,USA,#18e8e8,#18e8e8,2,0.3883735170432178
 'Lauren Sánchez',de,USA,#18e8e8,#18e8e8,1,0.3877847377763157
@@ -124,16 +123,17 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Marjorie Taylor Greene',de,USA,#18e8e8,#18e8e8,1,0.3624172187
 'Jamie Dimon',de,USA,#18e8e8,#18e8e8,1,0.3615589175613636
 'Katy Perry',de,USA,#18e8e8,#18e8e8,3,0.3614742758982953
+'Yevgeny Prigozhin',de,Russland,#e81818,#e81818,1,0.3612499999999999
 'Kemal Kiliçdaroglu',de,Türkei,#111111,#111111,1,0.3612499999999999
 'Pierre-Yves Dermagne',de,Belgien,#111111,#111111,1,0.3612499999999999
-'Yevgeny Prigozhin',de,Russland,#e81818,#e81818,1,0.3612499999999999
-'Pedro Sánchez Pérez-Castejón',de,Spanien,#111111,#111111,1,0.3612499999999999
 'Uwe Neumärker',de,Deutschland,#1818e8,#1818e8,1,0.3612499999999999
+'Pedro Sánchez Pérez-Castejón',de,Spanien,#111111,#111111,1,0.3612499999999999
 'Dorothée Pacaud',de,Frankreich,#e8e808,#e8e808,1,0.3612499999999999
 'Salvador Dali',de,Spanien,#111111,#111111,1,0.3612499999999999
 'Leon Botstein',de,USA,#18e8e8,#18e8e8,1,0.3612499999999999
 'Henry Ford',de,USA,#18e8e8,#18e8e8,2,0.3606879322925437
 'Steven Spielberg',de,USA,#18e8e8,#18e8e8,2,0.3593590829225568
+'Prinz William',de,UK,#e838e8,#e838e8,3,0.3592413526060675
 'Martin Luther King',de,USA,#18e8e8,#18e8e8,1,0.3587306697431818
 'Leonardo DiCaprio',de,USA,#18e8e8,#18e8e8,3,0.3582551360048295
 'Bruce Springsteen',de,USA,#18e8e8,#18e8e8,2,0.3579094312081051
@@ -229,7 +229,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Afida Turner',de,Frankreich,#e8e808,#e8e808,1,0.3007820268839374
 'Barack Obama',de,USA,#18e8e8,#18e8e8,3,0.2996641882250379
 'Winston Churchill',de,UK,#e838e8,#e838e8,2,0.2984873633406154
-'Jack Teixeira',de,USA,#18e8e8,#18e8e8,2,0.29673274021295487
+'Jack Teixeira',de,USA,#18e8e8,#18e8e8,2,0.2967327402129548
 'Jan Böhmermann',de,Deutschland,#1818e8,#1818e8,3,0.2935213033802291
 'Dieter Bohlen',de,Deutschland,#1818e8,#1818e8,3,0.2895958084030875
 'Geoffrey Hinton',de,UK,#e838e8,#e838e8,1,0.287415427521514
