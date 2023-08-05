@@ -8,7 +8,6 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Prinz Archie',de,UK,#e838e8,#e838e8,3,0.4504653135427374
 'Jack Smith',de,USA,#18e8e8,#18e8e8,3,0.4490457468863635
 'Caren Miosga',de,Deutschland,#1818e8,#1818e8,3,0.4481589247661289
-'Sergej Surowikin',de,Russland,#e81818,#e81818,2,0.4390459340909091
 'Jeanne du Barry',de,Frankreich,#e8e808,#e8e808,3,0.4384815054112903
 'Hunter Biden',de,USA,#18e8e8,#18e8e8,3,0.4367554704085474
 'Chuck Todd',de,USA,#18e8e8,#18e8e8,2,0.4365500555
@@ -37,6 +36,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Jens Spahn',de,Deutschland,#1818e8,#1818e8,3,0.4217988603795453
 'Drena De Niro',de,USA,#18e8e8,#18e8e8,1,0.4213598859166667
 'Mathias Döpfner',de,Deutschland,#1818e8,#1818e8,3,0.420827078987855
+'Sergej Surowikin',de,Russland,#e81818,#e81818,2,0.4190500698863636
 'Prince Charles',de,UK,#e838e8,#e838e8,3,0.4179498076011362
 'Lionel Richie',de,USA,#18e8e8,#18e8e8,3,0.4172060794669574
 'Marine Le Pen',de,Frankreich,#e8e808,#e8e808,2,0.417100555
@@ -125,10 +125,10 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Katy Perry',de,USA,#18e8e8,#18e8e8,3,0.3614742758982953
 'Uwe Neumärker',de,Deutschland,#1818e8,#1818e8,1,0.3612499999999999
 'Yevgeny Prigozhin',de,Russland,#e81818,#e81818,1,0.3612499999999999
-'Pierre-Yves Dermagne',de,Belgien,#111111,#111111,1,0.3612499999999999
 'Kemal Kiliçdaroglu',de,Türkei,#111111,#111111,1,0.3612499999999999
-'Pedro Sánchez Pérez-Castejón',de,Spanien,#111111,#111111,1,0.3612499999999999
+'Pierre-Yves Dermagne',de,Belgien,#111111,#111111,1,0.3612499999999999
 'Dorothée Pacaud',de,Frankreich,#e8e808,#e8e808,1,0.3612499999999999
+'Pedro Sánchez Pérez-Castejón',de,Spanien,#111111,#111111,1,0.3612499999999999
 'Salvador Dali',de,Spanien,#111111,#111111,1,0.3612499999999999
 'Leon Botstein',de,USA,#18e8e8,#18e8e8,1,0.3612499999999999
 'Henry Ford',de,USA,#18e8e8,#18e8e8,2,0.3606879322925437
