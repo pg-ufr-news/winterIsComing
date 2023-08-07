@@ -6,8 +6,10 @@ import io
 #import requests
 import glob
 
-import datetime
+import time
+from datetime import datetime
 from dateutil import parser
+from datetime import date, timedelta, datetime, timezone
 
 # pip3 install spacy
 # python3 -m spacy download de_core_news_md
@@ -25,6 +27,24 @@ nltk.download('punkt')
 DATA_PATH = Path.cwd()
 if(not os.path.exists(DATA_PATH / 'csv')):
     os.mkdir(DATA_PATH / 'csv')
+
+def getAge(dateString):
+    today = datetime.now(timezone.utc)
+    timeDate = -1
+    pubDate = None
+    try:
+        pubDate = parser.parse(dateString)
+    except:
+        print('date parse error 1')
+    if(not pubDate):
+      try:
+        pubDate = parser.isoparse(dateString)
+      except:
+        print('date parse error 2')   
+    if(pubDate):
+        timeDate = today - pubDate
+        timeDate = timeDate.days 
+    return timeDate
 
 def getNewsFiles():
     fileName = './csv/news_????_??.csv'
@@ -51,6 +71,11 @@ keywordsDF = pd.read_csv(DATA_PATH / 'keywords.csv', delimiter=',')
 keywordsDF = keywordsDF.drop(columns = ['language'])
 
 newsDf = getNewsDF()
+if(not newsDf.empty):
+  newsDf['age'] = newsDf['published'].apply(
+    lambda x: 
+        getAge(x)
+  )
 print(newsDf)   
 
 keywordsNewsDF = pd.merge(keywordsDF, newsDf, how='left', left_on=['keyword'], right_on=['keyword'])
@@ -183,7 +208,7 @@ for index, column in objNewsDF.iterrows():
                 else:    
                     indexPersons[personText] = {'phrase':personText, 'label':entity.label_, 'sentiment':sentence.sentiment.polarity,
                                                  'subjectivity':sentence.sentiment.subjectivity, 'language':lang, 'count':1} 
-                if(not personInSearch(personText)):
+                if(not personInSearch(personText) and (column.age < 60)):
                   if(personText in indexNewPersons):
                     indexNewPersons[personText]['count'] += 1
                     indexNewPersons[personText]['sentiment'] += sentence.sentiment.polarity

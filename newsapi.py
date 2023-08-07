@@ -54,6 +54,7 @@ keywordsDF['crc'] = keywordsDF['uniqueString'].apply(
     lambda x: 
         hashlib.sha256(x.encode()).hexdigest()
 )
+keywordsDF = keywordsDF.drop_duplicates(subset=['keyword'])
 keywordsDF = keywordsDF.sort_values(by=['ratioNew'], ascending=False)  
 
 
@@ -438,7 +439,7 @@ def inqRandomNews():
     rndKey = keywordsDF.sample()
     randomNumber = random.random()
    
-    #randomNumber = 0.85
+    #randomNumber = 0.15
 
     print(['randomNumber: ',randomNumber])
     if(not keywordsNewsDF2.empty):
@@ -459,8 +460,8 @@ def inqRandomNews():
     #if foundNothing:  newLimit = maximum(1,random.choice(range(currPage-1,limitPage-1)))
 
     ## cheat for now!     
-    ### keywordEmptyDF = keywordsDF[keywordsDF['keyword']=="'Ron DeSantis'"]
-    ### rndKey = keywordEmptyDF.sample()
+    ## keywordEmptyDF = keywordsDF[keywordsDF['keyword']=="'Jewgeni Prigoschin'"]
+    ## rndKey = keywordEmptyDF.sample()
     ## rm in final version
     ### rndKey = keywordsDF3.head(1).sample()
 
@@ -587,6 +588,7 @@ if(age>60*60*5*0):
 inqRandomNews()
 
 #keywordsDF = keywordsDF.sort_values(by=['topic','keyword'])
+keywordsDF = keywordsDF[(keywordsDF.ratioNew > 0.05)]
 keywordsDF = keywordsDF.sort_values(by=['ratioNew'], ascending=False)
 keywordsDF.to_csv(DATA_PATH / 'keywords.csv', columns=keywordsFields,index=False)  
 
