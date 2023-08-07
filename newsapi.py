@@ -64,8 +64,9 @@ def addNewNames(urlNames, keyDF, newRatio=0.5,language='de', limitCount=9):
     newDF = newDF[(newDF['count'] > limitCount)]
     if(not newDF.empty):
       for index, column in newDF.iterrows():
-        if(not column['phrase'] in keyDF['keyword'].unique()):
-          newData = {'keyword':column['phrase'],'language':language,'topic':'unknown','topicColor':'#111111','keywordColor':'#111111','limitPages':2,'ratioNew':(newRatio+random.random()/100)}
+        newPhrase = "'" + column['phrase'] + "'"  
+        if(not newPhrase in keyDF['keyword'].unique()):
+          newData = {'keyword':newPhrase,'language':language,'topic':'unknown','topicColor':'#111111','keywordColor':'#111111','limitPages':2,'ratioNew':(newRatio+random.random()/100)}
           ##print(newData)  
           keyDF = keyDF.append(newData, ignore_index=True)
     return keyDF
