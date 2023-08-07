@@ -11,6 +11,7 @@ import glob
 
 import aiohttp
 import asyncio
+import io
 import requests
 from urllib.parse import urlparse
 import json
@@ -57,6 +58,17 @@ keywordsDF['crc'] = keywordsDF['uniqueString'].apply(
 keywordsDF = keywordsDF.drop_duplicates(subset=['keyword'])
 keywordsDF = keywordsDF.sort_values(by=['ratioNew'], ascending=False)  
 
+def addNewNames(urlNames, keyDF, newRatio=0.5,language='de', limitCount=9):
+    stream=requests.get(urlNames).content
+    newDF=pd.read_csv(io.StringIO(stream.decode('utf-8')), delimiter=',')
+    newDF = newDF[(newDF['count'] > limitCount)]
+    if(not newDF.empty):
+      for index, column in newDF.iterrows():
+        if(not column['phrase'] in keyDF['keyword'].unique()):
+          newData = {'keyword':column['phrase'],'language':language,'topic':'unknown','topicColor':'#111111','keywordColor':'#111111','limitPages':2,'ratioNew':(newRatio+random.random()/100)}
+          ##print(newData)  
+          keyDF = keyDF.append(newData, ignore_index=True)
+    return keyDF
 
 def getNewsFiles():
     fileName = './csv/news_????_??.csv'
@@ -588,6 +600,10 @@ if(age>60*60*5*0):
     inqRandomNews()
 '''
 inqRandomNews()
+
+keywordsDF = addNewNames('https://raw.githubusercontent.com/pg-ufr-news/gensChuchoter/main/csv/sentiments_new_persons.csv', keywordsDF, 0.5, 'de', 9)
+keywordsDF = addNewNames('https://raw.githubusercontent.com/pg-ufr-news/winterIsComing/main/csv/sentiments_new_persons.csv', keywordsDF, 0.6, 'de', 9)
+keywordsDF = addNewNames('https://raw.githubusercontent.com/pg-ufr-news/personWhisperer/main/csv/sentiments_new_persons.csv', keywordsDF, 0.5, 'de', 9)
 
 #keywordsDF = keywordsDF.sort_values(by=['topic','keyword'])
 keywordsDF = keywordsDF[(keywordsDF.ratioNew > 0.05)]
