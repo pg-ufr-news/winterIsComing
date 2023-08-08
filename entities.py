@@ -76,6 +76,7 @@ if(not newsDf.empty):
     lambda x: 
         getAge(x)
   )
+  newsDf = newsDf[(newsDf.age>0) & (newsDf.age < 90)]
 print(newsDf)   
 
 keywordsNewsDF = pd.merge(keywordsDF, newsDf, how='left', left_on=['keyword'], right_on=['keyword'])

@@ -34,6 +34,23 @@ if(not os.path.exists(DATA_PATH / 'img')):
 if(not os.path.exists(DATA_PATH / 'csv')):
     os.mkdir(DATA_PATH / 'csv')
 
+def getAge(dateString):
+    today = datetime.now(timezone.utc)
+    timeDate = -1
+    pubDate = None
+    try:
+        pubDate = parser.parse(dateString)
+    except:
+        print('date parse error 1')
+    if(not pubDate):
+      try:
+        pubDate = parser.isoparse(dateString)
+      except:
+        print('date parse error 2')   
+    if(pubDate):
+        timeDate = today - pubDate
+        timeDate = timeDate.days 
+    return timeDate
 
 def getNewsFiles():
     fileName = './csv/news_????_??.csv'
@@ -57,6 +74,7 @@ def getNewsDF():
     return newsDF         
 
 def extractTopPercent(df1, limit=0.95, maxSize=25, counter='count'):
+  df1 = df1.dropna()
   df1 = df1.sort_values(by=[counter], ascending=False)
   df1['fraction'] = 0.0
   df1['fracSum'] = 0.0
@@ -86,6 +104,12 @@ newsDf['title'] = newsDf['title'].fillna('')
 newsDf['description'] = newsDf['description'].fillna('')
 newsDf['quote'] = newsDf['quote'].fillna('')
 newsDf['text'] = newsDf['title'] + ' ' + newsDf['description'] 
+if(not newsDf.empty):
+  newsDf['age'] = newsDf['published'].apply(
+    lambda x: 
+        getAge(x)
+  )
+  newsDf = newsDf[(newsDf.age>0) & (newsDf.age < 90)]
 print(newsDf)  
 
 # Topics & Keywords
