@@ -6,6 +6,10 @@ import io
 #import requests
 import glob
 
+import time
+from datetime import datetime
+from dateutil import parser
+from datetime import date, timedelta, datetime, timezone
 
 import nltk
 import sklearn
@@ -29,6 +33,24 @@ if(not os.path.exists(DATA_PATH / 'csv')):
     os.mkdir(DATA_PATH / 'csv')
 if(not os.path.exists(DATA_PATH / 'img')):
     os.mkdir(DATA_PATH / 'img')
+
+def getAge(dateString):
+    today = datetime.now(timezone.utc)
+    timeDate = -1
+    pubDate = None
+    try:
+        pubDate = parser.parse(dateString)
+    except:
+        print('date parse error 1')
+    if(not pubDate):
+      try:
+        pubDate = parser.isoparse(dateString)
+      except:
+        print('date parse error 2')   
+    if(pubDate):
+        timeDate = today - pubDate
+        timeDate = timeDate.days 
+    return timeDate
 
 def getNewsFiles():
     fileName = './csv/news_????_??.csv'
@@ -55,6 +77,12 @@ keywordsColorsDF = pd.read_csv(DATA_PATH / 'keywords.csv', delimiter=',')
 topicsColorsDF = keywordsColorsDF.drop_duplicates(subset=['topic'])
 
 newsDf = getNewsDF()
+if(not newsDf.empty):
+  newsDf['age'] = newsDf['published'].apply(
+    lambda x: 
+        getAge(x)
+  )
+  newsDf = newsDf[(newsDf.age>0) & (newsDf.age < 90)]
 print(newsDf)   
 
 language = 'ger'
