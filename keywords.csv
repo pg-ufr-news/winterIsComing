@@ -1,21 +1,19 @@
 keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
-'Ben Affleck',de,unknown,#111111,#111111,2,0.502125675640224
 'Premier ministre',de,unknown,#111111,#111111,2,0.5020008203279572
 'Roman Pacino',de,unknown,#111111,#111111,2,0.5014227793631251
 'David Koch',de,unknown,#111111,#111111,2,0.5013594205209728
 'Pap Ndiaye',de,unknown,#111111,#111111,2,0.5006943121447417
 'Jane Fonda',de,unknown,#111111,#111111,2,0.5004190797930989
-'Geert Wilders',de,Niederlande,#111111,#111111,2,0.5
-'Franca Lehfeldt',de,Deutschland,#1818e8,#1818e8,2,0.5
-'George Santos',de,USA,#18e8e8,#18e8e8,2,0.5
 'Jesse Watters',de,USA,#18e8e8,#18e8e8,2,0.5
-'Bettina Stark-Watzinger',de,Deutschland,#1818e8,#1818e8,2,0.5
-'Laura Ingraham',de,USA,#18e8e8,#18e8e8,2,0.5
+'Eric Adams',de,USA,#18e8e8,#18e8e8,2,0.5
 'Gilbert Plass',de,Kanada,#111111,#111111,2,0.5
+'Laura Ingraham',de,USA,#18e8e8,#18e8e8,2,0.5
+'Bettina Stark-Watzinger',de,Deutschland,#1818e8,#1818e8,2,0.5
+'Geert Wilders',de,Niederlande,#111111,#111111,2,0.5
+'George Santos',de,USA,#18e8e8,#18e8e8,2,0.5
+'Franca Lehfeldt',de,Deutschland,#1818e8,#1818e8,2,0.5
 'Sergio Mattarella',de,Italien,#111111,#111111,2,0.5
 'Drena De Niro',de,USA,#18e8e8,#18e8e8,2,0.5
-'Sergej Surowikin',de,Russland,#e81818,#e81818,2,0.5
-'Eric Adams',de,USA,#18e8e8,#18e8e8,2,0.5
 'Chelsea Handler',de,USA,#18e8e8,#18e8e8,2,0.5
 'Sultan al-Jaber',de,VAE,#111111,#111111,2,0.5
 'Matteo Salvini',de,Italien,#111111,#111111,2,0.5
@@ -23,6 +21,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Tony Bennett',de,USA,#18e8e8,#18e8e8,2,0.5
 'Leandro De Niro Rodriguez',de,USA,#18e8e8,#18e8e8,2,0.5
 'Moon Hyung-jin',de,USA,#18e8e8,#18e8e8,2,0.5
+'Sergej Surowikin',de,Russland,#e81818,#e81818,2,0.5
 'Michael Kahle',de,Deutschland,#1818e8,#1818e8,1,0.49
 'Wagner-Chef Prigoschin',de,unknown,#111111,#111111,3,0.4786650554135916
 'Jack Smith',de,USA,#18e8e8,#18e8e8,2,0.4754084304545454
@@ -31,6 +30,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'nan nan',de,unknown,#111111,#111111,1,0.4526354265249211
 'Prinz Archie',de,UK,#e838e8,#e838e8,3,0.4504653135427374
 'Caren Miosga',de,Deutschland,#1818e8,#1818e8,3,0.4481589247661289
+'Ben Affleck',de,unknown,#111111,#111111,3,0.4442433485799047
 'Hubert Aiwanger',de,unknown,#111111,#111111,3,0.4396049721582601
 'Jessy Wellmer',de,unknown,#111111,#111111,1,0.4384305193363634
 'Tiffany Chen',de,USA,#18e8e8,#18e8e8,2,0.4374473751393938
@@ -49,7 +49,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Vivek Ramaswamy',de,unknown,#111111,#111111,1,0.4286975241527148
 'président de la République',de,unknown,#111111,#111111,1,0.4282845981001025
 'Alexander De Croo',de,Belgien,#111111,#111111,2,0.42710021
-'Gayle King',de,unknown,#111111,#111111,1,0.42686861458078806
+'Gayle King',de,unknown,#111111,#111111,1,0.426868614580788
 'Robert Sesselmann',de,Deutschland,#1818e8,#1818e8,3,0.4259418752863635
 'Reinhard Marx',de,Deutschland,#1818e8,#1818e8,1,0.425000375
 'Lauren Boebert',de,USA,#18e8e8,#18e8e8,1,0.42500033
