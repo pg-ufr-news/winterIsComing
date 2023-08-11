@@ -6,7 +6,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Wagner-Chef Prigoschin',de,unknown,#111111,#111111,3,0.4786650554135916
 'Franca Lehfeldt',de,Deutschland,#1818e8,#1818e8,2,0.476350135
 'Jack Smith',de,USA,#18e8e8,#18e8e8,2,0.4754084304545454
-'Bettina Stark-Watzinger',de,Deutschland,#1818e8,#1818e8,3,0.47540595545454545
+'Bettina Stark-Watzinger',de,Deutschland,#1818e8,#1818e8,3,0.4754059554545454
 'Sergio Mattarella',de,Italien,#111111,#111111,2,0.4689072478571428
 'Roger Federer',de,unknown,#111111,#111111,3,0.4640293781056354
 'Pedro Sánchez',de,Spanien,#111111,#111111,2,0.4563220179090909
@@ -132,7 +132,6 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Pablo Picasso',de,Spanien,#111111,#111111,3,0.3707287646829544
 'Prinz Harry',de,UK,#e838e8,#e838e8,3,0.3704943332341863
 'Katja Krasavice',de,Deutschland,#1818e8,#1818e8,2,0.3704495247269317
-'Lachlan Murdoch',de,UK,#e838e8,#e838e8,2,0.369764047799375
 'Al Pacino',de,USA,#18e8e8,#18e8e8,2,0.3697049956874431
 'John Rawls',de,USA,#18e8e8,#18e8e8,1,0.369636547799375
 'Hillary Clinton',de,USA,#18e8e8,#18e8e8,2,0.3686952654090908
@@ -236,6 +235,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Silvio Berlusconi',de,Italien,#111111,#111111,3,0.3184097321982022
 'Maria Kolesnikowa',de,Belarus,#e81858,#e81858,1,0.317229826023032
 'Adolf Hitler',de,Deutschland,#1818e8,#1818e8,3,0.3143594538471903
+'Lachlan Murdoch',de,UK,#e838e8,#e838e8,1,0.31429944062946874
 'Ramsan Kadyrow',de,Russland,#e81818,#e81818,2,0.3142913242298293
 'Markus Wipperfürth',de,Deutschland,#1818e8,#1818e8,1,0.313704319299375
 'Missy Motown',de,Deutschland,#1818e8,#1818e8,1,0.313554291549375
@@ -246,10 +246,10 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Matt Damon',de,USA,#18e8e8,#18e8e8,1,0.308394569700974
 'Ayatollah Chamenei',de,Iran,#111111,#111111,1,0.3077702407625
 'Andreas Jung',de,Deutschland,#1818e8,#1818e8,3,0.3074824027518248
-'Camille Etienne',de,Frankreich,#e8e808,#e8e808,1,0.3070624999999999
-'Aurélien Pradié',de,Frankreich,#e8e808,#e8e808,1,0.3070624999999999
 'Andrei Nikolajewitsch Kolmogorow',de,Russland,#e81818,#e81818,1,0.3070624999999999
 'Detlef Garbe',de,Deutschland,#1818e8,#1818e8,1,0.3070624999999999
+'Aurélien Pradié',de,Frankreich,#e8e808,#e8e808,1,0.3070624999999999
+'Camille Etienne',de,Frankreich,#e8e808,#e8e808,1,0.3070624999999999
 'Olaf Scholz',de,Deutschland,#1818e8,#1818e8,3,0.3060209566291014
 'Kevin Kühnert',de,Deutschland,#1818e8,#1818e8,3,0.3052661568897969
 'Charles III',de,UK,#e838e8,#e838e8,3,0.3046119308651951
