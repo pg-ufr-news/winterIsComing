@@ -1,5 +1,4 @@
 keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
-'James Comer',de,unknown,#111111,#111111,2,0.5083734548390555
 'Rosa Parks',de,unknown,#111111,#111111,2,0.5064311642408669
 'Eric Trump',de,unknown,#111111,#111111,2,0.50505434736801
 'Sergei Shoigu',de,unknown,#111111,#111111,2,0.5045458160455986
@@ -17,8 +16,8 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Sergio Mattarella',de,Italien,#111111,#111111,2,0.4689072478571428
 'Roger Federer',de,unknown,#111111,#111111,3,0.4640293781056354
 'Pedro Sánchez',de,Spanien,#111111,#111111,2,0.4563220179090909
-'George Santos',de,USA,#18e8e8,#18e8e8,2,0.455750075
 'Leandro De Niro Rodriguez',de,USA,#18e8e8,#18e8e8,2,0.455750075
+'George Santos',de,USA,#18e8e8,#18e8e8,2,0.455750075
 'nan nan',de,unknown,#111111,#111111,1,0.4526354265249211
 'Tony Bennett',de,USA,#18e8e8,#18e8e8,2,0.451723345866875
 'Prinz Archie',de,UK,#e838e8,#e838e8,3,0.4504653135427374
@@ -35,7 +34,8 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Bret Baier',de,unknown,#111111,#111111,1,0.4329030281259857
 'Bill Barr',de,unknown,#111111,#111111,1,0.4328457203805682
 'Merrick Garland',de,unknown,#111111,#111111,1,0.4327874151571644
-'Jared Kushner',de,unknown,#111111,#111111,1,0.43213087843239845
+'Jared Kushner',de,unknown,#111111,#111111,1,0.4321308784323984
+'James Comer',de,unknown,#111111,#111111,1,0.4321175266131972
 'Prinz George',de,UK,#e838e8,#e838e8,3,0.4319945912056377
 'Wolodimir Selenski',de,Ukraine,#e818e8,#e818e8,3,0.4312027118505794
 'Andy Cohen',de,unknown,#111111,#111111,1,0.4311288794773721
@@ -46,8 +46,8 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Luc Terlinden',de,unknown,#111111,#111111,1,0.4289003420689901
 'Vivek Ramaswamy',de,unknown,#111111,#111111,1,0.4286975241527148
 'président de la République',de,unknown,#111111,#111111,1,0.4282845981001025
-'Alexander De Croo',de,Belgien,#111111,#111111,2,0.42710021
 'Geert Wilders',de,Niederlande,#111111,#111111,2,0.42710021
+'Alexander De Croo',de,Belgien,#111111,#111111,2,0.42710021
 'Gayle King',de,unknown,#111111,#111111,1,0.426868614580788
 'Premier ministre',de,unknown,#111111,#111111,1,0.4267007122787636
 'Roman Pacino',de,unknown,#111111,#111111,2,0.4266594074586563
@@ -61,11 +61,11 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Eric Adams',de,USA,#18e8e8,#18e8e8,1,0.42500021
 'König Felipe VI',de,Spanien,#111111,#111111,1,0.4250001049999999
 'Patti LaBelle',de,USA,#18e8e8,#18e8e8,1,0.425
-'Gilbert Plass',de,Kanada,#111111,#111111,1,0.425
-'Moon Hyung-jin',de,USA,#18e8e8,#18e8e8,1,0.425
-'Pierre-Yves Dermagne',de,Belgien,#111111,#111111,1,0.425
-'Chelsea Handler',de,USA,#18e8e8,#18e8e8,1,0.425
 'Sergei Surovikin',de,Russland,#e81818,#e81818,1,0.425
+'Moon Hyung-jin',de,USA,#18e8e8,#18e8e8,1,0.425
+'Gilbert Plass',de,Kanada,#111111,#111111,1,0.425
+'Chelsea Handler',de,USA,#18e8e8,#18e8e8,1,0.425
+'Pierre-Yves Dermagne',de,Belgien,#111111,#111111,1,0.425
 'Evgueni Prigojine',de,Russland,#e81818,#e81818,1,0.425
 'Queen Elizabeth II',de,UK,#e838e8,#e838e8,3,0.4247986346727272
 'Stormy Daniels',de,USA,#18e8e8,#18e8e8,3,0.4247779199124999
@@ -160,13 +160,13 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Marjorie Taylor Greene',de,USA,#18e8e8,#18e8e8,1,0.3624172187
 'Jamie Dimon',de,USA,#18e8e8,#18e8e8,1,0.3615589175613636
 'Katy Perry',de,USA,#18e8e8,#18e8e8,3,0.3614742758982953
+'Salvador Dali',de,Spanien,#111111,#111111,1,0.3612499999999999
 'Yevgeny Prigozhin',de,Russland,#e81818,#e81818,1,0.3612499999999999
 'Pedro Sánchez Pérez-Castejón',de,Spanien,#111111,#111111,1,0.3612499999999999
 'Uwe Neumärker',de,Deutschland,#1818e8,#1818e8,1,0.3612499999999999
-'Kemal Kiliçdaroglu',de,Türkei,#111111,#111111,1,0.3612499999999999
-'Salvador Dali',de,Spanien,#111111,#111111,1,0.3612499999999999
 'Dorothée Pacaud',de,Frankreich,#e8e808,#e8e808,1,0.3612499999999999
 'Leon Botstein',de,USA,#18e8e8,#18e8e8,1,0.3612499999999999
+'Kemal Kiliçdaroglu',de,Türkei,#111111,#111111,1,0.3612499999999999
 'Henry Ford',de,USA,#18e8e8,#18e8e8,2,0.3606879322925437
 'Steven Spielberg',de,USA,#18e8e8,#18e8e8,2,0.3593590829225568
 'Prinz William',de,UK,#e838e8,#e838e8,3,0.3592413526060675
