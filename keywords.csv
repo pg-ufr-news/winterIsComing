@@ -1,9 +1,8 @@
 keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
-'Jennifer Lopez',de,unknown,#111111,#111111,2,0.4988268399819986
 'Jane Fonda',de,unknown,#111111,#111111,2,0.4896711787064869
 'Jesse Watters',de,USA,#18e8e8,#18e8e8,2,0.48958258325
 'Laura Ingraham',de,USA,#18e8e8,#18e8e8,1,0.48887752775
-'Jennifer Garner',de,unknown,#111111,#111111,2,0.48049176975826563
+'Jennifer Garner',de,unknown,#111111,#111111,2,0.4804917697582656
 'Wagner-Chef Prigoschin',de,unknown,#111111,#111111,3,0.4786650554135916
 'Franca Lehfeldt',de,Deutschland,#1818e8,#1818e8,2,0.476350135
 'Jack Smith',de,USA,#18e8e8,#18e8e8,2,0.4754084304545454
@@ -21,6 +20,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Caren Miosga',de,Deutschland,#1818e8,#1818e8,3,0.4481589247661289
 'Kim Yo Jong',de,NordKorea,#111111,#111111,2,0.44495012
 'Ben Affleck',de,unknown,#111111,#111111,3,0.4442433485799047
+'Jennifer Lopez',de,unknown,#111111,#111111,2,0.4425898076210624
 'Hubert Aiwanger',de,unknown,#111111,#111111,3,0.4396049721582601
 'Jessy Wellmer',de,unknown,#111111,#111111,1,0.4384305193363634
 'Tiffany Chen',de,USA,#18e8e8,#18e8e8,2,0.4374473751393938
@@ -65,10 +65,10 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Eric Adams',de,USA,#18e8e8,#18e8e8,1,0.42500021
 'König Felipe VI',de,Spanien,#111111,#111111,1,0.4250001049999999
 'Chelsea Handler',de,USA,#18e8e8,#18e8e8,1,0.425
-'Pierre-Yves Dermagne',de,Belgien,#111111,#111111,1,0.425
-'Patti LaBelle',de,USA,#18e8e8,#18e8e8,1,0.425
 'Evgueni Prigojine',de,Russland,#e81818,#e81818,1,0.425
+'Patti LaBelle',de,USA,#18e8e8,#18e8e8,1,0.425
 'Sergei Surovikin',de,Russland,#e81818,#e81818,1,0.425
+'Pierre-Yves Dermagne',de,Belgien,#111111,#111111,1,0.425
 'Moon Hyung-jin',de,USA,#18e8e8,#18e8e8,1,0.425
 'Gilbert Plass',de,Kanada,#111111,#111111,1,0.425
 'Queen Elizabeth II',de,UK,#e838e8,#e838e8,3,0.4247986346727272
@@ -164,13 +164,13 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Marjorie Taylor Greene',de,USA,#18e8e8,#18e8e8,1,0.3624172187
 'Jamie Dimon',de,USA,#18e8e8,#18e8e8,1,0.3615589175613636
 'Katy Perry',de,USA,#18e8e8,#18e8e8,3,0.3614742758982953
+'Dorothée Pacaud',de,Frankreich,#e8e808,#e8e808,1,0.3612499999999999
 'Uwe Neumärker',de,Deutschland,#1818e8,#1818e8,1,0.3612499999999999
 'Leon Botstein',de,USA,#18e8e8,#18e8e8,1,0.3612499999999999
-'Kemal Kiliçdaroglu',de,Türkei,#111111,#111111,1,0.3612499999999999
-'Dorothée Pacaud',de,Frankreich,#e8e808,#e8e808,1,0.3612499999999999
-'Salvador Dali',de,Spanien,#111111,#111111,1,0.3612499999999999
 'Pedro Sánchez Pérez-Castejón',de,Spanien,#111111,#111111,1,0.3612499999999999
+'Kemal Kiliçdaroglu',de,Türkei,#111111,#111111,1,0.3612499999999999
 'Yevgeny Prigozhin',de,Russland,#e81818,#e81818,1,0.3612499999999999
+'Salvador Dali',de,Spanien,#111111,#111111,1,0.3612499999999999
 'Henry Ford',de,USA,#18e8e8,#18e8e8,2,0.3606879322925437
 'Steven Spielberg',de,USA,#18e8e8,#18e8e8,2,0.3593590829225568
 'Prinz William',de,UK,#e838e8,#e838e8,3,0.3592413526060675
