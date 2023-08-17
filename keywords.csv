@@ -65,10 +65,10 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Eric Adams',de,USA,#18e8e8,#18e8e8,1,0.42500021
 'König Felipe VI',de,Spanien,#111111,#111111,1,0.4250001049999999
 'Sergei Surovikin',de,Russland,#e81818,#e81818,1,0.425
-'Chelsea Handler',de,USA,#18e8e8,#18e8e8,1,0.425
-'Patti LaBelle',de,USA,#18e8e8,#18e8e8,1,0.425
 'Pierre-Yves Dermagne',de,Belgien,#111111,#111111,1,0.425
+'Patti LaBelle',de,USA,#18e8e8,#18e8e8,1,0.425
 'Evgueni Prigojine',de,Russland,#e81818,#e81818,1,0.425
+'Chelsea Handler',de,USA,#18e8e8,#18e8e8,1,0.425
 'Moon Hyung-jin',de,USA,#18e8e8,#18e8e8,1,0.425
 'Gilbert Plass',de,Kanada,#111111,#111111,1,0.425
 'Queen Elizabeth II',de,UK,#e838e8,#e838e8,3,0.4247986346727272
@@ -351,6 +351,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Melinda Gates',de,USA,#18e8e8,#18e8e8,2,0.2060529421107772
 'Mohammed bin Salman',de,SaudiArabien,#111111,#111111,2,0.2049758380114865
 'Mark Zuckerberg',de,USA,#18e8e8,#18e8e8,3,0.2029919317936823
+'Karl Lauterbach',de,Deutschland,#1818e8,#1818e8,3,0.20280363491890743
 'Annalena Baerbock',de,Deutschland,#1818e8,#1818e8,3,0.2025103015309864
 'Mark Rutte',de,Niederlande,#111111,#111111,3,0.2019286506652954
 'Mateusz Morawiecki',de,Polen,#111111,#111111,3,0.201620092872218
@@ -362,7 +363,6 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Edward Snowden',de,USA,#18e8e8,#18e8e8,2,0.1976739453875079
 'Klaus-Michael Kühne',de,Deutschland,#1818e8,#1818e8,2,0.1960691710544177
 'Katharina König-Press',de,Deutschland,#1818e8,#1818e8,2,0.1957494633347225
-'Karl Lauterbach',de,Deutschland,#1818e8,#1818e8,3,0.1953286624714419
 'Tamim Hamad Thani',de,Katar,#111111,#111111,2,0.1953225600778274
 'Luisa Neubauer',de,Deutschland,#1818e8,#1818e8,2,0.1952052945494208
 'Christian Drosten',de,Deutschland,#1818e8,#1818e8,2,0.1947864542230563
