@@ -62,10 +62,10 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Eric Adams',de,USA,#18e8e8,#18e8e8,1,0.42500021
 'König Felipe VI',de,Spanien,#111111,#111111,1,0.4250001049999999
 'Chelsea Handler',de,USA,#18e8e8,#18e8e8,1,0.425
-'Moon Hyung-jin',de,USA,#18e8e8,#18e8e8,1,0.425
 'Pierre-Yves Dermagne',de,Belgien,#111111,#111111,1,0.425
-'Evgueni Prigojine',de,Russland,#e81818,#e81818,1,0.425
+'Moon Hyung-jin',de,USA,#18e8e8,#18e8e8,1,0.425
 'Gilbert Plass',de,Kanada,#111111,#111111,1,0.425
+'Evgueni Prigojine',de,Russland,#e81818,#e81818,1,0.425
 'Patti LaBelle',de,USA,#18e8e8,#18e8e8,1,0.425
 'Queen Elizabeth II',de,UK,#e838e8,#e838e8,3,0.4247986346727272
 'Stormy Daniels',de,USA,#18e8e8,#18e8e8,3,0.4247779199124999
@@ -161,14 +161,14 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Marjorie Taylor Greene',de,USA,#18e8e8,#18e8e8,1,0.3624172187
 'Jamie Dimon',de,USA,#18e8e8,#18e8e8,1,0.3615589175613636
 'Katy Perry',de,USA,#18e8e8,#18e8e8,3,0.3614742758982953
-'Sergei Surovikin',de,Russland,#e81818,#e81818,1,0.36124999999999996
+'Pedro Sánchez Pérez-Castejón',de,Spanien,#111111,#111111,1,0.3612499999999999
+'Sergei Surovikin',de,Russland,#e81818,#e81818,1,0.3612499999999999
 'Yevgeny Prigozhin',de,Russland,#e81818,#e81818,1,0.3612499999999999
 'Kemal Kiliçdaroglu',de,Türkei,#111111,#111111,1,0.3612499999999999
-'Pedro Sánchez Pérez-Castejón',de,Spanien,#111111,#111111,1,0.3612499999999999
-'Salvador Dali',de,Spanien,#111111,#111111,1,0.3612499999999999
 'Uwe Neumärker',de,Deutschland,#1818e8,#1818e8,1,0.3612499999999999
 'Leon Botstein',de,USA,#18e8e8,#18e8e8,1,0.3612499999999999
 'Dorothée Pacaud',de,Frankreich,#e8e808,#e8e808,1,0.3612499999999999
+'Salvador Dali',de,Spanien,#111111,#111111,1,0.3612499999999999
 'Henry Ford',de,USA,#18e8e8,#18e8e8,2,0.3606879322925437
 'Steven Spielberg',de,USA,#18e8e8,#18e8e8,2,0.3593590829225568
 'Prinz William',de,UK,#e838e8,#e838e8,3,0.3592413526060675
@@ -433,8 +433,8 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Alexei Nawalny',de,Russland,#e81818,#e81818,2,0.161669051539228
 'Michael Walzer',de,USA,#18e8e8,#18e8e8,1,0.1614325286066645
 'Christoph Heusgen',de,Deutschland,#1818e8,#1818e8,2,0.1612007755474939
-'Edir Macedo',de,Brasilien,#58e838,#58e848,1,0.1602885441406249
 'Steve Milloy',de,USA,#18e8e8,#18e8e8,1,0.1602885441406249
+'Edir Macedo',de,Brasilien,#58e838,#58e848,1,0.1602885441406249
 'Andreas Baum',de,Deutschland,#1818e8,#1818e8,1,0.1584502875557973
 'Larry Ellison',de,USA,#18e8e8,#18e8e8,1,0.1550774796114642
 'Andrés Manuel López Obrador',de,Mexiko,#111111,#111111,2,0.1545336894397846
@@ -446,7 +446,6 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Hans Joachim Schellnhuber',de,Deutschland,#1818e8,#1818e8,2,0.1495056237685449
 'Richard Feynman',de,USA,#18e8e8,#18e8e8,1,0.1487753185025584
 'Katalin Novak',de,Ungarn,#111111,#111111,2,0.1472705757764849
-'Nicola Beer',de,EU,#111111,#111111,1,0.1472520419603795
 'Bernard Arnault',de,Frankreich,#e8e808,#e8e808,1,0.1461224757106753
 'Benjamin Netanyahu',de,Israel,#111111,#111111,1,0.1457052959292272
 'Yoon Suk-yeol',de,SüdKorea,#111111,#111111,3,0.1454810189442506
@@ -468,6 +467,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Michael Ballweg',de,Deutschland,#1818e8,#1818e8,1,0.1296687065375711
 'Gérard Biard',de,Frankreich,#e8e808,#e8e808,1,0.1273893204557615
 'Carl Friedrich Gauß',de,Deutschland,#1818e8,#1818e8,1,0.1257580949781198
+'Nicola Beer',de,EU,#111111,#111111,1,0.12561428066632258
 'Heinrich XIII. Prinz Reuß',de,Deutschland,#1818e8,#1818e8,2,0.1240213686521207
 'John Kerry',de,USA,#18e8e8,#18e8e8,1,0.1236069912483804
 'Jerome Powell',de,USA,#18e8e8,#18e8e8,3,0.1231918053841207
