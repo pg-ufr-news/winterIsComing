@@ -60,12 +60,12 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Lauren Boebert',de,USA,#18e8e8,#18e8e8,1,0.42500033
 'Eric Adams',de,USA,#18e8e8,#18e8e8,1,0.42500021
 'König Felipe VI',de,Spanien,#111111,#111111,1,0.4250001049999999
-'Gilbert Plass',de,Kanada,#111111,#111111,1,0.425
-'Patti LaBelle',de,USA,#18e8e8,#18e8e8,1,0.425
 'Pierre-Yves Dermagne',de,Belgien,#111111,#111111,1,0.425
-'Moon Hyung-jin',de,USA,#18e8e8,#18e8e8,1,0.425
-'Chelsea Handler',de,USA,#18e8e8,#18e8e8,1,0.425
+'Patti LaBelle',de,USA,#18e8e8,#18e8e8,1,0.425
+'Gilbert Plass',de,Kanada,#111111,#111111,1,0.425
 'Evgueni Prigojine',de,Russland,#e81818,#e81818,1,0.425
+'Chelsea Handler',de,USA,#18e8e8,#18e8e8,1,0.425
+'Moon Hyung-jin',de,USA,#18e8e8,#18e8e8,1,0.425
 'Queen Elizabeth II',de,UK,#e838e8,#e838e8,3,0.4247986346727272
 'Stormy Daniels',de,USA,#18e8e8,#18e8e8,3,0.4247779199124999
 'Lauren Sanchez',de,USA,#18e8e8,#18e8e8,2,0.4247634077009061
@@ -103,7 +103,6 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Kim Kardashian',de,USA,#18e8e8,#18e8e8,3,0.3984880265127932
 'Lars Klingbeil',de,Deutschland,#1818e8,#1818e8,2,0.398015011619318
 'Rudolf Steiner',de,Oesterreich,#111111,#111111,1,0.395632577175
-'Anne Will',de,Deutschland,#1818e8,#1818e8,3,0.3946270187116735
 'James Cameron',de,USA,#18e8e8,#18e8e8,3,0.3935927591818181
 'Pete Davidson',de,USA,#18e8e8,#18e8e8,1,0.39350041625
 'Lady Gaga',de,USA,#18e8e8,#18e8e8,2,0.3930541669285714
@@ -158,6 +157,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Tim Müller',de,Deutschland,#1818e8,#1818e8,2,0.36482122775
 'Robert Oppenheimer',de,USA,#18e8e8,#18e8e8,1,0.3642085335605768
 'Kim Jong Un',de,NordKorea,#e85858,#e85858,3,0.3639364704561567
+'Anne Will',de,Deutschland,#1818e8,#1818e8,3,0.3631121886321952
 'Marjorie Taylor Greene',de,USA,#18e8e8,#18e8e8,1,0.3624172187
 'Jamie Dimon',de,USA,#18e8e8,#18e8e8,1,0.3615589175613636
 'Katy Perry',de,USA,#18e8e8,#18e8e8,3,0.3614742758982953
@@ -165,10 +165,10 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Yevgeny Prigozhin',de,Russland,#e81818,#e81818,1,0.3612499999999999
 'Leon Botstein',de,USA,#18e8e8,#18e8e8,1,0.3612499999999999
 'Sergei Surovikin',de,Russland,#e81818,#e81818,1,0.3612499999999999
-'Salvador Dali',de,Spanien,#111111,#111111,1,0.3612499999999999
 'Dorothée Pacaud',de,Frankreich,#e8e808,#e8e808,1,0.3612499999999999
 'Uwe Neumärker',de,Deutschland,#1818e8,#1818e8,1,0.3612499999999999
 'Kemal Kiliçdaroglu',de,Türkei,#111111,#111111,1,0.3612499999999999
+'Salvador Dali',de,Spanien,#111111,#111111,1,0.3612499999999999
 'Henry Ford',de,USA,#18e8e8,#18e8e8,2,0.3606879322925437
 'Steven Spielberg',de,USA,#18e8e8,#18e8e8,2,0.3593590829225568
 'Prinz William',de,UK,#e838e8,#e838e8,3,0.3592413526060675
