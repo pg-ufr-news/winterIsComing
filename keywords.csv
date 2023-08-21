@@ -46,8 +46,8 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Sam H',de,unknown,#111111,#111111,1,0.4283150131383482
 'président de la République',de,unknown,#111111,#111111,1,0.4282845981001025
 'Jake Tapper',de,unknown,#111111,#111111,1,0.4277593401505726
-'Alexander De Croo',de,Belgien,#111111,#111111,2,0.42710021
 'Geert Wilders',de,Niederlande,#111111,#111111,2,0.42710021
+'Alexander De Croo',de,Belgien,#111111,#111111,2,0.42710021
 'Gayle King',de,unknown,#111111,#111111,1,0.426868614580788
 'Premier ministre',de,unknown,#111111,#111111,1,0.4267007122787636
 'Roman Pacino',de,unknown,#111111,#111111,2,0.4266594074586563
@@ -60,12 +60,12 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Lauren Boebert',de,USA,#18e8e8,#18e8e8,1,0.42500033
 'Eric Adams',de,USA,#18e8e8,#18e8e8,1,0.42500021
 'König Felipe VI',de,Spanien,#111111,#111111,1,0.4250001049999999
-'Gilbert Plass',de,Kanada,#111111,#111111,1,0.425
-'Patti LaBelle',de,USA,#18e8e8,#18e8e8,1,0.425
-'Pierre-Yves Dermagne',de,Belgien,#111111,#111111,1,0.425
 'Moon Hyung-jin',de,USA,#18e8e8,#18e8e8,1,0.425
 'Chelsea Handler',de,USA,#18e8e8,#18e8e8,1,0.425
 'Evgueni Prigojine',de,Russland,#e81818,#e81818,1,0.425
+'Pierre-Yves Dermagne',de,Belgien,#111111,#111111,1,0.425
+'Patti LaBelle',de,USA,#18e8e8,#18e8e8,1,0.425
+'Gilbert Plass',de,Kanada,#111111,#111111,1,0.425
 'Queen Elizabeth II',de,UK,#e838e8,#e838e8,3,0.4247986346727272
 'Stormy Daniels',de,USA,#18e8e8,#18e8e8,3,0.4247779199124999
 'Lauren Sanchez',de,USA,#18e8e8,#18e8e8,2,0.4247634077009061
@@ -76,6 +76,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Chris Christie',de,USA,#18e8e8,#18e8e8,3,0.4227763102647726
 'Jens Spahn',de,Deutschland,#1818e8,#1818e8,3,0.4217988603795453
 'Drena De Niro',de,USA,#18e8e8,#18e8e8,2,0.4217123087
+'Prinz William',de,UK,#e838e8,#e838e8,3,0.41939824880606646
 'Jeffrey Epstein',de,USA,#18e8e8,#18e8e8,2,0.4181580839000566
 'Prince Charles',de,UK,#e838e8,#e838e8,3,0.4179498076011362
 'Lionel Richie',de,USA,#18e8e8,#18e8e8,3,0.4172060794669574
@@ -161,17 +162,16 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Marjorie Taylor Greene',de,USA,#18e8e8,#18e8e8,1,0.3624172187
 'Jamie Dimon',de,USA,#18e8e8,#18e8e8,1,0.3615589175613636
 'Katy Perry',de,USA,#18e8e8,#18e8e8,3,0.3614742758982953
+'Leon Botstein',de,USA,#18e8e8,#18e8e8,1,0.3612499999999999
 'Sergei Surovikin',de,Russland,#e81818,#e81818,1,0.3612499999999999
 'Pedro Sánchez Pérez-Castejón',de,Spanien,#111111,#111111,1,0.3612499999999999
 'Yevgeny Prigozhin',de,Russland,#e81818,#e81818,1,0.3612499999999999
-'Leon Botstein',de,USA,#18e8e8,#18e8e8,1,0.3612499999999999
-'Uwe Neumärker',de,Deutschland,#1818e8,#1818e8,1,0.3612499999999999
 'Kemal Kiliçdaroglu',de,Türkei,#111111,#111111,1,0.3612499999999999
 'Salvador Dali',de,Spanien,#111111,#111111,1,0.3612499999999999
 'Dorothée Pacaud',de,Frankreich,#e8e808,#e8e808,1,0.3612499999999999
+'Uwe Neumärker',de,Deutschland,#1818e8,#1818e8,1,0.3612499999999999
 'Henry Ford',de,USA,#18e8e8,#18e8e8,2,0.3606879322925437
 'Steven Spielberg',de,USA,#18e8e8,#18e8e8,2,0.3593590829225568
-'Prinz William',de,UK,#e838e8,#e838e8,3,0.3592413526060675
 'Martin Luther King',de,USA,#18e8e8,#18e8e8,1,0.3587306697431818
 'Leonardo DiCaprio',de,USA,#18e8e8,#18e8e8,3,0.3582551360048295
 'Bruce Springsteen',de,USA,#18e8e8,#18e8e8,2,0.3579094312081051
@@ -246,7 +246,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Georg Bätzing',de,Deutschland,#1818e8,#1818e8,1,0.3225577703304196
 'Chez Krömer',de,Deutschland,#1818e8,#1818e8,1,0.3198003061974999
 'Silvio Berlusconi',de,Italien,#111111,#111111,3,0.3184097321982022
-'King Charles',de,UK,#e838e8,#e838e8,2,0.31816889607476545
+'King Charles',de,UK,#e838e8,#e838e8,2,0.3181688960747654
 'Adolf Hitler',de,Deutschland,#1818e8,#1818e8,3,0.3143594538471903
 'Lachlan Murdoch',de,UK,#e838e8,#e838e8,1,0.3142994406294687
 'Ramsan Kadyrow',de,Russland,#e81818,#e81818,2,0.3142913242298293
