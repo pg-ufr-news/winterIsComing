@@ -316,7 +316,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Paul Ronzheimer',de,Deutschland,#1818e8,#1818e8,2,0.2536225570339593
 'Warren Buffett',de,USA,#18e8e8,#18e8e8,3,0.2506326729956694
 'Tamim bin Hamad Al Thani',de,Katar,#111111,#111111,3,0.2505397764334006
-'Jewgeni Prigoschin',de,Russland,#e81818,#e81818,3,0.24909477191693996
+'Jewgeni Prigoschin',de,Russland,#e81818,#e81818,3,0.2490947719169399
 'Wolodymyr Selenski',de,Ukraine,#e818e8,#e818e8,3,0.2439872043011605
 'Antony Blinken',de,USA,#18e8e8,#18e8e8,3,0.2429984226351256
 'Marco Buschmann',de,Deutschland,#1818e8,#1818e8,3,0.2418343107552411
@@ -476,7 +476,6 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Jair Lapid',de,Israel,#111111,#111111,2,0.1314845540906851
 'Julian Assange',de,Australien,#111111,#111111,1,0.1304932469453604
 'Sucharit Bhakdi',de,Deutschland,#1818e8,#1818e8,3,0.1301048636771233
-'Michael Ballweg',de,Deutschland,#1818e8,#1818e8,1,0.1296687065375711
 'Gérard Biard',de,Frankreich,#e8e808,#e8e808,1,0.1273893204557615
 'Carl Friedrich Gauß',de,Deutschland,#1818e8,#1818e8,1,0.1257580949781198
 'Nicola Beer',de,EU,#111111,#111111,1,0.1256142806663225
@@ -494,6 +493,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Kurt Krömer',de,Deutschland,#1818e8,#1818e8,1,0.1147813464736931
 'Immanuel Kant',de,Deutschland,#1818e8,#1818e8,1,0.1145722462524054
 'Alexej Kudrin',de,Russland,#e81818,#e81818,1,0.1118888387080861
+'Michael Ballweg',de,Deutschland,#1818e8,#1818e8,1,0.11021840055693542
 'Volodymyr Zelenskiy',de,Ukraine,#e818e8,#e818e8,1,0.1082809223873972
 'Mahmud Abbas',de,Palistina,#111111,#111111,1,0.10759377325492
 'Miguel Díaz-Canel',de,Kuba,#111111,#111111,1,0.1071361477764129
