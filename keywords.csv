@@ -37,7 +37,6 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Prinz George',de,UK,#e838e8,#e838e8,3,0.4319945912056377
 'Wolodimir Selenski',de,Ukraine,#e818e8,#e818e8,3,0.4312027118505794
 'Marguerite Cazeneuve',de,unknown,#111111,#111111,1,0.4311398411778153
-'Andy Cohen',de,unknown,#111111,#111111,1,0.4311288794773721
 'Vo Van Thuong',de,unknown,#111111,#111111,1,0.4307470795123326
 'Elizabeth Warren',de,unknown,#111111,#111111,2,0.4305642401770343
 'Leandro De Niro-Rodriguez',de,unknown,#111111,#111111,1,0.4303114797610817
@@ -163,6 +162,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Johnny Depp',de,USA,#18e8e8,#18e8e8,2,0.3677629740442045
 'Dmitri Medwedew',de,Russland,#e81818,#e81818,3,0.3676935926749999
 'Patrick Graichen',de,Deutschland,#1818e8,#1818e8,3,0.3672756734493266
+'Andy Cohen',de,unknown,#111111,#111111,1,0.3670596075557663
 'Pietro Lombardi',de,Deutschland,#1818e8,#1818e8,1,0.3664882730729323
 'Rudy Giuliani',de,USA,#18e8e8,#18e8e8,1,0.3663509646874999
 'Willy Brandt',de,Deutschland,#1818e8,#1818e8,3,0.3649387227155795
@@ -493,7 +493,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Kurt Krömer',de,Deutschland,#1818e8,#1818e8,1,0.1147813464736931
 'Immanuel Kant',de,Deutschland,#1818e8,#1818e8,1,0.1145722462524054
 'Alexej Kudrin',de,Russland,#e81818,#e81818,1,0.1118888387080861
-'Michael Ballweg',de,Deutschland,#1818e8,#1818e8,1,0.11021840055693542
+'Michael Ballweg',de,Deutschland,#1818e8,#1818e8,1,0.1102184005569354
 'Volodymyr Zelenskiy',de,Ukraine,#e818e8,#e818e8,1,0.1082809223873972
 'Mahmud Abbas',de,Palistina,#111111,#111111,1,0.10759377325492
 'Miguel Díaz-Canel',de,Kuba,#111111,#111111,1,0.1071361477764129
