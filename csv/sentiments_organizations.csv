@@ -1,1068 +1,759 @@
 ,phrase,label,sentiment,subjectivity,language,count
-CDU,CDU,ORG,-0.020869565217391285,0.028695652173913042,de,115
 AfD,AfD,ORG,0.050584795321637434,0.05745614035087719,de,114
-SPD,SPD,ORG,0.09202898550724639,0.07971014492753623,de,69
+CDU,CDU,ORG,-0.01372549019607841,0.032352941176470584,de,102
+SPD,SPD,ORG,0.084375,0.06875,de,80
 Partei,Partei,ORG,-0.02694235588972431,0.05263157894736842,de,57
-EU,EU,ORG,0.2608108108108108,0.0,de,37
-Grüne,Grüne,ORG,-0.0980952380952381,0.05714285714285714,de,35
 ARD,ARD,ORG,0.15161904761904763,0.1295238095238095,de,35
+Grüne,Grüne,ORG,-0.13434343434343435,0.030303030303030304,de,33
+EU,EU,ORG,0.26875,0.0,de,32
 FDP,FDP,ORG,0.03593750000000001,0.09375,de,32
-CSU,CSU,ORG,0.1,0.0,de,27
-Apple,Apple,ORG,0.02692307692307692,0.038461538461538464,de,26
+CSU,CSU,ORG,0.10384615384615385,0.0,de,26
 Real Madrid,Real Madrid,ORG,0.9940000000000001,0.0,de,25
 Adidas,Adidas,ORG,0.08749999999999998,0.041666666666666664,de,24
-die Grünen,die Grünen,ORG,-0.009090909090909089,0.11363636363636363,de,22
+Apple,Apple,ORG,0.029166666666666664,0.041666666666666664,de,24
+die Grünen,die Grünen,ORG,0.025,0.125,de,20
 Inter Miami,Inter Miami,ORG,0.16499999999999998,0.0,de,20
-Grünen,Grünen,ORG,0.03749999999999999,0.0,de,20
-ZDF,ZDF,ORG,0.041176470588235294,0.0,de,17
-Disney,Disney,ORG,0.04666666666666666,0.0,de,15
-BILD,BILD,ORG,0.11666666666666665,0.03333333333333333,de,15
-PSG,PSG,ORG,0.24666666666666667,0.0,de,15
+Grünen,Grünen,ORG,-0.03235294117647059,0.0,de,17
 US-Vizepräsident,US-Vizepräsident,ORG,0.06666666666666667,0.0,de,15
+PSG,PSG,ORG,0.24666666666666667,0.0,de,15
+Disney,Disney,ORG,0.04666666666666666,0.0,de,15
+SPD-Vorsitzende,SPD-Vorsitzende,ORG,-0.22380952380952376,0.047619047619047616,de,14
 Fox News,Fox News,ORG,0.35000000000000003,0.0,de,14
-US-Justiz,US-Justiz,ORG,-0.36153846153846153,0.0,de,13
+BILD,BILD,ORG,0.12499999999999999,0.03571428571428571,de,14
+ZDF,ZDF,ORG,0.049999999999999996,0.0,de,14
 FC Bayern,FC Bayern,ORG,0.5384615384615384,0.0,de,13
-Queen,Queen,ORG,-0.21666666666666667,0.0,de,12
-Kirche,Kirche,ORG,-0.06666666666666667,0.041666666666666664,de,12
-Royals,Royals,ORG,0.16666666666666666,0.0,de,12
-WELT,WELT,ORG,0.6416666666666667,0.0,de,12
+US-Justiz,US-Justiz,ORG,-0.36153846153846153,0.0,de,13
 FC Barcelona,FC Barcelona,ORG,-0.05833333333333333,0.0,de,12
-EU-Kommission,EU-Kommission,ORG,0.0,0.0,de,12
+Kirche,Kirche,ORG,-0.06666666666666667,0.041666666666666664,de,12
+Justizministerium,Justizministerium,ORG,0.033333333333333326,0.0,de,12
+Royals,Royals,ORG,0.16666666666666666,0.0,de,12
 SNP,SNP,ORG,0.1972222222222222,0.08333333333333333,de,12
 Bundestag,Bundestag,ORG,0.0,0.0,de,11
 Bayreuther Festspiele,Bayreuther Festspiele,ORG,0.0,0.2727272727272727,de,11
-Foto,Foto,ORG,-0.030000000000000006,0.1,de,10
-KI,KI,ORG,0.13999999999999999,0.1,de,10
-Spiegel,Spiegel,ORG,0.27,0.0,de,10
+Queen,Queen,ORG,-0.23636363636363636,0.0,de,11
+WELT,WELT,ORG,0.6300000000000001,0.0,de,10
 Linke,Linke,ORG,-0.65,0.05,de,10
-Merz,Merz,ORG,-0.2222222222222222,0.0,de,9
-EU-Parlament,EU-Parlament,ORG,-0.27222222222222225,0.0,de,9
-Nato,Nato,ORG,-0.07777777777777778,0.0,de,9
 Aiwanger,Aiwanger,ORG,-0.25555555555555554,0.0,de,9
-Paris Saint-Germain,Paris Saint-Germain,ORG,0.09444444444444444,0.0,de,9
-STERN,STERN,ORG,0.0,0.0,de,9
 Erdogans,Erdogans,ORG,0.0,0.0,de,9
-SPD-Vorsitzende,SPD-Vorsitzende,ORG,-0.1111111111111111,0.0,de,9
 Axel-Springer-Verlag,Axel-Springer-Verlag,ORG,-0.1888888888888889,0.0,de,9
-Justizministerium,Justizministerium,ORG,0.22499999999999998,0.0,de,8
-EU-Verhaltenskodex,EU-Verhaltenskodex,ORG,-0.01666666666666669,0.0,de,8
-Birmingham City,Birmingham City,ORG,0.375,0.0,de,8
-EU-Einigung,EU-Einigung,ORG,-0.125,0.0,de,8
-Saudi-Arabien,Saudi-Arabien,ORG,0.3375,0.0,de,8
-Lanz,Lanz,ORG,-0.26875,0.0,de,8
-ntv.de,ntv.de,ORG,0.0,0.0,de,8
+STERN,STERN,ORG,0.0,0.0,de,9
+Foto,Foto,ORG,-0.03333333333333334,0.1111111111111111,de,9
+EU-Parlament,EU-Parlament,ORG,-0.27222222222222225,0.0,de,9
+KI,KI,ORG,0.15555555555555556,0.1111111111111111,de,9
+Nato,Nato,ORG,-0.07777777777777778,0.0,de,9
+Paris Saint-Germain,Paris Saint-Germain,ORG,0.09444444444444444,0.0,de,9
+Merz,Merz,ORG,-0.2222222222222222,0.0,de,9
 ZDF-Sendung,ZDF-Sendung,ORG,0.0,0.0,de,8
-RTL,RTL,ORG,0.6214285714285716,0.0,de,7
-Transfer-Sommer,Transfer-Sommer,ORG,-0.049999999999999996,0.0,de,7
-Parlament,Parlament,ORG,0.29999999999999993,0.0,de,7
-CNN,CNN,ORG,0.24285714285714285,0.0,de,7
-Jazz-Legende,Jazz-Legende,ORG,-0.8571428571428571,0.0,de,7
-Messi,Messi,ORG,0.18571428571428572,0.0,de,7
-Reichelt,Reichelt,ORG,-0.24285714285714285,0.14285714285714285,de,7
+Saudi-Arabien,Saudi-Arabien,ORG,0.3375,0.0,de,8
+EU-Einigung,EU-Einigung,ORG,-0.125,0.0,de,8
+US-Justizministerium,US-Justizministerium,ORG,-0.25,0.0,de,8
+Spiegel,Spiegel,ORG,0.3375,0.0,de,8
+Birmingham City,Birmingham City,ORG,0.375,0.0,de,8
+ntv.de,ntv.de,ORG,0.0,0.0,de,8
 Demokraten,Demokraten,ORG,-0.19999999999999998,0.2857142857142857,de,7
-Europaparlament,Europaparlament,ORG,-0.2857142857142857,0.0,de,7
-NATO-Generalsekretär,NATO-Generalsekretär,ORG,-0.2857142857142857,0.0,de,7
-britische Unterhaus,britische Unterhaus,ORG,0.026190476190476184,0.0,de,7
-Union,Union,ORG,-0.24285714285714285,0.0,de,7
-Freie Wähler,Freie Wähler,ORG,0.05714285714285713,0.0,de,7
+Parlament,Parlament,ORG,0.29999999999999993,0.0,de,7
 Foto: dpa,Foto: dpa,ORG,0.0,0.0,de,7
-ukrainische Armee,ukrainische Armee,ORG,0.0,0.0,de,6
-DBK,DBK,ORG,0.11666666666666665,0.0,de,6
+EU-Kommission,EU-Kommission,ORG,0.0,0.0,de,7
+britische Unterhaus,britische Unterhaus,ORG,0.026190476190476184,0.0,de,7
+CNN,CNN,ORG,0.24285714285714285,0.0,de,7
+Messi,Messi,ORG,0.18571428571428572,0.0,de,7
+Freie Wähler,Freie Wähler,ORG,0.05714285714285713,0.0,de,7
+Jazz-Legende,Jazz-Legende,ORG,-0.8571428571428571,0.0,de,7
+Transfer-Sommer,Transfer-Sommer,ORG,-0.049999999999999996,0.0,de,7
+NATO-Generalsekretär,NATO-Generalsekretär,ORG,-0.2857142857142857,0.0,de,7
+Lanz,Lanz,ORG,-0.16428571428571428,0.0,de,7
+Reichelt,Reichelt,ORG,-0.24285714285714285,0.14285714285714285,de,7
+Europaparlament,Europaparlament,ORG,-0.2857142857142857,0.0,de,7
+Sozialdemokraten,Sozialdemokraten,ORG,0.36666666666666664,0.0,de,6
 CDU-Generalsekretär,CDU-Generalsekretär,ORG,0.16666666666666666,0.0,de,6
 RBB,RBB,ORG,0.0,0.5,de,6
 ÖVP,ÖVP,ORG,0.11666666666666665,0.0,de,6
-Daily Mirror,Daily Mirror,ORG,0.2333333333333333,0.0,de,6
 New York Times,New York Times,ORG,-0.05000000000000001,0.0,de,6
-Republikanern,Republikanern,ORG,0.0,0.0,de,6
-Europäischen Union,Europäischen Union,ORG,0.11666666666666665,0.0,de,6
 Getty Images,Getty Images,ORG,0.04444444444444443,0.0,de,6
+Republikanern,Republikanern,ORG,0.0,0.0,de,6
+DBK,DBK,ORG,0.11666666666666665,0.0,de,6
 Marine Le Pen,Marine Le Pen,ORG,0.0,0.0,de,6
 SPD-Politiker,SPD-Politiker,ORG,0.07500000000000001,0.0,de,6
-ISW,ISW,ORG,-0.16666666666666666,0.0,de,6
-AP,AP,ORG,0.0,0.0,de,5
-EU-Parlaments,EU-Parlaments,ORG,-0.13999999999999999,0.0,de,5
-Royal Family,Royal Family,ORG,0.0,0.6,de,5
-Bild-Chefredakteur,Bild-Chefredakteur,ORG,-0.2,0.0,de,5
-OceanGate,OceanGate,ORG,-0.33999999999999997,0.0,de,5
-AfD.,AfD.,ORG,-0.4,0.0,de,5
-REUTERS,REUTERS,ORG,-0.030000000000000006,0.0,de,5
-Die Linke,Die Linke,ORG,0.2333333333333333,0.0,de,5
-Söldner-Gruppe,Söldner-Gruppe,ORG,0.4,0.0,de,5
-Welsh Guards,Welsh Guards,ORG,0.0,0.0,de,5
+ukrainische Armee,ukrainische Armee,ORG,0.0,0.0,de,6
+AfD.,AfD.,ORG,-0.3333333333333333,0.0,de,6
+Daily Mirror,Daily Mirror,ORG,0.2333333333333333,0.0,de,6
 NATO,NATO,ORG,-0.06000000000000001,0.0,de,5
-Al-Hilal,Al-Hilal,ORG,0.0,0.0,de,5
-US-Repräsentantenhaus,US-Repräsentantenhaus,ORG,0.16999999999999998,0.0,de,5
-Bundeswehr,Bundeswehr,ORG,0.0,0.0,de,5
-RB Leipzig,RB Leipzig,ORG,0.6199999999999999,0.0,de,5
-Wagner-Gruppe,Wagner-Gruppe,ORG,-0.3,0.1,de,5
-Ukraine-Liveblog,Ukraine-Liveblog,ORG,0.0,0.2,de,5
 britischen Royals,britischen Royals,ORG,-0.2,0.1,de,5
 Benzema,Benzema,ORG,0.6,0.0,de,5
-Al-Nassr FC,Al-Nassr FC,ORG,0.0,0.0,de,5
-Unterhaus,Unterhaus,ORG,0.2,0.0,de,5
-Millionen-Spende,Millionen-Spende,ORG,0.5599999999999999,0.0,de,5
-FBI,FBI,ORG,0.07999999999999999,0.0,de,5
+US-Repräsentantenhaus,US-Repräsentantenhaus,ORG,0.16999999999999998,0.0,de,5
+Royal Family,Royal Family,ORG,0.0,0.6,de,5
 US-Medien,US-Medien,ORG,0.24666666666666667,0.0,de,5
-AFP,AFP,ORG,0.13999999999999999,0.0,de,5
-US-Fotografin,US-Fotografin,ORG,0.0,0.0,de,5
+Millionen-Spende,Millionen-Spende,ORG,0.5599999999999999,0.0,de,5
 Foto: AP,Foto: AP,ORG,-0.2,0.0,de,5
+Unterhaus,Unterhaus,ORG,0.2,0.0,de,5
+Welsh Guards,Welsh Guards,ORG,0.0,0.0,de,5
+RB Leipzig,RB Leipzig,ORG,0.6199999999999999,0.0,de,5
+Wagner-Gruppe,Wagner-Gruppe,ORG,-0.3,0.1,de,5
+OceanGate,OceanGate,ORG,-0.33999999999999997,0.0,de,5
+Hunter Biden,Hunter Biden,ORG,0.0,0.0,de,5
+Europäischen Union,Europäischen Union,ORG,0.13999999999999999,0.0,de,5
+AFP,AFP,ORG,0.13999999999999999,0.0,de,5
+REUTERS,REUTERS,ORG,-0.030000000000000006,0.0,de,5
+RTL,RTL,ORG,0.5599999999999999,0.0,de,5
+EU-Parlaments,EU-Parlaments,ORG,-0.13999999999999999,0.0,de,5
+Bild-Chefredakteur,Bild-Chefredakteur,ORG,-0.2,0.0,de,5
 Scottish National Party,Scottish National Party,ORG,0.0,0.0,de,5
-Deutschen Bischofskonferenz,Deutschen Bischofskonferenz,ORG,0.0,0.0,de,4
-Hollywood Vampires,Hollywood Vampires,ORG,-0.25,0.0,de,4
-R,R,ORG,-0.07500000000000001,0.0,de,4
-Deutschland,Deutschland,ORG,-0.38749999999999996,0.0,de,4
-CSU-Fraktion,CSU-Fraktion,ORG,0.25,0.0,de,4
-Britische Royals,Britische Royals,ORG,0.0,0.0,de,4
-Sozialdemokraten,Sozialdemokraten,ORG,0.5499999999999999,0.0,de,4
-AfD-Landrat,AfD-Landrat,ORG,0.75,0.0,de,4
-FDP-Politiker,FDP-Politiker,ORG,0.35,0.0,de,4
-US-Visum,US-Visum,ORG,0.0,0.0,de,4
-Wieso,Wieso,ORG,-0.26249999999999996,0.25,de,4
-Freien Wähler,Freien Wähler,ORG,0.7,0.0,de,4
-Höcke,Höcke,ORG,0.0,0.0,de,4
-EU-Naturschutzgesetz,EU-Naturschutzgesetz,ORG,-1.0,0.0,de,4
-EU-Ratspräsident,EU-Ratspräsident,ORG,0.175,0.0,de,4
-russische Militär,russische Militär,ORG,0.0,0.0,de,4
-VW-Chef,VW-Chef,ORG,0.0,0.0,de,4
-Mirror Group Newspapers,Mirror Group Newspapers,ORG,0.0,0.0,de,4
-Militär,Militär,ORG,0.175,0.0,de,4
-Christdemokraten,Christdemokraten,ORG,0.5249999999999999,0.0,de,4
-heute-show,heute-show,ORG,0.15,0.0625,de,4
+AP,AP,ORG,0.0,0.0,de,5
+Union,Union,ORG,-0.2,0.0,de,5
+ISW,ISW,ORG,-0.2,0.0,de,5
+Die Linke,Die Linke,ORG,0.2333333333333333,0.0,de,5
+Al-Hilal,Al-Hilal,ORG,0.0,0.0,de,5
+US-Fotografin,US-Fotografin,ORG,0.0,0.0,de,5
+TV-Kolumne,TV-Kolumne,ORG,-0.2,0.0,de,5
+Al-Nassr FC,Al-Nassr FC,ORG,0.0,0.0,de,5
+Russland,Russland,ORG,0.27999999999999997,0.0,de,5
+Bundeswehr,Bundeswehr,ORG,0.0,0.0,de,5
+Söldner-Gruppe,Söldner-Gruppe,ORG,0.4,0.0,de,5
 Werder Bremen,Werder Bremen,ORG,0.75,0.0,de,4
-Causa Depp,Causa Depp,ORG,0.0,0.0,de,4
-US-Bank,US-Bank,ORG,0.0,0.0,de,4
-Russland,Russland,ORG,0.175,0.0,de,4
-Royales Recycling,Royales Recycling,ORG,0.0,0.0,de,4
-Brady,Brady,ORG,0.75,0.0,de,4
-TV-Engagements,TV-Engagements,ORG,0.0,0.0,de,4
-Erdogan,Erdogan,ORG,0.0,0.0,de,4
+Militär,Militär,ORG,0.175,0.0,de,4
+VW-Chef,VW-Chef,ORG,0.0,0.0,de,4
+Söldnergruppe Wagner,Söldnergruppe Wagner,ORG,0.0,0.25,de,4
 FDP-Mann,FDP-Mann,ORG,0.0,0.25,de,4
-Armee,Armee,ORG,0.0,0.0,de,4
-TV-Kolumne,TV-Kolumne,ORG,-0.5,0.0,de,4
-SPD-Spitze,SPD-Spitze,ORG,0.425,0.0,de,4
-Wählerinnen,Wählerinnen,ORG,-0.5249999999999999,0.0,de,4
-CDU-Chef,CDU-Chef,ORG,0.5,0.0,de,4
+russische Militär,russische Militär,ORG,0.0,0.0,de,4
+Verfassungsschutz,Verfassungsschutz,ORG,0.175,0.0,de,4
+Mirror Group Newspapers,Mirror Group Newspapers,ORG,0.0,0.0,de,4
+Höcke,Höcke,ORG,0.0,0.0,de,4
 FC Chelsea,FC Chelsea,ORG,0.7749999999999999,0.0,de,4
-US-Außenministers,US-Außenministers,ORG,0.35,0.0,de,4
-Türkei,Türkei,ORG,0.0,0.0,de,4
+Causa Depp,Causa Depp,ORG,0.0,0.0,de,4
+heute-show,heute-show,ORG,0.15,0.0625,de,4
+US-Visum,US-Visum,ORG,0.0,0.0,de,4
+TV-Engagements,TV-Engagements,ORG,0.0,0.0,de,4
+Deutschland,Deutschland,ORG,-0.38749999999999996,0.0,de,4
+Deutschen Bischofskonferenz,Deutschen Bischofskonferenz,ORG,0.0,0.0,de,4
+Wieso,Wieso,ORG,-0.26249999999999996,0.25,de,4
+Britische Royals,Britische Royals,ORG,0.0,0.0,de,4
+Christdemokraten,Christdemokraten,ORG,0.5249999999999999,0.0,de,4
+Trump,Trump,ORG,-0.25,0.0,de,4
+Royales Recycling,Royales Recycling,ORG,0.0,0.0,de,4
+Armee,Armee,ORG,0.0,0.0,de,4
+R,R,ORG,-0.07500000000000001,0.0,de,4
+EU-Naturschutzgesetz,EU-Naturschutzgesetz,ORG,-1.0,0.0,de,4
+Ukraine-Liveblog,Ukraine-Liveblog,ORG,0.0,0.25,de,4
+EU-Ratspräsident,EU-Ratspräsident,ORG,0.175,0.0,de,4
+AfD-Landrat,AfD-Landrat,ORG,0.75,0.0,de,4
+CSU-Fraktion,CSU-Fraktion,ORG,0.25,0.0,de,4
+Brady,Brady,ORG,0.75,0.0,de,4
+US-Bank,US-Bank,ORG,0.0,0.0,de,4
+Freien Wähler,Freien Wähler,ORG,0.7,0.0,de,4
+FDP-Politiker,FDP-Politiker,ORG,0.35,0.0,de,4
+Erdogan,Erdogan,ORG,0.0,0.0,de,4
+Wählerinnen,Wählerinnen,ORG,-0.5249999999999999,0.0,,4
+Hollywood Vampires,Hollywood Vampires,ORG,-0.25,0.0,de,4
+SPD-Spitze,SPD-Spitze,ORG,0.425,0.0,de,4
+Axel Springer Verlag,Axel Springer Verlag,ORG,0.4666666666666666,0.0,de,3
+Verteidigungsministerium,Verteidigungsministerium,ORG,-0.2833333333333333,0.0,de,3
+FOCUS,FOCUS,ORG,0.0,0.6666666666666666,de,3
+Bachmut,Bachmut,ORG,-0.10000000000000002,0.0,de,3
 Nato-Generalsekretär,Nato-Generalsekretär,ORG,0.0,0.0,de,3
-Verfassungsschutz,Verfassungsschutz,ORG,0.2333333333333333,0.0,de,3
-US-Wahlen,US-Wahlen,ORG,0.0,0.0,de,3
-hessische SPD,hessische SPD,ORG,0.3333333333333333,0.0,de,3
-Mbappé,Mbappé,ORG,0.0,0.0,de,3
-Papstsekretär,Papstsekretär,ORG,0.11666666666666665,0.0,de,3
-Verfassungsschutz-Präsident,Verfassungsschutz-Präsident,ORG,-0.16666666666666666,0.0,de,3
-Katholiken,Katholiken,ORG,0.0,0.0,de,3
-ER,ER,ORG,0.6333333333333333,0.0,de,3
-Worum,Worum,ORG,0.0,0.0,de,3
-Offensivstar,Offensivstar,ORG,0.6666666666666666,0.0,de,3
-Europäischen Zentralbank,Europäischen Zentralbank,ORG,0.0,0.0,de,3
-US-Sänger,US-Sänger,ORG,0.0,0.0,de,3
-EU-Umweltpolitik,EU-Umweltpolitik,ORG,0.6999999999999998,0.0,de,3
-MGN,MGN,ORG,0.0,0.0,de,3
-Intel,Intel,ORG,0.0,0.0,de,3
-Russen,Russen,ORG,0.0,0.0,de,3
-Konservativen,Konservativen,ORG,0.0,0.0,de,3
+CSU-Chef,CSU-Chef,ORG,0.0,0.0,de,3
 US-Klub,US-Klub,ORG,0.3333333333333333,0.0,de,3
-Mirror News Group,Mirror News Group,ORG,-0.2333333333333333,0.0,de,3
 picture alliance,picture alliance,ORG,0.3333333333333333,0.0,de,3
 FC Liverpool,FC Liverpool,ORG,0.5666666666666667,0.0,de,3
-CDU-Ministerpräsident,CDU-Ministerpräsident,ORG,-0.3833333333333333,0.0,de,3
+Offensivstar,Offensivstar,ORG,0.6666666666666666,0.0,de,3
+NZZ,NZZ,ORG,0.3333333333333333,0.0,de,3
 TV-Schuldenprofi,TV-Schuldenprofi,ORG,0.0,0.0,de,3
-Rammstein,Rammstein,ORG,-0.3333333333333333,0.0,de,3
-US-Wahl,US-Wahl,ORG,0.0,0.0,de,3
-Twitter-Chef,Twitter-Chef,ORG,-0.6666666666666666,0.0,de,3
-Ronaldo,Ronaldo,ORG,0.2333333333333333,0.0,de,3
-Trump,Trump,ORG,0.0,0.0,de,3
-Al-Ittihad,Al-Ittihad,ORG,0.6666666666666666,0.0,de,3
-Liverpool-Star Naby Keita,Liverpool-Star Naby Keita,ORG,1.0,0.0,de,3
-Hunter Biden,Hunter Biden,ORG,0.0,0.0,de,3
 katholischen Kirche,katholischen Kirche,ORG,0.0,0.0,de,3
-Ministerium,Ministerium,ORG,0.0,0.0,de,3
+hessische SPD,hessische SPD,ORG,0.3333333333333333,0.0,de,3
+russische Verteidigungsministerium,russische Verteidigungsministerium,ORG,0.0,0.0,de,3
+Intel,Intel,ORG,0.0,0.0,de,3
+BBC,BBC,ORG,0.2333333333333333,0.3333333333333333,de,3
 DEBATTENRUNDSCHAU,DEBATTENRUNDSCHAU,ORG,0.0,0.0,de,3
 katholische Kirche in,katholische Kirche in,ORG,0.0,0.0,de,3
-Bundeswahlkommission,Bundeswahlkommission,ORG,0.0,0.0,de,3
-Musk,Musk,ORG,0.2833333333333333,0.0,de,3
-WHO,WHO,ORG,0.0,0.0,de,3
-FOCUS,FOCUS,ORG,0.0,0.6666666666666666,de,3
-Verteidigungsministerium,Verteidigungsministerium,ORG,-0.2833333333333333,0.0,de,3
-Söldnergruppe Wagner,Söldnergruppe Wagner,ORG,0.0,0.0,de,3
-Dieter-Bohlen-Ex,Dieter-Bohlen-Ex,ORG,0.0,0.0,de,3
-ntv,ntv,ORG,0.7999999999999999,0.0,de,3
-Aufnahme-Zeremonie,Aufnahme-Zeremonie,ORG,0.0,0.0,de,3
 Tesla,Tesla,ORG,-0.3333333333333333,0.0,de,3
-DAS,DAS,ORG,-0.43333333333333335,0.0,de,3
-britische Parlament,britische Parlament,ORG,-0.2888888888888889,0.0,de,3
-NZZ,NZZ,ORG,0.3333333333333333,0.0,de,3
-deutschen Türkei-Politik,deutschen Türkei-Politik,ORG,0.0,0.26666666666666666,de,3
-Guinness-Buch der Rekorde,Guinness-Buch der Rekorde,ORG,1.0,0.0,de,3
+Nvidia,Nvidia,ORG,0.0,0.0,de,3
+EU-Umweltpolitik,EU-Umweltpolitik,ORG,0.6999999999999998,0.0,de,3
+Katholiken,Katholiken,ORG,0.0,0.0,de,3
+Liverpool-Star Naby Keita,Liverpool-Star Naby Keita,ORG,1.0,0.0,de,3
 Italien,Italien,ORG,0.0,0.0,de,3
-Hamburger SPD,Hamburger SPD,ORG,0.0,0.0,de,3
+Papstsekretär,Papstsekretär,ORG,0.11666666666666665,0.0,de,3
+US-Sänger,US-Sänger,ORG,0.0,0.0,de,3
 US-Wahlkampf,US-Wahlkampf,ORG,0.0,0.0,de,3
 Luftwaffe,Luftwaffe,ORG,0.0,0.0,de,3
-Streitkräfte,Streitkräfte,ORG,0.0,0.0,de,3
-Tennis-Legende,Tennis-Legende,ORG,0.0,0.0,de,3
-Nvidia,Nvidia,ORG,0.0,0.0,de,3
-BBC,BBC,ORG,0.2333333333333333,0.3333333333333333,de,3
-russische Verteidigungsministerium,russische Verteidigungsministerium,ORG,0.0,0.0,de,3
-CSU-Chef,CSU-Chef,ORG,0.0,0.0,de,3
-OpenAI,OpenAI,ORG,0.11666666666666665,0.3333333333333333,de,3
-US-Parlaments,US-Parlaments,ORG,-1.0,0.0,de,3
+Justizminister,Justizminister,ORG,0.2333333333333333,0.0,de,3
+Türkei,Türkei,ORG,0.0,0.0,de,3
 Thüringer CDU-Fraktion,Thüringer CDU-Fraktion,ORG,-0.9666666666666667,0.0,de,3
-Bachmut,Bachmut,ORG,-0.10000000000000002,0.0,de,3
-US-Nachrichtensender,US-Nachrichtensender,ORG,0.6999999999999998,0.0,de,3
-Axel Springer Verlag,Axel Springer Verlag,ORG,0.4666666666666666,0.0,de,3
+Hamburger SPD,Hamburger SPD,ORG,0.0,0.0,de,3
+deutschen Türkei-Politik,deutschen Türkei-Politik,ORG,0.0,0.26666666666666666,de,3
+DAS,DAS,ORG,-0.43333333333333335,0.0,de,3
+US-Parlaments,US-Parlaments,ORG,-1.0,0.0,de,3
+Guinness-Buch der Rekorde,Guinness-Buch der Rekorde,ORG,1.0,0.0,de,3
+Russen,Russen,ORG,0.0,0.0,de,3
+Ronaldo,Ronaldo,ORG,0.2333333333333333,0.0,de,3
+Bundeswahlkommission,Bundeswahlkommission,ORG,0.0,0.0,de,3
+US-Wahl,US-Wahl,ORG,0.0,0.0,de,3
+ER,ER,ORG,0.6333333333333333,0.0,de,3
+MGN,MGN,ORG,0.0,0.0,de,3
+britische Parlament,britische Parlament,ORG,-0.2888888888888889,0.0,de,3
+US-Wahlen,US-Wahlen,ORG,0.0,0.0,de,3
+Verfassungsschutz-Präsident,Verfassungsschutz-Präsident,ORG,-0.16666666666666666,0.0,de,3
+Musk,Musk,ORG,0.2833333333333333,0.0,de,3
+EU-Verhaltenskodex,EU-Verhaltenskodex,ORG,0.4666666666666666,0.0,de,3
+Rammstein,Rammstein,ORG,-0.3333333333333333,0.0,de,3
+Konservativen,Konservativen,ORG,0.0,0.0,de,3
+Mbappé,Mbappé,ORG,0.0,0.0,de,3
+WHO,WHO,ORG,0.0,0.0,de,3
 Kommission,Kommission,ORG,0.10000000000000002,0.0,de,3
+CDU-Ministerpräsident,CDU-Ministerpräsident,ORG,-0.3833333333333333,0.0,de,3
+Mirror News Group,Mirror News Group,ORG,-0.2333333333333333,0.0,de,3
+Worum,Worum,ORG,0.0,0.0,de,3
+Al-Ittihad,Al-Ittihad,ORG,0.6666666666666666,0.0,de,3
+Aufnahme-Zeremonie,Aufnahme-Zeremonie,ORG,0.0,0.0,de,3
+ntv,ntv,ORG,0.7999999999999999,0.0,de,3
+US-Nachrichtensender,US-Nachrichtensender,ORG,0.6999999999999998,0.0,de,3
 Axel Springer SE,Axel Springer SE,ORG,-0.2333333333333333,0.0,de,3
-WAU,WAU,ORG,0.7,0.0,de,2
+Ministerium,Ministerium,ORG,0.0,0.0,de,3
+Europäischen Zentralbank,Europäischen Zentralbank,ORG,0.0,0.0,de,3
+Dieter-Bohlen-Ex,Dieter-Bohlen-Ex,ORG,0.0,0.0,de,3
+Tennis-Legende,Tennis-Legende,ORG,0.0,0.0,de,3
+Iowa State Fair,Iowa State Fair,ORG,1.0,0.0,de,2
+Jeans,Jeans,ORG,0.0,0.0,de,2
+Bertelsmann,Bertelsmann,ORG,0.7,0.0,de,2
+Regie-L,Regie-L,ORG,0.0,0.0,de,2
+CIA,CIA,ORG,0.375,0.0,de,2
 Boulevard-Zeitungsverlag,Boulevard-Zeitungsverlag,ORG,-0.35,0.0,de,2
-Kölner Diözesanpastoralrat,Kölner Diözesanpastoralrat,ORG,0.0,0.0,de,2
-US-Chiphersteller,US-Chiphersteller,ORG,0.0,0.0,de,2
-BILD!,BILD!,ORG,0.0,0.0,de,2
-Real,Real,ORG,1.0,0.0,de,2
-Golden-Boy-Award,Golden-Boy-Award,ORG,1.0,0.0,de,2
-Unterhauses,Unterhauses,ORG,0.0875,0.0,de,2
-Weltgesundheitsorganisation,Weltgesundheitsorganisation,ORG,0.0,0.0,de,2
-Exekutivrat,Exekutivrat,ORG,0.0,0.0,de,2
-Bundesmarine,Bundesmarine,ORG,0.0,0.0,de,2
-Royal Ascot,Royal Ascot,ORG,0.0,0.0,de,2
-US-Republikaner,US-Republikaner,ORG,0.0,0.5,de,2
-Bündnisses,Bündnisses,ORG,0.5,0.0,de,2
-Akademie der bildenden Künste Wien,Akademie der bildenden Künste Wien,ORG,-0.5,0.0,de,2
-Präsi,Präsi,ORG,0.2875,0.0,de,2
-SPÖ-Chef,SPÖ-Chef,ORG,0.0,0.0,de,2
-Barcelonas Gavi,Barcelonas Gavi,ORG,1.0,0.0,de,2
-Ex-Premier,Ex-Premier,ORG,-0.5,0.0,de,2
-Britisches Unterhaus,Britisches Unterhaus,ORG,0.35,0.0,de,2
-Amazonas-Regenwaldes,Amazonas-Regenwaldes,ORG,0.0,0.0,de,2
-russische Marine,russische Marine,ORG,0.7,0.0,de,2
-Justizdeal,Justizdeal,ORG,-1.0,0.0,de,2
-Ritterorden,Ritterorden,ORG,0.0,0.0,de,2
-F.A.Z.,F.A.Z.,ORG,0.0,0.0,de,2
-Royals: Prinzessin,Royals: Prinzessin,ORG,1.0,0.0,de,2
-Kirche in Bayern,Kirche in Bayern,ORG,0.0,0.0,de,2
-Mirror-Gruppe,Mirror-Gruppe,ORG,-1.0,0.0,de,2
-JP-Morgan-Chef,JP-Morgan-Chef,ORG,0.0,0.0,de,2
-IMAGO,IMAGO,ORG,0.5,0.0,de,2
-FPÖ,FPÖ,ORG,0.0,0.0,de,2
-Foto: Reuters,Foto: Reuters,ORG,0.0,0.0,de,2
-Britisches Parlament,Britisches Parlament,ORG,-0.5,0.0,de,2
-AC Milan,AC Milan,ORG,0.25,0.25,de,2
-Sohn Archie,Sohn Archie,ORG,-0.7,0.0,de,2
-Gewerkschaft,Gewerkschaft,ORG,-0.5,0.0,de,2
-Apples,Apples,ORG,0.0,0.0,de,2
-Umfrage-Absturz,Umfrage-Absturz,ORG,0.0,0.0,de,2
-NRW-Landesregierung,NRW-Landesregierung,ORG,0.0,0.0,de,2
 Verlag Mirror Group Newspapers,Verlag Mirror Group Newspapers,ORG,0.0,0.0,de,2
-Arbeitsminister,Arbeitsminister,ORG,0.0,0.0,de,2
-CBS,CBS,ORG,0.0,0.0,de,2
-US-Prozess,US-Prozess,ORG,-0.35,0.0,de,2
-Achmat +++ Kim Jong-un,Achmat +++ Kim Jong-un,ORG,0.11666666666666665,0.0,de,2
-BKA,BKA,ORG,0.0,0.0,de,2
-Wahlkampf,Wahlkampf,ORG,0.0,0.0,de,2
-Parteivorsitzende der Linken,Parteivorsitzende der Linken,ORG,-0.7,0.0,de,2
-Lily-Rose Depp,Lily-Rose Depp,ORG,0.5,0.0,de,2
-Katholische Kirche,Katholische Kirche,ORG,0.5,0.0,de,2
-Saudi Pro League-Saison,Saudi Pro League-Saison,ORG,0.5,0.0,de,2
-Erstligisten,Erstligisten,ORG,0.5,0.0,de,2
-katholischen Deutschen Bischofskonferenz,katholischen Deutschen Bischofskonferenz,ORG,0.0,0.0,de,2
-russische Armee,russische Armee,ORG,0.7,0.0,de,2
-SPD-Parteivorstand,SPD-Parteivorstand,ORG,0.0,0.0,de,2
 Springer-Verlag,Springer-Verlag,ORG,-1.0,0.0,de,2
-Saudi-Klubs,Saudi-Klubs,ORG,0.0,0.0,de,2
-SZ,SZ,ORG,1.0,0.0,de,2
-bayerische Energieverband,bayerische Energieverband,ORG,0.0,0.0,de,2
-Justizminister,Justizminister,ORG,0.0,0.0,de,2
-EU-Spitzen,EU-Spitzen,ORG,0.0,0.5,de,2
+US-Prozess,US-Prozess,ORG,-0.35,0.0,de,2
+katholischen Deutschen Bischofskonferenz,katholischen Deutschen Bischofskonferenz,ORG,0.0,0.0,de,2
+Sohn Archie,Sohn Archie,ORG,-0.7,0.0,de,2
+MH,MH,ORG,0.0,0.0,de,2
+Freien Wählern,Freien Wählern,ORG,0.475,0.125,de,2
+Linken-Politiker,Linken-Politiker,ORG,1.0,0.0,de,2
+Nazis,Nazis,ORG,0.35,0.0,de,2
+Wahlkampf,Wahlkampf,ORG,0.0,0.0,de,2
+Festspielen,Festspielen,ORG,0.0,0.0,de,2
+Umweltminister,Umweltminister,ORG,0.0,0.0,de,2
+US-amerikanische Jazz-Legende,US-amerikanische Jazz-Legende,ORG,-1.0,0.0,de,2
+Ex-“Bild”-Chefredakteur,Ex-“Bild”-Chefredakteur,ORG,-0.5,0.0,de,2
+„Alles-App“ träumt,„Alles-App“ träumt,ORG,0.0,0.0,de,2
+Spanien,Spanien,ORG,0.0,0.0,de,2
+The Athletic,The Athletic,ORG,0.0,0.0,de,2
+Antisemitismus,Antisemitismus,ORG,-1.0,0.0,de,2
+Mirror Group,Mirror Group,ORG,0.0,0.0,de,2
+Al-Ittihad Club,Al-Ittihad Club,ORG,1.0,0.0,de,2
+Ex-Klub,Ex-Klub,ORG,-0.35,0.0,de,2
+CDU-Innenexperte,CDU-Innenexperte,ORG,0.5,0.0,de,2
+Fantasy-Horror,Fantasy-Horror,ORG,0.0,0.0,de,2
+Shaping Us,Shaping Us,ORG,0.35,0.0,de,2
+MLS,MLS,ORG,0.0,0.0,de,2
+Habecks Grünen,Habecks Grünen,ORG,-1.0,0.0,de,2
+Den Grünen,Den Grünen,ORG,-0.7,0.0,de,2
+Fernsehen,Fernsehen,ORG,0.0,0.0,de,2
+JP Morgan,JP Morgan,ORG,0.0,0.0,de,2
+NRW-SPD,NRW-SPD,ORG,0.0,0.0,de,2
+US-Stiftung,US-Stiftung,ORG,0.0,0.0,de,2
+Reportern,Reportern,ORG,0.0,0.0,de,2
+US-Visumsantrags,US-Visumsantrags,ORG,0.0,0.0,de,2
+Arte,Arte,ORG,0.0,0.0,de,2
+Wasserflut,Wasserflut,ORG,0.0,0.0,de,2
+Versandhandels Party Pieces,Versandhandels Party Pieces,ORG,-0.85,0.0,de,2
+IAEA,IAEA,ORG,0.0,0.0,de,2
+AKW Saporischschja,AKW Saporischschja,ORG,0.0,0.0,de,2
+Verlags Gruner + Jahr,Verlags Gruner + Jahr,ORG,0.7,0.0,de,2
+Infos!,Infos!,ORG,0.0,0.4,de,2
+lto.de,lto.de,ORG,-0.5,0.0,de,2
+PP,PP,ORG,0.07500000000000001,0.0,de,2
+Exilmuseum,Exilmuseum,ORG,0.7,0.0,de,2
+si,si,ORG,0.0,0.0,de,2
+FPÖ,FPÖ,ORG,0.0,0.0,de,2
 Putins Armee,Putins Armee,ORG,0.7,0.0,de,2
-Manchester City,Manchester City,ORG,1.0,0.0,de,2
-TV-Moderator,TV-Moderator,ORG,0.0,0.0,de,2
-Saudi Pro League,Saudi Pro League,ORG,0.0,0.0,de,2
+Ex-Premier,Ex-Premier,ORG,-0.5,0.0,de,2
+Katholische Kirche,Katholische Kirche,ORG,0.5,0.0,de,2
+Britisches Parlament,Britisches Parlament,ORG,-0.5,0.0,de,2
+IMAGO,IMAGO,ORG,0.5,0.0,de,2
+SPD-Parteivorstand,SPD-Parteivorstand,ORG,0.0,0.0,de,2
+Wagner-Söldnern,Wagner-Söldnern,ORG,0.07500000000000001,0.0,de,2
+Ritterorden,Ritterorden,ORG,0.0,0.0,de,2
+Gewerkschaft,Gewerkschaft,ORG,-0.5,0.0,de,2
+Foto: Reuters,Foto: Reuters,ORG,0.0,0.0,de,2
+US-Chiphersteller,US-Chiphersteller,ORG,0.0,0.0,de,2
+Streitkräfte,Streitkräfte,ORG,0.0,0.0,de,2
+russische Marine,russische Marine,ORG,0.7,0.0,de,2
+AC Milan,AC Milan,ORG,0.25,0.25,de,2
+PT,PT,ORG,0.0,0.0,de,2
+EU-Regierungschefs,EU-Regierungschefs,ORG,0.0,0.0,de,2
+Royal Norfolk,Royal Norfolk,ORG,0.0,0.0,de,2
+WAU,WAU,ORG,0.7,0.0,de,2
+US-Außenministers,US-Außenministers,ORG,0.7,0.0,de,2
+Parteivorsitzende der Linken,Parteivorsitzende der Linken,ORG,-0.7,0.0,de,2
+Britisches Unterhaus,Britisches Unterhaus,ORG,0.35,0.0,de,2
+Öffentlich-Rechtlichen,Öffentlich-Rechtlichen,ORG,0.5,0.0,de,2
+Unterhauses,Unterhauses,ORG,0.0875,0.0,de,2
+Kanzlerpartei SPD,Kanzlerpartei SPD,ORG,0.0,0.0,de,2
+CDU-Chef,CDU-Chef,ORG,0.0,0.0,de,2
+Republ,Republ,ORG,0.0,0.0,de,2
+Die PARTEI,Die PARTEI,ORG,-1.0,0.0,de,2
+deutsche EU-Parlamentarier,deutsche EU-Parlamentarier,ORG,-1.0,0.0,de,2
+Royal Ascot,Royal Ascot,ORG,0.0,0.0,de,2
+BKA,BKA,ORG,0.0,0.0,de,2
+Justizdeal,Justizdeal,ORG,-1.0,0.0,de,2
+Bundespolizei,Bundespolizei,ORG,0.0,0.0,de,2
+Söldnerarmee Wagner,Söldnerarmee Wagner,ORG,0.0,0.0,de,2
+NRW-Landesregierung,NRW-Landesregierung,ORG,0.0,0.0,de,2
+Barcelonas Gavi,Barcelonas Gavi,ORG,1.0,0.0,de,2
+Golden-Boy-Award,Golden-Boy-Award,ORG,1.0,0.0,de,2
 US-Denkfabrik ISW,US-Denkfabrik ISW,ORG,0.0,0.0,de,2
+Order Of The,Order Of The,ORG,0.0,0.0,de,2
+Gruppe Wagner,Gruppe Wagner,ORG,-0.5,0.0,de,2
+Stiftung Gedenkstätten Buchenwald,Stiftung Gedenkstätten Buchenwald,ORG,0.0,0.0,de,2
+SPÖ-Chef,SPÖ-Chef,ORG,0.0,0.0,de,2
+TV-Moderator,TV-Moderator,ORG,0.0,0.0,de,2
+russische Armee,russische Armee,ORG,0.7,0.0,de,2
+BILD!,BILD!,ORG,0.0,0.0,de,2
+Deutsche Presse-Agentur,Deutsche Presse-Agentur,ORG,0.5,0.0,de,2
+Pretzels Founders,Pretzels Founders,ORG,0.0,0.0,de,2
+Modi,Modi,ORG,0.0,0.0,de,2
+Kirche in Bayern,Kirche in Bayern,ORG,0.0,0.0,de,2
+CBS,CBS,ORG,0.0,0.0,de,2
+Landtagswahlen,Landtagswahlen,ORG,-0.35,0.0,de,2
 Songs,Songs,ORG,0.7,0.0,de,2
 Rolling Stones,Rolling Stones,ORG,0.7,0.0,de,2
 AfD-Mann,AfD-Mann,ORG,0.0,0.0,de,2
-Bits &amp,Bits &amp,ORG,0.0,0.0,de,2
 SPD-Chef,SPD-Chef,ORG,0.0,0.0,de,2
-Pretzels Founders,Pretzels Founders,ORG,0.0,0.0,de,2
-Deutsche Presse-Agentur,Deutsche Presse-Agentur,ORG,0.5,0.0,de,2
-US-Militärs,US-Militärs,ORG,0.85,0.0,de,2
-Gruppe Wagner,Gruppe Wagner,ORG,-0.5,0.0,de,2
+Saudi Pro League,Saudi Pro League,ORG,0.0,0.0,de,2
 Sahra Wagenknecht,Sahra Wagenknecht,ORG,-0.6178571428571429,0.0,de,2
-Deutschen Presse-Agentur,Deutschen Presse-Agentur,ORG,0.0,0.0,de,2
-Söldnerarmee Wagner,Söldnerarmee Wagner,ORG,0.0,0.0,de,2
-Schottischen Nationalpartei,Schottischen Nationalpartei,ORG,-0.21666666666666667,0.0,de,2
-Stiftung Gedenkstätten Buchenwald,Stiftung Gedenkstätten Buchenwald,ORG,0.0,0.0,de,2
-Bundespolizei,Bundespolizei,ORG,0.0,0.0,de,2
-EU-Korruptionsskandal,EU-Korruptionsskandal,ORG,0.7,0.0,de,2
-si,si,ORG,0.0,0.0,de,2
-Ex-“Bild”-Chefredakteur,Ex-“Bild”-Chefredakteur,ORG,-0.5,0.0,de,2
-Juli-,Juli-,ORG,0.0,0.0,de,2
-Ex-Klub,Ex-Klub,ORG,-0.35,0.0,de,2
-Kanzlerpartei SPD,Kanzlerpartei SPD,ORG,0.0,0.0,de,2
-Republ,Republ,ORG,0.0,0.0,de,2
-Die PARTEI,Die PARTEI,ORG,-1.0,0.0,de,2
-Mirror Group,Mirror Group,ORG,0.0,0.0,de,2
-The Athletic,The Athletic,ORG,0.0,0.0,de,2
-Al-Ittihad Club,Al-Ittihad Club,ORG,1.0,0.0,de,2
-Fantasy-Horror,Fantasy-Horror,ORG,0.0,0.0,de,2
-Modi,Modi,ORG,0.0,0.0,de,2
-Fashion Week,Fashion Week,ORG,0.0,0.0,de,2
-deutsche EU-Parlamentarier,deutsche EU-Parlamentarier,ORG,-1.0,0.0,de,2
-Deutsche Presserat,Deutsche Presserat,ORG,0.0,0.0,de,2
-US-Stiftung,US-Stiftung,ORG,0.0,0.0,de,2
-US-Visumsantrags,US-Visumsantrags,ORG,0.0,0.0,de,2
-VVD,VVD,ORG,0.0,0.5,de,2
-CO2-Ausstoß,CO2-Ausstoß,ORG,0.0,0.0,de,2
-spanischen EU-Ratspräsidentschaft,spanischen EU-Ratspräsidentschaft,ORG,0.0,0.0,de,2
-MLS,MLS,ORG,0.0,0.0,de,2
-ZDF Heute-Show,ZDF Heute-Show,ORG,0.5,0.0,de,2
-Öffentlich-Rechtlichen,Öffentlich-Rechtlichen,ORG,0.5,0.0,de,2
-Siemens,Siemens,ORG,0.0,0.0,de,2
-lto.de,lto.de,ORG,-0.5,0.0,de,2
-Infos!,Infos!,ORG,0.0,0.4,de,2
-PT,PT,ORG,0.0,0.0,de,2
-Siemens-Konzern,Siemens-Konzern,ORG,0.0,0.0,de,2
-AKW Saporischschja,AKW Saporischschja,ORG,0.0,0.0,de,2
-IAEA,IAEA,ORG,0.0,0.0,de,2
-Versandhandels Party Pieces,Versandhandels Party Pieces,ORG,-0.85,0.0,de,2
-Wasserflut,Wasserflut,ORG,0.0,0.0,de,2
-WirtschaftsWoche,WirtschaftsWoche,ORG,0.0,0.0,de,2
-EU-Regierungschefs,EU-Regierungschefs,ORG,0.0,0.0,de,2
-Royal Norfolk,Royal Norfolk,ORG,0.0,0.0,de,2
-Reportern,Reportern,ORG,0.0,0.0,de,2
-NRW-SPD,NRW-SPD,ORG,0.0,0.0,de,2
-SPD-Fraktion,SPD-Fraktion,ORG,-0.575,0.0,de,2
-Telekom,Telekom,ORG,0.25,0.25,de,2
-Order Of The,Order Of The,ORG,0.0,0.0,de,2
-CSU-Politikerin,CSU-Politikerin,ORG,0.0,0.0,de,2
-sa,sa,ORG,0.0,0.0,de,2
-EPG,EPG,ORG,0.0,0.0,de,2
-Grünen-Parteiführung,Grünen-Parteiführung,ORG,-0.7,0.0,de,2
-Clermont Foot,Clermont Foot,ORG,0.7749999999999999,0.0,de,2
-Die Grünen,Die Grünen,ORG,-0.175,0.0,de,2
-Festspielen,Festspielen,ORG,0.0,0.0,de,2
-SPD-Bundesparteitag,SPD-Bundesparteitag,ORG,0.35,0.0,de,2
-Charité,Charité,ORG,0.0,0.0,de,2
-Springer-Chef,Springer-Chef,ORG,0.0,0.0,de,2
-EU-Ebene,EU-Ebene,ORG,-0.5,0.0,de,2
-VW,VW,ORG,-1.0,0.0,de,2
-Transfermarkt TV,Transfermarkt TV,ORG,1.0,0.0,de,2
-MH,MH,ORG,0.0,0.0,de,2
-Kreml-Vasall Kadyrow Racheaktionen,Kreml-Vasall Kadyrow Racheaktionen,ORG,-0.7,0.0,de,2
-deutschen Konrad-Adenauer-Stiftung,deutschen Konrad-Adenauer-Stiftung,ORG,-0.7,0.0,de,2
-Kiew Terror,Kiew Terror,ORG,1.0,0.0,de,2
-PP,PP,ORG,0.07500000000000001,0.0,de,2
-Luftschutzbunkern,Luftschutzbunkern,ORG,0.0,0.0,de,2
-SPD-Generalsekretär,SPD-Generalsekretär,ORG,1.0,0.0,de,2
-den Grünen,den Grünen,ORG,0.5,0.0,de,2
-TOTS,TOTS,ORG,0.0,0.0,de,2
-Freien Wählern,Freien Wählern,ORG,0.475,0.125,de,2
-Antisemitismus,Antisemitismus,ORG,-1.0,0.0,de,2
-Bohlen-Ex „Naddel,Bohlen-Ex „Naddel,ORG,0.0,0.0,de,2
-EU-Kommissar,EU-Kommissar,ORG,0.0,0.0,de,2
-Erdoğans,Erdoğans,ORG,0.85,0.0,de,2
-„Alles-App“ träumt,„Alles-App“ träumt,ORG,0.0,0.0,de,2
-NBC,NBC,ORG,0.5,0.0,de,2
-Verlags Gruner + Jahr,Verlags Gruner + Jahr,ORG,0.7,0.0,de,2
-DW,DW,ORG,-0.5,0.0,de,2
-US-Präsidentschaftsrennen,US-Präsidentschaftsrennen,ORG,0.0,0.0,de,2
-Ligue 1,Ligue 1,ORG,0.0,0.0,de,2
-Spanien,Spanien,ORG,0.0,0.0,de,2
-US-amerikanische Jazz-Legende,US-amerikanische Jazz-Legende,ORG,-1.0,0.0,de,2
-Bild,Bild,ORG,0.425,0.0,de,2
-Shaping Us,Shaping Us,ORG,0.35,0.0,de,2
-Drohnenattacken,Drohnenattacken,ORG,0.0,0.0,de,2
-ukrainischen Streitkräfte,ukrainischen Streitkräfte,ORG,0.0,0.0,de,2
-Sneaker-Fans,Sneaker-Fans,ORG,0.0,0.0,de,2
-KI-Expert,KI-Expert,ORG,0.35,0.0,de,2
-WirtschaftsWoche Online,WirtschaftsWoche Online,ORG,0.7,0.0,de,2
-Bertelsmann,Bertelsmann,ORG,0.7,0.0,de,2
-Exilmuseum,Exilmuseum,ORG,0.7,0.0,de,2
-Getty Images Entertainment/Getty,Getty Images Entertainment/Getty,ORG,0.27499999999999997,0.0,de,2
-Tesla-Werk,Tesla-Werk,ORG,0.0,0.0,de,2
-Reschke Fernsehen,Reschke Fernsehen,ORG,0.5,0.0,de,2
-CIA,CIA,ORG,0.375,0.0,de,2
-SNS,SNS,ORG,-0.35,0.0,de,2
-Ukraine,Ukraine,ORG,0.0,0.0,de,2
-Serbischen Fortschrittspartei,Serbischen Fortschrittspartei,ORG,-0.35,0.0,de,2
-US-Rapper,US-Rapper,ORG,-1.0,0.0,de,2
-Team of the Season,Team of the Season,ORG,0.0,0.0,de,2
-Graichen-Affäre,Graichen-Affäre,ORG,0.0,0.0,de,2
-UN,UN,ORG,0.0,0.0,de,2
-wahrs…,wahrs…,ORG,0.0,0.0,de,2
-Umweltminister,Umweltminister,ORG,0.0,0.0,de,2
-SPD-Chefin,SPD-Chefin,ORG,0.0,0.0,de,2
-WELT-Studio,WELT-Studio,ORG,0.35,0.0,de,2
-Den Grünen,Den Grünen,ORG,-0.7,0.0,de,2
-Ukraine-Invasion,Ukraine-Invasion,ORG,0.0,0.5,de,2
-Open AI,Open AI,ORG,-1.0,0.0,de,2
-Jeans,Jeans,ORG,0.0,0.0,de,2
-Münchner Ampere,Münchner Ampere,ORG,0.0,0.0,de,2
-CDU-Innenexperte,CDU-Innenexperte,ORG,0.5,0.0,de,2
-NSDAP,NSDAP,ORG,0.5,0.0,de,2
 Europäische Parlament,Europäische Parlament,ORG,0.0,0.0,de,2
-Privatarmee Wagner,Privatarmee Wagner,ORG,-0.07500000000000001,0.0,de,2
-Microsoft,Microsoft,ORG,0.5,0.0,de,2
-Wirtschaftsstaatssekretär,Wirtschaftsstaatssekretär,ORG,0.0,0.0,de,2
-KI-Regulierung,KI-Regulierung,ORG,0.35,0.0,de,2
-JP Morgan,JP Morgan,ORG,0.0,0.0,de,2
 IStGH,IStGH,ORG,0.0,0.0,de,2
-Fernsehen,Fernsehen,ORG,0.0,0.0,de,2
+Schottischen Nationalpartei,Schottischen Nationalpartei,ORG,-0.21666666666666667,0.0,de,2
+NSDAP,NSDAP,ORG,0.5,0.0,de,2
+Manchester City,Manchester City,ORG,1.0,0.0,de,2
+Deutschen Presse-Agentur,Deutschen Presse-Agentur,ORG,0.0,0.0,de,2
+Bündnisses,Bündnisses,ORG,0.5,0.0,de,2
+ZDF Heute-Show,ZDF Heute-Show,ORG,0.5,0.0,de,2
+Saudi Pro League-Saison,Saudi Pro League-Saison,ORG,0.5,0.0,de,2
+spanischen EU-Ratspräsidentschaft,spanischen EU-Ratspräsidentschaft,ORG,0.0,0.0,de,2
+Deutsche Presserat,Deutsche Presserat,ORG,0.0,0.0,de,2
+Juli-,Juli-,ORG,0.0,0.0,de,2
+SPD-Fraktion,SPD-Fraktion,ORG,-0.575,0.0,de,2
+WirtschaftsWoche,WirtschaftsWoche,ORG,0.0,0.0,de,2
+Siemens-Konzern,Siemens-Konzern,ORG,0.0,0.0,de,2
+Fashion Week,Fashion Week,ORG,0.0,0.0,de,2
+VVD,VVD,ORG,0.0,0.5,de,2
+Siemens,Siemens,ORG,0.0,0.0,de,2
+CO2-Ausstoß,CO2-Ausstoß,ORG,0.0,0.0,de,2
+EU-Korruptionsskandal,EU-Korruptionsskandal,ORG,0.7,0.0,de,2
+EU-Spitzen,EU-Spitzen,ORG,0.0,0.5,de,2
+bayerische Energieverband,bayerische Energieverband,ORG,0.0,0.0,de,2
+SZ,SZ,ORG,1.0,0.0,de,2
+Saudi-Klubs,Saudi-Klubs,ORG,0.0,0.0,de,2
+Achmat +++ Kim Jong-un,Achmat +++ Kim Jong-un,ORG,0.11666666666666665,0.0,de,2
+Erstligisten,Erstligisten,ORG,0.5,0.0,de,2
+Arbeitsminister,Arbeitsminister,ORG,0.0,0.0,de,2
+Bits &amp,Bits &amp,ORG,0.0,0.0,de,2
+Kiew Terror,Kiew Terror,ORG,1.0,0.0,de,2
+Tesla-Werk,Tesla-Werk,ORG,0.0,0.0,de,2
+OpenAI,OpenAI,ORG,0.175,0.5,de,2
+KI-Regulierung,KI-Regulierung,ORG,0.35,0.0,de,2
+Microsoft,Microsoft,ORG,0.5,0.0,de,2
+Erdoğans,Erdoğans,ORG,0.85,0.0,de,2
+Münchner Ampere,Münchner Ampere,ORG,0.0,0.0,de,2
+US-Präsidentschaftsrennen,US-Präsidentschaftsrennen,ORG,0.0,0.0,de,2
+JP-Morgan-Chef,JP-Morgan-Chef,ORG,0.0,0.0,de,2
+Privatarmee Wagner,Privatarmee Wagner,ORG,-0.07500000000000001,0.0,de,2
+Springer-Chef,Springer-Chef,ORG,0.0,0.0,de,2
+Drohnenattacken,Drohnenattacken,ORG,0.0,0.0,de,2
+Mirror-Gruppe,Mirror-Gruppe,ORG,-1.0,0.0,de,2
+ukrainischen Streitkräfte,ukrainischen Streitkräfte,ORG,0.0,0.0,de,2
+SPD-Bundesparteitag,SPD-Bundesparteitag,ORG,0.35,0.0,de,2
+Sneaker-Fans,Sneaker-Fans,ORG,0.0,0.0,de,2
+WirtschaftsWoche Online,WirtschaftsWoche Online,ORG,0.7,0.0,de,2
+Telekom,Telekom,ORG,0.25,0.25,de,2
+Ukraine-Invasion,Ukraine-Invasion,ORG,0.0,0.5,de,2
+WELT-Studio,WELT-Studio,ORG,0.35,0.0,de,2
+Umfrage-Absturz,Umfrage-Absturz,ORG,0.0,0.0,de,2
+Ligue 1,Ligue 1,ORG,0.0,0.0,de,2
+russische Innenministerium,russische Innenministerium,ORG,0.0,0.0,de,2
+DW,DW,ORG,-0.5,0.0,de,2
+EPG,EPG,ORG,0.0,0.0,de,2
+PSG-Fans,PSG-Fans,ORG,-0.15000000000000002,0.0,de,2
+ukrainische Streitkräfte,ukrainische Streitkräfte,ORG,0.0,0.0,de,2
+Lily-Rose Depp,Lily-Rose Depp,ORG,0.5,0.0,de,2
+Kiew,Kiew,ORG,0.0,0.0,de,2
+Präsi,Präsi,ORG,0.2875,0.0,de,2
+Ukraine,Ukraine,ORG,0.0,0.0,de,2
+Bundesmarine,Bundesmarine,ORG,0.0,0.0,de,2
+Na,Na,ORG,0.0,0.0,de,2
+Exekutivrat,Exekutivrat,ORG,0.0,0.0,de,2
+Kölner Diözesanpastoralrat,Kölner Diözesanpastoralrat,ORG,0.0,0.0,de,2
+Bild,Bild,ORG,0.425,0.0,de,2
+Weltgesundheitsorganisation,Weltgesundheitsorganisation,ORG,0.0,0.0,de,2
+Real,Real,ORG,1.0,0.0,de,2
 Landesverbands,Landesverbands,ORG,0.0,0.0,de,2
 SPD-Landesparteitag,SPD-Landesparteitag,ORG,0.0,0.0,de,2
-Habecks Grünen,Habecks Grünen,ORG,-1.0,0.0,de,2
-Arte,Arte,ORG,0.0,0.0,de,2
-PSG-Fans,PSG-Fans,ORG,-0.15000000000000002,0.0,de,2
-russische Innenministerium,russische Innenministerium,ORG,0.0,0.0,de,2
-AfD-Umfragehoch,AfD-Umfragehoch,ORG,-0.5,0.0,de,2
-Linken-Politiker,Linken-Politiker,ORG,1.0,0.0,de,2
-Nazis,Nazis,ORG,0.35,0.0,de,2
+NBC,NBC,ORG,0.5,0.0,de,2
+Grünen-Parteiführung,Grünen-Parteiführung,ORG,-0.7,0.0,de,2
+Clermont Foot,Clermont Foot,ORG,0.7749999999999999,0.0,de,2
+Team of the Season,Team of the Season,ORG,0.0,0.0,de,2
+Transfermarkt TV,Transfermarkt TV,ORG,1.0,0.0,de,2
+SPD-Generalsekretär,SPD-Generalsekretär,ORG,1.0,0.0,de,2
+US-Rapper,US-Rapper,ORG,-1.0,0.0,de,2
 Berliner Christopher-Street-Day,Berliner Christopher-Street-Day,ORG,0.0,0.0,de,2
-Regie-L,Regie-L,ORG,0.0,0.0,de,2
-CSD,CSD,ORG,0.0,0.0,de,2
-Iowa State Fair,Iowa State Fair,ORG,1.0,0.0,de,2
+KI-Expert,KI-Expert,ORG,0.35,0.0,de,2
+US-Republikaner,US-Republikaner,ORG,0.0,0.5,de,2
+AfD-Umfragehoch,AfD-Umfragehoch,ORG,-0.5,0.0,de,2
+TOTS,TOTS,ORG,0.0,0.0,de,2
+sa,sa,ORG,0.0,0.0,de,2
+den Grünen,den Grünen,ORG,0.5,0.0,de,2
 Kompromisssuche,Kompromisssuche,ORG,0.0,0.0,de,2
+Apples,Apples,ORG,0.0,0.0,de,2
+CSD,CSD,ORG,0.0,0.0,de,2
+Bohlen-Ex „Naddel,Bohlen-Ex „Naddel,ORG,0.0,0.0,de,2
+Charité,Charité,ORG,0.0,0.0,de,2
+Amazonas-Regenwaldes,Amazonas-Regenwaldes,ORG,0.0,0.0,de,2
+EU-Ebene,EU-Ebene,ORG,-0.5,0.0,de,2
+F.A.Z.,F.A.Z.,ORG,0.0,0.0,de,2
+VW,VW,ORG,-1.0,0.0,de,2
+Kreml-Vasall Kadyrow Racheaktionen,Kreml-Vasall Kadyrow Racheaktionen,ORG,-0.7,0.0,de,2
+Royals: Prinzessin,Royals: Prinzessin,ORG,1.0,0.0,de,2
+Luftschutzbunkern,Luftschutzbunkern,ORG,0.0,0.0,de,2
+CSU-Politikerin,CSU-Politikerin,ORG,0.0,0.0,de,2
+deutschen Konrad-Adenauer-Stiftung,deutschen Konrad-Adenauer-Stiftung,ORG,-0.7,0.0,de,2
 Haushaltsdeal,Haushaltsdeal,ORG,0.35,0.0,de,2
-Kiew,Kiew,ORG,0.0,0.0,de,2
-Na,Na,ORG,0.0,0.0,de,2
-ukrainische Streitkräfte,ukrainische Streitkräfte,ORG,0.0,0.0,de,2
-Frühlings-Offensive der Ukraine,Frühlings-Offensive der Ukraine,ORG,0.0,0.0,de,2
-Ampel-Streithähne!,Ampel-Streithähne!,ORG,0.0,0.0,de,1
-Russische Militärhubschrauber,Russische Militärhubschrauber,ORG,0.0,0.0,de,1
-Justiz-Deal,Justiz-Deal,ORG,0.0,0.0,de,1
-Auf Recherche,Auf Recherche,ORG,0.0,0.0,de,1
-Privat Neues,Privat Neues,ORG,0.0,0.0,de,1
-Ex-Sowjetrepubliken +++,Ex-Sowjetrepubliken +++,ORG,0.0,0.0,de,1
-Kurzzeit-Aufstand d…,Kurzzeit-Aufstand d…,ORG,0.0,0.0,de,1
-PODCAST,PODCAST,ORG,0.0,0.0,de,1
-Elite-Internat,Elite-Internat,ORG,0.0,0.0,de,1
-Internal,Internal,ORG,0.0,0.0,de,1
-"Tagesthemen""-Mo","Tagesthemen""-Mo",ORG,0.0,0.0,de,1
-WELT-Interview,WELT-Interview,ORG,0.7,0.0,de,1
-AfD-Wahlparty,AfD-Wahlparty,ORG,0.0,0.0,de,1
-Gehei,Gehei,ORG,0.0,0.0,de,1
-Eton College,Eton College,ORG,0.0,0.0,de,1
-Präsidentensohn Hunter Biden,Präsidentensohn Hunter Biden,ORG,0.0,0.0,de,1
-Bundes VeRA,Bundes VeRA,ORG,0.0,0.0,de,1
-Umfrage-Trend,Umfrage-Trend,ORG,-1.0,0.0,de,1
-Mäßigu,Mäßigu,ORG,0.0,0.0,de,1
-FC Arsenal,FC Arsenal,ORG,1.0,0.0,de,1
-Arsenal,Arsenal,ORG,0.35,0.0,de,1
-Spurs,Spurs,ORG,0.35,0.0,de,1
-Putin,Putin,ORG,-1.0,0.0,de,1
-EU-Kommissionschefin,EU-Kommissionschefin,ORG,0.0,0.0,de,1
-Be,Be,ORG,1.0,0.0,de,1
-ze,ze,ORG,0.0,0.0,de,1
-Missy Motown,Missy Motown,ORG,0.0,0.0,de,1
-US-Geheimdienste,US-Geheimdienste,ORG,0.0,0.0,de,1
-Aktion der Söldnergruppe Wagner,Aktion der Söldnergruppe Wagner,ORG,0.0,0.0,de,1
-Sommer-Wahlkampf,Sommer-Wahlkampf,ORG,0.7,0.0,de,1
-deutschen Hochschulverband,deutschen Hochschulverband,ORG,0.0,0.0,de,1
-Deal,Deal,ORG,-1.0,0.0,de,1
-Bayern-Wahl,Bayern-Wahl,ORG,0.0,0.0,de,1
-DIE NEUSTEN,DIE NEUSTEN,ORG,0.0,0.0,de,1
-Fox,Fox,ORG,0.0,0.0,de,1
-ITAR-TA,ITAR-TA,ORG,0.0,0.0,de,1
-Guar,Guar,ORG,-1.0,0.0,de,1
-FSB,FSB,ORG,-1.0,0.0,de,1
-30.07.2023,30.07.2023,ORG,-0.7,0.0,de,1
-Anti-Terror…,Anti-Terror…,ORG,0.0,0.0,de,1
-Studiobosse,Studiobosse,ORG,-1.0,0.0,de,1
-Merantix,Merantix,ORG,0.0,0.0,de,1
-Soziales Netzwerk,Soziales Netzwerk,ORG,0.7,0.0,de,1
-FDP-Aufstand,FDP-Aufstand,ORG,-1.0,0.0,de,1
-Wirtschafts-Kurs - Habeck,Wirtschafts-Kurs - Habeck,ORG,-1.0,0.0,de,1
-«Alles-App» träumt,«Alles-App» träumt,ORG,0.0,0.0,de,1
-"Springer-Marke ""Politico","Springer-Marke ""Politico",ORG,0.0,0.0,de,1
-US-Armee,US-Armee,ORG,1.0,0.0,de,1
-Yeezy-Verkauf,Yeezy-Verkauf,ORG,0.0,0.0,de,1
-Washington Hunter Biden,Washington Hunter Biden,ORG,0.0,0.0,de,1
-Blue Origin,Blue Origin,ORG,0.0,0.0,de,1
-TV-Tipps für Sonntag,TV-Tipps für Sonntag,ORG,0.0,0.0,de,1
-Bundesamts für den Verfassungsschutz,Bundesamts für den Verfassungsschutz,ORG,0.7,0.0,de,1
-Merz!,Merz!,ORG,-1.0,0.0,de,1
-Altschuldenidee,Altschuldenidee,ORG,0.0,0.0,de,1
-Sakko,Sakko,ORG,0.0,0.0,de,1
-NRW-Modell,NRW-Modell,ORG,0.0,0.0,de,1
-Unblock Cuba!,Unblock Cuba!,ORG,0.0,0.0,de,1
-Ex - Dreamteam,Ex - Dreamteam,ORG,0.0,0.0,de,1
-Wirtschaftsstandorts Deutschland,Wirtschaftsstandorts Deutschland,ORG,0.0,0.0,de,1
-Spotify,Spotify,ORG,0.7,0.0,de,1
-Getty Images for EJAF,Getty Images for EJAF,ORG,0.0,0.0,de,1
-Nationale Si,Nationale Si,ORG,0.7,0.0,de,1
-Union z,Union z,ORG,0.0,0.0,de,1
-Portugals Nationalmannschaft,Portugals Nationalmannschaft,ORG,0.0,0.0,de,1
-Kön,Kön,ORG,0.0,0.0,de,1
-Belarus,Belarus,ORG,0.0,0.0,de,1
-Reuters,Reuters,ORG,-0.15000000000000002,0.0,de,1
-The Fire,The Fire,ORG,0.0,0.0,de,1
-Vivek Ramaswamy,Vivek Ramaswamy,ORG,1.0,0.0,de,1
-Regie-Legenden,Regie-Legenden,ORG,0.0,0.0,de,1
-Orden,Orden,ORG,0.0,0.0,de,1
-Buzz Ald,Buzz Ald,ORG,0.0,0.0,de,1
-NFL-Quarterback,NFL-Quarterback,ORG,0.0,0.0,de,1
-Luxus-Hotel!,Luxus-Hotel!,ORG,0.0,0.0,de,1
-Italien-Tripp,Italien-Tripp,ORG,1.0,0.0,de,1
-Ausgelassener Italien-Tripp,Ausgelassener Italien-Tripp,ORG,0.0,0.0,de,1
-Rettu,Rettu,ORG,-0.7,0.0,de,1
-Comeback-Film,Comeback-Film,ORG,0.0,0.0,de,1
-Union Vertrauen und Kompetenz,Union Vertrauen und Kompetenz,ORG,0.0,0.0,de,1
-Umfrageinstitut Forsa,Umfrageinstitut Forsa,ORG,0.7,0.0,de,1
-McDonald’s,McDonald’s,ORG,0.0,0.0,de,1
-RTL/ntv-Trendbarometer,RTL/ntv-Trendbarometer,ORG,0.7,0.0,de,1
-Scholz-Herausforderer,Scholz-Herausforderer,ORG,0.0,0.0,de,1
-Trump-Masche,Trump-Masche,ORG,0.35,0.0,de,1
-Tuttosport,Tuttosport,ORG,1.0,0.0,de,1
-AdidasAdidas,AdidasAdidas,ORG,0.0,0.0,de,1
-Südstaat,Südstaat,ORG,0.0,0.0,de,1
-Sonntagabend-Talk,Sonntagabend-Talk,ORG,0.0,0.0,de,1
-Gratis-Stream,Gratis-Stream,ORG,0.0,0.0,de,1
-Schauspielstars,Schauspielstars,ORG,0.0,0.0,de,1
-Millionenschwerer,Millionenschwerer,ORG,0.0,0.0,de,1
-Redaktionsnetzwerk Deutschland,Redaktionsnetzwerk Deutschland,ORG,-1.0,0.0,de,1
-Grüner Bundeslandwirtschaftsminister - Özdemir,Grüner Bundeslandwirtschaftsminister - Özdemir,ORG,0.0,0.0,de,1
-RND,RND,ORG,-1.0,0.0,de,1
-Royal-Aussteiger,Royal-Aussteiger,ORG,0.7,0.0,de,1
-Buchmesse,Buchmesse,ORG,0.0,0.0,de,1
-Textsichere Fans,Textsichere Fans,ORG,0.0,0.0,de,1
-SO,SO,ORG,0.7,0.0,de,1
-FC Bayern München,FC Bayern München,ORG,0.0,0.0,de,1
-FC Porto,FC Porto,ORG,0.0,0.0,de,1
-Wolfsentnahme,Wolfsentnahme,ORG,-0.7,0.0,de,1
-Krypto-Weltwährung,Krypto-Weltwährung,ORG,-1.0,0.0,de,1
-Krywyj Rih,Krywyj Rih,ORG,-1.0,0.0,de,1
-Tauchboot-Pilot,Tauchboot-Pilot,ORG,0.0,0.0,de,1
-Mediathek Starke Marken,Mediathek Starke Marken,ORG,0.85,0.0,de,1
-Tiefsee-Drama,Tiefsee-Drama,ORG,0.0,0.0,de,1
-streikende Gewerkschaft,streikende Gewerkschaft,ORG,0.0,0.0,de,1
-FAZ,FAZ,ORG,0.0,0.0,de,1
-Deuts,Deuts,ORG,0.0,0.0,de,1
-Football-Legende,Football-Legende,ORG,0.0,0.0,de,1
-Großclub Birminghams,Großclub Birminghams,ORG,0.0,0.0,de,1
-Sky,Sky,ORG,0.7,0.0,de,1
-Bundeskanzlerin,Bundeskanzlerin,ORG,0.0,0.0,de,1
-Aston Villa,Aston Villa,ORG,0.0,0.0,de,1
-Prä…,Prä…,ORG,0.0,0.0,de,1
-Birmingham City Football Clubs,Birmingham City Football Clubs,ORG,0.0,0.0,de,1
-Ex-Tuchel-Star Top-Kandidat,Ex-Tuchel-Star Top-Kandidat,ORG,0.0,0.0,de,1
-Männer,Männer,ORG,0.0,0.0,de,1
-Fußball-Zweitligist,Fußball-Zweitligist,ORG,0.7,0.0,de,1
-NFL-Star Brady,NFL-Star Brady,ORG,-0.7,0.0,de,1
-Holy Spirit Catholic Church,Holy Spirit Catholic Church,ORG,-0.7,0.0,de,1
-französischen Gesellschaft,französischen Gesellschaft,ORG,0.0,0.0,de,1
-ELIZABETH,ELIZABETH,ORG,0.0,0.0,de,1
-FRANTZ,FRANTZ,ORG,0.0,0.0,de,1
-Bidens,Bidens,ORG,0.7,0.0,de,1
-WDR,WDR,ORG,0.0,0.0,de,1
-Demokratieabbau |,Demokratieabbau |,ORG,0.0,0.0,de,1
-EU-Einfuhrbeschränkungen,EU-Einfuhrbeschränkungen,ORG,-1.0,0.0,de,1
-Russland-Talk,Russland-Talk,ORG,0.0,0.0,de,1
-Justizminister Buschmann,Justizminister Buschmann,ORG,0.0,0.0,de,1
-Die FDP,Die FDP,ORG,0.35,0.0,de,1
-CC BY 2.0,CC BY 2.0,ORG,0.0,0.0,de,1
-Aiwangers,Aiwangers,ORG,0.0,0.0,de,1
+Getty Images Entertainment/Getty,Getty Images Entertainment/Getty,ORG,0.27499999999999997,0.0,de,2
+Akademie der bildenden Künste Wien,Akademie der bildenden Künste Wien,ORG,-0.5,0.0,de,2
+Verfassung,Verfassung,ORG,0.0,0.0,de,1
+EU-Umweltpol,EU-Umweltpol,ORG,0.7,0.0,de,1
+Mitte-Rechts-Alternative,Mitte-Rechts-Alternative,ORG,0.0,0.0,de,1
+New Global Financial Pact Summit,New Global Financial Pact Summit,ORG,0.0,0.0,de,1
 Bayerischen Akademie der Wissenschaften,Bayerischen Akademie der Wissenschaften,ORG,0.0,0.0,de,1
-Aiwangers Einkommenssteuerpläne,Aiwangers Einkommenssteuerpläne,ORG,0.0,0.0,de,1
-doof für Demokratie,doof für Demokratie,ORG,-1.0,0.0,de,1
-Wagner-Festspiele,Wagner-Festspiele,ORG,0.0,0.0,de,1
-US-Militär,US-Militär,ORG,0.0,0.0,de,1
-Uk… Wolodymyr Selenskyj,Uk… Wolodymyr Selenskyj,ORG,0.0,0.0,de,1
-MEDIENTICKER,MEDIENTICKER,ORG,0.0,0.0,de,1
-BuWi,BuWi,ORG,0.0,0.0,de,1
-FDP-Politikerin,FDP-Politikerin,ORG,0.0,0.0,de,1
-AxelSpringer SE,AxelSpringer SE,ORG,-0.7,0.0,de,1
-nb,nb,ORG,-0.7,0.0,de,1
-Bundesministerin für Bildung und Forschung,Bundesministerin für Bildung und Forschung,ORG,0.0,0.0,de,1
-BKA-Team,BKA-Team,ORG,0.0,0.0,de,1
-Reuß-Gruppe,Reuß-Gruppe,ORG,0.0,0.0,de,1
+BRICS-Gipfel,BRICS-Gipfel,ORG,0.0,0.0,de,1
+Bundeskabinett,Bundeskabinett,ORG,0.0,0.0,de,1
+Aiwangers,Aiwangers,ORG,0.0,0.0,de,1
+SIE,SIE,ORG,0.9,0.0,de,1
+Salls,Salls,ORG,0.0,0.0,de,1
 Neutralität Österreichs,Neutralität Österreichs,ORG,0.7,0.0,de,1
-Oben Energie,Oben Energie,ORG,0.7,0.0,de,1
-Afd,Afd,ORG,0.0,0.0,de,1
-Zw… Einer,Zw… Einer,ORG,0.0,0.0,de,1
-Apple TV+,Apple TV+,ORG,0.0,0.0,de,1
-Business-Ideen,Business-Ideen,ORG,0.0,0.0,de,1
-TGIF,TGIF,ORG,0.0,0.0,de,1
-Feiertagsparade,Feiertagsparade,ORG,0.0,0.0,de,1
-Table,Table,ORG,0.0,0.0,de,1
-Titan-Tragödie,Titan-Tragödie,ORG,0.0,0.0,de,1
-CIA-Chef,CIA-Chef,ORG,1.0,0.0,de,1
-Stadtmagazins Paper,Stadtmagazins Paper,ORG,0.0,0.0,de,1
+Partei Demokratische Allianz,Partei Demokratische Allianz,ORG,0.7,0.0,de,1
+Bundesministerium für Bildung,Bundesministerium für Bildung,ORG,0.0,0.0,de,1
+University of Toronto,University of Toronto,ORG,0.0,0.0,de,1
+Blackrock,Blackrock,ORG,0.0,0.0,de,1
+Tagesspiegel,Tagesspiegel,ORG,0.0,0.0,de,1
+Aiwangers Einkommenssteuerpläne,Aiwangers Einkommenssteuerpläne,ORG,0.0,0.0,de,1
+Google,Google,ORG,0.39999999999999997,0.0,de,1
+SPD-Mitglied,SPD-Mitglied,ORG,-1.0,0.0,de,1
+Kommentar - Özdemir,Kommentar - Özdemir,ORG,0.0,0.0,de,1
+ÖVP-Chef,ÖVP-Chef,ORG,0.0,0.0,de,1
+Sonneberger Landra,Sonneberger Landra,ORG,0.0,0.0,de,1
+MEDIENTICKER,MEDIENTICKER,ORG,0.0,0.0,de,1
+Gegenwind für Spahn,Gegenwind für Spahn,ORG,0.0,0.0,de,1
+Geschäftsimperium,Geschäftsimperium,ORG,0.0,0.0,de,1
+Oprah-Interview,Oprah-Interview,ORG,-0.7,0.0,de,1
+US-Militär,US-Militär,ORG,0.0,0.0,de,1
+NHS,NHS,ORG,0.0,0.0,de,1
+Middletons,Middletons,ORG,-0.7,0.0,de,1
+Südafrika,Südafrika,ORG,0.0,0.0,de,1
 EU-Initiativen,EU-Initiativen,ORG,-1.0,0.0,de,1
-New Yorker,New Yorker,ORG,0.0,0.0,de,1
-Hossa,Hossa,ORG,0.0,0.0,de,1
-Einweg-Plastikmüll,Einweg-Plastikmüll,ORG,0.7,0.0,de,1
-Koalitionspa,Koalitionspa,ORG,0.7,0.0,de,1
-FDP Gegenwind,FDP Gegenwind,ORG,0.0,0.0,de,1
+Oben Energie,Oben Energie,ORG,0.7,0.0,de,1
+Fre,Fre,ORG,0.7,0.0,de,1
 Economist,Economist,ORG,0.0,0.0,de,1
-Neuen Zürcher Zeitu,Neuen Zürcher Zeitu,ORG,0.0,0.0,de,1
-Gesundheitsministerium und Ministerium für Stadt- und Wohnungsbau,Gesundheitsministerium und Ministerium für Stadt- und Wohnungsbau,ORG,0.0,0.0,de,1
+FDP Gegenwind,FDP Gegenwind,ORG,0.0,0.0,de,1
+Koalitionspa,Koalitionspa,ORG,0.7,0.0,de,1
+Einweg-Plastikmüll,Einweg-Plastikmüll,ORG,0.7,0.0,de,1
+Hossa,Hossa,ORG,0.0,0.0,de,1
 Politico Media Gro,Politico Media Gro,ORG,0.0,0.0,de,1
 Thüringer Linke,Thüringer Linke,ORG,0.0,0.0,de,1
-CSU-Landesgruppe,CSU-Landesgruppe,ORG,0.0,0.0,de,1
+Kleingruppen,Kleingruppen,ORG,0.0,0.0,de,1
+nb,nb,ORG,-0.7,0.0,de,1
+BRICS-Staaten,BRICS-Staaten,ORG,0.15000000000000002,0.0,de,1
+AfD-Nominierung,AfD-Nominierung,ORG,-1.0,0.0,de,1
+Apple TV+,Apple TV+,ORG,0.0,0.0,de,1
 Militärhilfe +++,Militärhilfe +++,ORG,0.0,0.0,de,1
-Entschei,Entschei,ORG,0.0,0.0,de,1
-RN,RN,ORG,0.0,0.0,de,1
-Internationalen Strafgerichtshof,Internationalen Strafgerichtshof,ORG,0.0,0.0,de,1
-drenadeniro,drenadeniro,ORG,-0.43333333333333335,0.0,de,1
-töd,töd,ORG,0.0,0.0,de,1
-Senegals linke Partei,Senegals linke Partei,ORG,-0.7,0.0,de,1
-PIT,PIT,ORG,-0.7,0.0,de,1
-Departed,Departed,ORG,0.0,0.0,de,1
-US-Schauspielers,US-Schauspielers,ORG,0.0,0.0,de,1
-Emotionaler Royal-Termin,Emotionaler Royal-Termin,ORG,0.0,0.0,de,1
-ASSOCIATED,ASSOCIATED,ORG,1.0,0.0,de,1
-Landtagswahlen,Landtagswahlen,ORG,-0.7,0.0,de,1
-Sex-Vorwürfe,Sex-Vorwürfe,ORG,0.0,0.0,de,1
-Gef...,Gef...,ORG,0.0,0.0,de,1
-BBC-Moderator,BBC-Moderator,ORG,0.0,0.0,de,1
-Church Road,Church Road,ORG,1.0,0.0,de,1
-J.Lo!,J.Lo!,ORG,0.0,0.0,de,1
-Rassemblement National,Rassemblement National,ORG,0.0,0.0,de,1
-KI-Offensive,KI-Offensive,ORG,0.0,0.0,de,1
-Post-Wagenknecht-Partei,Post-Wagenknecht-Partei,ORG,0.0,0.0,de,1
-University of Toronto,University of Toronto,ORG,0.0,0.0,de,1
-DDR,DDR,ORG,0.0,0.0,de,1
 Vilnius,Vilnius,ORG,0.0,0.0,de,1
+AxelSpringer SE,AxelSpringer SE,ORG,-0.7,0.0,de,1
+Titan-Tragödie,Titan-Tragödie,ORG,0.0,0.0,de,1
+Table,Table,ORG,0.0,0.0,de,1
+Feiertagsparade,Feiertagsparade,ORG,0.0,0.0,de,1
+BuWi,BuWi,ORG,0.0,0.0,de,1
 NATO-Mitglieder,NATO-Mitglieder,ORG,0.0,0.0,de,1
+Business-Ideen,Business-Ideen,ORG,0.0,0.0,de,1
+Justizminister Buschmann,Justizminister Buschmann,ORG,0.0,0.0,de,1
 Artillerie-Schießü,Artillerie-Schießü,ORG,0.0,0.0,de,1
-NS-Zeit,NS-Zeit,ORG,0.0,0.0,de,1
-rechte Partei,rechte Partei,ORG,0.85,0.0,de,1
-EU-Umweltpol,EU-Umweltpol,ORG,0.7,0.0,de,1
-Google,Google,ORG,0.39999999999999997,0.0,de,1
-Feststoffantrieb,Feststoffantrieb,ORG,0.0,0.0,de,1
-Rechtes Medienportal „Nius,Rechtes Medienportal „Nius,ORG,1.0,0.0,de,1
-ÖVP-Chef,ÖVP-Chef,ORG,0.0,0.0,de,1
-Graichen-Clan,Graichen-Clan,ORG,0.0,0.0,de,1
-FPÖ-Chef,FPÖ-Chef,ORG,0.0,0.0,de,1
+CDU-Mann,CDU-Mann,ORG,-1.0,0.0,de,1
+Uk… Wolodymyr Selenskyj,Uk… Wolodymyr Selenskyj,ORG,0.0,0.0,de,1
+Regime-Change,Regime-Change,ORG,0.0,0.0,de,1
+katholischer Kirche,katholischer Kirche,ORG,0.0,0.0,de,1
+EU-Staats- und -Regierungschefs,EU-Staats- und -Regierungschefs,ORG,0.0,0.0,de,1
+Mäßigu,Mäßigu,ORG,0.0,0.0,de,1
+Aktion der Söldnergruppe Wagner,Aktion der Söldnergruppe Wagner,ORG,0.0,0.0,de,1
+US-Geheimdienste,US-Geheimdienste,ORG,0.0,0.0,de,1
+Be,Be,ORG,1.0,0.0,de,1
+KI-Entwickler,KI-Entwickler,ORG,-0.7,0.0,de,1
+Putin,Putin,ORG,-1.0,0.0,de,1
+Gesprächspa,Gesprächspa,ORG,0.0,0.0,de,1
+Spurs,Spurs,ORG,0.35,0.0,de,1
+Arsenal,Arsenal,ORG,0.35,0.0,de,1
+FC Arsenal,FC Arsenal,ORG,1.0,0.0,de,1
+ze,ze,ORG,0.0,0.0,de,1
+ChatGPT-Entwicklers OpenAI,ChatGPT-Entwicklers OpenAI,ORG,0.0,0.0,de,1
+KI-Start-ups +++,KI-Start-ups +++,ORG,0.0,0.0,de,1
+ITAR-TA,ITAR-TA,ORG,0.0,0.0,de,1
+KI-News,KI-News,ORG,-0.7,0.0,de,1
+Kurzzeit-Aufstand d…,Kurzzeit-Aufstand d…,ORG,0.0,0.0,de,1
+AfD-Wahlparty,AfD-Wahlparty,ORG,0.0,0.0,de,1
+Open AI,Open AI,ORG,-1.0,0.0,de,1
+Deuts,Deuts,ORG,0.0,0.0,de,1
+Guar,Guar,ORG,-1.0,0.0,de,1
+FSB,FSB,ORG,-1.0,0.0,de,1
+Anti-Terror…,Anti-Terror…,ORG,0.0,0.0,de,1
+Misslungener,Misslungener,ORG,0.0,0.0,de,1
+Mediathek Starke Marken,Mediathek Starke Marken,ORG,0.85,0.0,de,1
+Tiefsee-Drama,Tiefsee-Drama,ORG,0.0,0.0,de,1
+Sonntagabend-Talk,Sonntagabend-Talk,ORG,0.0,0.0,de,1
+Missy Motown,Missy Motown,ORG,0.0,0.0,de,1
+Privat Neues,Privat Neues,ORG,0.0,0.0,de,1
+Elite-Internat,Elite-Internat,ORG,0.0,0.0,de,1
+Eton College,Eton College,ORG,0.0,0.0,de,1
+"Tagesthemen""-Mo","Tagesthemen""-Mo",ORG,0.0,0.0,de,1
+Gehei,Gehei,ORG,0.0,0.0,de,1
+AKP-Mehrheit,AKP-Mehrheit,ORG,0.0,0.0,de,1
+Präsidentensohn Hunter Biden,Präsidentensohn Hunter Biden,ORG,0.0,0.0,de,1
+Internal,Internal,ORG,0.0,0.0,de,1
+EU-Institutionen,EU-Institutionen,ORG,0.35,0.0,de,1
+Ex-Sowjetrepubliken +++,Ex-Sowjetrepubliken +++,ORG,0.0,0.0,de,1
+Russische Militärhubschrauber,Russische Militärhubschrauber,ORG,0.0,0.0,de,1
+Freitagsgebet,Freitagsgebet,ORG,0.0,0.0,de,1
+AKP,AKP,ORG,0.0,0.0,de,1
+Bundes VeRA,Bundes VeRA,ORG,0.0,0.0,de,1
+Russland-Talk,Russland-Talk,ORG,0.0,0.0,de,1
+Afd,Afd,ORG,0.0,0.0,de,1
+Stichwahl Foto,Stichwahl Foto,ORG,0.0,0.0,de,1
+Nazi-Deutschland,Nazi-Deutschland,ORG,0.0,0.0,de,1
+Vorwahlfieber |,Vorwahlfieber |,ORG,0.0,0.0,de,1
+Parlaments,Parlaments,ORG,0.0,0.0,de,1
+WELT-Podcast,WELT-Podcast,ORG,0.0,0.0,de,1
+Forsa-Chef,Forsa-Chef,ORG,0.0,0.0,de,1
+Künstlicher Intelligenz,Künstlicher Intelligenz,ORG,0.0,0.0,de,1
+US-Podcast,US-Podcast,ORG,0.0,0.0,de,1
+Demokratiecheck des AfD-Politikers,Demokratiecheck des AfD-Politikers,ORG,1.0,0.0,de,1
 Freiheitlichen,Freiheitlichen,ORG,0.7,0.0,de,1
-Kickl,Kickl,ORG,-0.5,0.0,de,1
-Sonderermit… Donald Trump,Sonderermit… Donald Trump,ORG,-1.0,0.0,de,1
-Middletons,Middletons,ORG,-0.7,0.0,de,1
-Its a BeyHive,Its a BeyHive,ORG,0.0,0.0,de,1
-is backing,is backing,ORG,1.0,0.0,de,1
-Aspen Security Forum,Aspen Security Forum,ORG,1.0,0.0,de,1
+Justizministeriums,Justizministeriums,ORG,0.85,0.0,de,1
+trickst Brasilien,trickst Brasilien,ORG,0.0,0.0,de,1
+bekl,bekl,ORG,-1.0,0.0,de,1
+Soundcloud,Soundcloud,ORG,0.0,0.0,de,1
+EU-Gipfel,EU-Gipfel,ORG,0.0,0.0,de,1
+"Reuters-Videokanal"",""mainTheme"":""Video"",""durationInSeconds"":""02:06"",""tags"":[""Video""],""autoListing"":true,""seoData"":{""seoTitle"":"""",""seoDescripti","Reuters-Videokanal"",""mainTheme"":""Video"",""durationInSeconds"":""02:06"",""tags"":[""Video""],""autoListing"":true,""seoData"":{""seoTitle"":"""",""seoDescripti",ORG,0.7,0.0,de,1
+Ukraine-KriegBei,Ukraine-KriegBei,ORG,0.0,0.0,de,1
+U2,U2,ORG,0.7,0.0,de,1
+… Berlin,… Berlin,ORG,1.0,0.0,de,1
+Nato-Partnerschaft,Nato-Partnerschaft,ORG,0.0,0.0,de,1
+Prozess,Prozess,ORG,0.0,0.0,,1
+Hoffn,Hoffn,ORG,1.0,0.0,de,1
+Wagner-Aufstand +++,Wagner-Aufstand +++,ORG,-0.7,0.0,de,1
+FDP-Bundesminister,FDP-Bundesminister,ORG,0.0,0.0,de,1
+se…,se…,ORG,0.0,0.0,de,1
+KI-Risiken,KI-Risiken,ORG,0.0,0.0,de,1
+deutsche Innenministerin,deutsche Innenministerin,ORG,-0.7,0.0,de,1
+Evangelische Kirche in Deutschland,Evangelische Kirche in Deutschland,ORG,1.0,0.0,de,1
+PR,PR,ORG,0.0,0.0,de,1
+EU-Außenminister,EU-Außenminister,ORG,0.0,0.0,de,1
+Erdogans Sieg,Erdogans Sieg,ORG,0.0,0.0,de,1
+SPD-Parteivorstandes,SPD-Parteivorstandes,ORG,0.0,0.0,de,1
+CSU-Generalsekretär,CSU-Generalsekretär,ORG,0.0,0.0,de,1
+Eurofighter +++ Ukrainische Flugabwehr,Eurofighter +++ Ukrainische Flugabwehr,ORG,0.85,0.0,de,1
+Bundesamts für Sicherheit,Bundesamts für Sicherheit,ORG,0.0,0.0,de,1
+Europas,Europas,ORG,0.0,0.0,de,1
 Ittihad FC,Ittihad FC,ORG,0.0,0.0,de,1
-PSOE,PSOE,ORG,-0.7,0.0,de,1
-Partido Popular,Partido Popular,ORG,0.0,0.0,de,1
-US-Schauspieler,US-Schauspieler,ORG,0.0,0.0,de,1
-Vox,Vox,ORG,0.0,0.0,de,1
-Kensington Palace,Kensington Palace,ORG,0.0,0.0,de,1
-Reden!,Reden!,ORG,0.0,0.0,de,1
-Funke Med,Funke Med,ORG,1.0,0.0,de,1
+Andreas-Ellermann-Stiftung,Andreas-Ellermann-Stiftung,ORG,0.0,0.0,de,1
 Clans,Clans,ORG,0.0,0.0,de,1
 Primetime,Primetime,ORG,0.0,0.0,de,1
 Tropenwald-Flächen,Tropenwald-Flächen,ORG,0.0,0.0,de,1
 Ö,Ö,ORG,0.0,0.0,de,1
-FDP-Chef,FDP-Chef,ORG,1.0,0.0,de,1
-Funke Mediengruppe,Funke Mediengruppe,ORG,1.0,0.0,de,1
-Hoffn,Hoffn,ORG,1.0,0.0,de,1
-trickst Brasilien,trickst Brasilien,ORG,0.0,0.0,de,1
-US-Thinktank Aspen Institute,US-Thinktank Aspen Institute,ORG,1.0,0.0,de,1
-Europas,Europas,ORG,0.0,0.0,de,1
-Media Pioneer,Media Pioneer,ORG,0.7,0.0,de,1
-Wagner-Söldnern,Wagner-Söldnern,ORG,0.0,0.0,de,1
-Evangelische Kirche in Deutschland,Evangelische Kirche in Deutschland,ORG,1.0,0.0,de,1
-Berliner Zeitung,Berliner Zeitung,ORG,0.0,0.0,de,1
-Stichwahl Foto,Stichwahl Foto,ORG,0.0,0.0,de,1
-Fraunhofer ISE,Fraunhofer ISE,ORG,0.0,0.0,de,1
-ÖV,ÖV,ORG,0.0,0.0,de,1
-Wagner-Aufstand +++,Wagner-Aufstand +++,ORG,-0.7,0.0,de,1
-se…,se…,ORG,0.0,0.0,de,1
-US-Großbank,US-Großbank,ORG,-1.0,0.0,de,1
-PR,PR,ORG,0.0,0.0,de,1
-Bundesamts für Sicherheit,Bundesamts für Sicherheit,ORG,0.0,0.0,de,1
-Richard-Wagner-Festspiele,Richard-Wagner-Festspiele,ORG,0.0,0.0,de,1
-EU-Außenminister,EU-Außenminister,ORG,0.0,0.0,de,1
-Goldschmidt,Goldschmidt,ORG,0.0,0.0,de,1
-SPD-Parteivorstandes,SPD-Parteivorstandes,ORG,0.0,0.0,de,1
-FDP-Bundesminister,FDP-Bundesminister,ORG,0.0,0.0,de,1
-CSU-Generalsekretär,CSU-Generalsekretär,ORG,0.0,0.0,de,1
-Volkspartei,Volkspartei,ORG,1.0,0.0,de,1
-Prozess,Prozess,ORG,0.0,0.0,,1
-Vorwahlfieber |,Vorwahlfieber |,ORG,0.0,0.0,de,1
-Blackrock,Blackrock,ORG,0.0,0.0,de,1
-Parlaments,Parlaments,ORG,0.0,0.0,de,1
-Fre,Fre,ORG,0.7,0.0,de,1
-Associated Press,Associated Press,ORG,0.7,0.0,de,1
-jmb,jmb,ORG,0.0,0.0,de,1
-POLITICO's Shia Ka,POLITICO's Shia Ka,ORG,0.0,0.0,de,1
-Oprah-Interview,Oprah-Interview,ORG,-0.7,0.0,de,1
-Geschäftsimperium,Geschäftsimperium,ORG,0.0,0.0,de,1
-Sonneberger Landra,Sonneberger Landra,ORG,0.0,0.0,de,1
-SPD-Mitglied,SPD-Mitglied,ORG,-1.0,0.0,de,1
-Tagesspiegel,Tagesspiegel,ORG,0.0,0.0,de,1
-Bundeskabinett,Bundeskabinett,ORG,0.0,0.0,de,1
-Bundesministerium für Bildung,Bundesministerium für Bildung,ORG,0.0,0.0,de,1
-Mitte-Rechts-Alternative,Mitte-Rechts-Alternative,ORG,0.0,0.0,de,1
-New Global Financial Pact Summit,New Global Financial Pact Summit,ORG,0.0,0.0,de,1
-Verfassung,Verfassung,ORG,0.0,0.0,de,1
-SIE,SIE,ORG,0.9,0.0,de,1
-Salls,Salls,ORG,0.0,0.0,de,1
-NHS,NHS,ORG,0.0,0.0,de,1
-katholischer Kirche,katholischer Kirche,ORG,0.0,0.0,de,1
-EU-Staats- und -Regierungschefs,EU-Staats- und -Regierungschefs,ORG,0.0,0.0,de,1
-Nato-Partnerschaft,Nato-Partnerschaft,ORG,0.0,0.0,de,1
-Regime-Change,Regime-Change,ORG,0.0,0.0,de,1
-WELT-Podcast,WELT-Podcast,ORG,0.0,0.0,de,1
-Forsa-Chef,Forsa-Chef,ORG,0.0,0.0,de,1
-CIA-Direktor,CIA-Direktor,ORG,1.0,0.0,de,1
-FSB-Geheimdiensts,FSB-Geheimdiensts,ORG,0.0,0.0,de,1
-Künstlicher Intelligenz,Künstlicher Intelligenz,ORG,0.0,0.0,de,1
-US-Podcast,US-Podcast,ORG,0.0,0.0,de,1
-Demokratiecheck des AfD-Politikers,Demokratiecheck des AfD-Politikers,ORG,1.0,0.0,de,1
-Atemschaukel,Atemschaukel,ORG,0.7,0.0,de,1
-KURZMELDUNGEN,KURZMELDUNGEN,ORG,-1.0,0.0,de,1
-Justizministeriums,Justizministeriums,ORG,0.85,0.0,de,1
-bekl,bekl,ORG,-1.0,0.0,de,1
-EU-Gipfel,EU-Gipfel,ORG,0.0,0.0,de,1
-US-Musikgeschichte,US-Musikgeschichte,ORG,0.0,0.0,de,1
-U2,U2,ORG,0.7,0.0,de,1
-I Left My Heart,I Left My Heart,ORG,0.0,0.0,de,1
-Salzburger Festspiele +++,Salzburger Festspiele +++,ORG,-1.0,0.0,de,1
-CQ,CQ,ORG,1.0,0.0,de,1
-City-Coach Pep Guardiola,City-Coach Pep Guardiola,ORG,1.0,0.0,de,1
-Verschollenes Tauchboot,Verschollenes Tauchboot,ORG,-0.7,0.0,de,1
-Steve Jobs,Steve Jobs,ORG,0.0,0.0,de,1
-Al-Ittihad Real Madrids Karim Benzema,Al-Ittihad Real Madrids Karim Benzema,ORG,1.0,0.0,de,1
-Real Madrids Karim Benzema,Real Madrids Karim Benzema,ORG,1.0,0.0,de,1
-europäische Familie,europäische Familie,ORG,0.0,0.0,de,1
-Finanzdienstes Bloomberg,Finanzdienstes Bloomberg,ORG,0.0,0.0,de,1
-K… Deutschland,K… Deutschland,ORG,0.0,0.0,de,1
-Luftabwehr,Luftabwehr,ORG,0.0,0.0,de,1
-Kiewer Bürgermei,Kiewer Bürgermei,ORG,0.0,0.0,de,1
-Washington Post,Washington Post,ORG,0.0,0.0,de,1
-....,....,ORG,0.0,0.0,de,1
-Sport­über­tra­gungen,Sport­über­tra­gungen,ORG,0.0,0.0,de,1
-Hollywood-Star,Hollywood-Star,ORG,1.0,0.0,de,1
-Gesellschaft,Gesellschaft,ORG,0.0,0.0,de,1
-Berliner CSD,Berliner CSD,ORG,0.0,0.0,de,1
-Landwirtschaftsminister,Landwirtschaftsminister,ORG,0.0,0.0,de,1
-Stoischer Putin,Stoischer Putin,ORG,0.0,0.0,de,1
-ET Canada,ET Canada,ORG,0.0,0.0,de,1
-Hamburg Bethlehem,Hamburg Bethlehem,ORG,0.0,0.0,de,1
-AN,AN,ORG,0.0,0.0,de,1
-Yeezy«-Sneakers,Yeezy«-Sneakers,ORG,0.0,0.0,de,1
-ZUMA Press,ZUMA Press,ORG,0.0,0.0,de,1
-HipHop-Star,HipHop-Star,ORG,0.0,0.0,de,1
-Bundesamt für das Personalmanagement der Bundeswehr,Bundesamt für das Personalmanagement der Bundeswehr,ORG,1.0,0.0,de,1
-FC Everton,FC Everton,ORG,0.85,0.0,de,1
-Celta Vigo,Celta Vigo,ORG,0.85,0.0,de,1
-Ukraine-Kriegs,Ukraine-Kriegs,ORG,0.0,0.0,de,1
-FOCUS-online-Korrespondent Ulrich Reitz,FOCUS-online-Korrespondent Ulrich Reitz,ORG,0.0,0.0,de,1
-Heikle Dokumente!,Heikle Dokumente!,ORG,0.0,0.0,de,1
-Promiportal TMZ,Promiportal TMZ,ORG,0.0,0.0,de,1
-@stefanozarrella/,@stefanozarrella/,ORG,0.0,0.0,de,1
-Hause,Hause,ORG,0.0,0.0,de,1
-Oppositionsmedien,Oppositionsmedien,ORG,0.0,0.0,de,1
-RTÜK,RTÜK,ORG,0.0,0.0,de,1
-US-Vorstandschefs,US-Vorstandschefs,ORG,0.0,0.0,de,1
-Schoah,Schoah,ORG,0.5249999999999999,0.0,de,1
-Israel-Besuch,Israel-Besuch,ORG,0.0,0.0,de,1
-FC Valencia,FC Valencia,ORG,0.85,0.0,de,1
-Bundesminister der FDP,Bundesminister der FDP,ORG,0.0,0.0,de,1
-Markus Lanz,Markus Lanz,ORG,1.0,0.0,de,1
-Repräsentantenhaus,Repräsentantenhaus,ORG,-0.7,0.0,de,1
-Repräsentantenhauses,Repräsentantenhauses,ORG,0.0,0.0,de,1
-Untergrund-Truppe,Untergrund-Truppe,ORG,-1.0,0.0,de,1
-Europäischen Politischen Gemeinschaft,Europäischen Politischen Gemeinschaft,ORG,0.0,0.0,de,1
-Real Madrids,Real Madrids,ORG,1.0,0.0,de,1
-Lina-E.-Urteil: Kubicki,Lina-E.-Urteil: Kubicki,ORG,1.0,0.0,de,1
-Juventus Turin,Juventus Turin,ORG,0.85,0.0,de,1
-Wagner-Truppe,Wagner-Truppe,ORG,0.0,0.0,de,1
-Kiew +++ Amerika,Kiew +++ Amerika,ORG,0.0,0.0,de,1
-Klitschko los!,Klitschko los!,ORG,0.0,0.0,de,1
+FPÖ-Chef,FPÖ-Chef,ORG,0.0,0.0,de,1
 EU-Einschränkungen,EU-Einschränkungen,ORG,0.0,0.0,de,1
-… Wien,… Wien,ORG,-0.5,0.0,de,1
-US-Bundeswahlkommission,US-Bundeswahlkommission,ORG,0.0,0.0,de,1
-republikanischen Partei,republikanischen Partei,ORG,1.0,0.0,de,1
-Kachowka-Wasserkraftwerk,Kachowka-Wasserkraftwerk,ORG,0.0,0.0,de,1
-Vision Pro,Vision Pro,ORG,0.0,0.0,de,1
-Große Party,Große Party,ORG,0.7,0.0,de,1
-Giesinger Bräu,Giesinger Bräu,ORG,0.7,0.0,de,1
-Giesinger,Giesinger,ORG,0.0,0.0,de,1
-Innenstadt-Brauerei Giesinger,Innenstadt-Brauerei Giesinger,ORG,0.0,0.0,de,1
-Datenbrille,Datenbrille,ORG,0.0,0.0,de,1
-Bundeswahlkommi,Bundeswahlkommi,ORG,0.0,0.0,de,1
-Amazonas-Aktions-Plan,Amazonas-Aktions-Plan,ORG,0.0,0.0,de,1
-05.06.2023,05.06.2023,ORG,0.0,0.0,de,1
-russische Streitkräfte,russische Streitkräfte,ORG,0.0,0.0,de,1
-Nee,Nee,ORG,0.0,0.0,de,1
-F,F,ORG,0.0,0.0,de,1
-Verlags MGN,Verlags MGN,ORG,0.0,0.0,de,1
-Sunday Mirror,Sunday Mirror,ORG,0.0,0.0,de,1
-The People,The People,ORG,0.0,0.0,de,1
-Uni Potsdam,Uni Potsdam,ORG,0.0,0.0,de,1
-US-Präsidentschaftsbewerbung,US-Präsidentschaftsbewerbung,ORG,0.0,0.0,de,1
-Instagram,Instagram,ORG,1.0,0.0,de,1
-Präsidentschaftswahlduells,Präsidentschaftswahlduells,ORG,1.0,0.0,de,1
-Paris...,Paris...,ORG,0.0,0.0,de,1
-Dark Knight-Regisseur,Dark Knight-Regisseur,ORG,0.0,0.0,de,1
-Follower,Follower,ORG,0.0,0.0,de,1
-SelenskiDer,SelenskiDer,ORG,0.7,0.0,de,1
-Breaking News,Breaking News,ORG,0.0,0.0,de,1
-Bundeskanzler!,Bundeskanzler!,ORG,1.0,0.0,de,1
-Vice Media,Vice Media,ORG,0.0,0.0,de,1
-Real am Sonntag,Real am Sonntag,ORG,1.0,0.0,de,1
-spanischen Fußball-Rekordmeister,spanischen Fußball-Rekordmeister,ORG,1.0,0.0,de,1
-Rom-Rausschmiss,Rom-Rausschmiss,ORG,0.0,0.0,de,1
-Athletic Bilbao,Athletic Bilbao,ORG,0.0,0.0,de,1
-duuu,duuu,ORG,0.0,0.0,de,1
-ÖFB-Star,ÖFB-Star,ORG,0.0,0.0,de,1
-Oihan Sancet,Oihan Sancet,ORG,1.0,0.0,de,1
-US-Senders,US-Senders,ORG,1.0,0.0,de,1
-NSA,NSA,ORG,0.0,0.0,de,1
-Recep Tayyip Erdogan,Recep Tayyip Erdogan,ORG,0.0,0.0,de,1
-Erdog,Erdog,ORG,0.0,0.0,de,1
-Italienischen Bischofskonferenz,Italienischen Bischofskonferenz,ORG,0.0,0.0,de,1
-RTL-Comeback,RTL-Comeback,ORG,1.0,0.0,de,1
-Magenta TV,Magenta TV,ORG,0.0,0.0,de,1
-Nvidias Aktie,Nvidias Aktie,ORG,0.0,0.0,de,1
-DIE Baby-Überraschung der Woche!,DIE Baby-Überraschung der Woche!,ORG,0.0,0.0,de,1
-Chelsea,Chelsea,ORG,-0.7,0.0,de,1
-Film-Produzentin,Film-Produzentin,ORG,0.0,0.0,de,1
-US-Besuchs,US-Besuchs,ORG,0.0,0.0,de,1
-Wirtschaftsforum ohne Brasilien,Wirtschaftsforum ohne Brasilien,ORG,0.0,0.0,de,1
-Twitter,Twitter,ORG,0.4666666666666666,0.0,de,1
-Deutsche Immobilienpreis,Deutsche Immobilienpreis,ORG,0.0,0.0,de,1
-Moder,Moder,ORG,0.0,0.0,de,1
-Wirtschaftsministerium,Wirtschaftsministerium,ORG,0.0,0.0,de,1
-Ike &amp,Ike &amp,ORG,0.0,0.0,de,1
-Royal-Experte,Royal-Experte,ORG,0.0,0.0,de,1
-Minecraft-Community,Minecraft-Community,ORG,0.0,0.0,de,1
-Ferraris,Ferraris,ORG,-0.7,0.0,de,1
-Russlands,Russlands,ORG,0.0,0.0,de,1
-NATO +++,NATO +++,ORG,0.0,0.0,de,1
-ukrainischen Parlament,ukrainischen Parlament,ORG,-0.5,0.0,de,1
-Kellerkind Straßburg,Kellerkind Straßburg,ORG,1.0,0.0,de,1
-EZB,EZB,ORG,0.0,0.0,de,1
-Währungshüter,Währungshüter,ORG,0.0,0.0,de,1
-EU-Länder,EU-Länder,ORG,-0.5,0.0,de,1
-O,O,ORG,0.0,0.0,de,1
-deutschen Fernsehen,deutschen Fernsehen,ORG,0.0,0.0,de,1
+Kickl,Kickl,ORG,-0.5,0.0,de,1
 Playboy,Playboy,ORG,0.5,0.0,de,1
+Wirtschafts-Kurs - Habeck,Wirtschafts-Kurs - Habeck,ORG,-1.0,0.0,de,1
+Ampel-Streithähne!,Ampel-Streithähne!,ORG,0.0,0.0,de,1
+Auf Recherche,Auf Recherche,ORG,0.0,0.0,de,1
+Währungshüter,Währungshüter,ORG,0.0,0.0,de,1
+EZB,EZB,ORG,0.0,0.0,de,1
+«Alles-App» träumt,«Alles-App» träumt,ORG,0.0,0.0,de,1
+US-Armee,US-Armee,ORG,1.0,0.0,de,1
+Krywyj Rih,Krywyj Rih,ORG,-1.0,0.0,de,1
+Kellerkind Straßburg,Kellerkind Straßburg,ORG,1.0,0.0,de,1
+Krypto-Weltwährung,Krypto-Weltwährung,ORG,-1.0,0.0,de,1
+Wolfsentnahme,Wolfsentnahme,ORG,-0.7,0.0,de,1
+SO,SO,ORG,0.7,0.0,de,1
+Royal-Aussteiger,Royal-Aussteiger,ORG,0.7,0.0,de,1
+Grüner Bundeslandwirtschaftsminister - Özdemir,Grüner Bundeslandwirtschaftsminister - Özdemir,ORG,0.0,0.0,de,1
+Millionenschwerer,Millionenschwerer,ORG,0.0,0.0,de,1
+Schauspielstars,Schauspielstars,ORG,0.0,0.0,de,1
+ukrainischen Parlament,ukrainischen Parlament,ORG,-0.5,0.0,de,1
+streikende Gewerkschaft,streikende Gewerkschaft,ORG,0.0,0.0,de,1
+FAZ,FAZ,ORG,0.0,0.0,de,1
+FDP-Aufstand,FDP-Aufstand,ORG,-1.0,0.0,de,1
+EU-Länder,EU-Länder,ORG,-0.5,0.0,de,1
+Soziales Netzwerk,Soziales Netzwerk,ORG,0.7,0.0,de,1
+Bayern-Wahl,Bayern-Wahl,ORG,0.0,0.0,de,1
+deutschen Fernsehen,deutschen Fernsehen,ORG,0.0,0.0,de,1
+ÖV,ÖV,ORG,0.0,0.0,de,1
+Fraunhofer ISE,Fraunhofer ISE,ORG,0.0,0.0,de,1
+Berliner Zeitung,Berliner Zeitung,ORG,0.0,0.0,de,1
+WELT-Interview,WELT-Interview,ORG,0.7,0.0,de,1
+PODCAST,PODCAST,ORG,0.0,0.0,de,1
+Justiz-Deal,Justiz-Deal,ORG,0.0,0.0,de,1
+Umfrage-Trend,Umfrage-Trend,ORG,-1.0,0.0,de,1
+DIE NEUSTEN,DIE NEUSTEN,ORG,0.0,0.0,de,1
+Studiobosse,Studiobosse,ORG,-1.0,0.0,de,1
+Deal,Deal,ORG,-1.0,0.0,de,1
+O,O,ORG,0.0,0.0,de,1
+Merantix,Merantix,ORG,0.0,0.0,de,1
+EU-Kommissionschefin,EU-Kommissionschefin,ORG,0.0,0.0,de,1
+Sommer-Wahlkampf,Sommer-Wahlkampf,ORG,0.7,0.0,de,1
+deutschen Hochschulverband,deutschen Hochschulverband,ORG,0.0,0.0,de,1
+Fox,Fox,ORG,0.0,0.0,de,1
+30.07.2023,30.07.2023,ORG,-0.7,0.0,de,1
+NATO +++,NATO +++,ORG,0.0,0.0,de,1
+Russlands,Russlands,ORG,0.0,0.0,de,1
+Fußball-Zweitligist,Fußball-Zweitligist,ORG,0.7,0.0,de,1
+Rentenkürzung.“​,Rentenkürzung.“​,ORG,-0.5666666666666667,0.0,de,1
+Deutschen Welle,Deutschen Welle,ORG,0.0,0.0,de,1
+AR,AR,ORG,0.0,0.0,de,1
+Royal-Experte,Royal-Experte,ORG,0.0,0.0,de,1
+Vivek Ramaswamy,Vivek Ramaswamy,ORG,1.0,0.0,de,1
+Ausgelassener Italien-Tripp,Ausgelassener Italien-Tripp,ORG,0.0,0.0,de,1
+Italien-Tripp,Italien-Tripp,ORG,1.0,0.0,de,1
+FDP-Generalsekretär,FDP-Generalsekretär,ORG,0.0,0.0,de,1
+NICHT GUT,NICHT GUT,ORG,-0.10000000000000002,0.0,de,1
+Luxus-Hotel!,Luxus-Hotel!,ORG,0.0,0.0,de,1
+US-Justizminister,US-Justizminister,ORG,0.0,0.0,de,1
+NFL-Quarterback,NFL-Quarterback,ORG,0.0,0.0,de,1
+TV-Enterta,TV-Enterta,ORG,0.0,0.0,de,1
+Ike &amp,Ike &amp,ORG,0.0,0.0,de,1
+Regie-Legenden,Regie-Legenden,ORG,0.0,0.0,de,1
+Elite,Elite,ORG,0.7,0.0,de,1
+WIlliam,WIlliam,ORG,0.7,0.0,de,1
+Selenskyj Universität,Selenskyj Universität,ORG,0.0,0.0,de,1
+Universität,Universität,ORG,0.0,0.0,de,1
+Bidens' Sohn,Bidens' Sohn,ORG,0.0,0.0,de,1
+reag…,reag…,ORG,0.0,0.0,de,1
+NFL-Star Brady,NFL-Star Brady,ORG,-0.7,0.0,de,1
+Spotify,Spotify,ORG,0.7,0.0,de,1
+Football-Legende,Football-Legende,ORG,0.0,0.0,de,1
+Birmingham City Football Clubs,Birmingham City Football Clubs,ORG,0.0,0.0,de,1
+Aston Villa,Aston Villa,ORG,0.0,0.0,de,1
+Großclub Birminghams,Großclub Birminghams,ORG,0.0,0.0,de,1
+Yeezy-Verkauf,Yeezy-Verkauf,ORG,0.0,0.0,de,1
+AdidasAdidas,AdidasAdidas,ORG,0.0,0.0,de,1
+Kön,Kön,ORG,0.0,0.0,de,1
+Union z,Union z,ORG,0.0,0.0,de,1
+Ex - Dreamteam,Ex - Dreamteam,ORG,0.0,0.0,de,1
+Minecraft-Community,Minecraft-Community,ORG,0.0,0.0,de,1
+Sakko,Sakko,ORG,0.0,0.0,de,1
+TV-Tipps für Sonntag,TV-Tipps für Sonntag,ORG,0.0,0.0,de,1
+Belarus,Belarus,ORG,0.0,0.0,de,1
+Trump-Masche,Trump-Masche,ORG,0.35,0.0,de,1
+Ferraris,Ferraris,ORG,-0.7,0.0,de,1
+McDonald’s,McDonald’s,ORG,0.0,0.0,de,1
+Thüringer Landesverbands der AfD.,Thüringer Landesverbands der AfD.,ORG,0.0,0.0,de,1
+US-Kapitol,US-Kapitol,ORG,-1.0,0.0,de,1
+US-Großbank,US-Großbank,ORG,-1.0,0.0,de,1
 AfD Blockade,AfD Blockade,ORG,0.0,0.0,de,1
-IRA,IRA,ORG,0.0,0.0,de,1
-Nordirland-Konflikts,Nordirland-Konflikts,ORG,0.7,0.0,de,1
-Trump los,Trump los,ORG,0.0,0.0,de,1
-ÖGB-Chef,ÖGB-Chef,ORG,0.0,0.0,de,1
-US-Streitkräfte,US-Streitkräfte,ORG,0.0,0.0,de,1
-US-Luftw,US-Luftw,ORG,0.0,0.0,de,1
-Zinnsoldaten,Zinnsoldaten,ORG,0.0,0.0,de,1
-KI-Regeln,KI-Regeln,ORG,-0.7,0.0,de,1
-OpenAI Europa,OpenAI Europa,ORG,-0.7,0.0,de,1
-SPD-Minister,SPD-Minister,ORG,1.0,0.0,de,1
-Arbeitsministerium,Arbeitsministerium,ORG,1.0,0.0,de,1
-Stopp!,Stopp!,ORG,0.0,0.0,de,1
-OpenAI-Gründer,OpenAI-Gründer,ORG,-1.0,0.0,de,1
-CDU/CSU,CDU/CSU,ORG,-0.7,0.0,de,1
-OpenAI-Chefs,OpenAI-Chefs,ORG,0.0,0.0,de,1
-Informationsfreiheit r…,Informationsfreiheit r…,ORG,0.7,0.0,de,1
-Europäischen Kommission,Europäischen Kommission,ORG,0.0,0.0,de,1
-Bundeswirtschaftsministerium,Bundeswirtschaftsministerium,ORG,0.0,0.0,de,1
-US-Außenminister,US-Außenminister,ORG,0.0,0.0,de,1
-Top-Mitarbeiters,Top-Mitarbeiters,ORG,0.0,0.0,de,1
-BMAS,BMAS,ORG,0.0,0.0,de,1
-Warren-Buffett-Depot,Warren-Buffett-Depot,ORG,0.0,0.0,de,1
-AfD-Chefs,AfD-Chefs,ORG,0.0,0.0,de,1
-Nationalsozialis…,Nationalsozialis…,ORG,0.7,0.0,de,1
-NDR,NDR,ORG,0.85,0.0,de,1
-Björ,Björ,ORG,0.0,0.0,de,1
-Airbus,Airbus,ORG,0.0,0.0,de,1
-Gesprächspa,Gesprächspa,ORG,0.0,0.0,de,1
-Nazi-Deutschland,Nazi-Deutschland,ORG,0.0,0.0,de,1
-Eurofighter +++ Ukrainische Flugabwehr,Eurofighter +++ Ukrainische Flugabwehr,ORG,0.85,0.0,de,1
-Andreas-Ellermann-Stiftung,Andreas-Ellermann-Stiftung,ORG,0.0,0.0,de,1
-Erdogans Sieg,Erdogans Sieg,ORG,0.0,0.0,de,1
-deutsche Innenministerin,deutsche Innenministerin,ORG,-0.7,0.0,de,1
-KI-Risiken,KI-Risiken,ORG,0.0,0.0,de,1
-KI-News,KI-News,ORG,-0.7,0.0,de,1
-KI-Start-ups +++,KI-Start-ups +++,ORG,0.0,0.0,de,1
-ChatGPT-Entwicklers OpenAI,ChatGPT-Entwicklers OpenAI,ORG,0.0,0.0,de,1
-KI-Entwickler,KI-Entwickler,ORG,-0.7,0.0,de,1
-"Reuters-Videokanal"",""mainTheme"":""Video"",""durationInSeconds"":""02:06"",""tags"":[""Video""],""autoListing"":true,""seoData"":{""seoTitle"":"""",""seoDescripti","Reuters-Videokanal"",""mainTheme"":""Video"",""durationInSeconds"":""02:06"",""tags"":[""Video""],""autoListing"":true,""seoData"":{""seoTitle"":"""",""seoDescripti",ORG,0.7,0.0,de,1
-AKP-Mehrheit,AKP-Mehrheit,ORG,0.0,0.0,de,1
-AKP,AKP,ORG,0.0,0.0,de,1
-Freitagsgebet,Freitagsgebet,ORG,0.0,0.0,de,1
-EU-Institutionen,EU-Institutionen,ORG,0.35,0.0,de,1
-Misslungener,Misslungener,ORG,0.0,0.0,de,1
-Real Madrids Superstar Karim Benzema,Real Madrids Superstar Karim Benzema,ORG,1.0,0.0,de,1
-US-First,US-First,ORG,0.0,0.0,de,1
-Carters,Carters,ORG,0.0,0.0,de,1
-Modern Talking,Modern Talking,ORG,0.0,0.0,de,1
-Soundcloud,Soundcloud,ORG,0.0,0.0,de,1
-Ukraine-KriegBei,Ukraine-KriegBei,ORG,0.0,0.0,de,1
-US-Aussage,US-Aussage,ORG,0.0,0.0,de,1
-gepacktFoto,gepacktFoto,ORG,0.7,0.0,de,1
-KSE-Vertrag,KSE-Vertrag,ORG,0.0,0.0,de,1
-Mercedes,Mercedes,ORG,0.0,0.0,de,1
-US-Automobilherstellers,US-Automobilherstellers,ORG,-1.0,0.0,de,1
-Türkei-Fahn,Türkei-Fahn,ORG,0.7,0.0,de,1
-Zentrum,Zentrum,ORG,-0.7,0.0,de,1
-Bundesparteitag,Bundesparteitag,ORG,0.7,0.0,de,1
-FIFA,FIFA,ORG,0.0,0.0,de,1
+Feststoffantrieb,Feststoffantrieb,ORG,0.0,0.0,de,1
+Richard-Wagner-Festspiele,Richard-Wagner-Festspiele,ORG,0.0,0.0,de,1
+KI-Offensive,KI-Offensive,ORG,0.0,0.0,de,1
 Performance - EA SPORTS,Performance - EA SPORTS,ORG,0.0,0.0,de,1
+Post-Wagenknecht-Partei,Post-Wagenknecht-Partei,ORG,0.0,0.0,de,1
+Sonderermit… Donald Trump,Sonderermit… Donald Trump,ORG,-1.0,0.0,de,1
+FIFA,FIFA,ORG,0.0,0.0,de,1
+Graichen-Affäre,Graichen-Affäre,ORG,0.0,0.0,de,1
+Graichen-Clan,Graichen-Clan,ORG,0.0,0.0,de,1
+Rechtes Medienportal „Nius,Rechtes Medienportal „Nius,ORG,1.0,0.0,de,1
+rechte Partei,rechte Partei,ORG,0.85,0.0,de,1
+Bundesparteitag,Bundesparteitag,ORG,0.7,0.0,de,1
+NS-Zeit,NS-Zeit,ORG,0.0,0.0,de,1
+DDR,DDR,ORG,0.0,0.0,de,1
+CSU-Landesgruppe,CSU-Landesgruppe,ORG,0.0,0.0,de,1
+Zentrum,Zentrum,ORG,-0.7,0.0,de,1
+Reuß-Gruppe,Reuß-Gruppe,ORG,0.0,0.0,de,1
+BKA-Team,BKA-Team,ORG,0.0,0.0,de,1
+Bundesministerin für Bildung und Forschung,Bundesministerin für Bildung und Forschung,ORG,0.0,0.0,de,1
+FDP-Politikerin,FDP-Politikerin,ORG,0.0,0.0,de,1
+Wagner-Festspiele,Wagner-Festspiele,ORG,0.0,0.0,de,1
+Internationalen Strafgerichtshof,Internationalen Strafgerichtshof,ORG,0.0,0.0,de,1
 Reise-Weltmeister,Reise-Weltmeister,ORG,0.0,0.0,de,1
+gepacktFoto,gepacktFoto,ORG,0.7,0.0,de,1
+ASSOCIATED,ASSOCIATED,ORG,1.0,0.0,de,1
+Rassemblement National,Rassemblement National,ORG,0.0,0.0,de,1
+RN,RN,ORG,0.0,0.0,de,1
+US-Militärs,US-Militärs,ORG,0.7,0.0,de,1
+drenadeniro,drenadeniro,ORG,-0.43333333333333335,0.0,de,1
+töd,töd,ORG,0.0,0.0,de,1
+Senegals linke Partei,Senegals linke Partei,ORG,-0.7,0.0,de,1
+PIT,PIT,ORG,-0.7,0.0,de,1
+Emotionaler Royal-Termin,Emotionaler Royal-Termin,ORG,0.0,0.0,de,1
+Sex-Vorwürfe,Sex-Vorwürfe,ORG,0.0,0.0,de,1
+Departed,Departed,ORG,0.0,0.0,de,1
+BBC-Moderator,BBC-Moderator,ORG,0.0,0.0,de,1
 Z,Z,ORG,0.0,0.0,de,1
-… Berlin,… Berlin,ORG,1.0,0.0,de,1
-CDU-Mann,CDU-Mann,ORG,-1.0,0.0,de,1
-AfD-Nominierung,AfD-Nominierung,ORG,-1.0,0.0,de,1
-Kleingruppen,Kleingruppen,ORG,0.0,0.0,de,1
-Gegenwind für Spahn,Gegenwind für Spahn,ORG,0.0,0.0,de,1
-Kommentar - Özdemir,Kommentar - Özdemir,ORG,0.0,0.0,de,1
-Partei Demokratische Allianz,Partei Demokratische Allianz,ORG,0.7,0.0,de,1
-BRICS-Gipfel,BRICS-Gipfel,ORG,0.0,0.0,de,1
-Südafrika,Südafrika,ORG,0.0,0.0,de,1
-BRICS-Staaten,BRICS-Staaten,ORG,0.15000000000000002,0.0,de,1
-Humboldt-Stiftung,Humboldt-Stiftung,ORG,0.0,0.0,de,1
-CDU-Schwesterpartei,CDU-Schwesterpartei,ORG,0.0,0.0,de,1
-Real...,Real...,ORG,1.0,0.0,de,1
-Britische Regierung,Britische Regierung,ORG,0.0,0.0,de,1
-Berlusconi,Berlusconi,ORG,0.0,0.0,de,1
-Propagandanebel,Propagandanebel,ORG,0.0,0.0,de,1
-Ex-Wagner-Söldner,Ex-Wagner-Söldner,ORG,0.0,0.0,de,1
-Deutschland-Ukraine,Deutschland-Ukraine,ORG,0.0,0.0,de,1
-DC-Star Amber Heard,DC-Star Amber Heard,ORG,0.7,0.0,de,1
-N’,N’,ORG,0.0,0.0,de,1
-Katar-Gate,Katar-Gate,ORG,-0.7,0.0,de,1
-US-Bank JPMorgan Chase,US-Bank JPMorgan Chase,ORG,0.0,0.0,de,1
-Bank m,Bank m,ORG,0.0,0.0,de,1
-Berlusconis Patchwork-Familie,Berlusconis Patchwork-Familie,ORG,0.0,0.0,de,1
-Berlusconis,Berlusconis,ORG,0.0,0.0,de,1
-Marina,Marina,ORG,0.0,0.0,de,1
-Jah,Jah,ORG,0.0,0.0,de,1
-SPD-Fest,SPD-Fest,ORG,-1.0,0.0,de,1
-OMR,OMR,ORG,0.0,0.0,de,1
-manche*n Gründer*in neidisch,manche*n Gründer*in neidisch,ORG,-1.0,0.0,de,1
-Fußball-Stars,Fußball-Stars,ORG,0.0,0.0,de,1
-Neymar & Co.,Neymar & Co.,ORG,0.0,0.0,de,1
-Benzema &amp,Benzema &amp,ORG,0.0,0.0,de,1
-Saporischschja +++ Drei Tote bei Raketenangriff auf Odessa +++ Putin,Saporischschja +++ Drei Tote bei Raketenangriff auf Odessa +++ Putin,ORG,-0.5,0.0,de,1
-Grünen-Chefin,Grünen-Chefin,ORG,0.0,0.0,de,1
-italienische Gesellschaft,italienische Gesellschaft,ORG,0.7,0.0,de,1
-Bundes-CDU,Bundes-CDU,ORG,1.0,0.0,de,1
-CDU-Verbände,CDU-Verbände,ORG,0.0,0.0,de,1
-SPD-Führung,SPD-Führung,ORG,-0.7,0.0,de,1
-Landratswahl,Landratswahl,ORG,0.0,0.0,de,1
-Ukraine Rücke…,Ukraine Rücke…,ORG,0.0,0.0,de,1
-SNP-Finanzen,SNP-Finanzen,ORG,0.0,0.0,de,1
-russischen Streitkräfte,russischen Streitkräfte,ORG,0.0,0.0,de,1
-"Start-up-Festival ""Bits & Pretzels","Start-up-Festival ""Bits & Pretzels",ORG,0.0,0.0,de,1
-"Start-up-Festival ""Bits &amp","Start-up-Festival ""Bits &amp",ORG,0.0,0.0,de,1
-Neymar,Neymar,ORG,0.0,0.0,de,1
-US-Fernsehsender,US-Fernsehsender,ORG,0.0,0.0,de,1
-Ex-,Ex-,ORG,0.0,0.0,de,1
-Bits & Pretzels,Bits & Pretzels,ORG,0.0,0.0,de,1
-TV-Tipp,TV-Tipp,ORG,0.0,0.0,de,1
-Achmat,Achmat,ORG,0.0,0.0,de,1
-Fo,Fo,ORG,-0.15000000000000002,0.0,de,1
-Deutschen Presseagentur,Deutschen Presseagentur,ORG,0.7,0.0,de,1
-Forza Italia,Forza Italia,ORG,0.0,0.0,de,1
-Europäische Volkspartei,Europäische Volkspartei,ORG,0.0,0.0,de,1
-European People's Party,European People's Party,ORG,0.0,0.0,de,1
-Agency People,Agency People,ORG,0.7,0.0,de,1
-Talisca,Talisca,ORG,0.0,0.0,de,1
-Al-Nassr...,Al-Nassr...,ORG,1.0,0.0,de,1
-Heizungskompromiss,Heizungskompromiss,ORG,0.0,0.0,de,1
-Presserat,Presserat,ORG,0.0,0.0,de,1
-Döpfner-Nachrichten,Döpfner-Nachrichten,ORG,0.0,0.0,de,1
-Bundeswirtschaftsminister,Bundeswirtschaftsminister,ORG,0.7,0.0,de,1
-Podiu,Podiu,ORG,0.0,0.0,de,1
-Geisler-Fotopress,Geisler-Fotopress,ORG,-0.35,0.0,de,1
-Zeit Freundinnen,Zeit Freundinnen,ORG,-1.0,0.0,de,1
-Ministerpr,Ministerpr,ORG,0.0,0.0,de,1
-Zeit mi…,Zeit mi…,ORG,1.0,0.0,de,1
-Minister für das ko…,Minister für das ko…,ORG,0.0,0.0,de,1
-CDU-Zentrale,CDU-Zentrale,ORG,0.7,0.0,de,1
-Hollywood Vampir,Hollywood Vampir,ORG,0.0,0.0,de,1
-W…,W…,ORG,0.0,0.0,de,1
-ARD-Sendung,ARD-Sendung,ORG,0.0,0.0,de,1
-Königsblau!,Königsblau!,ORG,0.85,0.0,de,1
-Deutsche Journalisten-Gewerkschaft,Deutsche Journalisten-Gewerkschaft,ORG,-0.85,0.0,de,1
-Konzernchef,Konzernchef,ORG,0.0,0.0,de,1
-Homeoffice,Homeoffice,ORG,0.0,0.0,de,1
-t3n.de,t3n.de,ORG,0.0,0.0,de,1
-Chefred,Chefred,ORG,0.0,0.0,de,1
-CDU-Machtkampf,CDU-Machtkampf,ORG,-1.0,0.0,de,1
-Vermisstes Titanic-U-Boot,Vermisstes Titanic-U-Boot,ORG,0.0,0.0,de,1
-britischen Abgeordneten,britischen Abgeordneten,ORG,0.0,0.0,de,1
-Newsticker - RB Leipzig,Newsticker - RB Leipzig,ORG,-0.7,0.0,de,1
-Denkfabrik Republik21,Denkfabrik Republik21,ORG,0.0,0.0,de,1
-Cheeeese!,Cheeeese!,ORG,0.0,0.0,de,1
-MPK,MPK,ORG,0.0,0.0,de,1
-Jungen Union,Jungen Union,ORG,0.0,0.0,de,1
-EU-Budget,EU-Budget,ORG,0.7,0.0,de,1
-Oscar-P,Oscar-P,ORG,0.0,0.0,de,1
-Sommeroffensive der Kiewer Armee,Sommeroffensive der Kiewer Armee,ORG,-0.7,0.0,de,1
-Kiewer Armee,Kiewer Armee,ORG,-0.85,0.0,de,1
-@nooralfallah/Instagram,@nooralfallah/Instagram,ORG,0.0,0.0,de,1
-Diekmann-Buch,Diekmann-Buch,ORG,0.0,0.0,de,1
-BLANCO,BLANCO,ORG,0.0,0.0,de,1
-TV-Koch,TV-Koch,ORG,0.0,0.0,de,1
-JU-Vorsitzender,JU-Vorsitzender,ORG,-0.7,0.0,de,1
-Gruppe Letzte Generation,Gruppe Letzte Generation,ORG,0.0,0.0,de,1
-Bundesgesundheitsminister,Bundesgesundheitsminister,ORG,-1.0,0.0,de,1
-Büromiete,Büromiete,ORG,0.0,0.0,de,1
-EU-Grenze,EU-Grenze,ORG,1.0,0.0,de,1
-Nanu…,Nanu…,ORG,0.0,0.0,de,1
-Royal Air Force,Royal Air Force,ORG,0.7,0.0,de,1
-undRoyal Air Force,undRoyal Air Force,ORG,0.7,0.0,de,1
-DIESE,DIESE,ORG,0.0,0.0,de,1
-Militärkapellen s,Militärkapellen s,ORG,0.0,0.0,de,1
-Rampenlich,Rampenlich,ORG,0.0,0.0,de,1
-Familienimperiums,Familienimperiums,ORG,0.0,0.0,de,1
-saudische Liga,saudische Liga,ORG,0.0,0.0,de,1
-Rauswurfs,Rauswurfs,ORG,-0.7,0.0,de,1
-EU-Innenminister,EU-Innenminister,ORG,0.0,0.0,de,1
-Telegraph Media Group,Telegraph Media Group,ORG,0.0,0.0,de,1
-empics,empics,ORG,0.0,0.0,de,1
-Avalon.red,Avalon.red,ORG,0.0,0.0,de,1
-Iran,Iran,ORG,0.0,0.0,de,1
-College St Anselm …,College St Anselm …,ORG,0.0,0.0,de,1
-al-Hilal,al-Hilal,ORG,1.0,0.0,de,1
-Major League Socc,Major League Socc,ORG,1.0,0.0,de,1
-Britische Telegraph Media Group,Britische Telegraph Media Group,ORG,0.0,0.0,de,1
-Daily Telegraph,Daily Telegraph,ORG,0.0,0.0,de,1
-The Daily Telegraph,The Daily Telegraph,ORG,0.0,0.0,de,1
-TMG,TMG,ORG,0.0,0.0,de,1
-Weltklassestürmer Karim Benzema,Weltklassestürmer Karim Benzema,ORG,0.7,0.0,de,1
-Eigentümerfa,Eigentümerfa,ORG,0.0,0.0,de,1
-Barça &amp,Barça &amp,ORG,-0.7,0.0,de,1
-Barça,Barça,ORG,0.0,0.0,de,1
-US-Club,US-Club,ORG,0.0,0.0,de,1
-Ex-Pr,Ex-Pr,ORG,0.0,0.0,de,1
-Fix,Fix,ORG,0.0,0.0,de,1
-republikanische US-Präsidentschaftskandidatur,republikanische US-Präsidentschaftskandidatur,ORG,-0.7,0.0,de,1
-Fidesz,Fidesz,ORG,0.0,0.0,de,1
-Sisyphos-Lanz,Sisyphos-Lanz,ORG,0.0,0.0,de,1
-al-Ittihad,al-Ittihad,ORG,0.7,0.0,de,1
-US-Vizepr,US-Vizepr,ORG,0.0,0.0,de,1
-Fraktionschef der,Fraktionschef der,ORG,0.0,0.0,de,1
-Heritage Foundation,Heritage Foundation,ORG,0.7,0.0,de,1
-Fix!,Fix!,ORG,0.0,0.0,de,1
-Washington P,Washington P,ORG,0.0,0.0,de,1
-US-Staates,US-Staates,ORG,0.0,0.0,de,1
-US-Präsidentenamt,US-Präsidentenamt,ORG,0.0,0.0,de,1
-Porsche,Porsche,ORG,0.0,0.0,de,1
-Naddel-Millionärs!,Naddel-Millionärs!,ORG,0.0,0.0,de,1
-Stiftung will US-Visumsantrag,Stiftung will US-Visumsantrag,ORG,0.0,0.0,de,1
-Heritage Foundation Harrys,Heritage Foundation Harrys,ORG,0.0,0.0,de,1
-US-Denkfabrik,US-Denkfabrik,ORG,0.7,0.0,de,1
-Denkfabrik Heritage Foundation,Denkfabrik Heritage Foundation,ORG,0.0,0.0,de,1
-MLS-Klub Inter Miami,MLS-Klub Inter Miami,ORG,0.0,0.0,de,1
-Mirror»-Verlag,Mirror»-Verlag,ORG,0.0,0.0,de,1
-Mirror»-Verlag MGN,Mirror»-Verlag MGN,ORG,0.0,0.0,de,1
-Mirror-Verlag MGN,Mirror-Verlag MGN,ORG,0.0,0.0,de,1
-US-Bundestaates,US-Bundestaates,ORG,0.7,0.0,de,1
-RBB-Sendung,RBB-Sendung,ORG,-1.0,0.0,de,1
-z…,z…,ORG,0.0,0.0,de,1
-Geri…,Geri…,ORG,0.0,0.0,de,1
-Höckes,Höckes,ORG,1.0,0.0,de,1
-Die AfD,Die AfD,ORG,1.0,0.0,de,1
-re…,re…,ORG,-0.7,0.0,de,1
-EU-Agentur für Grundrechte,EU-Agentur für Grundrechte,ORG,0.0,0.0,de,1
-Milliardenschäden,Milliardenschäden,ORG,0.0,0.0,de,1
-Linksaußen-Partei,Linksaußen-Partei,ORG,0.0,0.0,de,1
+"Springer-Marke ""Politico","Springer-Marke ""Politico",ORG,0.0,0.0,de,1
+Media Pioneer,Media Pioneer,ORG,0.7,0.0,de,1
+Tauchboot-Pilot,Tauchboot-Pilot,ORG,0.0,0.0,de,1
+Church Road,Church Road,ORG,1.0,0.0,de,1
+Gef...,Gef...,ORG,0.0,0.0,de,1
+US-Schauspielers,US-Schauspielers,ORG,0.0,0.0,de,1
+Türkei-Fahn,Türkei-Fahn,ORG,0.7,0.0,de,1
+doof für Demokratie,doof für Demokratie,ORG,-1.0,0.0,de,1
+CC BY 2.0,CC BY 2.0,ORG,0.0,0.0,de,1
+Reden!,Reden!,ORG,0.0,0.0,de,1
+Atemschaukel,Atemschaukel,ORG,0.7,0.0,de,1
+FSB-Geheimdiensts,FSB-Geheimdiensts,ORG,0.0,0.0,de,1
+CIA-Direktor,CIA-Direktor,ORG,1.0,0.0,de,1
+Aspen Security Forum,Aspen Security Forum,ORG,1.0,0.0,de,1
+US-Thinktank Aspen Institute,US-Thinktank Aspen Institute,ORG,1.0,0.0,de,1
+Funke Mediengruppe,Funke Mediengruppe,ORG,1.0,0.0,de,1
+FDP-Chef,FDP-Chef,ORG,1.0,0.0,de,1
+Funke Med,Funke Med,ORG,1.0,0.0,de,1
+Kensington Palace,Kensington Palace,ORG,0.0,0.0,de,1
+Airbus,Airbus,ORG,0.0,0.0,de,1
+NDR,NDR,ORG,0.85,0.0,de,1
+Vox,Vox,ORG,0.0,0.0,de,1
+US-Schauspieler,US-Schauspieler,ORG,0.0,0.0,de,1
+Partido Popular,Partido Popular,ORG,0.0,0.0,de,1
+PSOE,PSOE,ORG,-0.7,0.0,de,1
+EU-Einfuhrbeschränkungen,EU-Einfuhrbeschränkungen,ORG,-1.0,0.0,de,1
+Volkspartei,Volkspartei,ORG,1.0,0.0,de,1
+Goldschmidt,Goldschmidt,ORG,0.0,0.0,de,1
+Björ,Björ,ORG,0.0,0.0,de,1
+US-Musikgeschichte,US-Musikgeschichte,ORG,0.0,0.0,de,1
+Die FDP,Die FDP,ORG,0.35,0.0,de,1
+TGIF,TGIF,ORG,0.0,0.0,de,1
+US-Automobilherstellers,US-Automobilherstellers,ORG,-1.0,0.0,de,1
+Zw… Einer,Zw… Einer,ORG,0.0,0.0,de,1
+Gesundheitsministerium und Ministerium für Stadt- und Wohnungsbau,Gesundheitsministerium und Ministerium für Stadt- und Wohnungsbau,ORG,0.0,0.0,de,1
+Neuen Zürcher Zeitu,Neuen Zürcher Zeitu,ORG,0.0,0.0,de,1
+New Yorker,New Yorker,ORG,0.0,0.0,de,1
+Stadtmagazins Paper,Stadtmagazins Paper,ORG,0.0,0.0,de,1
+CIA-Chef,CIA-Chef,ORG,1.0,0.0,de,1
+Mercedes,Mercedes,ORG,0.0,0.0,de,1
+Its a BeyHive,Its a BeyHive,ORG,0.0,0.0,de,1
+US-Aussage,US-Aussage,ORG,0.0,0.0,de,1
+is backing,is backing,ORG,1.0,0.0,de,1
+POLITICO's Shia Ka,POLITICO's Shia Ka,ORG,0.0,0.0,de,1
+KSE-Vertrag,KSE-Vertrag,ORG,0.0,0.0,de,1
+jmb,jmb,ORG,0.0,0.0,de,1
+Associated Press,Associated Press,ORG,0.7,0.0,de,1
+KURZMELDUNGEN,KURZMELDUNGEN,ORG,-1.0,0.0,de,1
+Salzburger Festspiele +++,Salzburger Festspiele +++,ORG,-1.0,0.0,de,1
+I Left My Heart,I Left My Heart,ORG,0.0,0.0,de,1
+J.Lo!,J.Lo!,ORG,0.0,0.0,de,1
+Bundeskanzlerin,Bundeskanzlerin,ORG,0.0,0.0,de,1
+FC Porto,FC Porto,ORG,0.0,0.0,de,1
+Oberste Gerichtshof des Vereinigten Königreichs wies die Anträg,Oberste Gerichtshof des Vereinigten Königreichs wies die Anträg,ORG,0.0,0.0,de,1
+Liverpool-Star,Liverpool-Star,ORG,0.0,0.0,de,1
+Vice Media,Vice Media,ORG,0.0,0.0,de,1
+TyC Sports,TyC Sports,ORG,0.0,0.0,de,1
+Bundeskanzler!,Bundeskanzler!,ORG,1.0,0.0,de,1
+Breaking News,Breaking News,ORG,0.0,0.0,de,1
+Ex-Bild-Chef,Ex-Bild-Chef,ORG,0.0,0.0,de,1
+Rec,Rec,ORG,0.0,0.0,de,1
+Axel Springer,Axel Springer,ORG,0.0,0.0,de,1
+Springer-Konzern,Springer-Konzern,ORG,0.0,0.0,de,1
+SelenskiDer,SelenskiDer,ORG,0.7,0.0,de,1
 "Bild""-Chefredakteur","Bild""-Chefredakteur",ORG,0.0,0.0,de,1
 Reformweg,Reformweg,ORG,0.0,0.0,de,1
 Deutschen Evangelischen Kirchentag,Deutschen Evangelischen Kirchentag,ORG,0.0,0.0,de,1
@@ -1071,40 +762,325 @@ Disney-Chef,Disney-Chef,ORG,0.0,0.0,de,1
 ibu,ibu,ORG,0.0,0.0,de,1
 DBK-Chef,DBK-Chef,ORG,0.0,0.0,de,1
 Front +++ Scholz,Front +++ Scholz,ORG,0.0,0.0,de,1
-Nachtsend,Nachtsend,ORG,0.0,0.0,de,1
-ukrainischen Armee,ukrainischen Armee,ORG,0.0,0.0,de,1
-Oberste Gerichtshof des Vereinigten Königreichs wies die Anträg,Oberste Gerichtshof des Vereinigten Königreichs wies die Anträg,ORG,0.0,0.0,de,1
-Kanada,Kanada,ORG,0.0,0.0,de,1
-Ukraine-Armee,Ukraine-Armee,ORG,0.0,0.0,de,1
-VAE,VAE,ORG,1.0,0.0,de,1
-Henkelpott Fo,Henkelpott Fo,ORG,1.0,0.0,de,1
-Siuuuu,Siuuuu,ORG,0.0,0.0,de,1
-Vertrag,Vertrag,ORG,0.0,0.0,de,1
-DFB-Foto­graf,DFB-Foto­graf,ORG,1.0,0.0,de,1
-Schottland,Schottland,ORG,0.0,0.0,de,1
-Schottische Polizei,Schottische Polizei,ORG,0.0,0.0,de,1
-Springer-Konzern,Springer-Konzern,ORG,0.0,0.0,de,1
-Axel Springer,Axel Springer,ORG,0.0,0.0,de,1
-Regenwald-Abholzung,Regenwald-Abholzung,ORG,1.0,0.0,de,1
-Konservative Partei,Konservative Partei,ORG,1.0,0.0,de,1
-Katargate,Katargate,ORG,-1.0,0.0,de,1
-EU-Abgeordnete,EU-Abgeordnete,ORG,0.0,0.0,de,1
+Real am Sonntag,Real am Sonntag,ORG,1.0,0.0,de,1
+TV-Nutzung,TV-Nutzung,ORG,0.0,0.0,de,1
+Ex-„Bild“-Chefredakteur,Ex-„Bild“-Chefredakteur,ORG,0.0,0.0,de,1
+spanischen Fußball-Rekordmeister,spanischen Fußball-Rekordmeister,ORG,1.0,0.0,de,1
 Kommission für bessere Verhaltensregeln,Kommission für bessere Verhaltensregeln,ORG,-0.07500000000000001,0.0,de,1
 Warner,Warner,ORG,0.0,0.0,de,1
 LIV Golf,LIV Golf,ORG,0.0,0.0,de,1
 Newcastle United,Newcastle United,ORG,0.0,0.0,de,1
+ÖFB-Star,ÖFB-Star,ORG,0.0,0.0,de,1
+Athletic Bilbao,Athletic Bilbao,ORG,0.0,0.0,de,1
 Regionalen Wirtschaftsstruktur“,Regionalen Wirtschaftsstruktur“,ORG,0.0,0.0,de,1
 GRW,GRW,ORG,0.0,0.0,de,1
 Regionalen Wirtschaftsstruktur,Regionalen Wirtschaftsstruktur,ORG,0.0,0.0,de,1
+Konservative Partei,Konservative Partei,ORG,1.0,0.0,de,1
 Ökozid,Ökozid,ORG,0.0,0.0,de,1
-Rec,Rec,ORG,0.0,0.0,de,1
+Paris...,Paris...,ORG,0.0,0.0,de,1
 läs,läs,ORG,0.0,0.0,de,1
 US-Filmindustrie,US-Filmindustrie,ORG,0.0,0.0,de,1
 DSDS,DSDS,ORG,1.0,0.0,de,1
 Geisler-Fotopress Den,Geisler-Fotopress Den,ORG,0.0,0.0,de,1
-Ex-„Bild“-Chefredakteur,Ex-„Bild“-Chefredakteur,ORG,0.0,0.0,de,1
-TV-Nutzung,TV-Nutzung,ORG,0.0,0.0,de,1
-Liverpool-Star,Liverpool-Star,ORG,0.0,0.0,de,1
-TyC Sports,TyC Sports,ORG,0.0,0.0,de,1
-Ex-Bild-Chef,Ex-Bild-Chef,ORG,0.0,0.0,de,1
-WIlliam,WIlliam,ORG,0.7,0.0,de,1
+Rom-Rausschmiss,Rom-Rausschmiss,ORG,0.0,0.0,de,1
+Nachtsend,Nachtsend,ORG,0.0,0.0,de,1
+Follower,Follower,ORG,0.0,0.0,de,1
+EU-Abgeordnete,EU-Abgeordnete,ORG,0.0,0.0,de,1
+SNP-Finanzen,SNP-Finanzen,ORG,0.0,0.0,de,1
+EU-Innenminister,EU-Innenminister,ORG,0.0,0.0,de,1
+Rauswurfs,Rauswurfs,ORG,-0.7,0.0,de,1
+Hamburg Bethlehem,Hamburg Bethlehem,ORG,0.0,0.0,de,1
+saudische Liga,saudische Liga,ORG,0.0,0.0,de,1
+Landratswahl,Landratswahl,ORG,0.0,0.0,de,1
+ET Canada,ET Canada,ORG,0.0,0.0,de,1
+Stoischer Putin,Stoischer Putin,ORG,0.0,0.0,de,1
+Ukraine Rücke…,Ukraine Rücke…,ORG,0.0,0.0,de,1
+russischen Streitkräfte,russischen Streitkräfte,ORG,0.0,0.0,de,1
+Linksaußen-Partei,Linksaußen-Partei,ORG,0.0,0.0,de,1
+"Start-up-Festival ""Bits & Pretzels","Start-up-Festival ""Bits & Pretzels",ORG,0.0,0.0,de,1
+"Start-up-Festival ""Bits &amp","Start-up-Festival ""Bits &amp",ORG,0.0,0.0,de,1
+Neymar,Neymar,ORG,0.0,0.0,de,1
+US-Fernsehsender,US-Fernsehsender,ORG,0.0,0.0,de,1
+Landwirtschaftsminister,Landwirtschaftsminister,ORG,0.0,0.0,de,1
+Ex-,Ex-,ORG,0.0,0.0,de,1
+SPD-Führung,SPD-Führung,ORG,-0.7,0.0,de,1
+Berliner CSD,Berliner CSD,ORG,0.0,0.0,de,1
+Milliardenschäden,Milliardenschäden,ORG,0.0,0.0,de,1
+AN,AN,ORG,0.0,0.0,de,1
+Yeezy«-Sneakers,Yeezy«-Sneakers,ORG,0.0,0.0,de,1
+ZUMA Press,ZUMA Press,ORG,0.0,0.0,de,1
+ukrainischen Armee,ukrainischen Armee,ORG,0.0,0.0,de,1
+Dark Knight-Regisseur,Dark Knight-Regisseur,ORG,0.0,0.0,de,1
+Präsidentschaftswahlduells,Präsidentschaftswahlduells,ORG,1.0,0.0,de,1
+Kanada,Kanada,ORG,0.0,0.0,de,1
+Ukraine-Armee,Ukraine-Armee,ORG,0.0,0.0,de,1
+Klitschko los!,Klitschko los!,ORG,0.0,0.0,de,1
+Kiew +++ Amerika,Kiew +++ Amerika,ORG,0.0,0.0,de,1
+VAE,VAE,ORG,1.0,0.0,de,1
+Wagner-Truppe,Wagner-Truppe,ORG,0.0,0.0,de,1
+City-Coach Pep Guardiola,City-Coach Pep Guardiola,ORG,1.0,0.0,de,1
+Henkelpott Fo,Henkelpott Fo,ORG,1.0,0.0,de,1
+Siuuuu,Siuuuu,ORG,0.0,0.0,de,1
+Vertrag,Vertrag,ORG,0.0,0.0,de,1
+DFB-Foto­graf,DFB-Foto­graf,ORG,1.0,0.0,de,1
+HipHop-Star,HipHop-Star,ORG,0.0,0.0,de,1
+Schottland,Schottland,ORG,0.0,0.0,de,1
+Schottische Polizei,Schottische Polizei,ORG,0.0,0.0,de,1
+Oihan Sancet,Oihan Sancet,ORG,1.0,0.0,de,1
+Katargate,Katargate,ORG,-1.0,0.0,de,1
+FC Bayern München,FC Bayern München,ORG,0.0,0.0,de,1
+US-Präsidentschaftsbewerbung,US-Präsidentschaftsbewerbung,ORG,0.0,0.0,de,1
+US-Bundeswahlkommission,US-Bundeswahlkommission,ORG,0.0,0.0,de,1
+Fix!,Fix!,ORG,0.0,0.0,de,1
+… Wien,… Wien,ORG,-0.5,0.0,de,1
+Washington P,Washington P,ORG,0.0,0.0,de,1
+US-Staates,US-Staates,ORG,0.0,0.0,de,1
+US-Präsidentenamt,US-Präsidentenamt,ORG,0.0,0.0,de,1
+Porsche,Porsche,ORG,0.0,0.0,de,1
+Naddel-Millionärs!,Naddel-Millionärs!,ORG,0.0,0.0,de,1
+Bundeswahlkommi,Bundeswahlkommi,ORG,0.0,0.0,de,1
+duuu,duuu,ORG,0.0,0.0,de,1
+Instagram,Instagram,ORG,1.0,0.0,de,1
+Stiftung will US-Visumsantrag,Stiftung will US-Visumsantrag,ORG,0.0,0.0,de,1
+Heritage Foundation Harrys,Heritage Foundation Harrys,ORG,0.0,0.0,de,1
+US-Denkfabrik,US-Denkfabrik,ORG,0.7,0.0,de,1
+Heritage Foundation,Heritage Foundation,ORG,0.7,0.0,de,1
+Denkfabrik Heritage Foundation,Denkfabrik Heritage Foundation,ORG,0.0,0.0,de,1
+Mirror»-Verlag,Mirror»-Verlag,ORG,0.0,0.0,de,1
+Mirror»-Verlag MGN,Mirror»-Verlag MGN,ORG,0.0,0.0,de,1
+Britische Regierung,Britische Regierung,ORG,0.0,0.0,de,1
+Real...,Real...,ORG,1.0,0.0,de,1
+Twitter-Chef,Twitter-Chef,ORG,0.0,0.0,de,1
+CDU-Schwesterpartei,CDU-Schwesterpartei,ORG,0.0,0.0,de,1
+Amazonas-Aktions-Plan,Amazonas-Aktions-Plan,ORG,0.0,0.0,de,1
+05.06.2023,05.06.2023,ORG,0.0,0.0,de,1
+russische Streitkräfte,russische Streitkräfte,ORG,0.0,0.0,de,1
+Innenstadt-Brauerei Giesinger,Innenstadt-Brauerei Giesinger,ORG,0.0,0.0,de,1
+Giesinger,Giesinger,ORG,0.0,0.0,de,1
+Giesinger Bräu,Giesinger Bräu,ORG,0.7,0.0,de,1
+Große Party,Große Party,ORG,0.7,0.0,de,1
+Nee,Nee,ORG,0.0,0.0,de,1
+F,F,ORG,0.0,0.0,de,1
+Verlags MGN,Verlags MGN,ORG,0.0,0.0,de,1
+Sunday Mirror,Sunday Mirror,ORG,0.0,0.0,de,1
+The People,The People,ORG,0.0,0.0,de,1
+Uni Potsdam,Uni Potsdam,ORG,0.0,0.0,de,1
+Humboldt-Stiftung,Humboldt-Stiftung,ORG,0.0,0.0,de,1
+Vision Pro,Vision Pro,ORG,0.0,0.0,de,1
+Kachowka-Wasserkraftwerk,Kachowka-Wasserkraftwerk,ORG,0.0,0.0,de,1
+republikanischen Partei,republikanischen Partei,ORG,1.0,0.0,de,1
+Mirror-Verlag MGN,Mirror-Verlag MGN,ORG,0.0,0.0,de,1
+US-Bundestaates,US-Bundestaates,ORG,0.7,0.0,de,1
+Regenwald-Abholzung,Regenwald-Abholzung,ORG,1.0,0.0,de,1
+Erdog,Erdog,ORG,0.0,0.0,de,1
+TMG,TMG,ORG,0.0,0.0,de,1
+Eigentümerfa,Eigentümerfa,ORG,0.0,0.0,de,1
+Italienischen Bischofskonferenz,Italienischen Bischofskonferenz,ORG,0.0,0.0,de,1
+Barça &amp,Barça &amp,ORG,-0.7,0.0,de,1
+Barça,Barça,ORG,0.0,0.0,de,1
+US-Club,US-Club,ORG,0.0,0.0,de,1
+Ex-Pr,Ex-Pr,ORG,0.0,0.0,de,1
+Fix,Fix,ORG,0.0,0.0,de,1
+Recep Tayyip Erdogan,Recep Tayyip Erdogan,ORG,0.0,0.0,de,1
+Die Grünen,Die Grünen,ORG,0.0,0.0,de,1
+republikanische US-Präsidentschaftskandidatur,republikanische US-Präsidentschaftskandidatur,ORG,-0.7,0.0,de,1
+Fidesz,Fidesz,ORG,0.0,0.0,de,1
+Sisyphos-Lanz,Sisyphos-Lanz,ORG,0.0,0.0,de,1
+NSA,NSA,ORG,0.0,0.0,de,1
+re…,re…,ORG,-0.7,0.0,de,1
+Fraktionschef der,Fraktionschef der,ORG,0.0,0.0,de,1
+US-Senders,US-Senders,ORG,1.0,0.0,de,1
+EU-Agentur für Grundrechte,EU-Agentur für Grundrechte,ORG,0.0,0.0,de,1
+Telegraph Media Group,Telegraph Media Group,ORG,0.0,0.0,de,1
+The Daily Telegraph,The Daily Telegraph,ORG,0.0,0.0,de,1
+Daily Telegraph,Daily Telegraph,ORG,0.0,0.0,de,1
+Britische Telegraph Media Group,Britische Telegraph Media Group,ORG,0.0,0.0,de,1
+RBB-Sendung,RBB-Sendung,ORG,-1.0,0.0,de,1
+z…,z…,ORG,0.0,0.0,de,1
+Geri…,Geri…,ORG,0.0,0.0,de,1
+Magenta TV,Magenta TV,ORG,0.0,0.0,de,1
+Höckes,Höckes,ORG,1.0,0.0,de,1
+Die AfD,Die AfD,ORG,1.0,0.0,de,1
+MLS-Klub Inter Miami,MLS-Klub Inter Miami,ORG,0.0,0.0,de,1
+RTL-Comeback,RTL-Comeback,ORG,1.0,0.0,de,1
+US-Vizepr,US-Vizepr,ORG,0.0,0.0,de,1
+Weltklassestürmer Karim Benzema,Weltklassestürmer Karim Benzema,ORG,0.7,0.0,de,1
+al-Ittihad,al-Ittihad,ORG,0.7,0.0,de,1
+empics,empics,ORG,0.0,0.0,de,1
+Avalon.red,Avalon.red,ORG,0.0,0.0,de,1
+Iran,Iran,ORG,0.0,0.0,de,1
+College St Anselm …,College St Anselm …,ORG,0.0,0.0,de,1
+al-Hilal,al-Hilal,ORG,1.0,0.0,de,1
+Major League Socc,Major League Socc,ORG,1.0,0.0,de,1
+Bits & Pretzels,Bits & Pretzels,ORG,0.0,0.0,de,1
+Gesellschaft,Gesellschaft,ORG,0.0,0.0,de,1
+Achmat,Achmat,ORG,0.0,0.0,de,1
+Promiportal TMZ,Promiportal TMZ,ORG,0.0,0.0,de,1
+RTÜK,RTÜK,ORG,0.0,0.0,de,1
+Oppositionsmedien,Oppositionsmedien,ORG,0.0,0.0,de,1
+Hause,Hause,ORG,0.0,0.0,de,1
+Vermisstes Titanic-U-Boot,Vermisstes Titanic-U-Boot,ORG,0.0,0.0,de,1
+@stefanozarrella/,@stefanozarrella/,ORG,0.0,0.0,de,1
+britischen Abgeordneten,britischen Abgeordneten,ORG,0.0,0.0,de,1
+Newsticker - RB Leipzig,Newsticker - RB Leipzig,ORG,-0.7,0.0,de,1
+Chelsea,Chelsea,ORG,-0.7,0.0,de,1
+Verschollenes Tauchboot,Verschollenes Tauchboot,ORG,-0.7,0.0,de,1
+Scholz-Herausforderer,Scholz-Herausforderer,ORG,0.0,0.0,de,1
+Entschei,Entschei,ORG,0.0,0.0,de,1
+Heikle Dokumente!,Heikle Dokumente!,ORG,0.0,0.0,de,1
+Orden,Orden,ORG,0.0,0.0,de,1
+FOCUS-online-Korrespondent Ulrich Reitz,FOCUS-online-Korrespondent Ulrich Reitz,ORG,0.0,0.0,de,1
+Buzz Ald,Buzz Ald,ORG,0.0,0.0,de,1
+Rettu,Rettu,ORG,-0.7,0.0,de,1
+Union Vertrauen und Kompetenz,Union Vertrauen und Kompetenz,ORG,0.0,0.0,de,1
+Umfrageinstitut Forsa,Umfrageinstitut Forsa,ORG,0.7,0.0,de,1
+US-Vorstandschefs,US-Vorstandschefs,ORG,0.0,0.0,de,1
+Schoah,Schoah,ORG,0.5249999999999999,0.0,de,1
+Ukraine-Kriegs,Ukraine-Kriegs,ORG,0.0,0.0,de,1
+CDU-Machtkampf,CDU-Machtkampf,ORG,-1.0,0.0,de,1
+Repräsentantenhaus,Repräsentantenhaus,ORG,-0.7,0.0,de,1
+Ministerpr,Ministerpr,ORG,0.0,0.0,de,1
+Zeit mi…,Zeit mi…,ORG,1.0,0.0,de,1
+Markus Lanz,Markus Lanz,ORG,1.0,0.0,de,1
+Minister für das ko…,Minister für das ko…,ORG,0.0,0.0,de,1
+CDU-Zentrale,CDU-Zentrale,ORG,0.7,0.0,de,1
+Hollywood Vampir,Hollywood Vampir,ORG,0.0,0.0,de,1
+W…,W…,ORG,0.0,0.0,de,1
+Bundeswirtschaftsminister,Bundeswirtschaftsminister,ORG,0.7,0.0,de,1
+ARD-Sendung,ARD-Sendung,ORG,0.0,0.0,de,1
+Bundesminister der FDP,Bundesminister der FDP,ORG,0.0,0.0,de,1
+Deutsche Journalisten-Gewerkschaft,Deutsche Journalisten-Gewerkschaft,ORG,-0.85,0.0,de,1
+Konzernchef,Konzernchef,ORG,0.0,0.0,de,1
+Homeoffice,Homeoffice,ORG,0.0,0.0,de,1
+Israel-Besuch,Israel-Besuch,ORG,0.0,0.0,de,1
+t3n.de,t3n.de,ORG,0.0,0.0,de,1
+Chefred,Chefred,ORG,0.0,0.0,de,1
+RTL/ntv-Trendbarometer,RTL/ntv-Trendbarometer,ORG,0.7,0.0,de,1
+Tuttosport,Tuttosport,ORG,1.0,0.0,de,1
+Fo,Fo,ORG,-0.15000000000000002,0.0,de,1
+Bidens,Bidens,ORG,0.7,0.0,de,1
+Prä…,Prä…,ORG,0.0,0.0,de,1
+Ex-Tuchel-Star Top-Kandidat,Ex-Tuchel-Star Top-Kandidat,ORG,0.0,0.0,de,1
+Modern Talking,Modern Talking,ORG,0.0,0.0,de,1
+Männer,Männer,ORG,0.0,0.0,de,1
+Holy Spirit Catholic Church,Holy Spirit Catholic Church,ORG,-0.7,0.0,de,1
+französischen Gesellschaft,französischen Gesellschaft,ORG,0.0,0.0,de,1
+ELIZABETH,ELIZABETH,ORG,0.0,0.0,de,1
+FRANTZ,FRANTZ,ORG,0.0,0.0,de,1
+WDR,WDR,ORG,0.0,0.0,de,1
+Comeback-Film,Comeback-Film,ORG,0.0,0.0,de,1
+Demokratieabbau |,Demokratieabbau |,ORG,0.0,0.0,de,1
+Carters,Carters,ORG,0.0,0.0,de,1
+US-First,US-First,ORG,0.0,0.0,de,1
+Redaktionsnetzwerk Deutschland,Redaktionsnetzwerk Deutschland,ORG,-1.0,0.0,de,1
+RND,RND,ORG,-1.0,0.0,de,1
+Real Madrids Superstar Karim Benzema,Real Madrids Superstar Karim Benzema,ORG,1.0,0.0,de,1
+Buchmesse,Buchmesse,ORG,0.0,0.0,de,1
+Textsichere Fans,Textsichere Fans,ORG,0.0,0.0,de,1
+Datenbrille,Datenbrille,ORG,0.0,0.0,de,1
+Sky,Sky,ORG,0.7,0.0,de,1
+Gratis-Stream,Gratis-Stream,ORG,0.0,0.0,de,1
+Südstaat,Südstaat,ORG,0.0,0.0,de,1
+The Fire,The Fire,ORG,0.0,0.0,de,1
+Nvidias Aktie,Nvidias Aktie,ORG,0.0,0.0,de,1
+Reuters,Reuters,ORG,-0.15000000000000002,0.0,de,1
+Washington Hunter Biden,Washington Hunter Biden,ORG,0.0,0.0,de,1
+Blue Origin,Blue Origin,ORG,0.0,0.0,de,1
+Bundesamts für den Verfassungsschutz,Bundesamts für den Verfassungsschutz,ORG,0.7,0.0,de,1
+Merz!,Merz!,ORG,-1.0,0.0,de,1
+Altschuldenidee,Altschuldenidee,ORG,0.0,0.0,de,1
+Steve Jobs,Steve Jobs,ORG,0.0,0.0,de,1
+NRW-Modell,NRW-Modell,ORG,0.0,0.0,de,1
+Unblock Cuba!,Unblock Cuba!,ORG,0.0,0.0,de,1
+Wirtschaftsstandorts Deutschland,Wirtschaftsstandorts Deutschland,ORG,0.0,0.0,de,1
+DIE Baby-Überraschung der Woche!,DIE Baby-Überraschung der Woche!,ORG,0.0,0.0,de,1
+Getty Images for EJAF,Getty Images for EJAF,ORG,0.0,0.0,de,1
+Nationale Si,Nationale Si,ORG,0.7,0.0,de,1
+Portugals Nationalmannschaft,Portugals Nationalmannschaft,ORG,0.0,0.0,de,1
+Film-Produzentin,Film-Produzentin,ORG,0.0,0.0,de,1
+Repräsentantenhauses,Repräsentantenhauses,ORG,0.0,0.0,de,1
+Zeit Freundinnen,Zeit Freundinnen,ORG,-1.0,0.0,de,1
+Geisler-Fotopress,Geisler-Fotopress,ORG,-0.35,0.0,de,1
+Jah,Jah,ORG,0.0,0.0,de,1
+Luftabwehr,Luftabwehr,ORG,0.0,0.0,de,1
+N’,N’,ORG,0.0,0.0,de,1
+Katar-Gate,Katar-Gate,ORG,-0.7,0.0,de,1
+US-Bank JPMorgan Chase,US-Bank JPMorgan Chase,ORG,0.0,0.0,de,1
+Bank m,Bank m,ORG,0.0,0.0,de,1
+Berlusconis Patchwork-Familie,Berlusconis Patchwork-Familie,ORG,0.0,0.0,de,1
+Berlusconis,Berlusconis,ORG,0.0,0.0,de,1
+Marina,Marina,ORG,0.0,0.0,de,1
+K… Deutschland,K… Deutschland,ORG,0.0,0.0,de,1
+Podiu,Podiu,ORG,0.0,0.0,de,1
+Finanzdienstes Bloomberg,Finanzdienstes Bloomberg,ORG,0.0,0.0,de,1
+SPD-Fest,SPD-Fest,ORG,-1.0,0.0,de,1
+OMR,OMR,ORG,0.0,0.0,de,1
+manche*n Gründer*in neidisch,manche*n Gründer*in neidisch,ORG,-1.0,0.0,de,1
+Fußball-Stars,Fußball-Stars,ORG,0.0,0.0,de,1
+Neymar & Co.,Neymar & Co.,ORG,0.0,0.0,de,1
+Benzema &amp,Benzema &amp,ORG,0.0,0.0,de,1
+Saporischschja +++ Drei Tote bei Raketenangriff auf Odessa +++ Putin,Saporischschja +++ Drei Tote bei Raketenangriff auf Odessa +++ Putin,ORG,-0.5,0.0,de,1
+Kiewer Bürgermei,Kiewer Bürgermei,ORG,0.0,0.0,de,1
+DC-Star Amber Heard,DC-Star Amber Heard,ORG,0.7,0.0,de,1
+Deutschland-Ukraine,Deutschland-Ukraine,ORG,0.0,0.0,de,1
+Ex-Wagner-Söldner,Ex-Wagner-Söldner,ORG,0.0,0.0,de,1
+Hollywood-Star,Hollywood-Star,ORG,1.0,0.0,de,1
+Deutschen Presseagentur,Deutschen Presseagentur,ORG,0.7,0.0,de,1
+Forza Italia,Forza Italia,ORG,0.0,0.0,de,1
+Europäische Volkspartei,Europäische Volkspartei,ORG,0.0,0.0,de,1
+European People's Party,European People's Party,ORG,0.0,0.0,de,1
+Sport­über­tra­gungen,Sport­über­tra­gungen,ORG,0.0,0.0,de,1
+Agency People,Agency People,ORG,0.7,0.0,de,1
+Talisca,Talisca,ORG,0.0,0.0,de,1
+Al-Nassr...,Al-Nassr...,ORG,1.0,0.0,de,1
+....,....,ORG,0.0,0.0,de,1
+TV-Tipp,TV-Tipp,ORG,0.0,0.0,de,1
+CDU-Verbände,CDU-Verbände,ORG,0.0,0.0,de,1
+Bundes-CDU,Bundes-CDU,ORG,1.0,0.0,de,1
+italienische Gesellschaft,italienische Gesellschaft,ORG,0.7,0.0,de,1
+Berlusconi,Berlusconi,ORG,0.0,0.0,de,1
+Propagandanebel,Propagandanebel,ORG,0.0,0.0,de,1
+Washington Post,Washington Post,ORG,0.0,0.0,de,1
+europäische Familie,europäische Familie,ORG,0.0,0.0,de,1
+Grünen-Chefin,Grünen-Chefin,ORG,0.0,0.0,de,1
+Heizungskompromiss,Heizungskompromiss,ORG,0.0,0.0,de,1
+Jungen Union,Jungen Union,ORG,0.0,0.0,de,1
+Büromiete,Büromiete,ORG,0.0,0.0,de,1
+Real Madrids,Real Madrids,ORG,1.0,0.0,de,1
+EU-Grenze,EU-Grenze,ORG,1.0,0.0,de,1
+Nanu…,Nanu…,ORG,0.0,0.0,de,1
+Europäischen Politischen Gemeinschaft,Europäischen Politischen Gemeinschaft,ORG,0.0,0.0,de,1
+Royal Air Force,Royal Air Force,ORG,0.7,0.0,de,1
+undRoyal Air Force,undRoyal Air Force,ORG,0.7,0.0,de,1
+Untergrund-Truppe,Untergrund-Truppe,ORG,-1.0,0.0,de,1
+UN,UN,ORG,0.0,0.0,de,1
+DIESE,DIESE,ORG,0.0,0.0,de,1
+Militärkapellen s,Militärkapellen s,ORG,0.0,0.0,de,1
+Rampenlich,Rampenlich,ORG,0.0,0.0,de,1
+Familienimperiums,Familienimperiums,ORG,0.0,0.0,de,1
+Bundesgesundheitsminister,Bundesgesundheitsminister,ORG,-1.0,0.0,de,1
+Cheeeese!,Cheeeese!,ORG,0.0,0.0,de,1
+Königsblau!,Königsblau!,ORG,0.85,0.0,de,1
+Denkfabrik Republik21,Denkfabrik Republik21,ORG,0.0,0.0,de,1
+Gruppe Letzte Generation,Gruppe Letzte Generation,ORG,0.0,0.0,de,1
+JU-Vorsitzender,JU-Vorsitzender,ORG,-0.7,0.0,de,1
+Real Madrids Karim Benzema,Real Madrids Karim Benzema,ORG,1.0,0.0,de,1
+Lina-E.-Urteil: Kubicki,Lina-E.-Urteil: Kubicki,ORG,1.0,0.0,de,1
+Al-Ittihad Real Madrids Karim Benzema,Al-Ittihad Real Madrids Karim Benzema,ORG,1.0,0.0,de,1
+Presserat,Presserat,ORG,0.0,0.0,de,1
+Döpfner-Nachrichten,Döpfner-Nachrichten,ORG,0.0,0.0,de,1
+Bundesamt für das Personalmanagement der Bundeswehr,Bundesamt für das Personalmanagement der Bundeswehr,ORG,1.0,0.0,de,1
+FC Everton,FC Everton,ORG,0.85,0.0,de,1
+Celta Vigo,Celta Vigo,ORG,0.85,0.0,de,1
+MPK,MPK,ORG,0.0,0.0,de,1
+EU-Budget,EU-Budget,ORG,0.7,0.0,de,1
+Oscar-P,Oscar-P,ORG,0.0,0.0,de,1
+Sommeroffensive der Kiewer Armee,Sommeroffensive der Kiewer Armee,ORG,-0.7,0.0,de,1
+Kiewer Armee,Kiewer Armee,ORG,-0.85,0.0,de,1
+FC Valencia,FC Valencia,ORG,0.85,0.0,de,1
+@nooralfallah/Instagram,@nooralfallah/Instagram,ORG,0.0,0.0,de,1
+Juventus Turin,Juventus Turin,ORG,0.85,0.0,de,1
+Diekmann-Buch,Diekmann-Buch,ORG,0.0,0.0,de,1
+BLANCO,BLANCO,ORG,0.0,0.0,de,1
+TV-Koch,TV-Koch,ORG,0.0,0.0,de,1
+Russischer Top-Militär Surowikin,Russischer Top-Militär Surowikin,ORG,0.0,0.0,de,1
