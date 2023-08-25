@@ -52,7 +52,6 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Sam H',de,unknown,#111111,#111111,1,0.4283150131383482
 'président de la République',de,unknown,#111111,#111111,1,0.4282845981001025
 'Jake Tapper',de,unknown,#111111,#111111,1,0.4277593401505726
-'Marie Trintignant',de,unknown,#111111,#111111,1,0.4273001108695609
 'François Braun',de,unknown,#111111,#111111,1,0.4272290440029895
 'Alexander De Croo',de,Belgien,#111111,#111111,2,0.42710021
 'Geert Wilders',de,Niederlande,#111111,#111111,2,0.42710021
@@ -170,6 +169,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Tim Müller',de,Deutschland,#1818e8,#1818e8,2,0.36482122775
 'Robert Oppenheimer',de,USA,#18e8e8,#18e8e8,1,0.3642085335605768
 'Kim Jong Un',de,NordKorea,#e85858,#e85858,3,0.3639364704561567
+'Marie Trintignant',de,unknown,#111111,#111111,1,0.3632050942391267
 'Anne Will',de,Deutschland,#1818e8,#1818e8,3,0.3631121886321952
 'Marjorie Taylor Greene',de,USA,#18e8e8,#18e8e8,1,0.3624172187
 'Jamie Dimon',de,USA,#18e8e8,#18e8e8,1,0.3615589175613636
@@ -321,7 +321,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Marco Buschmann',de,Deutschland,#1818e8,#1818e8,3,0.2418343107552411
 'Stefan Rahmstorf',de,Deutschland,#1818e8,#1818e8,2,0.2415889983436237
 'Ursula von der Leyen',de,EU,#111111,#111111,3,0.2412793076076889
-'Jan Lipavský',de,Tschechien,#111111,#111111,1,0.24104880923014518
+'Jan Lipavský',de,Tschechien,#111111,#111111,1,0.2410488092301451
 'Jair Bolsonaro',de,Brasilien,#58e838,#58e848,3,0.2398158443528236
 'Nancy Faeser',de,Deutschland,#1818e8,#1818e8,3,0.2383423883632433
 'Angela Merkel',de,Deutschland,#1818e8,#1818e8,3,0.2371797024987847
