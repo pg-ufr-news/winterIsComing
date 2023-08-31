@@ -349,11 +349,15 @@ def extractData(article, language, keyWord):
     title = article['title']
     description = article['description']
     url = article['url']
-    #later use list...
-    url = url.replace('https://www.zeit.de/zustimmung?url=', '')
-    url = url.replace('%3A', ':')
-    url = url.replace('%2F', '/')                
-    domain = urlparse(url).netloc
+    domain = None
+    if(url):   
+     #later use list...
+     url = url.replace('https://www.zeit.de/zustimmung?url=', '')
+     url = url.replace('%3A', ':')
+     url = url.replace('%2F', '/')                
+     domain = urlparse(url).netloc
+    else:
+     print(['no url', article])
     image = None
     if('urlToImage' in article): 
         image = article['urlToImage']
@@ -393,6 +397,8 @@ def checkArticlesForKeywords(articles, keywordsDF, seldomDF, language, keyWord):
          if(allFound):
              foundKeywords.append(keyword) 
              found = True
+      if(not data['url']):
+        found = False
       if(found):
         foundKeywords.append(keyWord) 
         data['keyword'] = random.choice(foundKeywords)

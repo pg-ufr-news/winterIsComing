@@ -1,6 +1,4 @@
 keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
-'Alyssa Farah Griffin',de,unknown,#111111,#111111,2,0.5035799000059107
-'Caroline Ellison',de,unknown,#111111,#111111,2,0.5004624928244757
 'Tom Brady',de,unknown,#111111,#111111,2,0.4897689226707137
 'Sam Bankman-Fried',de,unknown,#111111,#111111,3,0.4880116407052525
 'Jack Smith',de,USA,#18e8e8,#18e8e8,3,0.4863245131590908
@@ -14,6 +12,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Fani Willis',de,unknown,#111111,#111111,3,0.4746800796245292
 'Sergio Mattarella',de,Italien,#111111,#111111,2,0.4689072478571428
 'Roger Federer',de,unknown,#111111,#111111,3,0.4640293781056354
+'Caroline Ellison',de,unknown,#111111,#111111,2,0.4600765872341377
 'Mark Meadows',de,unknown,#111111,#111111,2,0.4585343999351218
 'Pedro Sánchez',de,Spanien,#111111,#111111,2,0.4563220179090909
 'Leandro De Niro Rodriguez',de,USA,#18e8e8,#18e8e8,2,0.455750075
@@ -65,6 +64,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Sam H',de,unknown,#111111,#111111,1,0.4283150131383482
 'président de la République',de,unknown,#111111,#111111,1,0.4282845981001025
 'Lewis Kaplan',de,unknown,#111111,#111111,1,0.4282450343700251
+'Alyssa Farah Griffin',de,unknown,#111111,#111111,1,0.428042915005024
 'Jake Tapper',de,unknown,#111111,#111111,1,0.4277593401505726
 'Jim Jordan',de,unknown,#111111,#111111,1,0.4274991085805552
 'François Braun',de,unknown,#111111,#111111,1,0.4272290440029895
