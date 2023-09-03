@@ -85,12 +85,12 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Lauren Boebert',de,USA,#18e8e8,#18e8e8,1,0.42500033
 'Eric Adams',de,USA,#18e8e8,#18e8e8,1,0.42500021
 'König Felipe VI',de,Spanien,#111111,#111111,1,0.4250001049999999
+'Pierre-Yves Dermagne',de,Belgien,#111111,#111111,1,0.425
 'Patti LaBelle',de,USA,#18e8e8,#18e8e8,1,0.425
 'Chelsea Handler',de,USA,#18e8e8,#18e8e8,1,0.425
-'Pierre-Yves Dermagne',de,Belgien,#111111,#111111,1,0.425
-'Evgueni Prigojine',de,Russland,#e81818,#e81818,1,0.425
 'Moon Hyung-jin',de,USA,#18e8e8,#18e8e8,1,0.425
 'Gilbert Plass',de,Kanada,#111111,#111111,1,0.425
+'Evgueni Prigojine',de,Russland,#e81818,#e81818,1,0.425
 'Queen Elizabeth II',de,UK,#e838e8,#e838e8,3,0.4247986346727272
 'Stormy Daniels',de,USA,#18e8e8,#18e8e8,3,0.4247779199124999
 'Lauren Sanchez',de,USA,#18e8e8,#18e8e8,2,0.4247634077009061
@@ -109,7 +109,6 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Marine Le Pen',de,Frankreich,#e8e808,#e8e808,2,0.417100555
 'Michael Kahle',de,Deutschland,#1818e8,#1818e8,1,0.41680003
 'Tina Turner',de,USA,#18e8e8,#18e8e8,3,0.4167806141136363
-'Robert de Niro',de,USA,#18e8e8,#18e8e8,3,0.4163191814090908
 'Jane Fonda',de,unknown,#111111,#111111,1,0.4162207869005138
 'Jesse Watters',de,USA,#18e8e8,#18e8e8,1,0.4161452557625
 'Kai Wegner',de,Deutschland,#1818e8,#1818e8,3,0.4160653668569004
@@ -124,6 +123,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'George Clooney',de,USA,#18e8e8,#18e8e8,3,0.4095069081581249
 'Bettina Jarasch',de,Deutschland,#1818e8,#1818e8,2,0.4074597665909091
 'Pippa Middleton',de,UK,#e838e8,#e838e8,2,0.4070626869514203
+'Robert de Niro',de,USA,#18e8e8,#18e8e8,3,0.4069093609719207
 'George Bush',de,USA,#18e8e8,#18e8e8,3,0.405319014562784
 'Ulrich Reitz',de,Deutschland,#1818e8,#1818e8,1,0.4045000747721427
 'Hamish Harding',de,UK,#e838e8,#e838e8,3,0.4008690864545453
@@ -214,7 +214,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Wladimir Putin',de,Russland,#e81818,#e81818,3,0.3561939043074576
 'Albert Einstein',de,Deutschland,#1818e8,#1818e8,3,0.3561333688079544
 'Henry Kissinger',de,USA,#18e8e8,#18e8e8,2,0.3559933651285714
-'Prince Charles',de,UK,#e838e8,#e838e8,2,0.35525751646096576
+'Prince Charles',de,UK,#e838e8,#e838e8,2,0.3552575164609657
 'Stefan Aust',de,Deutschland,#1818e8,#1818e8,1,0.3550497430499999
 'Jordan Neely',de,USA,#18e8e8,#18e8e8,1,0.3550265087964284
 'Barbara Sturm',de,Deutschland,#1818e8,#1818e8,1,0.3549022579696428
