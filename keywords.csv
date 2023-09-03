@@ -61,7 +61,6 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Eric Trump',de,unknown,#111111,#111111,2,0.4285646822233871
 'Sam H',de,unknown,#111111,#111111,1,0.4283150131383482
 'président de la République',de,unknown,#111111,#111111,1,0.4282845981001025
-'Lewis Kaplan',de,unknown,#111111,#111111,1,0.4282450343700251
 'Alyssa Farah Griffin',de,unknown,#111111,#111111,1,0.428042915005024
 'Jake Tapper',de,unknown,#111111,#111111,1,0.4277593401505726
 'Jim Jordan',de,unknown,#111111,#111111,1,0.4274991085805552
@@ -86,11 +85,11 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Eric Adams',de,USA,#18e8e8,#18e8e8,1,0.42500021
 'König Felipe VI',de,Spanien,#111111,#111111,1,0.4250001049999999
 'Pierre-Yves Dermagne',de,Belgien,#111111,#111111,1,0.425
-'Patti LaBelle',de,USA,#18e8e8,#18e8e8,1,0.425
+'Evgueni Prigojine',de,Russland,#e81818,#e81818,1,0.425
 'Chelsea Handler',de,USA,#18e8e8,#18e8e8,1,0.425
+'Patti LaBelle',de,USA,#18e8e8,#18e8e8,1,0.425
 'Moon Hyung-jin',de,USA,#18e8e8,#18e8e8,1,0.425
 'Gilbert Plass',de,Kanada,#111111,#111111,1,0.425
-'Evgueni Prigojine',de,Russland,#e81818,#e81818,1,0.425
 'Queen Elizabeth II',de,UK,#e838e8,#e838e8,3,0.4247986346727272
 'Stormy Daniels',de,USA,#18e8e8,#18e8e8,3,0.4247779199124999
 'Lauren Sanchez',de,USA,#18e8e8,#18e8e8,2,0.4247634077009061
@@ -147,6 +146,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Helmut Kohl',de,Deutschland,#1818e8,#1818e8,3,0.3846428949749572
 'Alexander von Humboldt',de,Deutschland,#1818e8,#1818e8,2,0.3832183972556817
 'Lula da Silva',de,Brasilien,#58e838,#58e848,3,0.3816283013517044
+'Lewis Kaplan',de,unknown,#111111,#111111,2,0.38094497285088497
 'Amber Heard',de,USA,#18e8e8,#18e8e8,2,0.3796965983690789
 'Shahzada Dawood',de,Pakistan,#111111,#111111,3,0.379504055090909
 'Mario Czaja',de,Deutschland,#1818e8,#1818e8,3,0.3791773309430396
@@ -194,14 +194,14 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Marjorie Taylor Greene',de,USA,#18e8e8,#18e8e8,1,0.3624172187
 'Jamie Dimon',de,USA,#18e8e8,#18e8e8,1,0.3615589175613636
 'Katy Perry',de,USA,#18e8e8,#18e8e8,3,0.3614742758982953
-'Pedro Sánchez Pérez-Castejón',de,Spanien,#111111,#111111,1,0.3612499999999999
-'Sergei Surovikin',de,Russland,#e81818,#e81818,1,0.3612499999999999
-'Salvador Dali',de,Spanien,#111111,#111111,1,0.3612499999999999
-'Kemal Kiliçdaroglu',de,Türkei,#111111,#111111,1,0.3612499999999999
 'Dorothée Pacaud',de,Frankreich,#e8e808,#e8e808,1,0.3612499999999999
-'Leon Botstein',de,USA,#18e8e8,#18e8e8,1,0.3612499999999999
-'Uwe Neumärker',de,Deutschland,#1818e8,#1818e8,1,0.3612499999999999
 'Yevgeny Prigozhin',de,Russland,#e81818,#e81818,1,0.3612499999999999
+'Uwe Neumärker',de,Deutschland,#1818e8,#1818e8,1,0.3612499999999999
+'Leon Botstein',de,USA,#18e8e8,#18e8e8,1,0.3612499999999999
+'Pedro Sánchez Pérez-Castejón',de,Spanien,#111111,#111111,1,0.3612499999999999
+'Kemal Kiliçdaroglu',de,Türkei,#111111,#111111,1,0.3612499999999999
+'Salvador Dali',de,Spanien,#111111,#111111,1,0.3612499999999999
+'Sergei Surovikin',de,Russland,#e81818,#e81818,1,0.3612499999999999
 'Henry Ford',de,USA,#18e8e8,#18e8e8,2,0.3606879322925437
 'Steven Spielberg',de,USA,#18e8e8,#18e8e8,2,0.3593590829225568
 'Martin Luther King',de,USA,#18e8e8,#18e8e8,1,0.3587306697431818
