@@ -86,12 +86,12 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Lauren Boebert',de,USA,#18e8e8,#18e8e8,1,0.42500033
 'Eric Adams',de,USA,#18e8e8,#18e8e8,1,0.42500021
 'König Felipe VI',de,Spanien,#111111,#111111,1,0.4250001049999999
+'Gilbert Plass',de,Kanada,#111111,#111111,1,0.425
 'Evgueni Prigojine',de,Russland,#e81818,#e81818,1,0.425
 'Moon Hyung-jin',de,USA,#18e8e8,#18e8e8,1,0.425
-'Gilbert Plass',de,Kanada,#111111,#111111,1,0.425
-'Chelsea Handler',de,USA,#18e8e8,#18e8e8,1,0.425
 'Pierre-Yves Dermagne',de,Belgien,#111111,#111111,1,0.425
 'Patti LaBelle',de,USA,#18e8e8,#18e8e8,1,0.425
+'Chelsea Handler',de,USA,#18e8e8,#18e8e8,1,0.425
 'Queen Elizabeth II',de,UK,#e838e8,#e838e8,3,0.4247986346727272
 'Stormy Daniels',de,USA,#18e8e8,#18e8e8,3,0.4247779199124999
 'Lauren Sanchez',de,USA,#18e8e8,#18e8e8,2,0.4247634077009061
@@ -491,6 +491,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Dalai Lama',de,Tibet,#111111,#111111,1,0.1389121509332418
 'Erik Marquardt',de,EU,#111111,#111111,1,0.1380198150278046
 'Barbara Walters',de,USA,#18e8e8,#18e8e8,1,0.1369062889485645
+'Immanuel Kant',de,Deutschland,#1818e8,#1818e8,1,0.13668658931454458
 'Chip Somodevilla',de,USA,#18e8e8,#18e8e8,1,0.1366311761070311
 'Benjamin Nethanaju',de,Israel,#111111,#111111,1,0.1362452625195311
 'Michelle Neill',de,Irland,#111111,#111111,1,0.1362452625195311
@@ -515,7 +516,6 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Raphael Warnock',de,USA,#18e8e8,#18e8e8,1,0.1158084731416014
 'Ebrahim Raisi',de,Iran,#111111,#111111,2,0.1149306590610861
 'Kurt Krömer',de,Deutschland,#1818e8,#1818e8,1,0.1147813464736931
-'Immanuel Kant',de,Deutschland,#1818e8,#1818e8,1,0.1145722462524054
 'Alexej Kudrin',de,Russland,#e81818,#e81818,1,0.1118888387080861
 'Michael Ballweg',de,Deutschland,#1818e8,#1818e8,1,0.1102184005569354
 'Volodymyr Zelenskiy',de,Ukraine,#e818e8,#e818e8,1,0.1082809223873972
