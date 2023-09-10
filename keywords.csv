@@ -18,6 +18,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Marlène Schiappa',de,unknown,#111111,#111111,2,0.4544642780232826
 'nan nan',de,unknown,#111111,#111111,1,0.4526354265249211
 'Prinz Archie',de,UK,#e838e8,#e838e8,3,0.4504653135427374
+'Jens Spahn',de,Deutschland,#1818e8,#1818e8,3,0.44984554768624985
 'Gavin Newsom',de,unknown,#111111,#111111,3,0.44890211038725
 'Matteo Salvini',de,Italien,#111111,#111111,3,0.4485509749999999
 'Ben Affleck',de,unknown,#111111,#111111,3,0.4442433485799047
@@ -84,12 +85,12 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Reinhard Marx',de,Deutschland,#1818e8,#1818e8,1,0.425000375
 'Lauren Boebert',de,USA,#18e8e8,#18e8e8,1,0.42500033
 'König Felipe VI',de,Spanien,#111111,#111111,1,0.4250001049999999
-'Evgueni Prigojine',de,Russland,#e81818,#e81818,1,0.425
-'Pierre-Yves Dermagne',de,Belgien,#111111,#111111,1,0.425
 'Patti LaBelle',de,USA,#18e8e8,#18e8e8,1,0.425
-'Moon Hyung-jin',de,USA,#18e8e8,#18e8e8,1,0.425
+'Pierre-Yves Dermagne',de,Belgien,#111111,#111111,1,0.425
+'Evgueni Prigojine',de,Russland,#e81818,#e81818,1,0.425
 'Gilbert Plass',de,Kanada,#111111,#111111,1,0.425
 'Chelsea Handler',de,USA,#18e8e8,#18e8e8,1,0.425
+'Moon Hyung-jin',de,USA,#18e8e8,#18e8e8,1,0.425
 'Queen Elizabeth II',de,UK,#e838e8,#e838e8,3,0.4247986346727272
 'Stormy Daniels',de,USA,#18e8e8,#18e8e8,3,0.4247779199124999
 'Königin Camilla',de,UK,#e838e8,#e838e8,3,0.4240937618534027
@@ -97,7 +98,6 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Prinzessin Kate',de,UK,#e838e8,#e838e8,3,0.4235836575190908
 'Karim Benzema',de,Frankreich,#e8e808,#e8e808,3,0.4230988450829544
 'Chris Christie',de,USA,#18e8e8,#18e8e8,3,0.4227763102647726
-'Jens Spahn',de,Deutschland,#1818e8,#1818e8,3,0.4217988603795453
 'Drena De Niro',de,USA,#18e8e8,#18e8e8,2,0.4217123087
 'Caren Miosga',de,Deutschland,#1818e8,#1818e8,3,0.4202352660512096
 'Prinz William',de,UK,#e838e8,#e838e8,3,0.4193982488060664
@@ -191,7 +191,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Kim Jong Un',de,NordKorea,#e85858,#e85858,3,0.3639364704561567
 'Marie Trintignant',de,unknown,#111111,#111111,1,0.3632050942391267
 'Anne Will',de,Deutschland,#1818e8,#1818e8,3,0.3631121886321952
-'Eric Adams',de,USA,#18e8e8,#18e8e8,1,0.36290034349999994
+'Eric Adams',de,USA,#18e8e8,#18e8e8,1,0.3629003434999999
 'Marjorie Taylor Greene',de,USA,#18e8e8,#18e8e8,1,0.3624172187
 'Jamie Dimon',de,USA,#18e8e8,#18e8e8,1,0.3615589175613636
 'Katy Perry',de,USA,#18e8e8,#18e8e8,3,0.3614742758982953
