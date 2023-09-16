@@ -88,18 +88,18 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Reinhard Marx',de,Deutschland,#1818e8,#1818e8,1,0.425000375
 'Lauren Boebert',de,USA,#18e8e8,#18e8e8,1,0.42500033
 'König Felipe VI',de,Spanien,#111111,#111111,1,0.4250001049999999
-'Gilbert Plass',de,Kanada,#111111,#111111,1,0.425
-'Chelsea Handler',de,USA,#18e8e8,#18e8e8,1,0.425
 'Patti LaBelle',de,USA,#18e8e8,#18e8e8,1,0.425
-'Moon Hyung-jin',de,USA,#18e8e8,#18e8e8,1,0.425
+'Gilbert Plass',de,Kanada,#111111,#111111,1,0.425
 'Evgueni Prigojine',de,Russland,#e81818,#e81818,1,0.425
+'Chelsea Handler',de,USA,#18e8e8,#18e8e8,1,0.425
+'Moon Hyung-jin',de,USA,#18e8e8,#18e8e8,1,0.425
 'Queen Elizabeth II',de,UK,#e838e8,#e838e8,3,0.4247986346727272
 'Stormy Daniels',de,USA,#18e8e8,#18e8e8,3,0.4247779199124999
-'Königin Camilla',de,UK,#e838e8,#e838e8,3,0.4240937618534027
 'Prinzessin Kate',de,UK,#e838e8,#e838e8,3,0.4235836575190908
 'Karim Benzema',de,Frankreich,#e8e808,#e8e808,3,0.4230988450829544
 'Chris Christie',de,USA,#18e8e8,#18e8e8,3,0.4227763102647726
 'Drena De Niro',de,USA,#18e8e8,#18e8e8,2,0.4217123087
+'Königin Camilla',de,UK,#e838e8,#e838e8,3,0.4199767271208468
 'Prinz William',de,UK,#e838e8,#e838e8,3,0.4193982488060664
 'Lara Trump',de,unknown,#111111,#111111,1,0.4177557153763113
 'Lionel Richie',de,USA,#18e8e8,#18e8e8,3,0.4172060794669574
@@ -186,7 +186,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Rudy Giuliani',de,USA,#18e8e8,#18e8e8,1,0.3663509646874999
 'Elizabeth Warren',de,unknown,#111111,#111111,1,0.3659796191504791
 'Rosa Parks',de,unknown,#111111,#111111,1,0.3656714259144223
-'Bill Geddie',de,unknown,#111111,#111111,1,0.36508307861950456
+'Bill Geddie',de,unknown,#111111,#111111,1,0.3650830786195045
 'Willy Brandt',de,Deutschland,#1818e8,#1818e8,3,0.3649387227155795
 'Linda Yaccarino',de,USA,#18e8e8,#18e8e8,3,0.3648547760833654
 'Tim Müller',de,Deutschland,#1818e8,#1818e8,2,0.36482122775
@@ -199,14 +199,14 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Marjorie Taylor Greene',de,USA,#18e8e8,#18e8e8,1,0.3624172187
 'Jamie Dimon',de,USA,#18e8e8,#18e8e8,1,0.3615589175613636
 'Katy Perry',de,USA,#18e8e8,#18e8e8,3,0.3614742758982953
-'Uwe Neumärker',de,Deutschland,#1818e8,#1818e8,1,0.3612499999999999
-'Pedro Sánchez Pérez-Castejón',de,Spanien,#111111,#111111,1,0.3612499999999999
-'Sergei Surovikin',de,Russland,#e81818,#e81818,1,0.3612499999999999
-'Yevgeny Prigozhin',de,Russland,#e81818,#e81818,1,0.3612499999999999
 'Salvador Dali',de,Spanien,#111111,#111111,1,0.3612499999999999
+'Pedro Sánchez Pérez-Castejón',de,Spanien,#111111,#111111,1,0.3612499999999999
 'Kemal Kiliçdaroglu',de,Türkei,#111111,#111111,1,0.3612499999999999
-'Leon Botstein',de,USA,#18e8e8,#18e8e8,1,0.3612499999999999
+'Yevgeny Prigozhin',de,Russland,#e81818,#e81818,1,0.3612499999999999
+'Sergei Surovikin',de,Russland,#e81818,#e81818,1,0.3612499999999999
 'Pierre-Yves Dermagne',de,Belgien,#111111,#111111,1,0.3612499999999999
+'Leon Botstein',de,USA,#18e8e8,#18e8e8,1,0.3612499999999999
+'Uwe Neumärker',de,Deutschland,#1818e8,#1818e8,1,0.3612499999999999
 'Dorothée Pacaud',de,Frankreich,#e8e808,#e8e808,1,0.3612499999999999
 'Lauren Sanchez',de,USA,#18e8e8,#18e8e8,1,0.3610489715457701
 'Henry Ford',de,USA,#18e8e8,#18e8e8,2,0.3606879322925437
@@ -304,10 +304,10 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Matt Damon',de,USA,#18e8e8,#18e8e8,1,0.308394569700974
 'Ayatollah Chamenei',de,Iran,#111111,#111111,1,0.3077702407625
 'Andreas Jung',de,Deutschland,#1818e8,#1818e8,3,0.3074824027518248
-'Andrei Nikolajewitsch Kolmogorow',de,Russland,#e81818,#e81818,1,0.3070624999999999
 'Detlef Garbe',de,Deutschland,#1818e8,#1818e8,1,0.3070624999999999
-'Aurélien Pradié',de,Frankreich,#e8e808,#e8e808,1,0.3070624999999999
+'Andrei Nikolajewitsch Kolmogorow',de,Russland,#e81818,#e81818,1,0.3070624999999999
 'Camille Etienne',de,Frankreich,#e8e808,#e8e808,1,0.3070624999999999
+'Aurélien Pradié',de,Frankreich,#e8e808,#e8e808,1,0.3070624999999999
 'Olaf Scholz',de,Deutschland,#1818e8,#1818e8,3,0.3060209566291014
 'Kevin Kühnert',de,Deutschland,#1818e8,#1818e8,3,0.3052661568897969
 'Charles III',de,UK,#e838e8,#e838e8,3,0.3046119308651951
