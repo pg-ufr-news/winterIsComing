@@ -86,11 +86,11 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Reinhard Marx',de,Deutschland,#1818e8,#1818e8,1,0.425000375
 'Lauren Boebert',de,USA,#18e8e8,#18e8e8,1,0.42500033
 'König Felipe VI',de,Spanien,#111111,#111111,1,0.4250001049999999
-'Evgueni Prigojine',de,Russland,#e81818,#e81818,1,0.425
-'Moon Hyung-jin',de,USA,#18e8e8,#18e8e8,1,0.425
-'Patti LaBelle',de,USA,#18e8e8,#18e8e8,1,0.425
 'Chelsea Handler',de,USA,#18e8e8,#18e8e8,1,0.425
+'Moon Hyung-jin',de,USA,#18e8e8,#18e8e8,1,0.425
+'Evgueni Prigojine',de,Russland,#e81818,#e81818,1,0.425
 'Gilbert Plass',de,Kanada,#111111,#111111,1,0.425
+'Patti LaBelle',de,USA,#18e8e8,#18e8e8,1,0.425
 'Queen Elizabeth II',de,UK,#e838e8,#e838e8,3,0.4247986346727272
 'Stormy Daniels',de,USA,#18e8e8,#18e8e8,3,0.4247779199124999
 'Prinzessin Kate',de,UK,#e838e8,#e838e8,3,0.4235836575190908
@@ -198,15 +198,15 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Marjorie Taylor Greene',de,USA,#18e8e8,#18e8e8,1,0.3624172187
 'Jamie Dimon',de,USA,#18e8e8,#18e8e8,1,0.3615589175613636
 'Katy Perry',de,USA,#18e8e8,#18e8e8,3,0.3614742758982953
-'Pierre-Yves Dermagne',de,Belgien,#111111,#111111,1,0.3612499999999999
-'Dorothée Pacaud',de,Frankreich,#e8e808,#e8e808,1,0.3612499999999999
+'Pedro Sánchez Pérez-Castejón',de,Spanien,#111111,#111111,1,0.3612499999999999
 'Salvador Dali',de,Spanien,#111111,#111111,1,0.3612499999999999
 'Leon Botstein',de,USA,#18e8e8,#18e8e8,1,0.3612499999999999
 'Uwe Neumärker',de,Deutschland,#1818e8,#1818e8,1,0.3612499999999999
-'Sergei Surovikin',de,Russland,#e81818,#e81818,1,0.3612499999999999
+'Pierre-Yves Dermagne',de,Belgien,#111111,#111111,1,0.3612499999999999
 'Yevgeny Prigozhin',de,Russland,#e81818,#e81818,1,0.3612499999999999
 'Kemal Kiliçdaroglu',de,Türkei,#111111,#111111,1,0.3612499999999999
-'Pedro Sánchez Pérez-Castejón',de,Spanien,#111111,#111111,1,0.3612499999999999
+'Dorothée Pacaud',de,Frankreich,#e8e808,#e8e808,1,0.3612499999999999
+'Sergei Surovikin',de,Russland,#e81818,#e81818,1,0.3612499999999999
 'Lauren Sanchez',de,USA,#18e8e8,#18e8e8,1,0.3610489715457701
 'Henry Ford',de,USA,#18e8e8,#18e8e8,2,0.3606879322925437
 'Mathias Döpfner',de,Deutschland,#1818e8,#1818e8,2,0.3602330955687252
@@ -259,6 +259,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Joachim Gauck',de,Deutschland,#1818e8,#1818e8,1,0.341559116540784
 'Konrad Adenauer',de,Deutschland,#1818e8,#1818e8,3,0.3413742646164234
 'Tim Cook',de,USA,#18e8e8,#18e8e8,3,0.3413569805292045
+'Rosalynn Carter',de,USA,#18e8e8,#18e8e8,2,0.33994379873014513
 'König Charles III',de,UK,#e838e8,#e838e8,3,0.339814490452464
 'Peter Tschentscher',de,Deutschland,#1818e8,#1818e8,2,0.3398059016536931
 'Patricia Blanco',de,Deutschland,#1818e8,#1818e8,2,0.338900915525
@@ -304,10 +305,10 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Matt Damon',de,USA,#18e8e8,#18e8e8,1,0.308394569700974
 'Ayatollah Chamenei',de,Iran,#111111,#111111,1,0.3077702407625
 'Andreas Jung',de,Deutschland,#1818e8,#1818e8,3,0.3074824027518248
-'Andrei Nikolajewitsch Kolmogorow',de,Russland,#e81818,#e81818,1,0.3070624999999999
-'Detlef Garbe',de,Deutschland,#1818e8,#1818e8,1,0.3070624999999999
 'Aurélien Pradié',de,Frankreich,#e8e808,#e8e808,1,0.3070624999999999
 'Camille Etienne',de,Frankreich,#e8e808,#e8e808,1,0.3070624999999999
+'Detlef Garbe',de,Deutschland,#1818e8,#1818e8,1,0.3070624999999999
+'Andrei Nikolajewitsch Kolmogorow',de,Russland,#e81818,#e81818,1,0.3070624999999999
 'Olaf Scholz',de,Deutschland,#1818e8,#1818e8,3,0.3060209566291014
 'Kevin Kühnert',de,Deutschland,#1818e8,#1818e8,3,0.3052661568897969
 'Charles III',de,UK,#e838e8,#e838e8,3,0.3046119308651951
@@ -372,7 +373,6 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Don Lemon',de,USA,#18e8e8,#18e8e8,1,0.2304463129687499
 'Katarina Barley',de,EU,#111111,#111111,1,0.2254297697990309
 'John Paul II',de,Vatikan,#58b8e8,#58b8e8,1,0.2234445607214374
-'Rosalynn Carter',de,USA,#18e8e8,#18e8e8,1,0.2232868043884061
 'Jean-Jacques Rousseau',de,Schweiz,#111111,#111111,1,0.2223234995640312
 'Robert Nozick',de,USA,#18e8e8,#18e8e8,1,0.2218526562499999
 'Megyn Kell',de,USA,#18e8e8,#18e8e8,1,0.2218526562499999
