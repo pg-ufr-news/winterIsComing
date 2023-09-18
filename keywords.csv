@@ -1,5 +1,4 @@
 keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
-'Carey Mulligan',de,unknown,#111111,#111111,2,0.509560944784353
 'Steve Doocy',de,unknown,#111111,#111111,2,0.506595257897308
 'Joaquim Valente',de,unknown,#111111,#111111,2,0.5023000703501995
 'Wagner-Chef Prigoschin',de,unknown,#111111,#111111,3,0.4936482689197346
@@ -16,8 +15,8 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Mark Meadows',de,unknown,#111111,#111111,2,0.4585343999351218
 'Wolfgang Grupp',de,unknown,#111111,#111111,1,0.4581718523999999
 'Pedro Sánchez',de,Spanien,#111111,#111111,2,0.4563220179090909
-'George Santos',de,USA,#18e8e8,#18e8e8,2,0.455750075
 'Leandro De Niro Rodriguez',de,USA,#18e8e8,#18e8e8,2,0.455750075
+'George Santos',de,USA,#18e8e8,#18e8e8,2,0.455750075
 'Marlène Schiappa',de,unknown,#111111,#111111,2,0.4544642780232826
 'nan nan',de,unknown,#111111,#111111,1,0.4526354265249211
 'Irina Shayk',de,unknown,#111111,#111111,2,0.4518876857029919
@@ -40,6 +39,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Taylor Swift',de,unknown,#111111,#111111,3,0.4352060398316404
 'Margaret Qualley',de,unknown,#111111,#111111,1,0.4350615487312324
 'Rand Paul',de,unknown,#111111,#111111,1,0.4333319901758871
+'Carey Mulligan',de,unknown,#111111,#111111,1,0.43312719306670006
 'Jonathan Turley',de,unknown,#111111,#111111,1,0.4329801768448086
 'Barbara Schöneberger',de,Deutschland,#1818e8,#1818e8,2,0.4329086527499999
 'Bret Baier',de,unknown,#111111,#111111,1,0.4329030281259857
@@ -202,15 +202,15 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Joy Behar',de,unknown,#111111,#111111,1,0.3617764997224912
 'Jamie Dimon',de,USA,#18e8e8,#18e8e8,1,0.3615589175613636
 'Katy Perry',de,USA,#18e8e8,#18e8e8,3,0.3614742758982953
+'Dorothée Pacaud',de,Frankreich,#e8e808,#e8e808,1,0.3612499999999999
 'Uwe Neumärker',de,Deutschland,#1818e8,#1818e8,1,0.3612499999999999
 'Yevgeny Prigozhin',de,Russland,#e81818,#e81818,1,0.3612499999999999
-'Pierre-Yves Dermagne',de,Belgien,#111111,#111111,1,0.3612499999999999
 'Kemal Kiliçdaroglu',de,Türkei,#111111,#111111,1,0.3612499999999999
-'Leon Botstein',de,USA,#18e8e8,#18e8e8,1,0.3612499999999999
+'Pierre-Yves Dermagne',de,Belgien,#111111,#111111,1,0.3612499999999999
 'Sergei Surovikin',de,Russland,#e81818,#e81818,1,0.3612499999999999
-'Dorothée Pacaud',de,Frankreich,#e8e808,#e8e808,1,0.3612499999999999
 'Salvador Dali',de,Spanien,#111111,#111111,1,0.3612499999999999
 'Pedro Sánchez Pérez-Castejón',de,Spanien,#111111,#111111,1,0.3612499999999999
+'Leon Botstein',de,USA,#18e8e8,#18e8e8,1,0.3612499999999999
 'Lauren Sanchez',de,USA,#18e8e8,#18e8e8,1,0.3610489715457701
 'Henry Ford',de,USA,#18e8e8,#18e8e8,2,0.3606879322925437
 'Mathias Döpfner',de,Deutschland,#1818e8,#1818e8,2,0.3602330955687252
