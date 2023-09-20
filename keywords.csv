@@ -165,7 +165,6 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Greg Abbott',de,USA,#18e8e8,#18e8e8,1,0.3731856314772727
 'Élisabeth Borne',de,Frankreich,#e8e808,#e8e808,3,0.3731406734909089
 'Jeanne du Barry',de,Frankreich,#e8e808,#e8e808,1,0.3727093245995967
-'Peter Urban',de,Deutschland,#1818e8,#1818e8,3,0.3712181037772727
 'Chuck Todd',de,USA,#18e8e8,#18e8e8,1,0.3710675471749999
 'Pablo Picasso',de,Spanien,#111111,#111111,3,0.3707287646829544
 'Prinz Harry',de,UK,#e838e8,#e838e8,3,0.3704943332341863
@@ -201,14 +200,14 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Jamie Dimon',de,USA,#18e8e8,#18e8e8,1,0.3615589175613636
 'Katy Perry',de,USA,#18e8e8,#18e8e8,3,0.3614742758982953
 'Pedro Sánchez Pérez-Castejón',de,Spanien,#111111,#111111,1,0.3612499999999999
-'Salvador Dali',de,Spanien,#111111,#111111,1,0.3612499999999999
-'Kemal Kiliçdaroglu',de,Türkei,#111111,#111111,1,0.3612499999999999
-'Pierre-Yves Dermagne',de,Belgien,#111111,#111111,1,0.3612499999999999
-'Sergei Surovikin',de,Russland,#e81818,#e81818,1,0.3612499999999999
 'Leon Botstein',de,USA,#18e8e8,#18e8e8,1,0.3612499999999999
-'Dorothée Pacaud',de,Frankreich,#e8e808,#e8e808,1,0.3612499999999999
+'Salvador Dali',de,Spanien,#111111,#111111,1,0.3612499999999999
 'Uwe Neumärker',de,Deutschland,#1818e8,#1818e8,1,0.3612499999999999
+'Dorothée Pacaud',de,Frankreich,#e8e808,#e8e808,1,0.3612499999999999
 'Yevgeny Prigozhin',de,Russland,#e81818,#e81818,1,0.3612499999999999
+'Sergei Surovikin',de,Russland,#e81818,#e81818,1,0.3612499999999999
+'Pierre-Yves Dermagne',de,Belgien,#111111,#111111,1,0.3612499999999999
+'Kemal Kiliçdaroglu',de,Türkei,#111111,#111111,1,0.3612499999999999
 'Lauren Sanchez',de,USA,#18e8e8,#18e8e8,1,0.3610489715457701
 'Henry Ford',de,USA,#18e8e8,#18e8e8,2,0.3606879322925437
 'Mathias Döpfner',de,Deutschland,#1818e8,#1818e8,2,0.3602330955687252
@@ -295,6 +294,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Chez Krömer',de,Deutschland,#1818e8,#1818e8,1,0.3198003061974999
 'Silvio Berlusconi',de,Italien,#111111,#111111,3,0.3184097321982022
 'King Charles',de,UK,#e838e8,#e838e8,2,0.3181688960747654
+'Peter Urban',de,Deutschland,#1818e8,#1818e8,1,0.3155355532106818
 'Adolf Hitler',de,Deutschland,#1818e8,#1818e8,3,0.3143594538471903
 'Lachlan Murdoch',de,UK,#e838e8,#e838e8,1,0.3142994406294687
 'Ramsan Kadyrow',de,Russland,#e81818,#e81818,2,0.3142913242298293
@@ -308,14 +308,14 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Matt Damon',de,USA,#18e8e8,#18e8e8,1,0.308394569700974
 'Ayatollah Chamenei',de,Iran,#111111,#111111,1,0.3077702407625
 'Andreas Jung',de,Deutschland,#1818e8,#1818e8,3,0.3074824027518248
-'Aurélien Pradié',de,Frankreich,#e8e808,#e8e808,1,0.3070624999999999
-'Detlef Garbe',de,Deutschland,#1818e8,#1818e8,1,0.3070624999999999
 'Andrei Nikolajewitsch Kolmogorow',de,Russland,#e81818,#e81818,1,0.3070624999999999
 'Camille Etienne',de,Frankreich,#e8e808,#e8e808,1,0.3070624999999999
+'Aurélien Pradié',de,Frankreich,#e8e808,#e8e808,1,0.3070624999999999
+'Detlef Garbe',de,Deutschland,#1818e8,#1818e8,1,0.3070624999999999
 'Olaf Scholz',de,Deutschland,#1818e8,#1818e8,3,0.3060209566291014
 'Kevin Kühnert',de,Deutschland,#1818e8,#1818e8,3,0.3052661568897969
 'Charles III',de,UK,#e838e8,#e838e8,3,0.3046119308651951
-'Bruce Springsteen',de,USA,#18e8e8,#18e8e8,1,0.30422348152688933
+'Bruce Springsteen',de,USA,#18e8e8,#18e8e8,1,0.3042234815268893
 'Ted Cruz',de,USA,#18e8e8,#18e8e8,1,0.3011186825843749
 'Afida Turner',de,Frankreich,#e8e808,#e8e808,1,0.3007820268839374
 'Barack Obama',de,USA,#18e8e8,#18e8e8,3,0.2996641882250379
