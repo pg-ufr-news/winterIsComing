@@ -1,5 +1,4 @@
 keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
-'Fani Willis',de,unknown,#111111,#111111,3,0.474660021911619
 'Gisele Bündchen',de,unknown,#111111,#111111,1,0.4697776826157701
 'Leonard Bernstein',de,unknown,#111111,#111111,3,0.4696390677571966
 'Sergio Mattarella',de,Italien,#111111,#111111,2,0.4689072478571428
@@ -15,6 +14,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'George Santos',de,USA,#18e8e8,#18e8e8,2,0.455750075
 'Leandro De Niro Rodriguez',de,USA,#18e8e8,#18e8e8,2,0.455750075
 'Marlène Schiappa',de,unknown,#111111,#111111,2,0.4544642780232826
+'Fani Willis',de,unknown,#111111,#111111,3,0.4538667490794216
 'nan nan',de,unknown,#111111,#111111,1,0.4526354265249211
 'Irina Shayk',de,unknown,#111111,#111111,2,0.4518876857029919
 'Gavin Newsom',de,unknown,#111111,#111111,3,0.44890211038725
@@ -201,14 +201,14 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Jamie Dimon',de,USA,#18e8e8,#18e8e8,1,0.3615589175613636
 'Katy Perry',de,USA,#18e8e8,#18e8e8,3,0.3614742758982953
 'Dorothée Pacaud',de,Frankreich,#e8e808,#e8e808,1,0.3612499999999999
-'Leon Botstein',de,USA,#18e8e8,#18e8e8,1,0.3612499999999999
-'Salvador Dali',de,Spanien,#111111,#111111,1,0.3612499999999999
+'Yevgeny Prigozhin',de,Russland,#e81818,#e81818,1,0.3612499999999999
+'Pedro Sánchez Pérez-Castejón',de,Spanien,#111111,#111111,1,0.3612499999999999
 'Uwe Neumärker',de,Deutschland,#1818e8,#1818e8,1,0.3612499999999999
 'Kemal Kiliçdaroglu',de,Türkei,#111111,#111111,1,0.3612499999999999
-'Pedro Sánchez Pérez-Castejón',de,Spanien,#111111,#111111,1,0.3612499999999999
+'Salvador Dali',de,Spanien,#111111,#111111,1,0.3612499999999999
 'Sergei Surovikin',de,Russland,#e81818,#e81818,1,0.3612499999999999
 'Pierre-Yves Dermagne',de,Belgien,#111111,#111111,1,0.3612499999999999
-'Yevgeny Prigozhin',de,Russland,#e81818,#e81818,1,0.3612499999999999
+'Leon Botstein',de,USA,#18e8e8,#18e8e8,1,0.3612499999999999
 'Lauren Sanchez',de,USA,#18e8e8,#18e8e8,1,0.3610489715457701
 'Henry Ford',de,USA,#18e8e8,#18e8e8,2,0.3606879322925437
 'Mathias Döpfner',de,Deutschland,#1818e8,#1818e8,2,0.3602330955687252
