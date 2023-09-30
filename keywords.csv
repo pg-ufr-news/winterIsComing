@@ -1,7 +1,7 @@
 keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
-'Irina Scherbakowa',de,unknown,#111111,#111111,1,0.51
 'Alberto Núñez Feijóo',de,unknown,#111111,#111111,1,0.51
 'Sarah Ferguson',de,unknown,#111111,#111111,1,0.51
+'Irina Scherbakowa',de,unknown,#111111,#111111,2,0.50910006
 'Stanislaw Petrow',de,unknown,#111111,#111111,1,0.501650015
 'Dieter Salomon',de,Deutschland,#1818e8,#1818e8,1,0.501650015
 'Boris Rhein',de,unknown,#111111,#111111,2,0.497544239090909
@@ -101,11 +101,11 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Ivanka Trump',de,unknown,#111111,#111111,1,0.4255832569123063
 'Markus Söder',de,Deutschland,#1818e8,#1818e8,3,0.4253235873749115
 'Reinhard Marx',de,Deutschland,#1818e8,#1818e8,1,0.425000375
-'Evgueni Prigojine',de,Russland,#e81818,#e81818,1,0.425
-'Gilbert Plass',de,Kanada,#111111,#111111,1,0.425
 'Moon Hyung-jin',de,USA,#18e8e8,#18e8e8,1,0.425
-'Patti LaBelle',de,USA,#18e8e8,#18e8e8,1,0.425
+'Evgueni Prigojine',de,Russland,#e81818,#e81818,1,0.425
 'Chelsea Handler',de,USA,#18e8e8,#18e8e8,1,0.425
+'Gilbert Plass',de,Kanada,#111111,#111111,1,0.425
+'Patti LaBelle',de,USA,#18e8e8,#18e8e8,1,0.425
 'Queen Elizabeth II',de,UK,#e838e8,#e838e8,3,0.4247986346727272
 'Stormy Daniels',de,USA,#18e8e8,#18e8e8,3,0.4247779199124999
 'Prinzessin Kate',de,UK,#e838e8,#e838e8,3,0.4235836575190908
@@ -221,9 +221,9 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Pedro Sánchez Pérez-Castejón',de,Spanien,#111111,#111111,1,0.3612499999999999
 'Dorothée Pacaud',de,Frankreich,#e8e808,#e8e808,1,0.3612499999999999
 'Leon Botstein',de,USA,#18e8e8,#18e8e8,1,0.3612499999999999
+'Yevgeny Prigozhin',de,Russland,#e81818,#e81818,1,0.3612499999999999
 'Kemal Kiliçdaroglu',de,Türkei,#111111,#111111,1,0.3612499999999999
 'Uwe Neumärker',de,Deutschland,#1818e8,#1818e8,1,0.3612499999999999
-'Yevgeny Prigozhin',de,Russland,#e81818,#e81818,1,0.3612499999999999
 'Pierre-Yves Dermagne',de,Belgien,#111111,#111111,1,0.3612499999999999
 'Salvador Dali',de,Spanien,#111111,#111111,1,0.3612499999999999
 'Sergei Surovikin',de,Russland,#e81818,#e81818,1,0.3612499999999999
@@ -326,10 +326,10 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Matt Damon',de,USA,#18e8e8,#18e8e8,1,0.308394569700974
 'Ayatollah Chamenei',de,Iran,#111111,#111111,1,0.3077702407625
 'Andreas Jung',de,Deutschland,#1818e8,#1818e8,3,0.3074824027518248
-'Detlef Garbe',de,Deutschland,#1818e8,#1818e8,1,0.3070624999999999
 'Aurélien Pradié',de,Frankreich,#e8e808,#e8e808,1,0.3070624999999999
-'Camille Etienne',de,Frankreich,#e8e808,#e8e808,1,0.3070624999999999
+'Detlef Garbe',de,Deutschland,#1818e8,#1818e8,1,0.3070624999999999
 'Andrei Nikolajewitsch Kolmogorow',de,Russland,#e81818,#e81818,1,0.3070624999999999
+'Camille Etienne',de,Frankreich,#e8e808,#e8e808,1,0.3070624999999999
 'Olaf Scholz',de,Deutschland,#1818e8,#1818e8,3,0.3060209566291014
 'Kevin Kühnert',de,Deutschland,#1818e8,#1818e8,3,0.3052661568897969
 'Charles III',de,UK,#e838e8,#e838e8,3,0.3046119308651951
