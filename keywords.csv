@@ -1,5 +1,4 @@
 keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
-'Tom Kaulitz',de,unknown,#111111,#111111,2,0.4996623130942734
 'Heidi Klum',de,unknown,#111111,#111111,3,0.4933173429318181
 'Fabien Roussel',de,unknown,#111111,#111111,1,0.4905047533260105
 'Novak Djokovic',de,unknown,#111111,#111111,3,0.4899123590227273
@@ -74,6 +73,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Leandro De Niro-Rodriguez',de,unknown,#111111,#111111,1,0.4303114797610817
 'Jeffrey Epstein',de,USA,#18e8e8,#18e8e8,2,0.4300132577436195
 'Sergej Surowikin',de,Russland,#e81818,#e81818,3,0.429951455
+'Tom Kaulitz',de,unknown,#111111,#111111,2,0.4296645261301324
 'Maria Bartiromo',de,unknown,#111111,#111111,1,0.4294199029695053
 'Gabriel Attal',de,unknown,#111111,#111111,1,0.4292165649637992
 'Devon Archer',de,unknown,#111111,#111111,1,0.4291238093417915
@@ -101,7 +101,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Robert Sesselmann',de,Deutschland,#1818e8,#1818e8,3,0.4259418752863635
 'Ron Johnson',de,unknown,#111111,#111111,1,0.4258380109257998
 'Sean Hannity',de,unknown,#111111,#111111,2,0.4258061894305817
-'Cassidy Hutchinson',de,unknown,#111111,#111111,1,0.42573561992899867
+'Cassidy Hutchinson',de,unknown,#111111,#111111,1,0.4257356199289986
 'Pap Ndiaye',de,unknown,#111111,#111111,1,0.4255903903230304
 'Ivanka Trump',de,unknown,#111111,#111111,1,0.4255832569123063
 'Markus Söder',de,Deutschland,#1818e8,#1818e8,3,0.4253235873749115
@@ -226,9 +226,9 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Dorothée Pacaud',de,Frankreich,#e8e808,#e8e808,1,0.3612499999999999
 'Pedro Sánchez Pérez-Castejón',de,Spanien,#111111,#111111,1,0.3612499999999999
 'Leon Botstein',de,USA,#18e8e8,#18e8e8,1,0.3612499999999999
-'Yevgeny Prigozhin',de,Russland,#e81818,#e81818,1,0.3612499999999999
 'Uwe Neumärker',de,Deutschland,#1818e8,#1818e8,1,0.3612499999999999
 'Kemal Kiliçdaroglu',de,Türkei,#111111,#111111,1,0.3612499999999999
+'Yevgeny Prigozhin',de,Russland,#e81818,#e81818,1,0.3612499999999999
 'Pierre-Yves Dermagne',de,Belgien,#111111,#111111,1,0.3612499999999999
 'Salvador Dali',de,Spanien,#111111,#111111,1,0.3612499999999999
 'Sergei Surovikin',de,Russland,#e81818,#e81818,1,0.3612499999999999
