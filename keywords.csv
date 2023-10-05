@@ -226,9 +226,9 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Dorothée Pacaud',de,Frankreich,#e8e808,#e8e808,1,0.3612499999999999
 'Pedro Sánchez Pérez-Castejón',de,Spanien,#111111,#111111,1,0.3612499999999999
 'Uwe Neumärker',de,Deutschland,#1818e8,#1818e8,1,0.3612499999999999
-'Leon Botstein',de,USA,#18e8e8,#18e8e8,1,0.3612499999999999
 'Pierre-Yves Dermagne',de,Belgien,#111111,#111111,1,0.3612499999999999
 'Yevgeny Prigozhin',de,Russland,#e81818,#e81818,1,0.3612499999999999
+'Leon Botstein',de,USA,#18e8e8,#18e8e8,1,0.3612499999999999
 'Kemal Kiliçdaroglu',de,Türkei,#111111,#111111,1,0.3612499999999999
 'Salvador Dali',de,Spanien,#111111,#111111,1,0.3612499999999999
 'Sergei Surovikin',de,Russland,#e81818,#e81818,1,0.3612499999999999
@@ -368,7 +368,6 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Michael Sandel',de,USA,#18e8e8,#18e8e8,1,0.2613727915493749
 'Richard Ferrand',de,Frankreich,#e8e808,#e8e808,1,0.2611531399999999
 'Thomas Bayes',de,UK,#e838e8,#e838e8,1,0.2610031249999999
-'Meg Bellamy',de,UK,#e838e8,#e838e8,1,0.2587610390268124
 'Michelle Obama',de,USA,#18e8e8,#18e8e8,3,0.2587062187967412
 'Narendra Modi',de,Indien,#111111,#111111,3,0.2565789179436131
 'Rainer Maria Woelki',de,Deutschland,#1818e8,#1818e8,2,0.2548845560110069
@@ -406,6 +405,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Megyn Kell',de,USA,#18e8e8,#18e8e8,1,0.2218526562499999
 'Gerhard Schröder',de,Deutschland,#1818e8,#1818e8,3,0.2218338037744111
 'Sergej Schoigu',de,Russland,#e81818,#e81818,3,0.2218285882839788
+'Meg Bellamy',de,UK,#e838e8,#e838e8,1,0.22024691317279055
 'Eva Kaili',de,EU,#111111,#111111,3,0.2197861341940745
 'Boris Pistorius',de,Deutschland,#1818e8,#1818e8,3,0.2189350114484989
 'Mike Pence',de,USA,#18e8e8,#18e8e8,3,0.2184257181908278
