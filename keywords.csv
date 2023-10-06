@@ -1,5 +1,4 @@
 keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
-'Novak Djokovic',de,unknown,#111111,#111111,3,0.4899123590227273
 'Boris Rhein',de,unknown,#111111,#111111,3,0.4869570673181817
 'Matt Gaetz',de,unknown,#111111,#111111,2,0.4845433615118428
 'Königin Camilla',de,UK,#e838e8,#e838e8,3,0.4755683666890834
@@ -11,6 +10,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Wagner-Chef Prigoschin',de,unknown,#111111,#111111,3,0.4654749394908652
 'Meryl Streep',de,unknown,#111111,#111111,2,0.4652217435714285
 'Lauren Boebert',de,USA,#18e8e8,#18e8e8,2,0.4626004155
+'Novak Djokovic',de,unknown,#111111,#111111,3,0.4622871460784091
 'Oliver Anthony',de,unknown,#111111,#111111,2,0.46173798
 'Caroline Ellison',de,unknown,#111111,#111111,2,0.4600765872341377
 'Mark Meadows',de,unknown,#111111,#111111,2,0.4585343999351218
@@ -226,9 +226,9 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Dorothée Pacaud',de,Frankreich,#e8e808,#e8e808,1,0.3612499999999999
 'Pedro Sánchez Pérez-Castejón',de,Spanien,#111111,#111111,1,0.3612499999999999
 'Uwe Neumärker',de,Deutschland,#1818e8,#1818e8,1,0.3612499999999999
-'Leon Botstein',de,USA,#18e8e8,#18e8e8,1,0.3612499999999999
 'Pierre-Yves Dermagne',de,Belgien,#111111,#111111,1,0.3612499999999999
 'Yevgeny Prigozhin',de,Russland,#e81818,#e81818,1,0.3612499999999999
+'Leon Botstein',de,USA,#18e8e8,#18e8e8,1,0.3612499999999999
 'Kemal Kiliçdaroglu',de,Türkei,#111111,#111111,1,0.3612499999999999
 'Salvador Dali',de,Spanien,#111111,#111111,1,0.3612499999999999
 'Sergei Surovikin',de,Russland,#e81818,#e81818,1,0.3612499999999999
