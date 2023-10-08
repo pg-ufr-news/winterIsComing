@@ -100,11 +100,11 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Ivanka Trump',de,unknown,#111111,#111111,1,0.4255832569123063
 'Markus Söder',de,Deutschland,#1818e8,#1818e8,3,0.4253235873749115
 'Reinhard Marx',de,Deutschland,#1818e8,#1818e8,1,0.425000375
-'Patti LaBelle',de,USA,#18e8e8,#18e8e8,1,0.425
-'Gilbert Plass',de,Kanada,#111111,#111111,1,0.425
-'Moon Hyung-jin',de,USA,#18e8e8,#18e8e8,1,0.425
 'Chelsea Handler',de,USA,#18e8e8,#18e8e8,1,0.425
+'Gilbert Plass',de,Kanada,#111111,#111111,1,0.425
+'Patti LaBelle',de,USA,#18e8e8,#18e8e8,1,0.425
 'Evgueni Prigojine',de,Russland,#e81818,#e81818,1,0.425
+'Moon Hyung-jin',de,USA,#18e8e8,#18e8e8,1,0.425
 'Queen Elizabeth II',de,UK,#e838e8,#e838e8,3,0.4247986346727272
 'Stormy Daniels',de,USA,#18e8e8,#18e8e8,3,0.4247779199124999
 'Prinzessin Kate',de,UK,#e838e8,#e838e8,3,0.4235836575190908
@@ -149,7 +149,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'James Cameron',de,USA,#18e8e8,#18e8e8,3,0.3935927591818181
 'Pete Davidson',de,USA,#18e8e8,#18e8e8,1,0.39350041625
 'Lady Gaga',de,USA,#18e8e8,#18e8e8,2,0.3930541669285714
-'Ron Johnson',de,unknown,#111111,#111111,1,0.39271238428692984
+'Ron Johnson',de,unknown,#111111,#111111,1,0.3927123842869298
 'Steven Spielberg',de,USA,#18e8e8,#18e8e8,3,0.3922240923023551
 'Joseph Ratzinger',de,Vatikan,#58b8e8,#58b8e8,1,0.3909379885768749
 'Bradley Cooper',de,unknown,#111111,#111111,3,0.390784703052462
@@ -285,6 +285,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Hamish Harding',de,UK,#e838e8,#e838e8,2,0.3407387234863634
 'Rosalynn Carter',de,USA,#18e8e8,#18e8e8,2,0.3399437987301451
 'König Charles III',de,UK,#e838e8,#e838e8,3,0.339814490452464
+'Alvin Bragg',de,USA,#18e8e8,#18e8e8,1,0.33981288410430144
 'Peter Tschentscher',de,Deutschland,#1818e8,#1818e8,2,0.3398059016536931
 'Patricia Blanco',de,Deutschland,#1818e8,#1818e8,2,0.338900915525
 'Wolfgang Benz',de,Deutschland,#1818e8,#1818e8,2,0.338761251872794
@@ -303,7 +304,6 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Joe Biden',de,USA,#18e8e8,#18e8e8,3,0.3313125839343794
 'Leonardo da Vinci',de,Italien,#111111,#111111,2,0.3308202578992857
 'Selenski',de,Ukraine,#e818e8,#e818e8,3,0.3287688968417335
-'Alvin Bragg',de,USA,#18e8e8,#18e8e8,1,0.3283091871815311
 'Cristiano Ronaldo',de,Portugal,#111111,#111111,3,0.3274578979182896
 'Peter Thiel',de,USA,#18e8e8,#18e8e8,2,0.3271606226149868
 'Margaret Thatcher',de,UK,#e838e8,#e838e8,1,0.3266127390744375
@@ -330,11 +330,11 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Matt Damon',de,USA,#18e8e8,#18e8e8,1,0.308394569700974
 'Ayatollah Chamenei',de,Iran,#111111,#111111,1,0.3077702407625
 'Andreas Jung',de,Deutschland,#1818e8,#1818e8,3,0.3074824027518248
-'Pierre-Yves Dermagne',de,Belgien,#111111,#111111,1,0.3070624999999999
-'Andrei Nikolajewitsch Kolmogorow',de,Russland,#e81818,#e81818,1,0.3070624999999999
 'Aurélien Pradié',de,Frankreich,#e8e808,#e8e808,1,0.3070624999999999
-'Camille Etienne',de,Frankreich,#e8e808,#e8e808,1,0.3070624999999999
+'Andrei Nikolajewitsch Kolmogorow',de,Russland,#e81818,#e81818,1,0.3070624999999999
 'Detlef Garbe',de,Deutschland,#1818e8,#1818e8,1,0.3070624999999999
+'Pierre-Yves Dermagne',de,Belgien,#111111,#111111,1,0.3070624999999999
+'Camille Etienne',de,Frankreich,#e8e808,#e8e808,1,0.3070624999999999
 'Olaf Scholz',de,Deutschland,#1818e8,#1818e8,3,0.3060209566291014
 'Kevin Kühnert',de,Deutschland,#1818e8,#1818e8,3,0.3052661568897969
 'Charles III',de,UK,#e838e8,#e838e8,3,0.3046119308651951
