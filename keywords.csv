@@ -100,11 +100,11 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Ivanka Trump',de,unknown,#111111,#111111,1,0.4255832569123063
 'Markus Söder',de,Deutschland,#1818e8,#1818e8,3,0.4253235873749115
 'Reinhard Marx',de,Deutschland,#1818e8,#1818e8,1,0.425000375
+'Moon Hyung-jin',de,USA,#18e8e8,#18e8e8,1,0.425
 'Evgueni Prigojine',de,Russland,#e81818,#e81818,1,0.425
 'Chelsea Handler',de,USA,#18e8e8,#18e8e8,1,0.425
-'Gilbert Plass',de,Kanada,#111111,#111111,1,0.425
-'Moon Hyung-jin',de,USA,#18e8e8,#18e8e8,1,0.425
 'Patti LaBelle',de,USA,#18e8e8,#18e8e8,1,0.425
+'Gilbert Plass',de,Kanada,#111111,#111111,1,0.425
 'Queen Elizabeth II',de,UK,#e838e8,#e838e8,3,0.4247986346727272
 'Stormy Daniels',de,USA,#18e8e8,#18e8e8,3,0.4247779199124999
 'Prinzessin Kate',de,UK,#e838e8,#e838e8,3,0.4235836575190908
@@ -163,7 +163,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Jim Jordan',de,unknown,#111111,#111111,1,0.3858529187220433
 'Wolfgang Kubicki',de,Deutschland,#1818e8,#1818e8,3,0.3858334997092045
 'Melania Trump',de,unknown,#111111,#111111,1,0.3850519088052437
-'Tina Turner',de,USA,#18e8e8,#18e8e8,3,0.38478876199659084
+'Tina Turner',de,USA,#18e8e8,#18e8e8,3,0.3847887619965908
 'Helmut Kohl',de,Deutschland,#1818e8,#1818e8,3,0.3846428949749572
 'Alexander von Humboldt',de,Deutschland,#1818e8,#1818e8,2,0.3832183972556817
 'Lewis Kaplan',de,unknown,#111111,#111111,2,0.3809449728508849
@@ -330,10 +330,10 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Matt Damon',de,USA,#18e8e8,#18e8e8,1,0.308394569700974
 'Ayatollah Chamenei',de,Iran,#111111,#111111,1,0.3077702407625
 'Andreas Jung',de,Deutschland,#1818e8,#1818e8,3,0.3074824027518248
-'Detlef Garbe',de,Deutschland,#1818e8,#1818e8,1,0.3070624999999999
-'Andrei Nikolajewitsch Kolmogorow',de,Russland,#e81818,#e81818,1,0.3070624999999999
 'Pierre-Yves Dermagne',de,Belgien,#111111,#111111,1,0.3070624999999999
+'Andrei Nikolajewitsch Kolmogorow',de,Russland,#e81818,#e81818,1,0.3070624999999999
 'Aurélien Pradié',de,Frankreich,#e8e808,#e8e808,1,0.3070624999999999
+'Detlef Garbe',de,Deutschland,#1818e8,#1818e8,1,0.3070624999999999
 'Camille Etienne',de,Frankreich,#e8e808,#e8e808,1,0.3070624999999999
 'Olaf Scholz',de,Deutschland,#1818e8,#1818e8,3,0.3060209566291014
 'Kevin Kühnert',de,Deutschland,#1818e8,#1818e8,3,0.3052661568897969
@@ -454,10 +454,10 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Michael Kretschmer',de,Deutschland,#1818e8,#1818e8,3,0.1920399908863049
 'Greta Thunberg',de,Schweden,#111111,#111111,3,0.192022202079363
 'Viktor Orbán',de,Ungarn,#111111,#111111,3,0.1917488659698207
-'Antonio Guterres',de,UN,#e888e8,#e888e8,3,0.1917023082593306
 'Franziska Giffey',de,Deutschland,#1818e8,#1818e8,3,0.1916232707710685
 'Louis Klamroth',de,Deutschland,#1818e8,#1818e8,2,0.1911774805741061
 'Jeff Bezos',de,USA,#18e8e8,#18e8e8,2,0.1909945829327183
+'Antonio Guterres',de,UN,#e888e8,#e888e8,3,0.19062603474770376
 'Karine Jean-Pierre',de,USA,#18e8e8,#18e8e8,3,0.1904188018847302
 'MacKenzie Scott',de,USA,#18e8e8,#18e8e8,1,0.1898435528700683
 'Anthony Albanese',de,Australien,#111111,#111111,2,0.1897115300642134
