@@ -1,5 +1,4 @@
 keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
-'Olivia Rodrigo',de,unknown,#111111,#111111,2,0.5097970913471411
 'John Fetterman',de,unknown,#111111,#111111,2,0.5079347697681331
 'Nancy Mace',de,unknown,#111111,#111111,2,0.5053844205125667
 'Jean-Luc Mélenchon',de,unknown,#111111,#111111,2,0.5034920756813912
@@ -50,6 +49,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Peter Breuer',de,unknown,#111111,#111111,1,0.433650015
 'Irina Scherbakowa',de,unknown,#111111,#111111,2,0.433335111
 'Rand Paul',de,unknown,#111111,#111111,1,0.4333319901758871
+'Olivia Rodrigo',de,unknown,#111111,#111111,1,0.4333278576450699
 'Carey Mulligan',de,unknown,#111111,#111111,1,0.4331271930667
 'Edouard Philippe',de,unknown,#111111,#111111,1,0.4330033123150013
 'Jonathan Turley',de,unknown,#111111,#111111,1,0.4329801768448086
@@ -104,10 +104,10 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Ivanka Trump',de,unknown,#111111,#111111,1,0.4255832569123063
 'Markus Söder',de,Deutschland,#1818e8,#1818e8,3,0.4253235873749115
 'Reinhard Marx',de,Deutschland,#1818e8,#1818e8,1,0.425000375
-'Moon Hyung-jin',de,USA,#18e8e8,#18e8e8,1,0.425
-'Gilbert Plass',de,Kanada,#111111,#111111,1,0.425
 'Patti LaBelle',de,USA,#18e8e8,#18e8e8,1,0.425
+'Gilbert Plass',de,Kanada,#111111,#111111,1,0.425
 'Evgueni Prigojine',de,Russland,#e81818,#e81818,1,0.425
+'Moon Hyung-jin',de,USA,#18e8e8,#18e8e8,1,0.425
 'Chelsea Handler',de,USA,#18e8e8,#18e8e8,1,0.425
 'Queen Elizabeth II',de,UK,#e838e8,#e838e8,3,0.4247986346727272
 'Stormy Daniels',de,USA,#18e8e8,#18e8e8,3,0.4247779199124999
@@ -552,9 +552,9 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Holger Münch',de,Deutschland,#1818e8,#1818e8,2,0.116486442922703
 'Barbara Walters',de,USA,#18e8e8,#18e8e8,1,0.1163703456062798
 'Nick Fuentes',de,USA,#18e8e8,#18e8e8,1,0.1162717070341678
-'Mary Lou McDonald',de,Irland,#111111,#111111,1,0.1158084731416014
 'Michelle Neill',de,Irland,#111111,#111111,1,0.1158084731416014
 'Raphael Warnock',de,USA,#18e8e8,#18e8e8,1,0.1158084731416014
+'Mary Lou McDonald',de,Irland,#111111,#111111,1,0.1158084731416014
 'Ebrahim Raisi',de,Iran,#111111,#111111,2,0.1149306590610861
 'Kurt Krömer',de,Deutschland,#1818e8,#1818e8,1,0.1147813464736931
 'Alexej Kudrin',de,Russland,#e81818,#e81818,1,0.1118888387080861
