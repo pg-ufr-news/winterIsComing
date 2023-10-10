@@ -1,5 +1,4 @@
 keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
-'Jacques Doriot',de,unknown,#111111,#111111,2,0.5006756769763434
 'Boris Rhein',de,unknown,#111111,#111111,3,0.4869570673181817
 'Königin Camilla',de,UK,#e838e8,#e838e8,3,0.4755683666890834
 'Alberto Núñez Feijóo',de,unknown,#111111,#111111,2,0.4748143563636363
@@ -86,8 +85,8 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Jake Tapper',de,unknown,#111111,#111111,1,0.4277593401505726
 'Lana Del Rey',de,unknown,#111111,#111111,1,0.4274986661544628
 'François Braun',de,unknown,#111111,#111111,1,0.4272290440029895
-'Geert Wilders',de,Niederlande,#111111,#111111,2,0.42710021
 'Alexander De Croo',de,Belgien,#111111,#111111,2,0.42710021
+'Geert Wilders',de,Niederlande,#111111,#111111,2,0.42710021
 'Gayle King',de,unknown,#111111,#111111,1,0.426868614580788
 'Dieter Salomon',de,Deutschland,#1818e8,#1818e8,2,0.4267471913374999
 'Premier ministre',de,unknown,#111111,#111111,1,0.4267007122787636
@@ -102,13 +101,14 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Cassidy Hutchinson',de,unknown,#111111,#111111,1,0.4257356199289986
 'Pap Ndiaye',de,unknown,#111111,#111111,1,0.4255903903230304
 'Ivanka Trump',de,unknown,#111111,#111111,1,0.4255832569123063
+'Jacques Doriot',de,unknown,#111111,#111111,1,0.4255743254298919
 'Markus Söder',de,Deutschland,#1818e8,#1818e8,3,0.4253235873749115
 'Reinhard Marx',de,Deutschland,#1818e8,#1818e8,1,0.425000375
-'Patti LaBelle',de,USA,#18e8e8,#18e8e8,1,0.425
-'Gilbert Plass',de,Kanada,#111111,#111111,1,0.425
-'Evgueni Prigojine',de,Russland,#e81818,#e81818,1,0.425
 'Moon Hyung-jin',de,USA,#18e8e8,#18e8e8,1,0.425
 'Chelsea Handler',de,USA,#18e8e8,#18e8e8,1,0.425
+'Patti LaBelle',de,USA,#18e8e8,#18e8e8,1,0.425
+'Evgueni Prigojine',de,Russland,#e81818,#e81818,1,0.425
+'Gilbert Plass',de,Kanada,#111111,#111111,1,0.425
 'Queen Elizabeth II',de,UK,#e838e8,#e838e8,3,0.4247986346727272
 'Stormy Daniels',de,USA,#18e8e8,#18e8e8,3,0.4247779199124999
 'Prinzessin Kate',de,UK,#e838e8,#e838e8,3,0.4235836575190908
@@ -552,9 +552,9 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Holger Münch',de,Deutschland,#1818e8,#1818e8,2,0.116486442922703
 'Barbara Walters',de,USA,#18e8e8,#18e8e8,1,0.1163703456062798
 'Nick Fuentes',de,USA,#18e8e8,#18e8e8,1,0.1162717070341678
-'Raphael Warnock',de,USA,#18e8e8,#18e8e8,1,0.1158084731416014
 'Mary Lou McDonald',de,Irland,#111111,#111111,1,0.1158084731416014
 'Michelle Neill',de,Irland,#111111,#111111,1,0.1158084731416014
+'Raphael Warnock',de,USA,#18e8e8,#18e8e8,1,0.1158084731416014
 'Ebrahim Raisi',de,Iran,#111111,#111111,2,0.1149306590610861
 'Kurt Krömer',de,Deutschland,#1818e8,#1818e8,1,0.1147813464736931
 'Alexej Kudrin',de,Russland,#e81818,#e81818,1,0.1118888387080861
