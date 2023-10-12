@@ -6,6 +6,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Matt Gaetz',de,unknown,#111111,#111111,3,0.4665173082150337
 'Wagner-Chef Prigoschin',de,unknown,#111111,#111111,3,0.4654749394908652
 'Meryl Streep',de,unknown,#111111,#111111,2,0.4652217435714285
+'Olivia Rodrigo',de,unknown,#111111,#111111,3,0.46308337182439635
 'Lauren Boebert',de,USA,#18e8e8,#18e8e8,2,0.4626004155
 'Novak Djokovic',de,unknown,#111111,#111111,3,0.4622871460784091
 'Oliver Anthony',de,unknown,#111111,#111111,2,0.46173798
@@ -44,7 +45,6 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Peter Breuer',de,unknown,#111111,#111111,1,0.433650015
 'Irina Scherbakowa',de,unknown,#111111,#111111,2,0.433335111
 'Rand Paul',de,unknown,#111111,#111111,1,0.4333319901758871
-'Olivia Rodrigo',de,unknown,#111111,#111111,1,0.4333278576450699
 'Carey Mulligan',de,unknown,#111111,#111111,1,0.4331271930667
 'Edouard Philippe',de,unknown,#111111,#111111,1,0.4330033123150013
 'Jonathan Turley',de,unknown,#111111,#111111,1,0.4329801768448086
@@ -552,9 +552,9 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Holger Münch',de,Deutschland,#1818e8,#1818e8,2,0.116486442922703
 'Barbara Walters',de,USA,#18e8e8,#18e8e8,1,0.1163703456062798
 'Nick Fuentes',de,USA,#18e8e8,#18e8e8,1,0.1162717070341678
-'Michelle Neill',de,Irland,#111111,#111111,1,0.1158084731416014
 'Raphael Warnock',de,USA,#18e8e8,#18e8e8,1,0.1158084731416014
 'Mary Lou McDonald',de,Irland,#111111,#111111,1,0.1158084731416014
+'Michelle Neill',de,Irland,#111111,#111111,1,0.1158084731416014
 'Ebrahim Raisi',de,Iran,#111111,#111111,2,0.1149306590610861
 'Kurt Krömer',de,Deutschland,#1818e8,#1818e8,1,0.1147813464736931
 'Alexej Kudrin',de,Russland,#e81818,#e81818,1,0.1118888387080861
