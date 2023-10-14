@@ -56,7 +56,6 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'James Comer',de,unknown,#111111,#111111,1,0.4321175266131972
 'Prinz George',de,UK,#e838e8,#e838e8,3,0.4319945912056377
 'John Fetterman',de,unknown,#111111,#111111,1,0.4317446893029131
-'Matteo Salvini',de,Italien,#111111,#111111,3,0.4316739092045453
 'Brian Kilmeade',de,unknown,#111111,#111111,1,0.4314236436353281
 'Lawrence Jones',de,unknown,#111111,#111111,1,0.4312418068043781
 'Wolodimir Selenski',de,Ukraine,#e818e8,#e818e8,3,0.4312027118505794
@@ -100,15 +99,16 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Jacques Doriot',de,unknown,#111111,#111111,1,0.4255743254298919
 'Markus Söder',de,Deutschland,#1818e8,#1818e8,3,0.4253235873749115
 'Reinhard Marx',de,Deutschland,#1818e8,#1818e8,1,0.425000375
-'Evgueni Prigojine',de,Russland,#e81818,#e81818,1,0.425
-'Gilbert Plass',de,Kanada,#111111,#111111,1,0.425
 'Moon Hyung-jin',de,USA,#18e8e8,#18e8e8,1,0.425
 'Patti LaBelle',de,USA,#18e8e8,#18e8e8,1,0.425
 'Chelsea Handler',de,USA,#18e8e8,#18e8e8,1,0.425
+'Gilbert Plass',de,Kanada,#111111,#111111,1,0.425
+'Evgueni Prigojine',de,Russland,#e81818,#e81818,1,0.425
 'Queen Elizabeth II',de,UK,#e838e8,#e838e8,3,0.4247986346727272
 'Stormy Daniels',de,USA,#18e8e8,#18e8e8,3,0.4247779199124999
 'Prinzessin Kate',de,UK,#e838e8,#e838e8,3,0.4235836575190908
 'Chris Christie',de,USA,#18e8e8,#18e8e8,3,0.4227763102647726
+'Matteo Salvini',de,Italien,#111111,#111111,3,0.4218745628238635
 'Drena De Niro',de,USA,#18e8e8,#18e8e8,2,0.4217123087
 'Königin Camilla',de,UK,#e838e8,#e838e8,2,0.4215846789973788
 'Prinz William',de,UK,#e838e8,#e838e8,3,0.4193982488060664
@@ -153,7 +153,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Joseph Ratzinger',de,Vatikan,#58b8e8,#58b8e8,1,0.3909379885768749
 'Bradley Cooper',de,unknown,#111111,#111111,3,0.390784703052462
 'Malu Dreyer',de,Deutschland,#1818e8,#1818e8,2,0.3902178932278409
-'Mark Meadows',de,unknown,#111111,#111111,2,0.38990425494485353
+'Mark Meadows',de,unknown,#111111,#111111,2,0.3899042549448535
 'Steve Wozniak',de,USA,#18e8e8,#18e8e8,2,0.3897341085924999
 'Rupert Murdoch',de,USA,#18e8e8,#18e8e8,2,0.3883735170432178
 'Lauren Sánchez',de,USA,#18e8e8,#18e8e8,1,0.3877847377763157
