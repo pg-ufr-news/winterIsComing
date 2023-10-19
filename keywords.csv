@@ -1,14 +1,13 @@
 keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
-'Steven Donziger',de,unknown,#111111,#111111,2,0.55
-'Elizabeth Mpofu',de,unknown,#111111,#111111,2,0.55
+'Hans Joosten',de,unknown,#111111,#111111,2,0.55
+'Marjan Minnesma',de,unknown,#111111,#111111,2,0.55
 'Kyle Pope',de,unknown,#111111,#111111,2,0.55
 'Mark Hertsgaard',de,unknown,#111111,#111111,2,0.55
 'Robin Wall Kimmerer',de,unknown,#111111,#111111,2,0.55
-'Hans Joosten',de,unknown,#111111,#111111,2,0.55
+'Elizabeth Mpofu',de,unknown,#111111,#111111,2,0.55
 'António Guterres',de,unknown,#111111,#111111,2,0.55
 'Sophia Kianni',de,unknown,#111111,#111111,2,0.55
 'Mary Robinson',de,unknown,#111111,#111111,2,0.55
-'Marjan Minnesma',de,unknown,#111111,#111111,2,0.55
 'Johan Rockström',de,unknown,#111111,#111111,2,0.55
 'Tasneem Essop',de,unknown,#111111,#111111,2,0.55
 'Helena Gualinga',de,unknown,#111111,#111111,2,0.55
@@ -24,6 +23,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Carey Mulligan',de,unknown,#111111,#111111,2,0.4686081591066949
 'Jack Smith',de,USA,#18e8e8,#18e8e8,3,0.4683280861852271
 'Sarah Ferguson',de,unknown,#111111,#111111,2,0.4682959398928571
+'Steven Donziger',de,unknown,#111111,#111111,1,0.4675
 'Matt Gaetz',de,unknown,#111111,#111111,3,0.4665173082150337
 'Wagner-Chef Prigoschin',de,unknown,#111111,#111111,3,0.4654749394908652
 'Meryl Streep',de,unknown,#111111,#111111,2,0.4652217435714285
@@ -251,14 +251,14 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Joy Behar',de,unknown,#111111,#111111,1,0.3617764997224912
 'Jamie Dimon',de,USA,#18e8e8,#18e8e8,1,0.3615589175613636
 'Katy Perry',de,USA,#18e8e8,#18e8e8,3,0.3614742758982953
-'Sergei Surovikin',de,Russland,#e81818,#e81818,1,0.3612499999999999
-'Yevgeny Prigozhin',de,Russland,#e81818,#e81818,1,0.3612499999999999
-'Salvador Dali',de,Spanien,#111111,#111111,1,0.3612499999999999
 'Dorothée Pacaud',de,Frankreich,#e8e808,#e8e808,1,0.3612499999999999
-'Leon Botstein',de,USA,#18e8e8,#18e8e8,1,0.3612499999999999
-'Kemal Kiliçdaroglu',de,Türkei,#111111,#111111,1,0.3612499999999999
+'Sergei Surovikin',de,Russland,#e81818,#e81818,1,0.3612499999999999
+'Salvador Dali',de,Spanien,#111111,#111111,1,0.3612499999999999
+'Yevgeny Prigozhin',de,Russland,#e81818,#e81818,1,0.3612499999999999
 'Pedro Sánchez Pérez-Castejón',de,Spanien,#111111,#111111,1,0.3612499999999999
+'Kemal Kiliçdaroglu',de,Türkei,#111111,#111111,1,0.3612499999999999
 'Uwe Neumärker',de,Deutschland,#1818e8,#1818e8,1,0.3612499999999999
+'Leon Botstein',de,USA,#18e8e8,#18e8e8,1,0.3612499999999999
 'Lauren Sanchez',de,USA,#18e8e8,#18e8e8,1,0.3610489715457701
 'Henry Ford',de,USA,#18e8e8,#18e8e8,2,0.3606879322925437
 'Mathias Döpfner',de,Deutschland,#1818e8,#1818e8,2,0.3602330955687252
