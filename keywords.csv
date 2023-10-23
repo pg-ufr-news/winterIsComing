@@ -1,5 +1,4 @@
 keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
-'Vanessa Nakate',de,unknown,#111111,#111111,1,0.52500252775
 'António Guterres',de,unknown,#111111,#111111,2,0.5088205513636364
 'Robert Menendez',de,unknown,#111111,#111111,2,0.5045634214197957
 'Steve Scalise',de,unknown,#111111,#111111,2,0.5009153268522681
@@ -12,12 +11,12 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Sarah Ferguson',de,unknown,#111111,#111111,2,0.4682959398928571
 'Johan Rockström',de,unknown,#111111,#111111,2,0.46780003
 'Mary Robinson',de,unknown,#111111,#111111,2,0.467650015
-'Elizabeth Mpofu',de,unknown,#111111,#111111,1,0.4675
-'Autumn Peltier',de,unknown,#111111,#111111,1,0.4675
 'Mark Hertsgaard',de,unknown,#111111,#111111,1,0.4675
 'Marjan Minnesma',de,unknown,#111111,#111111,1,0.4675
-'Hans Joosten',de,unknown,#111111,#111111,1,0.4675
+'Elizabeth Mpofu',de,unknown,#111111,#111111,1,0.4675
+'Autumn Peltier',de,unknown,#111111,#111111,1,0.4675
 'Minka Indigena',de,unknown,#111111,#111111,1,0.4675
+'Hans Joosten',de,unknown,#111111,#111111,1,0.4675
 'Eriberto Gualinga',de,unknown,#111111,#111111,1,0.4675
 'Tasneem Essop',de,unknown,#111111,#111111,1,0.4675
 'Helena Gualinga',de,unknown,#111111,#111111,1,0.4675
@@ -51,6 +50,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Bob Menendez',de,unknown,#111111,#111111,2,0.4471410180174732
 'Jennifer Garner',de,unknown,#111111,#111111,2,0.4471181242945257
 'Jens Spahn',de,Deutschland,#1818e8,#1818e8,3,0.4464126246242214
+'Vanessa Nakate',de,unknown,#111111,#111111,1,0.4464021635875
 'David Weiss',de,unknown,#111111,#111111,3,0.4463027992482028
 'Bettina Stark-Watzinger',de,Deutschland,#1818e8,#1818e8,3,0.4454098084999999
 'Franca Lehfeldt',de,Deutschland,#1818e8,#1818e8,1,0.4444773889541666
@@ -252,14 +252,14 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Joy Behar',de,unknown,#111111,#111111,1,0.3617764997224912
 'Jamie Dimon',de,USA,#18e8e8,#18e8e8,1,0.3615589175613636
 'Katy Perry',de,USA,#18e8e8,#18e8e8,3,0.3614742758982953
+'Leon Botstein',de,USA,#18e8e8,#18e8e8,1,0.3612499999999999
 'Sergei Surovikin',de,Russland,#e81818,#e81818,1,0.3612499999999999
 'Uwe Neumärker',de,Deutschland,#1818e8,#1818e8,1,0.3612499999999999
 'Pedro Sánchez Pérez-Castejón',de,Spanien,#111111,#111111,1,0.3612499999999999
-'Leon Botstein',de,USA,#18e8e8,#18e8e8,1,0.3612499999999999
-'Dorothée Pacaud',de,Frankreich,#e8e808,#e8e808,1,0.3612499999999999
 'Yevgeny Prigozhin',de,Russland,#e81818,#e81818,1,0.3612499999999999
 'Kemal Kiliçdaroglu',de,Türkei,#111111,#111111,1,0.3612499999999999
 'Salvador Dali',de,Spanien,#111111,#111111,1,0.3612499999999999
+'Dorothée Pacaud',de,Frankreich,#e8e808,#e8e808,1,0.3612499999999999
 'Lauren Sanchez',de,USA,#18e8e8,#18e8e8,1,0.3610489715457701
 'Henry Ford',de,USA,#18e8e8,#18e8e8,2,0.3606879322925437
 'Mathias Döpfner',de,Deutschland,#1818e8,#1818e8,2,0.3602330955687252
