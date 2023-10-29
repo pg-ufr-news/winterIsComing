@@ -1,6 +1,6 @@
 keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
-'Javier Milei',de,unknown,#111111,#111111,2,0.5315422290909091
 'Britney Spears',de,unknown,#111111,#111111,3,0.5182585245375
+'Javier Milei',de,unknown,#111111,#111111,2,0.5022167601818182
 'Mick Jagger',de,unknown,#111111,#111111,2,0.4764179914606937
 'Leni Klum',de,unknown,#111111,#111111,2,0.4749355412299109
 'António Guterres',de,unknown,#111111,#111111,2,0.4692727304772727
@@ -11,20 +11,20 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Sarah Ferguson',de,unknown,#111111,#111111,2,0.4682959398928571
 'Mary Robinson',de,unknown,#111111,#111111,2,0.467650015
 'Gorbatschow',de,unknown,#111111,#111111,1,0.467500345
+'Steven Donziger',de,unknown,#111111,#111111,1,0.4675
 'Hans Joosten',de,unknown,#111111,#111111,1,0.4675
 'Sophia Kianni',de,unknown,#111111,#111111,1,0.4675
 'Claudia Kempfert',de,unknown,#111111,#111111,1,0.4675
 'Marjan Minnesma',de,unknown,#111111,#111111,1,0.4675
 'Mark Hertsgaard',de,unknown,#111111,#111111,1,0.4675
 'Autumn Peltier',de,unknown,#111111,#111111,1,0.4675
-'Steven Donziger',de,unknown,#111111,#111111,1,0.4675
-'Eriberto Gualinga',de,unknown,#111111,#111111,1,0.4675
 'Elizabeth Mpofu',de,unknown,#111111,#111111,1,0.4675
 'Minka Indigena',de,unknown,#111111,#111111,1,0.4675
 'Robin Wall Kimmerer',de,unknown,#111111,#111111,1,0.4675
 'Tasneem Essop',de,unknown,#111111,#111111,1,0.4675
 'Kyle Pope',de,unknown,#111111,#111111,1,0.4675
 'Helena Gualinga',de,unknown,#111111,#111111,1,0.4675
+'Eriberto Gualinga',de,unknown,#111111,#111111,1,0.4675
 'Matt Gaetz',de,unknown,#111111,#111111,3,0.4665173082150337
 'Wagner-Chef Prigoschin',de,unknown,#111111,#111111,3,0.4654749394908652
 'Meryl Streep',de,unknown,#111111,#111111,2,0.4652217435714285
@@ -35,7 +35,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Oliver Anthony',de,unknown,#111111,#111111,2,0.46173798
 'Caroline Ellison',de,unknown,#111111,#111111,2,0.4600765872341377
 'Wolfgang Grupp',de,unknown,#111111,#111111,1,0.4581718523999999
-'Ryan Gosling',de,unknown,#111111,#111111,2,0.45792474109090914
+'Ryan Gosling',de,unknown,#111111,#111111,2,0.4579247410909091
 'Gisele Bündchen',de,unknown,#111111,#111111,1,0.4574244731181414
 'Chuck Schumer',de,unknown,#111111,#111111,3,0.4568470700305492
 'Pedro Sánchez',de,Spanien,#111111,#111111,2,0.4563220179090909
@@ -125,11 +125,11 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Jacques Doriot',de,unknown,#111111,#111111,1,0.4255743254298919
 'Markus Söder',de,Deutschland,#1818e8,#1818e8,3,0.4253235873749115
 'Reinhard Marx',de,Deutschland,#1818e8,#1818e8,1,0.425000375
-'Chelsea Handler',de,USA,#18e8e8,#18e8e8,1,0.425
-'Moon Hyung-jin',de,USA,#18e8e8,#18e8e8,1,0.425
-'Gilbert Plass',de,Kanada,#111111,#111111,1,0.425
-'Patti LaBelle',de,USA,#18e8e8,#18e8e8,1,0.425
 'Evgueni Prigojine',de,Russland,#e81818,#e81818,1,0.425
+'Moon Hyung-jin',de,USA,#18e8e8,#18e8e8,1,0.425
+'Chelsea Handler',de,USA,#18e8e8,#18e8e8,1,0.425
+'Patti LaBelle',de,USA,#18e8e8,#18e8e8,1,0.425
+'Gilbert Plass',de,Kanada,#111111,#111111,1,0.425
 'Queen Elizabeth II',de,UK,#e838e8,#e838e8,3,0.4247986346727272
 'Stormy Daniels',de,USA,#18e8e8,#18e8e8,3,0.4247779199124999
 'Chris Christie',de,USA,#18e8e8,#18e8e8,3,0.4227763102647726
@@ -368,11 +368,11 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Matt Damon',de,USA,#18e8e8,#18e8e8,1,0.308394569700974
 'Ayatollah Chamenei',de,Iran,#111111,#111111,1,0.3077702407625
 'Andreas Jung',de,Deutschland,#1818e8,#1818e8,3,0.3074824027518248
+'Andrei Nikolajewitsch Kolmogorow',de,Russland,#e81818,#e81818,1,0.3070624999999999
 'Camille Etienne',de,Frankreich,#e8e808,#e8e808,1,0.3070624999999999
 'Aurélien Pradié',de,Frankreich,#e8e808,#e8e808,1,0.3070624999999999
-'Pierre-Yves Dermagne',de,Belgien,#111111,#111111,1,0.3070624999999999
-'Andrei Nikolajewitsch Kolmogorow',de,Russland,#e81818,#e81818,1,0.3070624999999999
 'Detlef Garbe',de,Deutschland,#1818e8,#1818e8,1,0.3070624999999999
+'Pierre-Yves Dermagne',de,Belgien,#111111,#111111,1,0.3070624999999999
 'Olaf Scholz',de,Deutschland,#1818e8,#1818e8,3,0.3060209566291014
 'Kevin Kühnert',de,Deutschland,#1818e8,#1818e8,3,0.3052661568897969
 'Charles III',de,UK,#e838e8,#e838e8,3,0.3046119308651951
