@@ -1,5 +1,4 @@
 keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
-'Britney Spears',de,unknown,#111111,#111111,3,0.514285819660162
 'Paris Hilton',de,unknown,#111111,#111111,2,0.5118037891251666
 'Nawaz Sharif',de,unknown,#111111,#111111,2,0.5091473769354805
 'Michelle Williams',de,unknown,#111111,#111111,2,0.5061646885847226
@@ -19,8 +18,8 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Gorbatschow',de,unknown,#111111,#111111,1,0.467500345
 'Eriberto Gualinga',de,unknown,#111111,#111111,1,0.4675
 'Minka Indigena',de,unknown,#111111,#111111,1,0.4675
-'Elizabeth Mpofu',de,unknown,#111111,#111111,1,0.4675
 'Kyle Pope',de,unknown,#111111,#111111,1,0.4675
+'Elizabeth Mpofu',de,unknown,#111111,#111111,1,0.4675
 'Helena Gualinga',de,unknown,#111111,#111111,1,0.4675
 'Autumn Peltier',de,unknown,#111111,#111111,1,0.4675
 'Steven Donziger',de,unknown,#111111,#111111,1,0.4675
@@ -34,6 +33,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Matt Gaetz',de,unknown,#111111,#111111,3,0.4665173082150337
 'Wagner-Chef Prigoschin',de,unknown,#111111,#111111,3,0.4654749394908652
 'Meryl Streep',de,unknown,#111111,#111111,2,0.4652217435714285
+'Britney Spears',de,unknown,#111111,#111111,3,0.46482293443841033
 'Alberto Núñez Feijóo',de,unknown,#111111,#111111,3,0.4630931479090908
 'Olivia Rodrigo',de,unknown,#111111,#111111,3,0.4630833718243963
 'Lauren Boebert',de,USA,#18e8e8,#18e8e8,2,0.4626004155
@@ -62,7 +62,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Vanessa Nakate',de,unknown,#111111,#111111,1,0.4464021635875
 'David Weiss',de,unknown,#111111,#111111,3,0.4463027992482028
 'Bettina Stark-Watzinger',de,Deutschland,#1818e8,#1818e8,3,0.4454098084999999
-'Angelina Jolie',de,unknown,#111111,#111111,2,0.44515397283649877
+'Angelina Jolie',de,unknown,#111111,#111111,2,0.4451539728364987
 'Franca Lehfeldt',de,Deutschland,#1818e8,#1818e8,1,0.4444773889541666
 'Ben Affleck',de,unknown,#111111,#111111,3,0.4442433485799047
 'Jennifer Lopez',de,unknown,#111111,#111111,2,0.4425898076210624
@@ -375,10 +375,10 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Matt Damon',de,USA,#18e8e8,#18e8e8,1,0.308394569700974
 'Ayatollah Chamenei',de,Iran,#111111,#111111,1,0.3077702407625
 'Andreas Jung',de,Deutschland,#1818e8,#1818e8,3,0.3074824027518248
-'Pierre-Yves Dermagne',de,Belgien,#111111,#111111,1,0.3070624999999999
-'Detlef Garbe',de,Deutschland,#1818e8,#1818e8,1,0.3070624999999999
 'Aurélien Pradié',de,Frankreich,#e8e808,#e8e808,1,0.3070624999999999
+'Detlef Garbe',de,Deutschland,#1818e8,#1818e8,1,0.3070624999999999
 'Camille Etienne',de,Frankreich,#e8e808,#e8e808,1,0.3070624999999999
+'Pierre-Yves Dermagne',de,Belgien,#111111,#111111,1,0.3070624999999999
 'Andrei Nikolajewitsch Kolmogorow',de,Russland,#e81818,#e81818,1,0.3070624999999999
 'Olaf Scholz',de,Deutschland,#1818e8,#1818e8,3,0.3060209566291014
 'Kevin Kühnert',de,Deutschland,#1818e8,#1818e8,3,0.3052661568897969
