@@ -1,9 +1,9 @@
 keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
-'Bastian Schweinsteiger',de,unknown,#111111,#111111,2,0.55
 'Margot Robbie',de,unknown,#111111,#111111,2,0.5242329072186601
 'Sophie Turner',de,unknown,#111111,#111111,2,0.5025345931043119
 'Pedro Pascal',de,unknown,#111111,#111111,2,0.5020511624881538
 'David Beckham',de,unknown,#111111,#111111,3,0.4997243922727273
+'Bastian Schweinsteiger',de,unknown,#111111,#111111,2,0.49517796272727277
 'Travis Kelce',de,unknown,#111111,#111111,2,0.4800165773247218
 'Mick Jagger',de,unknown,#111111,#111111,2,0.4764179914606937
 'Leni Klum',de,unknown,#111111,#111111,2,0.4749355412299109
@@ -14,12 +14,12 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Tasneem Essop',de,unknown,#111111,#111111,1,0.4675
 'Elizabeth Mpofu',de,unknown,#111111,#111111,1,0.4675
 'Minka Indigena',de,unknown,#111111,#111111,1,0.4675
-'Hans Joosten',de,unknown,#111111,#111111,1,0.4675
-'Robin Wall Kimmerer',de,unknown,#111111,#111111,1,0.4675
 'Mark Hertsgaard',de,unknown,#111111,#111111,1,0.4675
-'Claudia Kempfert',de,unknown,#111111,#111111,1,0.4675
-'Sophia Kianni',de,unknown,#111111,#111111,1,0.4675
+'Robin Wall Kimmerer',de,unknown,#111111,#111111,1,0.4675
+'Hans Joosten',de,unknown,#111111,#111111,1,0.4675
 'Autumn Peltier',de,unknown,#111111,#111111,1,0.4675
+'Sophia Kianni',de,unknown,#111111,#111111,1,0.4675
+'Claudia Kempfert',de,unknown,#111111,#111111,1,0.4675
 'Helena Gualinga',de,unknown,#111111,#111111,1,0.4675
 'Steven Donziger',de,unknown,#111111,#111111,1,0.4675
 'Kyle Pope',de,unknown,#111111,#111111,1,0.4675
@@ -129,11 +129,11 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Jacques Doriot',de,unknown,#111111,#111111,1,0.4255743254298919
 'Markus Söder',de,Deutschland,#1818e8,#1818e8,3,0.4253235873749115
 'Reinhard Marx',de,Deutschland,#1818e8,#1818e8,1,0.425000375
-'Moon Hyung-jin',de,USA,#18e8e8,#18e8e8,1,0.425
-'Chelsea Handler',de,USA,#18e8e8,#18e8e8,1,0.425
-'Patti LaBelle',de,USA,#18e8e8,#18e8e8,1,0.425
-'Evgueni Prigojine',de,Russland,#e81818,#e81818,1,0.425
 'Gilbert Plass',de,Kanada,#111111,#111111,1,0.425
+'Chelsea Handler',de,USA,#18e8e8,#18e8e8,1,0.425
+'Moon Hyung-jin',de,USA,#18e8e8,#18e8e8,1,0.425
+'Evgueni Prigojine',de,Russland,#e81818,#e81818,1,0.425
+'Patti LaBelle',de,USA,#18e8e8,#18e8e8,1,0.425
 'Queen Elizabeth II',de,UK,#e838e8,#e838e8,3,0.4247986346727272
 'Chris Christie',de,USA,#18e8e8,#18e8e8,3,0.4227763102647726
 'Justin Timberlake',de,unknown,#111111,#111111,3,0.4224005374092753
