@@ -1,5 +1,4 @@
 keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
-'Bastian Schweinsteiger',de,unknown,#111111,#111111,2,0.4951779627272727
 'Travis Kelce',de,unknown,#111111,#111111,2,0.4800165773247218
 'Sophie Turner',de,unknown,#111111,#111111,1,0.4766841875178653
 'Mick Jagger',de,unknown,#111111,#111111,2,0.4764179914606937
@@ -8,18 +7,18 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Carey Mulligan',de,unknown,#111111,#111111,2,0.4686081591066949
 'Mary Robinson',de,unknown,#111111,#111111,2,0.467650015
 'Gorbatschow',de,unknown,#111111,#111111,1,0.467500345
-'Tasneem Essop',de,unknown,#111111,#111111,1,0.4675
 'Minka Indigena',de,unknown,#111111,#111111,1,0.4675
+'Helena Gualinga',de,unknown,#111111,#111111,1,0.4675
 'Claudia Kempfert',de,unknown,#111111,#111111,1,0.4675
 'Mark Hertsgaard',de,unknown,#111111,#111111,1,0.4675
 'Hans Joosten',de,unknown,#111111,#111111,1,0.4675
 'Elizabeth Mpofu',de,unknown,#111111,#111111,1,0.4675
-'Steven Donziger',de,unknown,#111111,#111111,1,0.4675
+'Robin Wall Kimmerer',de,unknown,#111111,#111111,1,0.4675
 'Kyle Pope',de,unknown,#111111,#111111,1,0.4675
 'Sophia Kianni',de,unknown,#111111,#111111,1,0.4675
 'Autumn Peltier',de,unknown,#111111,#111111,1,0.4675
-'Robin Wall Kimmerer',de,unknown,#111111,#111111,1,0.4675
-'Helena Gualinga',de,unknown,#111111,#111111,1,0.4675
+'Steven Donziger',de,unknown,#111111,#111111,1,0.4675
+'Tasneem Essop',de,unknown,#111111,#111111,1,0.4675
 'Matt Gaetz',de,unknown,#111111,#111111,3,0.4665173082150337
 'Sergio Massa',de,unknown,#111111,#111111,2,0.4658998507610835
 'Wagner-Chef Prigoschin',de,unknown,#111111,#111111,3,0.4654749394908652
@@ -90,6 +89,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Martha MacCallum',de,unknown,#111111,#111111,1,0.4311874857529989
 'Marguerite Cazeneuve',de,unknown,#111111,#111111,1,0.4311398411778153
 'Steve Doocy',de,unknown,#111111,#111111,1,0.4306059692127117
+'Bastian Schweinsteiger',de,unknown,#111111,#111111,2,0.43039741286363636
 'Leandro De Niro-Rodriguez',de,unknown,#111111,#111111,1,0.4303114797610817
 'Michelle Williams',de,unknown,#111111,#111111,1,0.4302401202970142
 'Jeffrey Epstein',de,USA,#18e8e8,#18e8e8,2,0.4300132577436195
@@ -129,11 +129,11 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Jacques Doriot',de,unknown,#111111,#111111,1,0.4255743254298919
 'Markus Söder',de,Deutschland,#1818e8,#1818e8,3,0.4253235873749115
 'Reinhard Marx',de,Deutschland,#1818e8,#1818e8,1,0.425000375
-'Patti LaBelle',de,USA,#18e8e8,#18e8e8,1,0.425
-'Evgueni Prigojine',de,Russland,#e81818,#e81818,1,0.425
 'Gilbert Plass',de,Kanada,#111111,#111111,1,0.425
 'Chelsea Handler',de,USA,#18e8e8,#18e8e8,1,0.425
 'Moon Hyung-jin',de,USA,#18e8e8,#18e8e8,1,0.425
+'Evgueni Prigojine',de,Russland,#e81818,#e81818,1,0.425
+'Patti LaBelle',de,USA,#18e8e8,#18e8e8,1,0.425
 'Queen Elizabeth II',de,UK,#e838e8,#e838e8,3,0.4247986346727272
 'Chris Christie',de,USA,#18e8e8,#18e8e8,3,0.4227763102647726
 'Justin Timberlake',de,unknown,#111111,#111111,3,0.4224005374092753
