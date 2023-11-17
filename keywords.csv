@@ -6,18 +6,17 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Carey Mulligan',de,unknown,#111111,#111111,2,0.4686081591066949
 'Mary Robinson',de,unknown,#111111,#111111,2,0.467650015
 'Gorbatschow',de,unknown,#111111,#111111,1,0.467500345
-'Mark Hertsgaard',de,unknown,#111111,#111111,1,0.4675
-'Tasneem Essop',de,unknown,#111111,#111111,1,0.4675
-'Robin Wall Kimmerer',de,unknown,#111111,#111111,1,0.4675
-'Claudia Kempfert',de,unknown,#111111,#111111,1,0.4675
-'Hans Joosten',de,unknown,#111111,#111111,1,0.4675
-'Minka Indigena',de,unknown,#111111,#111111,1,0.4675
 'Elizabeth Mpofu',de,unknown,#111111,#111111,1,0.4675
-'Kyle Pope',de,unknown,#111111,#111111,1,0.4675
-'Sophia Kianni',de,unknown,#111111,#111111,1,0.4675
-'Steven Donziger',de,unknown,#111111,#111111,1,0.4675
-'Helena Gualinga',de,unknown,#111111,#111111,1,0.4675
 'Autumn Peltier',de,unknown,#111111,#111111,1,0.4675
+'Mark Hertsgaard',de,unknown,#111111,#111111,1,0.4675
+'Steven Donziger',de,unknown,#111111,#111111,1,0.4675
+'Sophia Kianni',de,unknown,#111111,#111111,1,0.4675
+'Kyle Pope',de,unknown,#111111,#111111,1,0.4675
+'Claudia Kempfert',de,unknown,#111111,#111111,1,0.4675
+'Minka Indigena',de,unknown,#111111,#111111,1,0.4675
+'Hans Joosten',de,unknown,#111111,#111111,1,0.4675
+'Robin Wall Kimmerer',de,unknown,#111111,#111111,1,0.4675
+'Tasneem Essop',de,unknown,#111111,#111111,1,0.4675
 'Matt Gaetz',de,unknown,#111111,#111111,3,0.4665173082150337
 'Sergio Massa',de,unknown,#111111,#111111,2,0.4658998507610835
 'Wagner-Chef Prigoschin',de,unknown,#111111,#111111,3,0.4654749394908652
@@ -174,9 +173,10 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Harrison Ford',de,unknown,#111111,#111111,1,0.3982684749999999
 'Lars Klingbeil',de,Deutschland,#1818e8,#1818e8,2,0.398015011619318
 'Johan Rockström',de,unknown,#111111,#111111,1,0.3976300255
+'Helena Gualinga',de,unknown,#111111,#111111,1,0.39737500000000003
+'Haitham A-Ghais',de,unknown,#111111,#111111,1,0.397375
 'Eriberto Gualinga',de,unknown,#111111,#111111,1,0.397375
 'Marjan Minnesma',de,unknown,#111111,#111111,1,0.397375
-'Haitham A-Ghais',de,unknown,#111111,#111111,1,0.397375
 'Rudolf Steiner',de,Oesterreich,#111111,#111111,1,0.395632577175
 'Königin Camilla',de,UK,#e838e8,#e838e8,3,0.3951162089659538
 'James Cameron',de,USA,#18e8e8,#18e8e8,3,0.3935927591818181
@@ -272,14 +272,14 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Pap Ndiaye',de,unknown,#111111,#111111,1,0.3617518317745758
 'Jamie Dimon',de,USA,#18e8e8,#18e8e8,1,0.3615589175613636
 'Katy Perry',de,USA,#18e8e8,#18e8e8,3,0.3614742758982953
+'Pedro Sánchez Pérez-Castejón',de,Spanien,#111111,#111111,1,0.3612499999999999
 'Yevgeny Prigozhin',de,Russland,#e81818,#e81818,1,0.3612499999999999
 'Leon Botstein',de,USA,#18e8e8,#18e8e8,1,0.3612499999999999
 'Sergei Surovikin',de,Russland,#e81818,#e81818,1,0.3612499999999999
-'Pedro Sánchez Pérez-Castejón',de,Spanien,#111111,#111111,1,0.3612499999999999
-'Kemal Kiliçdaroglu',de,Türkei,#111111,#111111,1,0.3612499999999999
 'Salvador Dali',de,Spanien,#111111,#111111,1,0.3612499999999999
 'Uwe Neumärker',de,Deutschland,#1818e8,#1818e8,1,0.3612499999999999
 'Dorothée Pacaud',de,Frankreich,#e8e808,#e8e808,1,0.3612499999999999
+'Kemal Kiliçdaroglu',de,Türkei,#111111,#111111,1,0.3612499999999999
 'Stormy Daniels',de,USA,#18e8e8,#18e8e8,2,0.3610613669256249
 'Lauren Sanchez',de,USA,#18e8e8,#18e8e8,1,0.3610489715457701
 'Henry Ford',de,USA,#18e8e8,#18e8e8,2,0.3606879322925437
