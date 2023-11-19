@@ -6,16 +6,16 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Carey Mulligan',de,unknown,#111111,#111111,2,0.4686081591066949
 'Mary Robinson',de,unknown,#111111,#111111,2,0.467650015
 'Gorbatschow',de,unknown,#111111,#111111,1,0.467500345
+'Hans Joosten',de,unknown,#111111,#111111,1,0.4675
 'Kyle Pope',de,unknown,#111111,#111111,1,0.4675
 'Tasneem Essop',de,unknown,#111111,#111111,1,0.4675
 'Sophia Kianni',de,unknown,#111111,#111111,1,0.4675
-'Hans Joosten',de,unknown,#111111,#111111,1,0.4675
 'Elizabeth Mpofu',de,unknown,#111111,#111111,1,0.4675
-'Robin Wall Kimmerer',de,unknown,#111111,#111111,1,0.4675
 'Autumn Peltier',de,unknown,#111111,#111111,1,0.4675
 'Steven Donziger',de,unknown,#111111,#111111,1,0.4675
 'Minka Indigena',de,unknown,#111111,#111111,1,0.4675
 'Claudia Kempfert',de,unknown,#111111,#111111,1,0.4675
+'Robin Wall Kimmerer',de,unknown,#111111,#111111,1,0.4675
 'Matt Gaetz',de,unknown,#111111,#111111,3,0.4665173082150337
 'Sergio Massa',de,unknown,#111111,#111111,2,0.4658998507610835
 'Wagner-Chef Prigoschin',de,unknown,#111111,#111111,3,0.4654749394908652
@@ -59,6 +59,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Ben Affleck',de,unknown,#111111,#111111,3,0.4442433485799047
 'Jennifer Lopez',de,unknown,#111111,#111111,2,0.4425898076210624
 'Steve Scalise',de,unknown,#111111,#111111,3,0.4423883115532449
+'Gabriel Attal',de,unknown,#111111,#111111,2,0.4401341102192293
 'Kim Reynolds',de,unknown,#111111,#111111,1,0.4401249829414
 'Tom Brady',de,unknown,#111111,#111111,2,0.4387827556986781
 'Tiffany Chen',de,USA,#18e8e8,#18e8e8,2,0.4374473751393938
@@ -93,7 +94,6 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Sergej Surowikin',de,Russland,#e81818,#e81818,3,0.429951455
 'Tom Kaulitz',de,unknown,#111111,#111111,2,0.4296645261301324
 'Maria Bartiromo',de,unknown,#111111,#111111,1,0.4294199029695053
-'Gabriel Attal',de,unknown,#111111,#111111,1,0.4292165649637992
 'Devon Archer',de,unknown,#111111,#111111,1,0.4291238093417915
 'Luc Terlinden',de,unknown,#111111,#111111,1,0.4289003420689901
 'Vivek Ramaswamy',de,unknown,#111111,#111111,1,0.4286975241527148
@@ -122,11 +122,11 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Jacques Doriot',de,unknown,#111111,#111111,1,0.4255743254298919
 'Markus Söder',de,Deutschland,#1818e8,#1818e8,3,0.4253235873749115
 'Reinhard Marx',de,Deutschland,#1818e8,#1818e8,1,0.425000375
-'Patti LaBelle',de,USA,#18e8e8,#18e8e8,1,0.425
-'Evgueni Prigojine',de,Russland,#e81818,#e81818,1,0.425
 'Moon Hyung-jin',de,USA,#18e8e8,#18e8e8,1,0.425
-'Chelsea Handler',de,USA,#18e8e8,#18e8e8,1,0.425
+'Evgueni Prigojine',de,Russland,#e81818,#e81818,1,0.425
 'Gilbert Plass',de,Kanada,#111111,#111111,1,0.425
+'Patti LaBelle',de,USA,#18e8e8,#18e8e8,1,0.425
+'Chelsea Handler',de,USA,#18e8e8,#18e8e8,1,0.425
 'Queen Elizabeth II',de,UK,#e838e8,#e838e8,3,0.4247986346727272
 'Chris Christie',de,USA,#18e8e8,#18e8e8,3,0.4227763102647726
 'Justin Timberlake',de,unknown,#111111,#111111,3,0.4224005374092753
@@ -171,11 +171,11 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Harrison Ford',de,unknown,#111111,#111111,1,0.3982684749999999
 'Lars Klingbeil',de,Deutschland,#1818e8,#1818e8,2,0.398015011619318
 'Johan Rockström',de,unknown,#111111,#111111,1,0.3976300255
+'Marjan Minnesma',de,unknown,#111111,#111111,1,0.397375
 'Haitham A-Ghais',de,unknown,#111111,#111111,1,0.397375
 'Eriberto Gualinga',de,unknown,#111111,#111111,1,0.397375
-'Mark Hertsgaard',de,unknown,#111111,#111111,1,0.397375
-'Marjan Minnesma',de,unknown,#111111,#111111,1,0.397375
 'Helena Gualinga',de,unknown,#111111,#111111,1,0.397375
+'Mark Hertsgaard',de,unknown,#111111,#111111,1,0.397375
 'Rudolf Steiner',de,Oesterreich,#111111,#111111,1,0.395632577175
 'Königin Camilla',de,UK,#e838e8,#e838e8,3,0.3951162089659538
 'James Cameron',de,USA,#18e8e8,#18e8e8,3,0.3935927591818181
@@ -398,7 +398,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Gerhard Schröder',de,Deutschland,#1818e8,#1818e8,3,0.2980571127537039
 'Herbert Diess',de,Deutschland,#1818e8,#1818e8,1,0.2974403375852296
 'Jack Teixeira',de,USA,#18e8e8,#18e8e8,2,0.2967327402129548
-'Finnegan Biden',de,USA,#18e8e8,#18e8e8,1,0.29527648555829533
+'Finnegan Biden',de,USA,#18e8e8,#18e8e8,1,0.2952764855582953
 'Winston Churchill',de,UK,#e838e8,#e838e8,2,0.2942145588395231
 'Jan Böhmermann',de,Deutschland,#1818e8,#1818e8,3,0.2935213033802291
 'Dieter Bohlen',de,Deutschland,#1818e8,#1818e8,3,0.2895958084030875
