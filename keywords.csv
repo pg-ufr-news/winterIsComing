@@ -178,10 +178,10 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Harrison Ford',de,unknown,#111111,#111111,1,0.3982684749999999
 'Lars Klingbeil',de,Deutschland,#1818e8,#1818e8,2,0.398015011619318
 'Johan Rockström',de,unknown,#111111,#111111,1,0.3976300255
-'Eriberto Gualinga',de,unknown,#111111,#111111,1,0.397375
-'Marjan Minnesma',de,unknown,#111111,#111111,1,0.397375
 'Helena Gualinga',de,unknown,#111111,#111111,1,0.397375
+'Marjan Minnesma',de,unknown,#111111,#111111,1,0.397375
 'Mark Hertsgaard',de,unknown,#111111,#111111,1,0.397375
+'Eriberto Gualinga',de,unknown,#111111,#111111,1,0.397375
 'Haitham A-Ghais',de,unknown,#111111,#111111,1,0.397375
 'Marine Le Pen',de,Frankreich,#e8e808,#e8e808,3,0.3958509831136363
 'Rudolf Steiner',de,Oesterreich,#111111,#111111,1,0.395632577175
@@ -342,7 +342,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Eric Ciotti',de,Frankreich,#e8e808,#e8e808,1,0.3449047745982499
 'Noam Chomsky',de,USA,#18e8e8,#18e8e8,1,0.3447128157625
 'Prinz Heinrich XIII',de,Deutschland,#1818e8,#1818e8,1,0.3443977314539285
-'Jean-Luc Mélenchon',de,unknown,#111111,#111111,1,0.34414274200283435
+'Jean-Luc Mélenchon',de,unknown,#111111,#111111,1,0.3441427420028343
 'Jill Biden',de,USA,#18e8e8,#18e8e8,2,0.3416673472193181
 'Joachim Gauck',de,Deutschland,#1818e8,#1818e8,1,0.341559116540784
 'Konrad Adenauer',de,Deutschland,#1818e8,#1818e8,3,0.3413742646164234
@@ -396,9 +396,9 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Matt Damon',de,USA,#18e8e8,#18e8e8,1,0.308394569700974
 'Ayatollah Chamenei',de,Iran,#111111,#111111,1,0.3077702407625
 'Andreas Jung',de,Deutschland,#1818e8,#1818e8,3,0.3074824027518248
-'Pierre-Yves Dermagne',de,Belgien,#111111,#111111,1,0.3070624999999999
-'Aurélien Pradié',de,Frankreich,#e8e808,#e8e808,1,0.3070624999999999
 'Detlef Garbe',de,Deutschland,#1818e8,#1818e8,1,0.3070624999999999
+'Aurélien Pradié',de,Frankreich,#e8e808,#e8e808,1,0.3070624999999999
+'Pierre-Yves Dermagne',de,Belgien,#111111,#111111,1,0.3070624999999999
 'Andrei Nikolajewitsch Kolmogorow',de,Russland,#e81818,#e81818,1,0.3070624999999999
 'Camille Etienne',de,Frankreich,#e8e808,#e8e808,1,0.3070624999999999
 'Olaf Scholz',de,Deutschland,#1818e8,#1818e8,3,0.3060209566291014
@@ -481,6 +481,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Michael Mann',de,USA,#18e8e8,#18e8e8,3,0.2175966228437927
 'Bodo Ramelow',de,Deutschland,#1818e8,#1818e8,2,0.2164638405657893
 'Recep Tayyip Erdoğan',de,Türkei,#111111,#111111,2,0.216266069377041
+'Winfried Kretschmann',de,Deutschland,#1818e8,#1818e8,3,0.21552080596686757
 'Martin Schirdewan',de,Deutschland,#1818e8,#1818e8,3,0.2145580507416068
 'Lothar Wieler',de,Deutschland,#1818e8,#1818e8,1,0.2144756430385868
 'Mojib Latif',de,Deutschland,#1818e8,#1818e8,2,0.2138006766059943
@@ -508,7 +509,6 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Luisa Neubauer',de,Deutschland,#1818e8,#1818e8,2,0.1952052945494208
 'Christian Drosten',de,Deutschland,#1818e8,#1818e8,2,0.1947864542230563
 'Aleksandar Vucic',de,Serbien,#111111,#111111,3,0.1942641462119367
-'Winfried Kretschmann',de,Deutschland,#1818e8,#1818e8,3,0.1942511417792025
 'Liz Truss',de,UK,#e838e8,#e838e8,2,0.1940257940768495
 'Frank-Walter Steinmeier',de,Deutschland,#1818e8,#1818e8,3,0.1937903750239842
 'Jacinda Ardern',de,Neuseeland,#1818e8,#1818e8,1,0.1936528852271206
