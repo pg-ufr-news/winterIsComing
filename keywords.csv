@@ -1,5 +1,4 @@
 keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
-'Patrick Mahomes',de,unknown,#111111,#111111,2,0.4827529336616374
 'Sophie Turner',de,unknown,#111111,#111111,1,0.4766841875178653
 'Mick Jagger',de,unknown,#111111,#111111,2,0.4764179914606937
 'Leni Klum',de,unknown,#111111,#111111,2,0.4749355412299109
@@ -10,16 +9,16 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Carey Mulligan',de,unknown,#111111,#111111,2,0.4686081591066949
 'Mary Robinson',de,unknown,#111111,#111111,2,0.467650015
 'Gorbatschow',de,unknown,#111111,#111111,1,0.467500345
-'Steven Donziger',de,unknown,#111111,#111111,1,0.4675
-'Hans Joosten',de,unknown,#111111,#111111,1,0.4675
-'Kyle Pope',de,unknown,#111111,#111111,1,0.4675
-'Tasneem Essop',de,unknown,#111111,#111111,1,0.4675
-'Autumn Peltier',de,unknown,#111111,#111111,1,0.4675
-'Robin Wall Kimmerer',de,unknown,#111111,#111111,1,0.4675
-'Minka Indigena',de,unknown,#111111,#111111,1,0.4675
-'Sophia Kianni',de,unknown,#111111,#111111,1,0.4675
-'Claudia Kempfert',de,unknown,#111111,#111111,1,0.4675
 'Elizabeth Mpofu',de,unknown,#111111,#111111,1,0.4675
+'Robin Wall Kimmerer',de,unknown,#111111,#111111,1,0.4675
+'Claudia Kempfert',de,unknown,#111111,#111111,1,0.4675
+'Sophia Kianni',de,unknown,#111111,#111111,1,0.4675
+'Minka Indigena',de,unknown,#111111,#111111,1,0.4675
+'Steven Donziger',de,unknown,#111111,#111111,1,0.4675
+'Autumn Peltier',de,unknown,#111111,#111111,1,0.4675
+'Tasneem Essop',de,unknown,#111111,#111111,1,0.4675
+'Kyle Pope',de,unknown,#111111,#111111,1,0.4675
+'Hans Joosten',de,unknown,#111111,#111111,1,0.4675
 'Matt Gaetz',de,unknown,#111111,#111111,3,0.4665173082150337
 'Sergio Massa',de,unknown,#111111,#111111,2,0.4658998507610835
 'Meryl Streep',de,unknown,#111111,#111111,2,0.4652217435714285
@@ -100,6 +99,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Tom Kaulitz',de,unknown,#111111,#111111,2,0.4296645261301324
 'Maria Bartiromo',de,unknown,#111111,#111111,1,0.4294199029695053
 'Devon Archer',de,unknown,#111111,#111111,1,0.4291238093417915
+'Patrick Mahomes',de,unknown,#111111,#111111,2,0.4289286072487554
 'Luc Terlinden',de,unknown,#111111,#111111,1,0.4289003420689901
 'Vivek Ramaswamy',de,unknown,#111111,#111111,1,0.4286975241527148
 'Eric Trump',de,unknown,#111111,#111111,2,0.4285646822233871
@@ -178,10 +178,10 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Harrison Ford',de,unknown,#111111,#111111,1,0.3982684749999999
 'Lars Klingbeil',de,Deutschland,#1818e8,#1818e8,2,0.398015011619318
 'Johan Rockström',de,unknown,#111111,#111111,1,0.3976300255
-'Helena Gualinga',de,unknown,#111111,#111111,1,0.397375
-'Marjan Minnesma',de,unknown,#111111,#111111,1,0.397375
 'Mark Hertsgaard',de,unknown,#111111,#111111,1,0.397375
+'Marjan Minnesma',de,unknown,#111111,#111111,1,0.397375
 'Eriberto Gualinga',de,unknown,#111111,#111111,1,0.397375
+'Helena Gualinga',de,unknown,#111111,#111111,1,0.397375
 'Haitham A-Ghais',de,unknown,#111111,#111111,1,0.397375
 'Marine Le Pen',de,Frankreich,#e8e808,#e8e808,3,0.3958509831136363
 'Rudolf Steiner',de,Oesterreich,#111111,#111111,1,0.395632577175
@@ -481,7 +481,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Michael Mann',de,USA,#18e8e8,#18e8e8,3,0.2175966228437927
 'Bodo Ramelow',de,Deutschland,#1818e8,#1818e8,2,0.2164638405657893
 'Recep Tayyip Erdoğan',de,Türkei,#111111,#111111,2,0.216266069377041
-'Winfried Kretschmann',de,Deutschland,#1818e8,#1818e8,3,0.21552080596686757
+'Winfried Kretschmann',de,Deutschland,#1818e8,#1818e8,3,0.2155208059668675
 'Martin Schirdewan',de,Deutschland,#1818e8,#1818e8,3,0.2145580507416068
 'Lothar Wieler',de,Deutschland,#1818e8,#1818e8,1,0.2144756430385868
 'Mojib Latif',de,Deutschland,#1818e8,#1818e8,2,0.2138006766059943
