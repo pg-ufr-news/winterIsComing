@@ -5,12 +5,12 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Pedro Sánchez',de,Spanien,#111111,#111111,3,0.4700995924954545
 'Steve Wozniak',de,USA,#18e8e8,#18e8e8,2,0.4692877936672612
 'António Guterres',de,unknown,#111111,#111111,2,0.4692727304772727
+'Kyle Pope',de,unknown,#111111,#111111,1,0.4675
 'Autumn Peltier',de,unknown,#111111,#111111,1,0.4675
 'Robin Wall Kimmerer',de,unknown,#111111,#111111,1,0.4675
-'Kyle Pope',de,unknown,#111111,#111111,1,0.4675
-'Claudia Kempfert',de,unknown,#111111,#111111,1,0.4675
 'Minka Indigena',de,unknown,#111111,#111111,1,0.4675
 'Elizabeth Mpofu',de,unknown,#111111,#111111,1,0.4675
+'Claudia Kempfert',de,unknown,#111111,#111111,1,0.4675
 'Matt Gaetz',de,unknown,#111111,#111111,3,0.4665173082150337
 'Sergio Massa',de,unknown,#111111,#111111,2,0.4658998507610835
 'Meryl Streep',de,unknown,#111111,#111111,2,0.4652217435714285
@@ -177,15 +177,15 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Harrison Ford',de,unknown,#111111,#111111,1,0.3982684749999999
 'Lars Klingbeil',de,Deutschland,#1818e8,#1818e8,2,0.398015011619318
 'Johan Rockström',de,unknown,#111111,#111111,1,0.3976300255
+'Mark Hertsgaard',de,unknown,#111111,#111111,1,0.397375
 'Steven Donziger',de,unknown,#111111,#111111,1,0.397375
 'Marjan Minnesma',de,unknown,#111111,#111111,1,0.397375
 'Sophia Kianni',de,unknown,#111111,#111111,1,0.397375
-'Hans Joosten',de,unknown,#111111,#111111,1,0.397375
-'Mark Hertsgaard',de,unknown,#111111,#111111,1,0.397375
-'Eriberto Gualinga',de,unknown,#111111,#111111,1,0.397375
 'Haitham A-Ghais',de,unknown,#111111,#111111,1,0.397375
+'Hans Joosten',de,unknown,#111111,#111111,1,0.397375
 'Tasneem Essop',de,unknown,#111111,#111111,1,0.397375
 'Helena Gualinga',de,unknown,#111111,#111111,1,0.397375
+'Eriberto Gualinga',de,unknown,#111111,#111111,1,0.397375
 'Marine Le Pen',de,Frankreich,#e8e808,#e8e808,3,0.3958509831136363
 'Rudolf Steiner',de,Oesterreich,#111111,#111111,1,0.395632577175
 'Königin Camilla',de,UK,#e838e8,#e838e8,3,0.3951162089659538
@@ -295,10 +295,10 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Chelsea Handler',de,USA,#18e8e8,#18e8e8,1,0.3614000149999999
 'Sergei Surovikin',de,Russland,#e81818,#e81818,1,0.3612499999999999
 'Yevgeny Prigozhin',de,Russland,#e81818,#e81818,1,0.3612499999999999
-'Salvador Dali',de,Spanien,#111111,#111111,1,0.3612499999999999
 'Uwe Neumärker',de,Deutschland,#1818e8,#1818e8,1,0.3612499999999999
-'Kemal Kiliçdaroglu',de,Türkei,#111111,#111111,1,0.3612499999999999
+'Salvador Dali',de,Spanien,#111111,#111111,1,0.3612499999999999
 'Pedro Sánchez Pérez-Castejón',de,Spanien,#111111,#111111,1,0.3612499999999999
+'Kemal Kiliçdaroglu',de,Türkei,#111111,#111111,1,0.3612499999999999
 'Leon Botstein',de,USA,#18e8e8,#18e8e8,1,0.3612499999999999
 'Dorothée Pacaud',de,Frankreich,#e8e808,#e8e808,1,0.3612499999999999
 'Stormy Daniels',de,USA,#18e8e8,#18e8e8,2,0.3610613669256249
@@ -609,7 +609,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Sundar Pichai',de,USA,#18e8e8,#18e8e8,2,0.1317890543879531
 'Julian Assange',de,Australien,#111111,#111111,1,0.1304932469453604
 'Sucharit Bhakdi',de,Deutschland,#1818e8,#1818e8,3,0.1301048636771233
-'Werner von Braun',de,Deutschland,#1818e8,#1818e8,1,0.12775562870508203
+'Werner von Braun',de,Deutschland,#1818e8,#1818e8,1,0.127755628705082
 'Gérard Biard',de,Frankreich,#e8e808,#e8e808,1,0.1273893204557615
 'Carl Friedrich Gauß',de,Deutschland,#1818e8,#1818e8,1,0.1257580949781198
 'Larry Page',de,USA,#18e8e8,#18e8e8,2,0.124878469269527
@@ -667,7 +667,6 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Lula sa Silva',de,Brasilien,#58e838,#58e838,1,0.0712697017424347
 'Lee Hsien Loong',de,Singapur,#111111,#111111,1,0.0709408151548235
 'Joko Widodo',de,Indonesien,#111111,#111111,1,0.0703633293526296
-'Igor Setschin',de,Russland,#e81818,#e81818,1,0.0695302646284741
 'Susanne Klatten',de,Deutschland,#1818e8,#1818e8,1,0.0693839367389936
 'Generalbundesanwalt Peter Frank',de,Deutschland,#1818e8,#1818e8,1,0.0692972604849674
 'Andreas Jödecke',de,Deutschland,#1818e8,#1818e8,1,0.0687883579636407
@@ -678,6 +677,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Jitzchak Herzog',de,Israel,#111111,#111111,1,0.064671432448694
 'Carola Rackete',de,Deutschland,#1818e8,#1818e8,1,0.063660438501002
 'Amin Nasser',de,SaudiArabien,#111111,#111111,1,0.0599741714510161
+'Igor Setschin',de,Russland,#e81818,#e81818,1,0.059100724934202986
 'Frank Bainimarama',de,Fidschi,#111111,#111111,1,0.0526971504473425
 'Barbara Frenkel',de,Deutschland,#1818e8,#1818e8,1,0.050900893255
 'Erica Chenoweth',de,USA,#18e8e8,#18e8e8,1,0.0504065604288481
