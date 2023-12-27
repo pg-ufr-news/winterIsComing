@@ -2,7 +2,6 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Charlie Munger',de,unknown,#111111,#111111,3,0.4879148441836628
 'Steve Wozniak',de,USA,#18e8e8,#18e8e8,2,0.4692877936672612
 'Jens Spahn',de,Deutschland,#1818e8,#1818e8,3,0.4676019292000908
-'Matt Gaetz',de,unknown,#111111,#111111,3,0.4665173082150337
 'Sergio Massa',de,unknown,#111111,#111111,2,0.4658998507610835
 'Meryl Streep',de,unknown,#111111,#111111,2,0.4652217435714285
 'Britney Spears',de,unknown,#111111,#111111,3,0.4648229344384103
@@ -34,6 +33,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Stanislaw Petrow',de,unknown,#111111,#111111,1,0.4478247190874999
 'Kate Capshaw',de,unknown,#111111,#111111,1,0.44780018
 'Bob Menendez',de,unknown,#111111,#111111,2,0.4471410180174732
+'Matt Gaetz',de,unknown,#111111,#111111,3,0.4469897569827786
 'Vanessa Nakate',de,unknown,#111111,#111111,1,0.4464021635875
 'David Weiss',de,unknown,#111111,#111111,3,0.4463027992482028
 'Angelina Jolie',de,unknown,#111111,#111111,2,0.4451539728364987
@@ -173,16 +173,16 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Robin Wall Kimmerer',de,unknown,#111111,#111111,1,0.39767503
 'Johan Rockström',de,unknown,#111111,#111111,1,0.3976300255
 'Claudia Kempfert',de,unknown,#111111,#111111,1,0.397375
-'Autumn Peltier',de,unknown,#111111,#111111,1,0.397375
+'Helena Gualinga',de,unknown,#111111,#111111,1,0.397375
 'Minka Indigena',de,unknown,#111111,#111111,1,0.397375
 'Marjan Minnesma',de,unknown,#111111,#111111,1,0.397375
 'Sophia Kianni',de,unknown,#111111,#111111,1,0.397375
-'Kyle Pope',de,unknown,#111111,#111111,1,0.397375
-'Tasneem Essop',de,unknown,#111111,#111111,1,0.397375
-'Helena Gualinga',de,unknown,#111111,#111111,1,0.397375
 'Eriberto Gualinga',de,unknown,#111111,#111111,1,0.397375
-'Hans Joosten',de,unknown,#111111,#111111,1,0.397375
+'Tasneem Essop',de,unknown,#111111,#111111,1,0.397375
+'Kyle Pope',de,unknown,#111111,#111111,1,0.397375
 'Steven Donziger',de,unknown,#111111,#111111,1,0.397375
+'Hans Joosten',de,unknown,#111111,#111111,1,0.397375
+'Autumn Peltier',de,unknown,#111111,#111111,1,0.397375
 'Elizabeth Mpofu',de,unknown,#111111,#111111,1,0.397375
 'Haitham A-Ghais',de,unknown,#111111,#111111,1,0.397375
 'Mark Hertsgaard',de,unknown,#111111,#111111,1,0.397375
