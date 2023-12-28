@@ -261,7 +261,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Ainsley Earhardt',de,unknown,#111111,#111111,1,0.3672685818843675
 'Andy Cohen',de,unknown,#111111,#111111,1,0.3670596075557663
 'Jean Jouzel',de,unknown,#111111,#111111,1,0.366993325444111
-'Suleika Jaouad',de,unknown,#111111,#111111,1,0.36681722905140157
+'Suleika Jaouad',de,unknown,#111111,#111111,1,0.3668172290514015
 'Willie Nelson',de,unknown,#111111,#111111,2,0.3666095943381797
 'Martha MacCallum',de,unknown,#111111,#111111,1,0.3665093628900491
 'Pietro Lombardi',de,Deutschland,#1818e8,#1818e8,1,0.3664882730729323
@@ -298,11 +298,11 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Chelsea Handler',de,USA,#18e8e8,#18e8e8,1,0.3614000149999999
 'Salvador Dali',de,Spanien,#111111,#111111,1,0.3612499999999999
 'Kemal Kiliçdaroglu',de,Türkei,#111111,#111111,1,0.3612499999999999
-'Dorothée Pacaud',de,Frankreich,#e8e808,#e8e808,1,0.3612499999999999
-'Pedro Sánchez Pérez-Castejón',de,Spanien,#111111,#111111,1,0.3612499999999999
-'Sergei Surovikin',de,Russland,#e81818,#e81818,1,0.3612499999999999
-'Moon Hyung-jin',de,USA,#18e8e8,#18e8e8,1,0.3612499999999999
 'Leon Botstein',de,USA,#18e8e8,#18e8e8,1,0.3612499999999999
+'Pedro Sánchez Pérez-Castejón',de,Spanien,#111111,#111111,1,0.3612499999999999
+'Dorothée Pacaud',de,Frankreich,#e8e808,#e8e808,1,0.3612499999999999
+'Moon Hyung-jin',de,USA,#18e8e8,#18e8e8,1,0.3612499999999999
+'Sergei Surovikin',de,Russland,#e81818,#e81818,1,0.3612499999999999
 'Yevgeny Prigozhin',de,Russland,#e81818,#e81818,1,0.3612499999999999
 'Uwe Neumärker',de,Deutschland,#1818e8,#1818e8,1,0.3612499999999999
 'Stormy Daniels',de,USA,#18e8e8,#18e8e8,2,0.3610613669256249
@@ -498,6 +498,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Michael Mann',de,USA,#18e8e8,#18e8e8,3,0.2175966228437927
 'Bodo Ramelow',de,Deutschland,#1818e8,#1818e8,2,0.2164638405657893
 'Recep Tayyip Erdoğan',de,Türkei,#111111,#111111,2,0.216266069377041
+'Alice Weidel',de,Deutschland,#1818e8,#1818e8,2,0.2156405238292488
 'Winfried Kretschmann',de,Deutschland,#1818e8,#1818e8,3,0.2155208059668675
 'Lothar Wieler',de,Deutschland,#1818e8,#1818e8,1,0.2144756430385868
 'Mojib Latif',de,Deutschland,#1818e8,#1818e8,2,0.2138006766059943
@@ -574,7 +575,6 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Wolfgang Schäuble',de,Deutschland,#1818e8,#1818e8,2,0.1734990298952255
 'Sahra Wagenknecht',de,Deutschland,#1818e8,#1818e8,3,0.173142414839009
 'Alfred Bernhard Nobel',de,Schweden,#111111,#111111,1,0.1731116276718749
-'Alice Weidel',de,Deutschland,#1818e8,#1818e8,1,0.1730025649328061
 'Andrea Lindholz',de,Deutschland,#1818e8,#1818e8,2,0.1715984894181786
 'Justin Trudeau',de,Kanada,#111111,#111111,3,0.1715884061962994
 'Thierry Breton',de,EU,#111111,#111111,2,0.1707289014687776
