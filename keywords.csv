@@ -298,11 +298,11 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Chelsea Handler',de,USA,#18e8e8,#18e8e8,1,0.3614000149999999
 'Salvador Dali',de,Spanien,#111111,#111111,1,0.3612499999999999
 'Kemal Kiliçdaroglu',de,Türkei,#111111,#111111,1,0.3612499999999999
-'Leon Botstein',de,USA,#18e8e8,#18e8e8,1,0.3612499999999999
-'Pedro Sánchez Pérez-Castejón',de,Spanien,#111111,#111111,1,0.3612499999999999
-'Dorothée Pacaud',de,Frankreich,#e8e808,#e8e808,1,0.3612499999999999
-'Moon Hyung-jin',de,USA,#18e8e8,#18e8e8,1,0.3612499999999999
 'Sergei Surovikin',de,Russland,#e81818,#e81818,1,0.3612499999999999
+'Pedro Sánchez Pérez-Castejón',de,Spanien,#111111,#111111,1,0.3612499999999999
+'Leon Botstein',de,USA,#18e8e8,#18e8e8,1,0.3612499999999999
+'Moon Hyung-jin',de,USA,#18e8e8,#18e8e8,1,0.3612499999999999
+'Dorothée Pacaud',de,Frankreich,#e8e808,#e8e808,1,0.3612499999999999
 'Yevgeny Prigozhin',de,Russland,#e81818,#e81818,1,0.3612499999999999
 'Uwe Neumärker',de,Deutschland,#1818e8,#1818e8,1,0.3612499999999999
 'Stormy Daniels',de,USA,#18e8e8,#18e8e8,2,0.3610613669256249
@@ -566,7 +566,6 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Erik Marquardt',de,EU,#111111,#111111,1,0.1788169927736339
 'Daniel Freund',de,EU,#111111,#111111,3,0.1787236738769255
 'Macky Sall',de,Senegal,#111111,#111111,2,0.1785743603676145
-'Hun Sen',de,Kambodscha,#111111,#111111,1,0.1785678593735536
 'Anthony Fauci',de,USA,#18e8e8,#18e8e8,1,0.1784259382242243
 'Ed McVey',de,UK,#e838e8,#e838e8,1,0.1777394275896845
 'Mukesh Ambani',de,Indien,#111111,#111111,1,0.1764031858114948
@@ -594,6 +593,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Larry Ellison',de,USA,#18e8e8,#18e8e8,1,0.1550774796114642
 'Andrés Manuel López Obrador',de,Mexiko,#111111,#111111,2,0.1545336894397846
 'Jordan Bardella',de,Frankreich,#e8e808,#e8e808,1,0.1536735500303254
+'Hun Sen',de,Kambodscha,#111111,#111111,1,0.15193269546752056
 'Christine Lagarde',de,EU,#111111,#111111,3,0.1517491587387547
 'Volker Wissing',de,Deutschland,#1818e8,#1818e8,3,0.1509181475313735
 'David Malpass',de,USA,#18e8e8,#18e8e8,1,0.1496457276356005
