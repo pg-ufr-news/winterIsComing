@@ -1,5 +1,4 @@
 keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
-'Alex Jones',de,unknown,#111111,#111111,2,0.4691440100329287
 'Jens Spahn',de,Deutschland,#1818e8,#1818e8,3,0.4676019292000908
 'Britney Spears',de,unknown,#111111,#111111,3,0.4648229344384103
 'Derek Chauvin',de,unknown,#111111,#111111,2,0.4647249372327125
@@ -10,6 +9,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Oliver Anthony',de,unknown,#111111,#111111,2,0.46173798
 'Jon Batiste',de,unknown,#111111,#111111,2,0.4610890653509604
 'Caroline Ellison',de,unknown,#111111,#111111,1,0.4600328620266645
+'Alex Jones',de,unknown,#111111,#111111,2,0.4582687030734439
 'Wolfgang Grupp',de,unknown,#111111,#111111,1,0.4581718523999999
 'Lauren Sanchez',de,USA,#18e8e8,#18e8e8,2,0.4571916558139045
 'Sergio Massa',de,unknown,#111111,#111111,1,0.4559628106171904
@@ -310,7 +310,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Chris Stapleton',de,unknown,#111111,#111111,1,0.357519615267766
 'Caren Miosga',de,Deutschland,#1818e8,#1818e8,2,0.3572001711435281
 'Sam Altman',de,USA,#18e8e8,#18e8e8,3,0.3570022517083436
-'Mary Robinson',de,unknown,#111111,#111111,2,0.35678652675416667
+'Mary Robinson',de,unknown,#111111,#111111,2,0.3567865267541666
 'Penny Mordaunt',de,UK,#e838e8,#e838e8,2,0.3563338585206249
 'Berkshire Hathaway',de,USA,#18e8e8,#18e8e8,1,0.3562318502886363
 'Wladimir Putin',de,Russland,#e81818,#e81818,3,0.3561939043074576
