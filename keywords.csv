@@ -157,7 +157,6 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Jessica Biel',de,unknown,#111111,#111111,1,0.3998488172140294
 'Leonard Bernstein',de,unknown,#111111,#111111,2,0.3991932975936171
 'Gerald Darmanin',de,unknown,#111111,#111111,1,0.3991866109821727
-'Mary Robinson',de,unknown,#111111,#111111,2,0.39855261775
 'Kim Kardashian',de,USA,#18e8e8,#18e8e8,3,0.3984880265127932
 'Carey Mulligan',de,unknown,#111111,#111111,1,0.3983170402406906
 'Harrison Ford',de,unknown,#111111,#111111,1,0.3982684749999999
@@ -174,11 +173,11 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Marjan Minnesma',de,unknown,#111111,#111111,1,0.397375
 'Autumn Peltier',de,unknown,#111111,#111111,1,0.397375
 'Mark Hertsgaard',de,unknown,#111111,#111111,1,0.397375
-'Tasneem Essop',de,unknown,#111111,#111111,1,0.397375
 'Hans Joosten',de,unknown,#111111,#111111,1,0.397375
 'Elizabeth Mpofu',de,unknown,#111111,#111111,1,0.397375
 'Steven Donziger',de,unknown,#111111,#111111,1,0.397375
 'Haitham A-Ghais',de,unknown,#111111,#111111,1,0.397375
+'Tasneem Essop',de,unknown,#111111,#111111,1,0.397375
 'Marine Le Pen',de,Frankreich,#e8e808,#e8e808,3,0.3958509831136363
 'Rudolf Steiner',de,Oesterreich,#111111,#111111,1,0.395632577175
 'Meryl Streep',de,unknown,#111111,#111111,1,0.3954388420357141
@@ -293,15 +292,15 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Jamie Dimon',de,USA,#18e8e8,#18e8e8,1,0.3615589175613636
 'Katy Perry',de,USA,#18e8e8,#18e8e8,3,0.3614742758982953
 'Chelsea Handler',de,USA,#18e8e8,#18e8e8,1,0.3614000149999999
-'Salvador Dali',de,Spanien,#111111,#111111,1,0.3612499999999999
+'Uwe Neumärker',de,Deutschland,#1818e8,#1818e8,1,0.3612499999999999
 'Dorothée Pacaud',de,Frankreich,#e8e808,#e8e808,1,0.3612499999999999
 'Leon Botstein',de,USA,#18e8e8,#18e8e8,1,0.3612499999999999
 'Kemal Kiliçdaroglu',de,Türkei,#111111,#111111,1,0.3612499999999999
-'Yevgeny Prigozhin',de,Russland,#e81818,#e81818,1,0.3612499999999999
+'Salvador Dali',de,Spanien,#111111,#111111,1,0.3612499999999999
 'Sergei Surovikin',de,Russland,#e81818,#e81818,1,0.3612499999999999
 'Pedro Sánchez Pérez-Castejón',de,Spanien,#111111,#111111,1,0.3612499999999999
 'Moon Hyung-jin',de,USA,#18e8e8,#18e8e8,1,0.3612499999999999
-'Uwe Neumärker',de,Deutschland,#1818e8,#1818e8,1,0.3612499999999999
+'Yevgeny Prigozhin',de,Russland,#e81818,#e81818,1,0.3612499999999999
 'Stormy Daniels',de,USA,#18e8e8,#18e8e8,2,0.3610613669256249
 'Henry Ford',de,USA,#18e8e8,#18e8e8,2,0.3606879322925437
 'Mathias Döpfner',de,Deutschland,#1818e8,#1818e8,2,0.3602330955687252
@@ -311,6 +310,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Chris Stapleton',de,unknown,#111111,#111111,1,0.357519615267766
 'Caren Miosga',de,Deutschland,#1818e8,#1818e8,2,0.3572001711435281
 'Sam Altman',de,USA,#18e8e8,#18e8e8,3,0.3570022517083436
+'Mary Robinson',de,unknown,#111111,#111111,2,0.35678652675416667
 'Penny Mordaunt',de,UK,#e838e8,#e838e8,2,0.3563338585206249
 'Berkshire Hathaway',de,USA,#18e8e8,#18e8e8,1,0.3562318502886363
 'Wladimir Putin',de,Russland,#e81818,#e81818,3,0.3561939043074576
@@ -405,7 +405,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Sultan al-Jaber',de,VAE,#111111,#111111,2,0.3135387523625
 'Yoon Suk Yeol',de,SüdKorea,#111111,#111111,3,0.3132295237705156
 'Suleika Jaouad',de,unknown,#111111,#111111,1,0.3120946746936913
-'Jean Jouzel',de,unknown,#111111,#111111,1,0.31194432662749433
+'Jean Jouzel',de,unknown,#111111,#111111,1,0.3119443266274943
 'Georg Gänswein',de,Deutschland,#1818e8,#1818e8,1,0.311276120084578
 'Devon Archer',de,unknown,#111111,#111111,1,0.3100419522494443
 'Daniel Penny',de,USA,#18e8e8,#18e8e8,1,0.3094417481110416
