@@ -1,5 +1,4 @@
 keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
-'Derek Chauvin',de,unknown,#111111,#111111,2,0.4647249372327125
 'Lance Bass',de,unknown,#111111,#111111,2,0.4637897459402845
 'Mira Murati',de,unknown,#111111,#111111,2,0.4629592020353568
 'Lauren Boebert',de,USA,#18e8e8,#18e8e8,2,0.4626004155
@@ -22,7 +21,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Gorbatschow',de,unknown,#111111,#111111,2,0.4534498661810344
 'Irina Scherbakowa',de,unknown,#111111,#111111,2,0.4530183126833333
 'nan nan',de,unknown,#111111,#111111,1,0.4526354265249211
-'Jens Spahn',de,Deutschland,#1818e8,#1818e8,3,0.45241304982007713
+'Jens Spahn',de,Deutschland,#1818e8,#1818e8,3,0.4524130498200771
 'Billie Eilish',de,unknown,#111111,#111111,2,0.451681778528079
 'Sophie Turner',de,unknown,#111111,#111111,2,0.4494665647748008
 'Gavin Newsom',de,unknown,#111111,#111111,3,0.44890211038725
@@ -162,16 +161,16 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Robert De Niro',de,USA,#18e8e8,#18e8e8,3,0.3978250178998863
 'Robin Wall Kimmerer',de,unknown,#111111,#111111,1,0.39767503
 'Johan Rockström',de,unknown,#111111,#111111,1,0.3976300255
-'Eriberto Gualinga',de,unknown,#111111,#111111,1,0.397375
-'Kyle Pope',de,unknown,#111111,#111111,1,0.397375
-'Claudia Kempfert',de,unknown,#111111,#111111,1,0.397375
-'Minka Indigena',de,unknown,#111111,#111111,1,0.397375
+'Steven Donziger',de,unknown,#111111,#111111,1,0.397375
 'Helena Gualinga',de,unknown,#111111,#111111,1,0.397375
+'Eriberto Gualinga',de,unknown,#111111,#111111,1,0.397375
+'Claudia Kempfert',de,unknown,#111111,#111111,1,0.397375
+'Kyle Pope',de,unknown,#111111,#111111,1,0.397375
 'Tasneem Essop',de,unknown,#111111,#111111,1,0.397375
-'Hans Joosten',de,unknown,#111111,#111111,1,0.397375
+'Minka Indigena',de,unknown,#111111,#111111,1,0.397375
 'Marjan Minnesma',de,unknown,#111111,#111111,1,0.397375
 'Elizabeth Mpofu',de,unknown,#111111,#111111,1,0.397375
-'Steven Donziger',de,unknown,#111111,#111111,1,0.397375
+'Hans Joosten',de,unknown,#111111,#111111,1,0.397375
 'Haitham A-Ghais',de,unknown,#111111,#111111,1,0.397375
 'Mark Hertsgaard',de,unknown,#111111,#111111,1,0.397375
 'Sophia Kianni',de,unknown,#111111,#111111,1,0.397375
@@ -179,6 +178,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Rudolf Steiner',de,Oesterreich,#111111,#111111,1,0.395632577175
 'Meryl Streep',de,unknown,#111111,#111111,1,0.3954388420357141
 'Königin Camilla',de,UK,#e838e8,#e838e8,3,0.3951162089659538
+'Derek Chauvin',de,unknown,#111111,#111111,1,0.39501619664780563
 'Reed Richards',de,unknown,#111111,#111111,1,0.3946144872250895
 'Alberto Núñez Feijóo',de,unknown,#111111,#111111,2,0.3936292957227271
 'Olivia Rodrigo',de,unknown,#111111,#111111,2,0.3936209260507368
@@ -289,15 +289,15 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Katy Perry',de,USA,#18e8e8,#18e8e8,3,0.3614742758982953
 'Chelsea Handler',de,USA,#18e8e8,#18e8e8,1,0.3614000149999999
 'Pedro Sánchez Pérez-Castejón',de,Spanien,#111111,#111111,1,0.3612499999999999
-'Sergei Surovikin',de,Russland,#e81818,#e81818,1,0.3612499999999999
 'Yevgeny Prigozhin',de,Russland,#e81818,#e81818,1,0.3612499999999999
 'Kemal Kiliçdaroglu',de,Türkei,#111111,#111111,1,0.3612499999999999
 'Evgueni Prigojine',de,Russland,#e81818,#e81818,1,0.3612499999999999
-'Salvador Dali',de,Spanien,#111111,#111111,1,0.3612499999999999
+'Sergei Surovikin',de,Russland,#e81818,#e81818,1,0.3612499999999999
 'Leon Botstein',de,USA,#18e8e8,#18e8e8,1,0.3612499999999999
 'Uwe Neumärker',de,Deutschland,#1818e8,#1818e8,1,0.3612499999999999
 'Dorothée Pacaud',de,Frankreich,#e8e808,#e8e808,1,0.3612499999999999
 'Moon Hyung-jin',de,USA,#18e8e8,#18e8e8,1,0.3612499999999999
+'Salvador Dali',de,Spanien,#111111,#111111,1,0.3612499999999999
 'Stormy Daniels',de,USA,#18e8e8,#18e8e8,2,0.3610613669256249
 'Henry Ford',de,USA,#18e8e8,#18e8e8,2,0.3606879322925437
 'Mathias Döpfner',de,Deutschland,#1818e8,#1818e8,2,0.3602330955687252
