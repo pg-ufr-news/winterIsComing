@@ -1,7 +1,6 @@
 keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Novak Djokovic',de,unknown,#111111,#111111,3,0.475168331439375
 'Peter Breuer',de,unknown,#111111,#111111,2,0.46905255775
-'Oliver Anthony',de,unknown,#111111,#111111,2,0.46173798
 'Jon Batiste',de,unknown,#111111,#111111,2,0.4610890653509604
 'Caroline Ellison',de,unknown,#111111,#111111,1,0.4600328620266645
 'Alex Jones',de,unknown,#111111,#111111,2,0.4582687030734439
@@ -156,18 +155,18 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Robin Wall Kimmerer',de,unknown,#111111,#111111,1,0.39767503
 'Johan Rockström',de,unknown,#111111,#111111,1,0.3976300255
 'Steven Donziger',de,unknown,#111111,#111111,1,0.397375
-'Mark Hertsgaard',de,unknown,#111111,#111111,1,0.397375
+'Minka Indigena',de,unknown,#111111,#111111,1,0.397375
 'Hans Joosten',de,unknown,#111111,#111111,1,0.397375
 'Haitham A-Ghais',de,unknown,#111111,#111111,1,0.397375
 'Marjan Minnesma',de,unknown,#111111,#111111,1,0.397375
 'Kyle Pope',de,unknown,#111111,#111111,1,0.397375
-'Elizabeth Mpofu',de,unknown,#111111,#111111,1,0.397375
-'Minka Indigena',de,unknown,#111111,#111111,1,0.397375
+'Claudia Kempfert',de,unknown,#111111,#111111,1,0.397375
 'Tasneem Essop',de,unknown,#111111,#111111,1,0.397375
 'Sophia Kianni',de,unknown,#111111,#111111,1,0.397375
 'Eriberto Gualinga',de,unknown,#111111,#111111,1,0.397375
-'Claudia Kempfert',de,unknown,#111111,#111111,1,0.397375
 'Helena Gualinga',de,unknown,#111111,#111111,1,0.397375
+'Elizabeth Mpofu',de,unknown,#111111,#111111,1,0.397375
+'Mark Hertsgaard',de,unknown,#111111,#111111,1,0.397375
 'Prinz Archie',de,UK,#e838e8,#e838e8,3,0.3966614216340557
 'Marine Le Pen',de,Frankreich,#e8e808,#e8e808,3,0.3958509831136363
 'Rudolf Steiner',de,Oesterreich,#111111,#111111,1,0.395632577175
@@ -182,6 +181,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'James Cameron',de,USA,#18e8e8,#18e8e8,3,0.3935927591818181
 'Lauren Boebert',de,USA,#18e8e8,#18e8e8,1,0.3932103531749999
 'Lady Gaga',de,USA,#18e8e8,#18e8e8,2,0.3930541669285714
+'Oliver Anthony',de,unknown,#111111,#111111,2,0.392927328
 'Ron Johnson',de,unknown,#111111,#111111,1,0.3927123842869298
 'Steven Spielberg',de,USA,#18e8e8,#18e8e8,3,0.3922240923023551
 'Joseph Ratzinger',de,Vatikan,#58b8e8,#58b8e8,1,0.3909379885768749
@@ -590,7 +590,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Kim Jong-un',de,NordKorea,#e85858,#e85858,3,0.1669946821293978
 'Michael Cohen',de,USA,#18e8e8,#18e8e8,1,0.1660156884448421
 'Benjamin Netanjahu',de,Israel,#111111,#111111,3,0.1641255470614374
-'Nicola Sturgeon',de,UK,#e838e8,#e838e8,2,0.16327004884096338
+'Nicola Sturgeon',de,UK,#e838e8,#e838e8,2,0.1632700488409633
 'Michael Walzer',de,USA,#18e8e8,#18e8e8,1,0.1614325286066645
 'Christoph Heusgen',de,Deutschland,#1818e8,#1818e8,2,0.1612007755474939
 'Steve Milloy',de,USA,#18e8e8,#18e8e8,1,0.1602885441406249
