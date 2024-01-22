@@ -1,5 +1,5 @@
 keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
-'Wolfgang Grupp',de,unknown,#111111,#111111,2,0.47412954287333325
+'Wolfgang Grupp',de,unknown,#111111,#111111,2,0.4741295428733332
 'Jon Batiste',de,unknown,#111111,#111111,2,0.4610890653509604
 'Alex Jones',de,unknown,#111111,#111111,2,0.4582687030734439
 'Lauren Sanchez',de,USA,#18e8e8,#18e8e8,2,0.4571916558139045
@@ -151,11 +151,11 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Steven Donziger',de,unknown,#111111,#111111,1,0.397375
 'Sophia Kianni',de,unknown,#111111,#111111,1,0.397375
 'Haitham A-Ghais',de,unknown,#111111,#111111,1,0.397375
-'Claudia Kempfert',de,unknown,#111111,#111111,1,0.397375
+'Eriberto Gualinga',de,unknown,#111111,#111111,1,0.397375
 'Tasneem Essop',de,unknown,#111111,#111111,1,0.397375
 'Marjan Minnesma',de,unknown,#111111,#111111,1,0.397375
-'Eriberto Gualinga',de,unknown,#111111,#111111,1,0.397375
 'Mark Hertsgaard',de,unknown,#111111,#111111,1,0.397375
+'Claudia Kempfert',de,unknown,#111111,#111111,1,0.397375
 'Kyle Pope',de,unknown,#111111,#111111,1,0.397375
 'Elizabeth Mpofu',de,unknown,#111111,#111111,1,0.397375
 'Helena Gualinga',de,unknown,#111111,#111111,1,0.397375
@@ -229,6 +229,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Christine Lambrecht',de,Deutschland,#1818e8,#1818e8,2,0.3736931517795454
 'Prinzessin Diana',de,UK,#e838e8,#e838e8,3,0.373610413807693
 'Jessy Wellmer',de,unknown,#111111,#111111,1,0.3735660314359089
+'Caren Miosga',de,Deutschland,#1818e8,#1818e8,3,0.3733710154719989
 'Greg Abbott',de,USA,#18e8e8,#18e8e8,1,0.3731856314772727
 'Élisabeth Borne',de,Frankreich,#e8e808,#e8e808,3,0.3731406734909089
 'Jeanne du Barry',de,Frankreich,#e8e808,#e8e808,1,0.3727093245995967
@@ -285,17 +286,17 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Jamie Dimon',de,USA,#18e8e8,#18e8e8,1,0.3615589175613636
 'Katy Perry',de,USA,#18e8e8,#18e8e8,3,0.3614742758982953
 'Chelsea Handler',de,USA,#18e8e8,#18e8e8,1,0.3614000149999999
-'Evgueni Prigojine',de,Russland,#e81818,#e81818,1,0.3612499999999999
-'Kemal Kiliçdaroglu',de,Türkei,#111111,#111111,1,0.3612499999999999
-'Gilbert Plass',de,Kanada,#111111,#111111,1,0.3612499999999999
-'Salvador Dali',de,Spanien,#111111,#111111,1,0.3612499999999999
-'Leon Botstein',de,USA,#18e8e8,#18e8e8,1,0.3612499999999999
-'Dorothée Pacaud',de,Frankreich,#e8e808,#e8e808,1,0.3612499999999999
-'Pedro Sánchez Pérez-Castejón',de,Spanien,#111111,#111111,1,0.3612499999999999
-'Yevgeny Prigozhin',de,Russland,#e81818,#e81818,1,0.3612499999999999
-'Sergei Surovikin',de,Russland,#e81818,#e81818,1,0.3612499999999999
-'Moon Hyung-jin',de,USA,#18e8e8,#18e8e8,1,0.3612499999999999
 'Uwe Neumärker',de,Deutschland,#1818e8,#1818e8,1,0.3612499999999999
+'Salvador Dali',de,Spanien,#111111,#111111,1,0.3612499999999999
+'Moon Hyung-jin',de,USA,#18e8e8,#18e8e8,1,0.3612499999999999
+'Dorothée Pacaud',de,Frankreich,#e8e808,#e8e808,1,0.3612499999999999
+'Gilbert Plass',de,Kanada,#111111,#111111,1,0.3612499999999999
+'Evgueni Prigojine',de,Russland,#e81818,#e81818,1,0.3612499999999999
+'Leon Botstein',de,USA,#18e8e8,#18e8e8,1,0.3612499999999999
+'Yevgeny Prigozhin',de,Russland,#e81818,#e81818,1,0.3612499999999999
+'Pedro Sánchez Pérez-Castejón',de,Spanien,#111111,#111111,1,0.3612499999999999
+'Sergei Surovikin',de,Russland,#e81818,#e81818,1,0.3612499999999999
+'Kemal Kiliçdaroglu',de,Türkei,#111111,#111111,1,0.3612499999999999
 'Stormy Daniels',de,USA,#18e8e8,#18e8e8,2,0.3610613669256249
 'Henry Ford',de,USA,#18e8e8,#18e8e8,2,0.3606879322925437
 'Mathias Döpfner',de,Deutschland,#1818e8,#1818e8,2,0.3602330955687252
@@ -305,7 +306,6 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Martin Luther King',de,USA,#18e8e8,#18e8e8,1,0.3587306697431818
 'Leonardo DiCaprio',de,USA,#18e8e8,#18e8e8,3,0.3582551360048295
 'Chris Stapleton',de,unknown,#111111,#111111,1,0.357519615267766
-'Caren Miosga',de,Deutschland,#1818e8,#1818e8,2,0.3572001711435281
 'Mary Robinson',de,unknown,#111111,#111111,2,0.3567865267541666
 'Britney Spears',de,unknown,#111111,#111111,2,0.3567459389380737
 'Penny Mordaunt',de,UK,#e838e8,#e838e8,2,0.3563338585206249
