@@ -30,7 +30,6 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Jake Tapper',de,unknown,#111111,#111111,1,0.4366836510087887
 'David Beckham',de,unknown,#111111,#111111,3,0.4365747847806818
 'Recep Tayyip Erdogan',de,Türkei,#111111,#111111,3,0.436557779703431
-'Phoebe Bridgers',de,unknown,#111111,#111111,2,0.4364879546198452
 'Cassidy Hutchinson',de,unknown,#111111,#111111,2,0.4353715131487015
 'Taylor Swift',de,unknown,#111111,#111111,3,0.4352060398316404
 'Irina Shayk',de,unknown,#111111,#111111,2,0.4344040194204116
@@ -138,19 +137,19 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Lars Klingbeil',de,Deutschland,#1818e8,#1818e8,3,0.3978100444218748
 'Robin Wall Kimmerer',de,unknown,#111111,#111111,1,0.39767503
 'Johan Rockström',de,unknown,#111111,#111111,1,0.3976300255
-'Elizabeth Mpofu',de,unknown,#111111,#111111,1,0.397375
 'Haitham A-Ghais',de,unknown,#111111,#111111,1,0.397375
 'Hans Joosten',de,unknown,#111111,#111111,1,0.397375
-'Sophia Kianni',de,unknown,#111111,#111111,1,0.397375
+'Steven Donziger',de,unknown,#111111,#111111,1,0.397375
+'Elizabeth Mpofu',de,unknown,#111111,#111111,1,0.397375
 'Kyle Pope',de,unknown,#111111,#111111,1,0.397375
 'Tasneem Essop',de,unknown,#111111,#111111,1,0.397375
-'Marjan Minnesma',de,unknown,#111111,#111111,1,0.397375
+'Sophia Kianni',de,unknown,#111111,#111111,1,0.397375
 'Claudia Kempfert',de,unknown,#111111,#111111,1,0.397375
-'Helena Gualinga',de,unknown,#111111,#111111,1,0.397375
 'Mark Hertsgaard',de,unknown,#111111,#111111,1,0.397375
+'Helena Gualinga',de,unknown,#111111,#111111,1,0.397375
 'Eriberto Gualinga',de,unknown,#111111,#111111,1,0.397375
 'Minka Indigena',de,unknown,#111111,#111111,1,0.397375
-'Steven Donziger',de,unknown,#111111,#111111,1,0.397375
+'Marjan Minnesma',de,unknown,#111111,#111111,1,0.397375
 'Prinz Archie',de,UK,#e838e8,#e838e8,3,0.3966614216340557
 'Marine Le Pen',de,Frankreich,#e8e808,#e8e808,3,0.3958509831136363
 'Rudolf Steiner',de,Oesterreich,#111111,#111111,1,0.395632577175
@@ -232,6 +231,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Margaret Qualley',de,unknown,#111111,#111111,1,0.3720525414215475
 'Tiffany Chen',de,USA,#18e8e8,#18e8e8,1,0.3718302688684847
 'Chuck Todd',de,USA,#18e8e8,#18e8e8,1,0.3710675471749999
+'Phoebe Bridgers',de,unknown,#111111,#111111,1,0.3710147764268684
 'Pablo Picasso',de,Spanien,#111111,#111111,3,0.3707287646829544
 'Prinz Harry',de,UK,#e838e8,#e838e8,3,0.3704943332341863
 'Katja Krasavice',de,Deutschland,#1818e8,#1818e8,2,0.3704495247269317
@@ -283,16 +283,16 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Jamie Dimon',de,USA,#18e8e8,#18e8e8,1,0.3615589175613636
 'Katy Perry',de,USA,#18e8e8,#18e8e8,3,0.3614742758982953
 'Chelsea Handler',de,USA,#18e8e8,#18e8e8,1,0.3614000149999999
-'Pedro Sánchez Pérez-Castejón',de,Spanien,#111111,#111111,1,0.3612499999999999
+'Evgueni Prigojine',de,Russland,#e81818,#e81818,1,0.3612499999999999
 'Kemal Kiliçdaroglu',de,Türkei,#111111,#111111,1,0.3612499999999999
-'Leon Botstein',de,USA,#18e8e8,#18e8e8,1,0.3612499999999999
+'Dorothée Pacaud',de,Frankreich,#e8e808,#e8e808,1,0.3612499999999999
 'Yevgeny Prigozhin',de,Russland,#e81818,#e81818,1,0.3612499999999999
 'Uwe Neumärker',de,Deutschland,#1818e8,#1818e8,1,0.3612499999999999
-'Evgueni Prigojine',de,Russland,#e81818,#e81818,1,0.3612499999999999
-'Dorothée Pacaud',de,Frankreich,#e8e808,#e8e808,1,0.3612499999999999
+'Leon Botstein',de,USA,#18e8e8,#18e8e8,1,0.3612499999999999
+'Gilbert Plass',de,Kanada,#111111,#111111,1,0.3612499999999999
 'Moon Hyung-jin',de,USA,#18e8e8,#18e8e8,1,0.3612499999999999
 'Salvador Dali',de,Spanien,#111111,#111111,1,0.3612499999999999
-'Gilbert Plass',de,Kanada,#111111,#111111,1,0.3612499999999999
+'Pedro Sánchez Pérez-Castejón',de,Spanien,#111111,#111111,1,0.3612499999999999
 'Sergei Surovikin',de,Russland,#e81818,#e81818,1,0.3612499999999999
 'Stormy Daniels',de,USA,#18e8e8,#18e8e8,2,0.3610613669256249
 'Henry Ford',de,USA,#18e8e8,#18e8e8,2,0.3606879322925437
@@ -336,7 +336,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Papst Franziskus',de,Vatikan,#58b8e8,#58b8e8,3,0.3510299150028324
 'Cem Özdemir',de,Deutschland,#1818e8,#1818e8,3,0.3509877427356347
 'Patrick Graichen',de,Deutschland,#1818e8,#1818e8,3,0.3508844424319276
-'Jack Antonoff',de,unknown,#111111,#111111,1,0.35046845084001144
+'Jack Antonoff',de,unknown,#111111,#111111,1,0.3504684508400114
 'Steve Jobs',de,USA,#18e8e8,#18e8e8,2,0.3503111850965851
 'Nicolas Sarkozy',de,unknown,#111111,#111111,1,0.3499436869485888
 'Eric Adams',de,USA,#18e8e8,#18e8e8,2,0.3497796333386362
