@@ -102,7 +102,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'António Guterres',de,unknown,#111111,#111111,2,0.4129275899965909
 'Hugh Grant',de,unknown,#111111,#111111,1,0.4127459730709652
 'Andreas Ellermann',de,Deutschland,#1818e8,#1818e8,2,0.4121759675835141
-'Jon Batiste',de,unknown,#111111,#111111,2,0.41172738089956756
+'Jon Batiste',de,unknown,#111111,#111111,2,0.4117273808995675
 'Prinzessin Kate',de,UK,#e838e8,#e838e8,3,0.4115638959211794
 'Angelina Jolie',de,unknown,#111111,#111111,2,0.4106042191837512
 'Joe Jonas',de,unknown,#111111,#111111,1,0.4100532088377741
@@ -130,12 +130,12 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Johan Rockström',de,unknown,#111111,#111111,1,0.3976300255
 'Kyle Pope',de,unknown,#111111,#111111,1,0.397375
 'Tasneem Essop',de,unknown,#111111,#111111,1,0.397375
-'Sophia Kianni',de,unknown,#111111,#111111,1,0.397375
+'Hans Joosten',de,unknown,#111111,#111111,1,0.397375
 'Eriberto Gualinga',de,unknown,#111111,#111111,1,0.397375
 'Helena Gualinga',de,unknown,#111111,#111111,1,0.397375
 'Haitham A-Ghais',de,unknown,#111111,#111111,1,0.397375
-'Hans Joosten',de,unknown,#111111,#111111,1,0.397375
 'Marjan Minnesma',de,unknown,#111111,#111111,1,0.397375
+'Sophia Kianni',de,unknown,#111111,#111111,1,0.397375
 'Steven Donziger',de,unknown,#111111,#111111,1,0.397375
 'Claudia Kempfert',de,unknown,#111111,#111111,1,0.397375
 'Mark Hertsgaard',de,unknown,#111111,#111111,1,0.397375
@@ -456,8 +456,8 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Aleksandar Vučić',de,Serbien,#111111,#111111,2,0.2631335223312125
 'Péter Szijjártó',de,Ungarn,#111111,#111111,1,0.2619467561974999
 'Éric Ciotti',de,Frankreich,#e8e808,#e8e808,1,0.2617749705987499
-'Michael Sandel',de,USA,#18e8e8,#18e8e8,1,0.2613727915493749
 'Yannick Morez',de,Frankreich,#e8e808,#e8e808,1,0.2613727915493749
+'Michael Sandel',de,USA,#18e8e8,#18e8e8,1,0.2613727915493749
 'Richard Ferrand',de,Frankreich,#e8e808,#e8e808,1,0.2611531399999999
 'Thomas Bayes',de,UK,#e838e8,#e838e8,1,0.2610031249999999
 'Aurélien Pradié',de,Frankreich,#e8e808,#e8e808,1,0.2610031249999999
@@ -475,6 +475,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Charles Michel',de,EU,#111111,#111111,2,0.2467550776402848
 'Wolodymyr Selenski',de,Ukraine,#e818e8,#e818e8,3,0.2439872043011605
 'Cillian Murphy',de,Irland,#111111,#111111,2,0.2431536042606189
+'Jordan Bardella',de,Frankreich,#e8e808,#e8e808,2,0.24314759164691005
 'Antony Blinken',de,USA,#18e8e8,#18e8e8,3,0.2429984226351256
 'Marco Buschmann',de,Deutschland,#1818e8,#1818e8,3,0.2418343107552411
 'Ursula von der Leyen',de,EU,#111111,#111111,3,0.2412793076076889
@@ -498,7 +499,6 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Robert Nozick',de,USA,#18e8e8,#18e8e8,1,0.2218526562499999
 'Megyn Kell',de,USA,#18e8e8,#18e8e8,1,0.2218526562499999
 'Sergej Schoigu',de,Russland,#e81818,#e81818,3,0.2218285882839788
-'Jordan Bardella',de,Frankreich,#e8e808,#e8e808,2,0.2214080666434236
 'Meg Bellamy',de,UK,#e838e8,#e838e8,1,0.2202469131727905
 'Eva Kaili',de,EU,#111111,#111111,3,0.2197861341940745
 'Boris Pistorius',de,Deutschland,#1818e8,#1818e8,3,0.2189350114484989
