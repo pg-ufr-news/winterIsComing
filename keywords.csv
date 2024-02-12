@@ -1,5 +1,4 @@
 keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
-'Robert Downey Jr',de,unknown,#111111,#111111,2,0.5022291549987645
 'Greta Gerwig',de,unknown,#111111,#111111,2,0.4781858317144859
 'Irina Shayk',de,unknown,#111111,#111111,2,0.4701435065073499
 'Sergio Massa',de,unknown,#111111,#111111,1,0.4559628106171904
@@ -10,6 +9,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Jens Spahn',de,Deutschland,#1818e8,#1818e8,3,0.4524130498200771
 'Leni Klum',de,unknown,#111111,#111111,3,0.4514549266196611
 'Paris Hilton',de,unknown,#111111,#111111,2,0.4509813364873384
+'Robert Downey Jr',de,unknown,#111111,#111111,2,0.45002760493076804
 'Indiana Jones',de,unknown,#111111,#111111,3,0.4495579743463928
 'Gavin Newsom',de,unknown,#111111,#111111,3,0.44890211038725
 'Heidi Klum',de,unknown,#111111,#111111,3,0.448536816722784
@@ -130,12 +130,12 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Johan Rockström',de,unknown,#111111,#111111,1,0.3976300255
 'Steven Donziger',de,unknown,#111111,#111111,1,0.397375
 'Kyle Pope',de,unknown,#111111,#111111,1,0.397375
-'Sophia Kianni',de,unknown,#111111,#111111,1,0.397375
+'Claudia Kempfert',de,unknown,#111111,#111111,1,0.397375
 'Helena Gualinga',de,unknown,#111111,#111111,1,0.397375
 'Minka Indigena',de,unknown,#111111,#111111,1,0.397375
 'Haitham A-Ghais',de,unknown,#111111,#111111,1,0.397375
-'Claudia Kempfert',de,unknown,#111111,#111111,1,0.397375
 'Tasneem Essop',de,unknown,#111111,#111111,1,0.397375
+'Sophia Kianni',de,unknown,#111111,#111111,1,0.397375
 'Eriberto Gualinga',de,unknown,#111111,#111111,1,0.397375
 'Mark Hertsgaard',de,unknown,#111111,#111111,1,0.397375
 'Hans Joosten',de,unknown,#111111,#111111,1,0.397375
@@ -212,7 +212,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Holger Friedrich',de,Deutschland,#1818e8,#1818e8,3,0.3753448815888888
 'Harrison Ford',de,unknown,#111111,#111111,2,0.3752976605681817
 'Jared Kushner',de,unknown,#111111,#111111,1,0.3745326164797966
-'António Guterres',de,unknown,#111111,#111111,2,0.37412409467892044
+'António Guterres',de,unknown,#111111,#111111,2,0.3741240946789204
 'Michelle O\'Neill',de,Irland,#111111,#111111,1,0.3740646742142857
 'Laurent Berger',de,Frankreich,#e8e808,#e8e808,2,0.37391291625
 'Christine Lambrecht',de,Deutschland,#1818e8,#1818e8,2,0.3736931517795454
