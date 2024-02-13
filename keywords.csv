@@ -80,6 +80,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Queen Elizabeth II',de,UK,#e838e8,#e838e8,3,0.4247986346727272
 'Brad Pitt',de,unknown,#111111,#111111,2,0.4241442618853595
 'Selena Gomez',de,unknown,#111111,#111111,1,0.423593360330064
+'Katja Krasavice',de,Deutschland,#1818e8,#1818e8,2,0.42331470395906845
 'Jamie Spears',de,unknown,#111111,#111111,1,0.422275416101994
 'Matteo Salvini',de,Italien,#111111,#111111,3,0.4218745628238635
 'Wagner-Chef Prigoschin',de,unknown,#111111,#111111,3,0.4215284726591458
@@ -130,16 +131,16 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Steven Donziger',de,unknown,#111111,#111111,1,0.397375
 'Claudia Kempfert',de,unknown,#111111,#111111,1,0.397375
 'Tasneem Essop',de,unknown,#111111,#111111,1,0.397375
-'Helena Gualinga',de,unknown,#111111,#111111,1,0.397375
 'Minka Indigena',de,unknown,#111111,#111111,1,0.397375
-'Haitham A-Ghais',de,unknown,#111111,#111111,1,0.397375
 'Kyle Pope',de,unknown,#111111,#111111,1,0.397375
-'Mark Hertsgaard',de,unknown,#111111,#111111,1,0.397375
+'Haitham A-Ghais',de,unknown,#111111,#111111,1,0.397375
 'Sophia Kianni',de,unknown,#111111,#111111,1,0.397375
-'Eriberto Gualinga',de,unknown,#111111,#111111,1,0.397375
-'Elizabeth Mpofu',de,unknown,#111111,#111111,1,0.397375
-'Hans Joosten',de,unknown,#111111,#111111,1,0.397375
+'Helena Gualinga',de,unknown,#111111,#111111,1,0.397375
 'Marjan Minnesma',de,unknown,#111111,#111111,1,0.397375
+'Mark Hertsgaard',de,unknown,#111111,#111111,1,0.397375
+'Eriberto Gualinga',de,unknown,#111111,#111111,1,0.397375
+'Hans Joosten',de,unknown,#111111,#111111,1,0.397375
+'Elizabeth Mpofu',de,unknown,#111111,#111111,1,0.397375
 'Prinz Archie',de,UK,#e838e8,#e838e8,3,0.3966614216340557
 'Marine Le Pen',de,Frankreich,#e8e808,#e8e808,3,0.3958509831136363
 'Rudolf Steiner',de,Oesterreich,#111111,#111111,1,0.395632577175
@@ -228,7 +229,6 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Phoebe Bridgers',de,unknown,#111111,#111111,1,0.3710147764268684
 'Pablo Picasso',de,Spanien,#111111,#111111,3,0.3707287646829544
 'Prinz Harry',de,UK,#e838e8,#e838e8,3,0.3704943332341863
-'Katja Krasavice',de,Deutschland,#1818e8,#1818e8,2,0.3704495247269317
 'Kanye West',de,USA,#18e8e8,#18e8e8,2,0.3699310048162996
 'Al Pacino',de,USA,#18e8e8,#18e8e8,2,0.3697049956874431
 'Hillary Clinton',de,USA,#18e8e8,#18e8e8,2,0.3686952654090908
