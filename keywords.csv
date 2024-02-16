@@ -130,10 +130,10 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Minka Indigena',de,unknown,#111111,#111111,1,0.397375
 'Sophia Kianni',de,unknown,#111111,#111111,1,0.397375
 'Mark Hertsgaard',de,unknown,#111111,#111111,1,0.397375
-'Hans Joosten',de,unknown,#111111,#111111,1,0.397375
-'Elizabeth Mpofu',de,unknown,#111111,#111111,1,0.397375
 'Eriberto Gualinga',de,unknown,#111111,#111111,1,0.397375
+'Elizabeth Mpofu',de,unknown,#111111,#111111,1,0.397375
 'Haitham A-Ghais',de,unknown,#111111,#111111,1,0.397375
+'Hans Joosten',de,unknown,#111111,#111111,1,0.397375
 'Tasneem Essop',de,unknown,#111111,#111111,1,0.397375
 'Steven Donziger',de,unknown,#111111,#111111,1,0.397375
 'Claudia Kempfert',de,unknown,#111111,#111111,1,0.397375
@@ -206,7 +206,6 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Jennifer Lopez',de,unknown,#111111,#111111,1,0.3762018164779031
 'Steve Scalise',de,unknown,#111111,#111111,2,0.3760300648202581
 'Sam Altman',de,USA,#18e8e8,#18e8e8,3,0.375802768952092
-'König Charles III',de,UK,#e838e8,#e838e8,3,0.3756126737027762
 'Holger Friedrich',de,Deutschland,#1818e8,#1818e8,3,0.3753448815888888
 'Harrison Ford',de,unknown,#111111,#111111,2,0.3752976605681817
 'Jared Kushner',de,unknown,#111111,#111111,1,0.3745326164797966
@@ -250,6 +249,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Elizabeth Warren',de,unknown,#111111,#111111,1,0.3659796191504791
 'Lula da Silva',de,Brasilien,#58e838,#58e848,3,0.365701607512585
 'Jeffrey Epstein',de,USA,#18e8e8,#18e8e8,1,0.3655114490820765
+'König Charles III',de,UK,#e838e8,#e838e8,3,0.3651385935564507
 'Bill Geddie',de,unknown,#111111,#111111,1,0.3650830786195045
 'Maria Bartiromo',de,unknown,#111111,#111111,1,0.3650069175240795
 'Willy Brandt',de,Deutschland,#1818e8,#1818e8,3,0.3649387227155795
@@ -279,16 +279,16 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Jamie Dimon',de,USA,#18e8e8,#18e8e8,1,0.3615589175613636
 'Katy Perry',de,USA,#18e8e8,#18e8e8,3,0.3614742758982953
 'Chelsea Handler',de,USA,#18e8e8,#18e8e8,1,0.3614000149999999
+'Salvador Dali',de,Spanien,#111111,#111111,1,0.3612499999999999
 'Leon Botstein',de,USA,#18e8e8,#18e8e8,1,0.3612499999999999
 'Sergei Surovikin',de,Russland,#e81818,#e81818,1,0.3612499999999999
 'Uwe Neumärker',de,Deutschland,#1818e8,#1818e8,1,0.3612499999999999
 'Pedro Sánchez Pérez-Castejón',de,Spanien,#111111,#111111,1,0.3612499999999999
-'Salvador Dali',de,Spanien,#111111,#111111,1,0.3612499999999999
-'Moon Hyung-jin',de,USA,#18e8e8,#18e8e8,1,0.3612499999999999
 'Dorothée Pacaud',de,Frankreich,#e8e808,#e8e808,1,0.3612499999999999
 'Gilbert Plass',de,Kanada,#111111,#111111,1,0.3612499999999999
 'Kemal Kiliçdaroglu',de,Türkei,#111111,#111111,1,0.3612499999999999
 'Evgueni Prigojine',de,Russland,#e81818,#e81818,1,0.3612499999999999
+'Moon Hyung-jin',de,USA,#18e8e8,#18e8e8,1,0.3612499999999999
 'Henry Ford',de,USA,#18e8e8,#18e8e8,2,0.3606879322925437
 'Mathias Döpfner',de,Deutschland,#1818e8,#1818e8,2,0.3602330955687252
 'Abraham Lincoln',de,unknown,#111111,#111111,1,0.3596778948624999
@@ -377,7 +377,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Chris Hipkins',de,Neuseeland,#1818e8,#1818e8,1,0.3321833010277083
 'Kamala Harris',de,USA,#18e8e8,#18e8e8,1,0.3315439338875
 'Joe Biden',de,USA,#18e8e8,#18e8e8,3,0.3313125839343794
-'Jennifer Garner',de,unknown,#111111,#111111,1,0.33125470481987557
+'Jennifer Garner',de,unknown,#111111,#111111,1,0.3312547048198755
 'Leonardo da Vinci',de,Italien,#111111,#111111,2,0.3308202578992857
 'Leandro De Niro Rodriguez',de,USA,#18e8e8,#18e8e8,1,0.3292794291875
 'Tony Bennett',de,USA,#18e8e8,#18e8e8,1,0.3289207931388172
