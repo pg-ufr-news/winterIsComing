@@ -14,7 +14,6 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Bob Menendez',de,unknown,#111111,#111111,2,0.4471410180174732
 'Matt Gaetz',de,unknown,#111111,#111111,3,0.4469897569827786
 'David Weiss',de,unknown,#111111,#111111,3,0.4463027992482028
-'Laura Maria Rypa',de,unknown,#111111,#111111,1,0.4455777313878301
 'Greta Gerwig',de,unknown,#111111,#111111,2,0.4432279837754948
 'Steve Wozniak',de,USA,#18e8e8,#18e8e8,2,0.4407248473412628
 'Brittany Mahomes',de,unknown,#111111,#111111,2,0.4404284468158699
@@ -89,6 +88,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Brad Pitt',de,unknown,#111111,#111111,3,0.4154737026025555
 'Charlie Munger',de,unknown,#111111,#111111,3,0.4150281425561133
 'Prinz William',de,UK,#e838e8,#e838e8,3,0.4149050489896557
+'Laura Maria Rypa',de,unknown,#111111,#111111,2,0.41480011233182945
 'Alexander De Croo',de,Belgien,#111111,#111111,3,0.4147860485
 'Selenskyj',de,Ukraine,#e818e8,#e818e8,3,0.4145214148631513
 'Markus Lanz',de,Deutschland,#1818e8,#1818e8,3,0.4142202877335726
@@ -129,11 +129,11 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Sophia Kianni',de,unknown,#111111,#111111,1,0.397375
 'Claudia Kempfert',de,unknown,#111111,#111111,1,0.397375
 'Minka Indigena',de,unknown,#111111,#111111,1,0.397375
-'Kyle Pope',de,unknown,#111111,#111111,1,0.397375
-'Helena Gualinga',de,unknown,#111111,#111111,1,0.397375
 'Elizabeth Mpofu',de,unknown,#111111,#111111,1,0.397375
-'Haitham A-Ghais',de,unknown,#111111,#111111,1,0.397375
+'Kyle Pope',de,unknown,#111111,#111111,1,0.397375
 'Steven Donziger',de,unknown,#111111,#111111,1,0.397375
+'Helena Gualinga',de,unknown,#111111,#111111,1,0.397375
+'Haitham A-Ghais',de,unknown,#111111,#111111,1,0.397375
 'Mark Hertsgaard',de,unknown,#111111,#111111,1,0.397375
 'Tasneem Essop',de,unknown,#111111,#111111,1,0.397375
 'Hans Joosten',de,unknown,#111111,#111111,1,0.397375
