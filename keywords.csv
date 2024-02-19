@@ -277,16 +277,16 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Jamie Dimon',de,USA,#18e8e8,#18e8e8,1,0.3615589175613636
 'Katy Perry',de,USA,#18e8e8,#18e8e8,3,0.3614742758982953
 'Chelsea Handler',de,USA,#18e8e8,#18e8e8,1,0.3614000149999999
+'Salvador Dali',de,Spanien,#111111,#111111,1,0.3612499999999999
 'Sergei Surovikin',de,Russland,#e81818,#e81818,1,0.3612499999999999
 'Uwe Neumärker',de,Deutschland,#1818e8,#1818e8,1,0.3612499999999999
 'Pedro Sánchez Pérez-Castejón',de,Spanien,#111111,#111111,1,0.3612499999999999
 'Moon Hyung-jin',de,USA,#18e8e8,#18e8e8,1,0.3612499999999999
-'Salvador Dali',de,Spanien,#111111,#111111,1,0.3612499999999999
-'Leon Botstein',de,USA,#18e8e8,#18e8e8,1,0.3612499999999999
 'Evgueni Prigojine',de,Russland,#e81818,#e81818,1,0.3612499999999999
 'Dorothée Pacaud',de,Frankreich,#e8e808,#e8e808,1,0.3612499999999999
 'Kemal Kiliçdaroglu',de,Türkei,#111111,#111111,1,0.3612499999999999
 'Gilbert Plass',de,Kanada,#111111,#111111,1,0.3612499999999999
+'Leon Botstein',de,USA,#18e8e8,#18e8e8,1,0.3612499999999999
 'Henry Ford',de,USA,#18e8e8,#18e8e8,2,0.3606879322925437
 'Mathias Döpfner',de,Deutschland,#1818e8,#1818e8,2,0.3602330955687252
 'Abraham Lincoln',de,unknown,#111111,#111111,1,0.3596778948624999
@@ -657,7 +657,6 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Raphael Warnock',de,USA,#18e8e8,#18e8e8,1,0.0984372021703612
 'Steven Milloy',de,USA,#18e8e8,#18e8e8,1,0.0984372021703612
 'Gautam Adani',de,Indien,#111111,#111111,1,0.0980152362022505
-'Nikos Androulakis',de,Griechenland,#1858e8,#1858e8,1,0.0965205489102859
 'Bartholomäus',de,Türkei,#111111,#111111,1,0.0938905547524025
 'Alfred Nobel',de,Schweden,#111111,#111111,1,0.0925864194644085
 'Sergej Lavrov',de,Russland,#e81818,#e81818,1,0.0922427569981809
@@ -671,6 +670,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Patrick Pouyanné',de,Frankreich,#e8e808,#e8e808,1,0.0853757212615144
 'Alberto Ángel Fernández',de,Argentinien,#111111,#111111,1,0.0834899180866222
 'Daniel Zhang',de,China,#e88818,#e88818,1,0.083152075283367
+'Nikos Androulakis',de,Griechenland,#1858e8,#1858e8,1,0.082042466573743
 'Julia Koch',de,USA,#18e8e8,#18e8e8,1,0.0809323051175894
 'Otmar Issing',de,EU,#111111,#111111,1,0.0794324186999218
 'Scott Morrison',de,Australien,#111111,#111111,1,0.0774562832971674
