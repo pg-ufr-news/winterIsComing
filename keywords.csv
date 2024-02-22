@@ -11,7 +11,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Heidi Klum',de,unknown,#111111,#111111,3,0.448536816722784
 'Zach Bryan',de,unknown,#111111,#111111,2,0.4480187543714929
 'Kate Capshaw',de,unknown,#111111,#111111,1,0.44780018
-'Paris Hilton',de,unknown,#111111,#111111,2,0.44763481101423763
+'Paris Hilton',de,unknown,#111111,#111111,2,0.4476348110142376
 'Bob Menendez',de,unknown,#111111,#111111,2,0.4471410180174732
 'Matt Gaetz',de,unknown,#111111,#111111,3,0.4469897569827786
 'David Weiss',de,unknown,#111111,#111111,3,0.4463027992482028
@@ -28,7 +28,6 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'David Beckham',de,unknown,#111111,#111111,3,0.4365747847806818
 'Recep Tayyip Erdogan',de,Türkei,#111111,#111111,3,0.436557779703431
 'Cassidy Hutchinson',de,unknown,#111111,#111111,2,0.4353715131487015
-'Taylor Swift',de,unknown,#111111,#111111,3,0.4352060398316404
 'Travis Kelce',de,unknown,#111111,#111111,3,0.433930137852889
 'Rand Paul',de,unknown,#111111,#111111,1,0.4333319901758871
 'Gisele Bündchen',de,unknown,#111111,#111111,2,0.4331369465778572
@@ -122,15 +121,16 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Lars Klingbeil',de,Deutschland,#1818e8,#1818e8,3,0.3978100444218748
 'Robin Wall Kimmerer',de,unknown,#111111,#111111,1,0.39767503
 'Johan Rockström',de,unknown,#111111,#111111,1,0.3976300255
+'Taylor Swift',de,unknown,#111111,#111111,3,0.39761871158416706
 'Mark Hertsgaard',de,unknown,#111111,#111111,1,0.397375
 'Claudia Kempfert',de,unknown,#111111,#111111,1,0.397375
 'Steven Donziger',de,unknown,#111111,#111111,1,0.397375
-'Sophia Kianni',de,unknown,#111111,#111111,1,0.397375
-'Eriberto Gualinga',de,unknown,#111111,#111111,1,0.397375
 'Tasneem Essop',de,unknown,#111111,#111111,1,0.397375
-'Helena Gualinga',de,unknown,#111111,#111111,1,0.397375
-'Kyle Pope',de,unknown,#111111,#111111,1,0.397375
+'Eriberto Gualinga',de,unknown,#111111,#111111,1,0.397375
+'Sophia Kianni',de,unknown,#111111,#111111,1,0.397375
 'Haitham A-Ghais',de,unknown,#111111,#111111,1,0.397375
+'Kyle Pope',de,unknown,#111111,#111111,1,0.397375
+'Helena Gualinga',de,unknown,#111111,#111111,1,0.397375
 'Elizabeth Mpofu',de,unknown,#111111,#111111,1,0.397375
 'Hans Joosten',de,unknown,#111111,#111111,1,0.397375
 'Marjan Minnesma',de,unknown,#111111,#111111,1,0.397375
@@ -279,12 +279,12 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Chelsea Handler',de,USA,#18e8e8,#18e8e8,1,0.3614000149999999
 'Sergei Surovikin',de,Russland,#e81818,#e81818,1,0.3612499999999999
 'Pedro Sánchez Pérez-Castejón',de,Spanien,#111111,#111111,1,0.3612499999999999
-'Dorothée Pacaud',de,Frankreich,#e8e808,#e8e808,1,0.3612499999999999
-'Gilbert Plass',de,Kanada,#111111,#111111,1,0.3612499999999999
 'Evgueni Prigojine',de,Russland,#e81818,#e81818,1,0.3612499999999999
-'Leon Botstein',de,USA,#18e8e8,#18e8e8,1,0.3612499999999999
-'Salvador Dali',de,Spanien,#111111,#111111,1,0.3612499999999999
+'Gilbert Plass',de,Kanada,#111111,#111111,1,0.3612499999999999
+'Dorothée Pacaud',de,Frankreich,#e8e808,#e8e808,1,0.3612499999999999
 'Uwe Neumärker',de,Deutschland,#1818e8,#1818e8,1,0.3612499999999999
+'Salvador Dali',de,Spanien,#111111,#111111,1,0.3612499999999999
+'Leon Botstein',de,USA,#18e8e8,#18e8e8,1,0.3612499999999999
 'Moon Hyung-jin',de,USA,#18e8e8,#18e8e8,1,0.3612499999999999
 'Kemal Kiliçdaroglu',de,Türkei,#111111,#111111,1,0.3612499999999999
 'Henry Ford',de,USA,#18e8e8,#18e8e8,2,0.3606879322925437
