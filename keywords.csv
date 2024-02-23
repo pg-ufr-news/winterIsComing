@@ -17,7 +17,6 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Steve Wozniak',de,USA,#18e8e8,#18e8e8,2,0.4407248473412628
 'Brittany Mahomes',de,unknown,#111111,#111111,2,0.4404284468158699
 'Gabriel Attal',de,unknown,#111111,#111111,2,0.4401341102192293
-'John Fetterman',de,unknown,#111111,#111111,2,0.4397130657713547
 'Carter Reum',de,unknown,#111111,#111111,1,0.4396752246140524
 'Mark Cuban',de,unknown,#111111,#111111,2,0.4383147753308816
 'Lauren Sanchez',de,USA,#18e8e8,#18e8e8,1,0.438101304325546
@@ -28,7 +27,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Cassidy Hutchinson',de,unknown,#111111,#111111,2,0.4353715131487015
 'Travis Kelce',de,unknown,#111111,#111111,3,0.433930137852889
 'Rand Paul',de,unknown,#111111,#111111,1,0.4333319901758871
-'Dua Lipa',de,unknown,#111111,#111111,3,0.43331324197837945
+'Dua Lipa',de,unknown,#111111,#111111,3,0.4333132419783794
 'Gisele Bündchen',de,unknown,#111111,#111111,2,0.4331369465778572
 'Edouard Philippe',de,unknown,#111111,#111111,1,0.4330033123150013
 'Barbara Schöneberger',de,Deutschland,#1818e8,#1818e8,2,0.4329086527499999
@@ -122,15 +121,15 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Robin Wall Kimmerer',de,unknown,#111111,#111111,1,0.39767503
 'Johan Rockström',de,unknown,#111111,#111111,1,0.3976300255
 'Taylor Swift',de,unknown,#111111,#111111,3,0.397618711584167
-'Mark Hertsgaard',de,unknown,#111111,#111111,1,0.397375
-'Claudia Kempfert',de,unknown,#111111,#111111,1,0.397375
 'Steven Donziger',de,unknown,#111111,#111111,1,0.397375
 'Tasneem Essop',de,unknown,#111111,#111111,1,0.397375
+'Helena Gualinga',de,unknown,#111111,#111111,1,0.397375
+'Claudia Kempfert',de,unknown,#111111,#111111,1,0.397375
+'Mark Hertsgaard',de,unknown,#111111,#111111,1,0.397375
 'Eriberto Gualinga',de,unknown,#111111,#111111,1,0.397375
 'Sophia Kianni',de,unknown,#111111,#111111,1,0.397375
-'Haitham A-Ghais',de,unknown,#111111,#111111,1,0.397375
 'Kyle Pope',de,unknown,#111111,#111111,1,0.397375
-'Helena Gualinga',de,unknown,#111111,#111111,1,0.397375
+'Haitham A-Ghais',de,unknown,#111111,#111111,1,0.397375
 'Elizabeth Mpofu',de,unknown,#111111,#111111,1,0.397375
 'Hans Joosten',de,unknown,#111111,#111111,1,0.397375
 'Marjan Minnesma',de,unknown,#111111,#111111,1,0.397375
@@ -208,6 +207,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'António Guterres',de,unknown,#111111,#111111,2,0.3741240946789204
 'Michelle O\'Neill',de,Irland,#111111,#111111,1,0.3740646742142857
 'Laurent Berger',de,Frankreich,#e8e808,#e8e808,2,0.37391291625
+'John Fetterman',de,unknown,#111111,#111111,1,0.3737561059056515
 'Christine Lambrecht',de,Deutschland,#1818e8,#1818e8,2,0.3736931517795454
 'Jessy Wellmer',de,unknown,#111111,#111111,1,0.3735660314359089
 'Caren Miosga',de,Deutschland,#1818e8,#1818e8,3,0.3733710154719989
@@ -278,13 +278,13 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Chelsea Handler',de,USA,#18e8e8,#18e8e8,1,0.3614000149999999
 'Pedro Sánchez Pérez-Castejón',de,Spanien,#111111,#111111,1,0.3612499999999999
 'Gilbert Plass',de,Kanada,#111111,#111111,1,0.3612499999999999
-'Dorothée Pacaud',de,Frankreich,#e8e808,#e8e808,1,0.3612499999999999
-'Sergei Surovikin',de,Russland,#e81818,#e81818,1,0.3612499999999999
 'Evgueni Prigojine',de,Russland,#e81818,#e81818,1,0.3612499999999999
-'Moon Hyung-jin',de,USA,#18e8e8,#18e8e8,1,0.3612499999999999
+'Sergei Surovikin',de,Russland,#e81818,#e81818,1,0.3612499999999999
+'Dorothée Pacaud',de,Frankreich,#e8e808,#e8e808,1,0.3612499999999999
+'Leon Botstein',de,USA,#18e8e8,#18e8e8,1,0.3612499999999999
 'Salvador Dali',de,Spanien,#111111,#111111,1,0.3612499999999999
 'Uwe Neumärker',de,Deutschland,#1818e8,#1818e8,1,0.3612499999999999
-'Leon Botstein',de,USA,#18e8e8,#18e8e8,1,0.3612499999999999
+'Moon Hyung-jin',de,USA,#18e8e8,#18e8e8,1,0.3612499999999999
 'Kemal Kiliçdaroglu',de,Türkei,#111111,#111111,1,0.3612499999999999
 'Henry Ford',de,USA,#18e8e8,#18e8e8,2,0.3606879322925437
 'Mathias Döpfner',de,Deutschland,#1818e8,#1818e8,2,0.3602330955687252
