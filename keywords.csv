@@ -1,5 +1,4 @@
 keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
-'Jens Spahn',de,Deutschland,#1818e8,#1818e8,3,0.4524130498200771
 'Leni Klum',de,unknown,#111111,#111111,3,0.4514549266196611
 'Robert Downey Jr',de,unknown,#111111,#111111,2,0.450027604930768
 'Indiana Jones',de,unknown,#111111,#111111,3,0.4495579743463928
@@ -19,6 +18,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'David Beckham',de,unknown,#111111,#111111,3,0.4365747847806818
 'Recep Tayyip Erdogan',de,Türkei,#111111,#111111,3,0.436557779703431
 'Cassidy Hutchinson',de,unknown,#111111,#111111,2,0.4353715131487015
+'Jens Spahn',de,Deutschland,#1818e8,#1818e8,3,0.434956807801611
 'Travis Kelce',de,unknown,#111111,#111111,3,0.433930137852889
 'Dua Lipa',de,unknown,#111111,#111111,3,0.4333132419783794
 'Gisele Bündchen',de,unknown,#111111,#111111,2,0.4331369465778572
@@ -326,7 +326,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Laura Maria Rypa',de,unknown,#111111,#111111,1,0.352580260482055
 'Noor Alfallah',de,USA,#18e8e8,#18e8e8,1,0.3523730303751874
 'Prinz Andrew',de,UK,#e838e8,#e838e8,3,0.3514093522420453
-'Gayle King',de,unknown,#111111,#111111,1,0.35129511228461935
+'Gayle King',de,unknown,#111111,#111111,1,0.3512951122846193
 'George Floyd',de,USA,#18e8e8,#18e8e8,2,0.3512483837249999
 'Papst Franziskus',de,Vatikan,#58b8e8,#58b8e8,3,0.3510299150028324
 'Cem Özdemir',de,Deutschland,#1818e8,#1818e8,3,0.3509877427356347
