@@ -362,8 +362,8 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Jean Carroll',de,USA,#18e8e8,#18e8e8,2,0.33829535119902
 'Prinz Louis',de,UK,#e838e8,#e838e8,2,0.3381728839790176
 'Tucker Carlson',de,USA,#18e8e8,#18e8e8,1,0.338091972310273
-'Minka Indigena',de,unknown,#111111,#111111,1,0.3377687499999999
 'Autumn Peltier',de,unknown,#111111,#111111,1,0.3377687499999999
+'Minka Indigena',de,unknown,#111111,#111111,1,0.3377687499999999
 'Ron DeSantis',de,USA,#18e8e8,#18e8e8,3,0.335952659677906
 'Stockton Rush',de,USA,#18e8e8,#18e8e8,3,0.3356858441934091
 'Richard David Precht',de,Deutschland,#1818e8,#1818e8,1,0.3354765860040567
@@ -450,6 +450,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Selenski',de,Ukraine,#e818e8,#e818e8,2,0.280381246354516
 'Papst Benedikt XVI',de,Vatikan,#58b8e8,#58b8e8,3,0.2803198878619299
 'Ulf Poschardt',de,Deutschland,#1818e8,#1818e8,2,0.2799638525841484
+'Hun Sen',de,Kambodscha,#111111,#111111,2,0.2792928061473924
 'Martin Scorsese',de,USA,#18e8e8,#18e8e8,2,0.2765116034836655
 'Stephen Hawking',de,UK,#e838e8,#e838e8,1,0.275303918138122
 'Geoffrey Hinton',de,UK,#e838e8,#e838e8,1,0.2727559061797484
@@ -503,8 +504,8 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Mohammed bin Salman',de,SaudiArabien,#111111,#111111,3,0.2258793669860262
 'John Paul II',de,Vatikan,#58b8e8,#58b8e8,1,0.2234445607214374
 'Jean-Jacques Rousseau',de,Schweiz,#111111,#111111,1,0.2223234995640312
-'Megyn Kell',de,USA,#18e8e8,#18e8e8,1,0.2218526562499999
 'Robert Nozick',de,USA,#18e8e8,#18e8e8,1,0.2218526562499999
+'Megyn Kell',de,USA,#18e8e8,#18e8e8,1,0.2218526562499999
 'Sergej Schoigu',de,Russland,#e81818,#e81818,3,0.2218285882839788
 'Bruno Kahl',de,Deutschland,#1818e8,#1818e8,2,0.2205390953043907
 'Eva Kaili',de,EU,#111111,#111111,3,0.2197861341940745
@@ -599,7 +600,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Bill Gates',de,USA,#18e8e8,#18e8e8,3,0.1690003963534724
 'Kim Jong-un',de,NordKorea,#e85858,#e85858,3,0.1669946821293978
 'Michael Cohen',de,USA,#18e8e8,#18e8e8,1,0.1660156884448421
-'Immanuel Kant',de,Deutschland,#1818e8,#1818e8,2,0.16588902705423392
+'Immanuel Kant',de,Deutschland,#1818e8,#1818e8,2,0.1658890270542339
 'Benjamin Netanjahu',de,Israel,#111111,#111111,3,0.1641255470614374
 'Nicola Sturgeon',de,UK,#e838e8,#e838e8,2,0.1632700488409633
 'Christoph Heusgen',de,Deutschland,#1818e8,#1818e8,2,0.1612007755474939
@@ -608,7 +609,6 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Edir Macedo',de,Brasilien,#58e838,#58e848,1,0.1602885441406249
 'Andreas Baum',de,Deutschland,#1818e8,#1818e8,1,0.1584502875557973
 'Andrés Manuel López Obrador',de,Mexiko,#111111,#111111,2,0.1545336894397846
-'Hun Sen',de,Kambodscha,#111111,#111111,1,0.1519326954675205
 'Christine Lagarde',de,EU,#111111,#111111,3,0.1517491587387547
 'Volker Wissing',de,Deutschland,#1818e8,#1818e8,3,0.1509181475313735
 'David Malpass',de,USA,#18e8e8,#18e8e8,1,0.1496457276356005
