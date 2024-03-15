@@ -272,16 +272,16 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Jamie Dimon',de,USA,#18e8e8,#18e8e8,1,0.3615589175613636
 'Katy Perry',de,USA,#18e8e8,#18e8e8,3,0.3614742758982953
 'Chelsea Handler',de,USA,#18e8e8,#18e8e8,1,0.3614000149999999
+'Kemal Kiliçdaroglu',de,Türkei,#111111,#111111,1,0.3612499999999999
 'Evgueni Prigojine',de,Russland,#e81818,#e81818,1,0.3612499999999999
 'Salvador Dali',de,Spanien,#111111,#111111,1,0.3612499999999999
 'Gilbert Plass',de,Kanada,#111111,#111111,1,0.3612499999999999
 'Pedro Sánchez Pérez-Castejón',de,Spanien,#111111,#111111,1,0.3612499999999999
-'Kemal Kiliçdaroglu',de,Türkei,#111111,#111111,1,0.3612499999999999
-'Sergei Surovikin',de,Russland,#e81818,#e81818,1,0.3612499999999999
 'Leon Botstein',de,USA,#18e8e8,#18e8e8,1,0.3612499999999999
 'Uwe Neumärker',de,Deutschland,#1818e8,#1818e8,1,0.3612499999999999
 'Dorothée Pacaud',de,Frankreich,#e8e808,#e8e808,1,0.3612499999999999
 'Moon Hyung-jin',de,USA,#18e8e8,#18e8e8,1,0.3612499999999999
+'Sergei Surovikin',de,Russland,#e81818,#e81818,1,0.3612499999999999
 'Henry Ford',de,USA,#18e8e8,#18e8e8,2,0.3606879322925437
 'Hugh Grant',de,unknown,#111111,#111111,2,0.3606844371103204
 'Mathias Döpfner',de,Deutschland,#1818e8,#1818e8,2,0.3602330955687252
@@ -362,10 +362,10 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Jean Carroll',de,USA,#18e8e8,#18e8e8,2,0.33829535119902
 'Prinz Louis',de,UK,#e838e8,#e838e8,2,0.3381728839790176
 'Tucker Carlson',de,USA,#18e8e8,#18e8e8,1,0.338091972310273
-'Haitham A-Ghais',de,unknown,#111111,#111111,1,0.3377687499999999
 'Hans Joosten',de,unknown,#111111,#111111,1,0.3377687499999999
-'Autumn Peltier',de,unknown,#111111,#111111,1,0.3377687499999999
+'Haitham A-Ghais',de,unknown,#111111,#111111,1,0.3377687499999999
 'Minka Indigena',de,unknown,#111111,#111111,1,0.3377687499999999
+'Autumn Peltier',de,unknown,#111111,#111111,1,0.3377687499999999
 'Ron DeSantis',de,USA,#18e8e8,#18e8e8,3,0.335952659677906
 'Stockton Rush',de,USA,#18e8e8,#18e8e8,3,0.3356858441934091
 'Richard David Precht',de,Deutschland,#1818e8,#1818e8,1,0.3354765860040567
@@ -427,11 +427,11 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Sean Hannity',de,unknown,#111111,#111111,1,0.3080275551135952
 'Ayatollah Chamenei',de,Iran,#111111,#111111,1,0.3077702407625
 'Andreas Jung',de,Deutschland,#1818e8,#1818e8,3,0.3074824027518248
-'Yevgeny Prigozhin',de,Russland,#e81818,#e81818,1,0.3070624999999999
-'Detlef Garbe',de,Deutschland,#1818e8,#1818e8,1,0.3070624999999999
-'Andrei Nikolajewitsch Kolmogorow',de,Russland,#e81818,#e81818,1,0.3070624999999999
-'Camille Etienne',de,Frankreich,#e8e808,#e8e808,1,0.3070624999999999
 'Pierre-Yves Dermagne',de,Belgien,#111111,#111111,1,0.3070624999999999
+'Detlef Garbe',de,Deutschland,#1818e8,#1818e8,1,0.3070624999999999
+'Yevgeny Prigozhin',de,Russland,#e81818,#e81818,1,0.3070624999999999
+'Camille Etienne',de,Frankreich,#e8e808,#e8e808,1,0.3070624999999999
+'Andrei Nikolajewitsch Kolmogorow',de,Russland,#e81818,#e81818,1,0.3070624999999999
 'Olaf Scholz',de,Deutschland,#1818e8,#1818e8,3,0.3060209566291014
 'Kevin Kühnert',de,Deutschland,#1818e8,#1818e8,3,0.3052661568897969
 'Charles III',de,UK,#e838e8,#e838e8,3,0.3046119308651951
@@ -681,7 +681,6 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Patrick Pouyanné',de,Frankreich,#e8e808,#e8e808,1,0.0853757212615144
 'Alberto Ángel Fernández',de,Argentinien,#111111,#111111,1,0.0834899180866222
 'Daniel Zhang',de,China,#e88818,#e88818,1,0.083152075283367
-'Nikos Androulakis',de,Griechenland,#1858e8,#1858e8,1,0.082042466573743
 'Julia Koch',de,USA,#18e8e8,#18e8e8,1,0.0809323051175894
 'Otmar Issing',de,EU,#111111,#111111,1,0.0794324186999218
 'Scott Morrison',de,Australien,#111111,#111111,1,0.0774562832971674
@@ -692,6 +691,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Ayatollah Ali Chamenei',de,Iran,#111111,#111111,1,0.0733985429304377
 'Lee Hsien Loong',de,Singapur,#111111,#111111,1,0.0709408151548235
 'Joko Widodo',de,Indonesien,#111111,#111111,1,0.0703633293526296
+'Nikos Androulakis',de,Griechenland,#1858e8,#1858e8,1,0.07003612658768156
 'Susanne Klatten',de,Deutschland,#1818e8,#1818e8,1,0.0693839367389936
 'Generalbundesanwalt Peter Frank',de,Deutschland,#1818e8,#1818e8,1,0.0692972604849674
 'Andreas Jödecke',de,Deutschland,#1818e8,#1818e8,1,0.0687883579636407
