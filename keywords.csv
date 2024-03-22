@@ -107,15 +107,15 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Lars Klingbeil',de,Deutschland,#1818e8,#1818e8,3,0.3978100444218748
 'Robin Wall Kimmerer',de,unknown,#111111,#111111,1,0.39767503
 'Taylor Swift',de,unknown,#111111,#111111,3,0.397618711584167
+'Elizabeth Mpofu',de,unknown,#111111,#111111,1,0.397375
 'Sophia Kianni',de,unknown,#111111,#111111,1,0.397375
 'Eriberto Gualinga',de,unknown,#111111,#111111,1,0.397375
 'Kyle Pope',de,unknown,#111111,#111111,1,0.397375
-'Marjan Minnesma',de,unknown,#111111,#111111,1,0.397375
-'Elizabeth Mpofu',de,unknown,#111111,#111111,1,0.397375
-'Tasneem Essop',de,unknown,#111111,#111111,1,0.397375
 'Steven Donziger',de,unknown,#111111,#111111,1,0.397375
+'Marjan Minnesma',de,unknown,#111111,#111111,1,0.397375
 'Claudia Kempfert',de,unknown,#111111,#111111,1,0.397375
 'Mark Hertsgaard',de,unknown,#111111,#111111,1,0.397375
+'Tasneem Essop',de,unknown,#111111,#111111,1,0.397375
 'Marine Le Pen',de,Frankreich,#e8e808,#e8e808,3,0.3958509831136363
 'Rudolf Steiner',de,Oesterreich,#111111,#111111,1,0.395632577175
 'Königin Camilla',de,UK,#e838e8,#e838e8,3,0.3951162089659538
@@ -271,17 +271,17 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Jamie Dimon',de,USA,#18e8e8,#18e8e8,1,0.3615589175613636
 'Katy Perry',de,USA,#18e8e8,#18e8e8,3,0.3614742758982953
 'Chelsea Handler',de,USA,#18e8e8,#18e8e8,1,0.3614000149999999
+'Salvador Dali',de,Spanien,#111111,#111111,1,0.3612499999999999
 'Patti LaBelle',de,USA,#18e8e8,#18e8e8,1,0.3612499999999999
 'Pedro Sánchez Pérez-Castejón',de,Spanien,#111111,#111111,1,0.3612499999999999
 'Uwe Neumärker',de,Deutschland,#1818e8,#1818e8,1,0.3612499999999999
 'Leon Botstein',de,USA,#18e8e8,#18e8e8,1,0.3612499999999999
 'Gilbert Plass',de,Kanada,#111111,#111111,1,0.3612499999999999
-'Moon Hyung-jin',de,USA,#18e8e8,#18e8e8,1,0.3612499999999999
-'Salvador Dali',de,Spanien,#111111,#111111,1,0.3612499999999999
 'Sergei Surovikin',de,Russland,#e81818,#e81818,1,0.3612499999999999
 'Evgueni Prigojine',de,Russland,#e81818,#e81818,1,0.3612499999999999
 'Kemal Kiliçdaroglu',de,Türkei,#111111,#111111,1,0.3612499999999999
 'Dorothée Pacaud',de,Frankreich,#e8e808,#e8e808,1,0.3612499999999999
+'Moon Hyung-jin',de,USA,#18e8e8,#18e8e8,1,0.3612499999999999
 'Henry Ford',de,USA,#18e8e8,#18e8e8,2,0.3606879322925437
 'Hugh Grant',de,unknown,#111111,#111111,2,0.3606844371103204
 'Mathias Döpfner',de,Deutschland,#1818e8,#1818e8,2,0.3602330955687252
@@ -503,6 +503,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Ricarda Lang',de,Deutschland,#1818e8,#1818e8,3,0.2363265143606869
 'Gabor Steingart',de,Deutschland,#1818e8,#1818e8,2,0.2354302087174241
 'Faisal Kawusi',de,Deutschland,#1818e8,#1818e8,1,0.2352341799531249
+'Stephan Harbarth',de,Deutschland,#1818e8,#1818e8,1,0.23461186759190322
 'Luisa Neubauer',de,Deutschland,#1818e8,#1818e8,3,0.2345124690033713
 'Martin Schirdewan',de,Deutschland,#1818e8,#1818e8,3,0.2327807335849112
 'Joschka Fischer',de,Deutschland,#1818e8,#1818e8,1,0.2324487513776068
@@ -559,7 +560,6 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Vitali Klitschko',de,Ukraine,#e818e8,#e818e8,3,0.1927947062880127
 'Rafael Grossi',de,UN,#e888e8,#e888e8,3,0.1926627400628053
 'Larry Ellison',de,USA,#18e8e8,#18e8e8,1,0.1925659326697446
-'Stephan Harbarth',de,Deutschland,#1818e8,#1818e8,1,0.1922716510130988
 'Alexander Lukaschenko',de,Belarus,#e81858,#e81858,3,0.1921509192253621
 'Michael Kretschmer',de,Deutschland,#1818e8,#1818e8,3,0.1920399908863049
 'Greta Thunberg',de,Schweden,#111111,#111111,3,0.192022202079363
