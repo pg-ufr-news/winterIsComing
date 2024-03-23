@@ -105,15 +105,15 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Lars Klingbeil',de,Deutschland,#1818e8,#1818e8,3,0.3978100444218748
 'Robin Wall Kimmerer',de,unknown,#111111,#111111,1,0.39767503
 'Taylor Swift',de,unknown,#111111,#111111,3,0.397618711584167
+'Eriberto Gualinga',de,unknown,#111111,#111111,1,0.397375
 'Steven Donziger',de,unknown,#111111,#111111,1,0.397375
 'Kyle Pope',de,unknown,#111111,#111111,1,0.397375
 'Claudia Kempfert',de,unknown,#111111,#111111,1,0.397375
 'Mark Hertsgaard',de,unknown,#111111,#111111,1,0.397375
-'Elizabeth Mpofu',de,unknown,#111111,#111111,1,0.397375
-'Eriberto Gualinga',de,unknown,#111111,#111111,1,0.397375
 'Tasneem Essop',de,unknown,#111111,#111111,1,0.397375
 'Marjan Minnesma',de,unknown,#111111,#111111,1,0.397375
 'Sophia Kianni',de,unknown,#111111,#111111,1,0.397375
+'Elizabeth Mpofu',de,unknown,#111111,#111111,1,0.397375
 'Marine Le Pen',de,Frankreich,#e8e808,#e8e808,3,0.3958509831136363
 'Rudolf Steiner',de,Oesterreich,#111111,#111111,1,0.395632577175
 'Königin Camilla',de,UK,#e838e8,#e838e8,3,0.3951162089659538
@@ -123,7 +123,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Lance Bass',de,unknown,#111111,#111111,1,0.3942214340492417
 'Mira Murati',de,unknown,#111111,#111111,2,0.3939653667300533
 'Olivia Rodrigo',de,unknown,#111111,#111111,2,0.3936209260507368
-'Geert Wilders',de,Niederlande,#111111,#111111,3,0.39312407350602263
+'Geert Wilders',de,Niederlande,#111111,#111111,3,0.3931240735060226
 'Lady Gaga',de,USA,#18e8e8,#18e8e8,2,0.3930541669285714
 'Oliver Anthony',de,unknown,#111111,#111111,2,0.392927328
 'Tom Kaulitz',de,unknown,#111111,#111111,2,0.3928926299378852
@@ -271,17 +271,17 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Jamie Dimon',de,USA,#18e8e8,#18e8e8,1,0.3615589175613636
 'Katy Perry',de,USA,#18e8e8,#18e8e8,3,0.3614742758982953
 'Chelsea Handler',de,USA,#18e8e8,#18e8e8,1,0.3614000149999999
+'Moon Hyung-jin',de,USA,#18e8e8,#18e8e8,1,0.3612499999999999
 'Dorothée Pacaud',de,Frankreich,#e8e808,#e8e808,1,0.3612499999999999
 'Kemal Kiliçdaroglu',de,Türkei,#111111,#111111,1,0.3612499999999999
 'Evgueni Prigojine',de,Russland,#e81818,#e81818,1,0.3612499999999999
 'Sergei Surovikin',de,Russland,#e81818,#e81818,1,0.3612499999999999
 'Salvador Dali',de,Spanien,#111111,#111111,1,0.3612499999999999
-'Patti LaBelle',de,USA,#18e8e8,#18e8e8,1,0.3612499999999999
-'Moon Hyung-jin',de,USA,#18e8e8,#18e8e8,1,0.3612499999999999
 'Gilbert Plass',de,Kanada,#111111,#111111,1,0.3612499999999999
 'Leon Botstein',de,USA,#18e8e8,#18e8e8,1,0.3612499999999999
 'Uwe Neumärker',de,Deutschland,#1818e8,#1818e8,1,0.3612499999999999
 'Pedro Sánchez Pérez-Castejón',de,Spanien,#111111,#111111,1,0.3612499999999999
+'Patti LaBelle',de,USA,#18e8e8,#18e8e8,1,0.3612499999999999
 'Henry Ford',de,USA,#18e8e8,#18e8e8,2,0.3606879322925437
 'Hugh Grant',de,unknown,#111111,#111111,2,0.3606844371103204
 'Mathias Döpfner',de,Deutschland,#1818e8,#1818e8,2,0.3602330955687252
@@ -547,7 +547,6 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Edward Snowden',de,USA,#18e8e8,#18e8e8,2,0.1987729285793817
 'Martin Sonneborn',de,Deutschland,#1818e8,#1818e8,1,0.1984952017774636
 'Boris Palmer',de,Deutschland,#1818e8,#1818e8,2,0.1982764948245929
-'Anthony Albanese',de,Australien,#111111,#111111,2,0.1980236573727632
 'Katharina König-Press',de,Deutschland,#1818e8,#1818e8,2,0.1957494633347225
 'Tamim Hamad Thani',de,Katar,#111111,#111111,2,0.1953225600778274
 'Christian Drosten',de,Deutschland,#1818e8,#1818e8,2,0.1947864542230563
@@ -606,6 +605,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Jack Ma',de,China,#e88818,#e88818,1,0.1704717007485522
 'Karl Nehammer',de,Oesterreich,#111111,#111111,3,0.1704244234258934
 'Bill Gates',de,USA,#18e8e8,#18e8e8,3,0.1690003963534724
+'Anthony Albanese',de,Australien,#111111,#111111,1,0.16832040876684873
 'Kim Jong-un',de,NordKorea,#e85858,#e85858,3,0.1669946821293978
 'Klaus-Michael Kühne',de,Deutschland,#1818e8,#1818e8,2,0.166959320396255
 'Michael Cohen',de,USA,#18e8e8,#18e8e8,1,0.1660156884448421
