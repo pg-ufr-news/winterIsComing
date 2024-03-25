@@ -15,7 +15,6 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Jake Tapper',de,unknown,#111111,#111111,1,0.4366836510087887
 'David Beckham',de,unknown,#111111,#111111,3,0.4365747847806818
 'Recep Tayyip Erdogan',de,Türkei,#111111,#111111,3,0.436557779703431
-'Jimmy Kimmel',de,unknown,#111111,#111111,2,0.4355494206222386
 'Cassidy Hutchinson',de,unknown,#111111,#111111,2,0.4353715131487015
 'Jens Spahn',de,Deutschland,#1818e8,#1818e8,3,0.434956807801611
 'Travis Kelce',de,unknown,#111111,#111111,3,0.433930137852889
@@ -50,6 +49,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Greg Brockman',de,unknown,#111111,#111111,1,0.4258946591257372
 'Kim Kardashian',de,USA,#18e8e8,#18e8e8,3,0.4258684540191294
 'Hazel Monét',de,unknown,#111111,#111111,2,0.4256932569380791
+'Jimmy Kimmel',de,unknown,#111111,#111111,3,0.4251690025289028
 'Queen Elizabeth II',de,UK,#e838e8,#e838e8,3,0.4247986346727272
 'Barbara Schöneberger',de,Deutschland,#1818e8,#1818e8,2,0.4236444884089285
 'Selena Gomez',de,unknown,#111111,#111111,1,0.423593360330064
@@ -106,11 +106,11 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Taylor Swift',de,unknown,#111111,#111111,3,0.397618711584167
 'Steven Donziger',de,unknown,#111111,#111111,1,0.397375
 'Claudia Kempfert',de,unknown,#111111,#111111,1,0.397375
-'Tasneem Essop',de,unknown,#111111,#111111,1,0.397375
-'Kyle Pope',de,unknown,#111111,#111111,1,0.397375
-'Mark Hertsgaard',de,unknown,#111111,#111111,1,0.397375
-'Marjan Minnesma',de,unknown,#111111,#111111,1,0.397375
 'Elizabeth Mpofu',de,unknown,#111111,#111111,1,0.397375
+'Kyle Pope',de,unknown,#111111,#111111,1,0.397375
+'Tasneem Essop',de,unknown,#111111,#111111,1,0.397375
+'Marjan Minnesma',de,unknown,#111111,#111111,1,0.397375
+'Mark Hertsgaard',de,unknown,#111111,#111111,1,0.397375
 'Sophia Kianni',de,unknown,#111111,#111111,1,0.397375
 'Eriberto Gualinga',de,unknown,#111111,#111111,1,0.397375
 'Marine Le Pen',de,Frankreich,#e8e808,#e8e808,3,0.3958509831136363
@@ -271,17 +271,17 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Jamie Dimon',de,USA,#18e8e8,#18e8e8,1,0.3615589175613636
 'Katy Perry',de,USA,#18e8e8,#18e8e8,3,0.3614742758982953
 'Chelsea Handler',de,USA,#18e8e8,#18e8e8,1,0.3614000149999999
+'Salvador Dali',de,Spanien,#111111,#111111,1,0.3612499999999999
 'Patti LaBelle',de,USA,#18e8e8,#18e8e8,1,0.3612499999999999
 'Uwe Neumärker',de,Deutschland,#1818e8,#1818e8,1,0.3612499999999999
 'Leon Botstein',de,USA,#18e8e8,#18e8e8,1,0.3612499999999999
 'Gilbert Plass',de,Kanada,#111111,#111111,1,0.3612499999999999
 'Moon Hyung-jin',de,USA,#18e8e8,#18e8e8,1,0.3612499999999999
-'Dorothée Pacaud',de,Frankreich,#e8e808,#e8e808,1,0.3612499999999999
-'Salvador Dali',de,Spanien,#111111,#111111,1,0.3612499999999999
 'Sergei Surovikin',de,Russland,#e81818,#e81818,1,0.3612499999999999
 'Evgueni Prigojine',de,Russland,#e81818,#e81818,1,0.3612499999999999
 'Kemal Kiliçdaroglu',de,Türkei,#111111,#111111,1,0.3612499999999999
 'Pedro Sánchez Pérez-Castejón',de,Spanien,#111111,#111111,1,0.3612499999999999
+'Dorothée Pacaud',de,Frankreich,#e8e808,#e8e808,1,0.3612499999999999
 'Henry Ford',de,USA,#18e8e8,#18e8e8,2,0.3606879322925437
 'Hugh Grant',de,unknown,#111111,#111111,2,0.3606844371103204
 'Mathias Döpfner',de,Deutschland,#1818e8,#1818e8,2,0.3602330955687252
@@ -397,7 +397,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Shahzada Dawood',de,Pakistan,#111111,#111111,2,0.3225784768272726
 'Mario Czaja',de,Deutschland,#1818e8,#1818e8,1,0.3223007763015836
 'Peter Tschentscher',de,Deutschland,#1818e8,#1818e8,2,0.3210594086783664
-'Selenski',de,Ukraine,#e818e8,#e818e8,3,0.32104398017056934
+'Selenski',de,Ukraine,#e818e8,#e818e8,3,0.3210439801705693
 'Georg Bätzing',de,Deutschland,#1818e8,#1818e8,2,0.3199244797808566
 'Chez Krömer',de,Deutschland,#1818e8,#1818e8,1,0.3198003061974999
 'Harrison Ford',de,unknown,#111111,#111111,2,0.3193035364829544
