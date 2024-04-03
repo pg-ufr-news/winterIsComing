@@ -140,7 +140,6 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Wolfgang Kubicki',de,Deutschland,#1818e8,#1818e8,3,0.3858334997092045
 'Roberto Saviano',de,unknown,#111111,#111111,1,0.38579273175
 'Fani Willis',de,unknown,#111111,#111111,2,0.3857869017175083
-'Mike Johnson',de,unknown,#111111,#111111,3,0.3856892107443181
 'Rachida Dati',de,unknown,#111111,#111111,2,0.3854884059159367
 'Pete Davidson',de,USA,#18e8e8,#18e8e8,1,0.3853754438125
 'nan nan',de,unknown,#111111,#111111,1,0.3853401725461829
@@ -163,6 +162,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Gérald Darmanin',de,Frankreich,#e8e808,#e8e808,2,0.37902619325
 'Erich Honecker',de,Deutschland,#1818e8,#1818e8,1,0.3785252529153846
 'Meryl Streep',de,unknown,#111111,#111111,1,0.3784469849408833
+'Mike Johnson',de,unknown,#111111,#111111,3,0.3782438545872159
 'Bettina Stark-Watzinger',de,Deutschland,#1818e8,#1818e8,3,0.3782420321639772
 'Kim Yo Jong',de,NordKorea,#111111,#111111,1,0.378207617
 'David Koch',de,unknown,#111111,#111111,2,0.3779829133264028
@@ -269,9 +269,9 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Evgueni Prigojine',de,Russland,#e81818,#e81818,1,0.3612499999999999
 'Kemal Kiliçdaroglu',de,Türkei,#111111,#111111,1,0.3612499999999999
 'Pedro Sánchez Pérez-Castejón',de,Spanien,#111111,#111111,1,0.3612499999999999
-'Patti LaBelle',de,USA,#18e8e8,#18e8e8,1,0.3612499999999999
 'Moon Hyung-jin',de,USA,#18e8e8,#18e8e8,1,0.3612499999999999
 'Gilbert Plass',de,Kanada,#111111,#111111,1,0.3612499999999999
+'Patti LaBelle',de,USA,#18e8e8,#18e8e8,1,0.3612499999999999
 'Uwe Neumärker',de,Deutschland,#1818e8,#1818e8,1,0.3612499999999999
 'Salvador Dali',de,Spanien,#111111,#111111,1,0.3612499999999999
 'Sergei Surovikin',de,Russland,#e81818,#e81818,1,0.3612499999999999
@@ -493,7 +493,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Tamim bin Hamad Al Thani',de,Katar,#111111,#111111,3,0.2505397764334006
 'Katalin Novák',de,Ungarn,#111111,#111111,1,0.2499202878619708
 'Jewgeni Prigoschin',de,Russland,#e81818,#e81818,3,0.2490947719169399
-'Cillian Murphy',de,Irland,#111111,#111111,2,0.24799673498516242
+'Cillian Murphy',de,Irland,#111111,#111111,2,0.2479967349851624
 'Charles Michel',de,EU,#111111,#111111,2,0.2467550776402848
 'Wolodymyr Selenski',de,Ukraine,#e818e8,#e818e8,3,0.2439872043011605
 'Jordan Bardella',de,Frankreich,#e8e808,#e8e808,2,0.24314759164691
