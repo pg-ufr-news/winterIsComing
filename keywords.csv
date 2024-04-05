@@ -5,7 +5,6 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Robert Downey Jr',de,unknown,#111111,#111111,2,0.450027604930768
 'Heidi Klum',de,unknown,#111111,#111111,3,0.448536816722784
 'Paris Hilton',de,unknown,#111111,#111111,2,0.4476348110142376
-'Greta Gerwig',de,unknown,#111111,#111111,2,0.4432279837754948
 'Franca Lehfeldt',de,Deutschland,#1818e8,#1818e8,2,0.4420658416627382
 'Gabriel Attal',de,unknown,#111111,#111111,2,0.4401341102192293
 'Mark Cuban',de,unknown,#111111,#111111,2,0.4383147753308816
@@ -77,6 +76,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Joe Jonas',de,unknown,#111111,#111111,1,0.4100532088377741
 'Bastian Schweinsteiger',de,unknown,#111111,#111111,3,0.4098493344087134
 'Lauren Boebert',de,USA,#18e8e8,#18e8e8,2,0.4095288301987499
+'Greta Gerwig',de,unknown,#111111,#111111,2,0.40896792348189787
 'Robert de Niro',de,USA,#18e8e8,#18e8e8,3,0.4069093609719207
 'Valérie Hayer',de,unknown,#111111,#111111,1,0.4061494665440466
 'Lana Del Rey',de,unknown,#111111,#111111,2,0.4061345129102356
@@ -265,9 +265,9 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Kemal Kiliçdaroglu',de,Türkei,#111111,#111111,1,0.3612499999999999
 'Evgueni Prigojine',de,Russland,#e81818,#e81818,1,0.3612499999999999
 'Pedro Sánchez Pérez-Castejón',de,Spanien,#111111,#111111,1,0.3612499999999999
+'Sergei Surovikin',de,Russland,#e81818,#e81818,1,0.3612499999999999
 'Dorothée Pacaud',de,Frankreich,#e8e808,#e8e808,1,0.3612499999999999
 'Gilbert Plass',de,Kanada,#111111,#111111,1,0.3612499999999999
-'Sergei Surovikin',de,Russland,#e81818,#e81818,1,0.3612499999999999
 'Moon Hyung-jin',de,USA,#18e8e8,#18e8e8,1,0.3612499999999999
 'Leon Botstein',de,USA,#18e8e8,#18e8e8,1,0.3612499999999999
 'Salvador Dali',de,Spanien,#111111,#111111,1,0.3612499999999999
@@ -478,9 +478,9 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Yannick Morez',de,Frankreich,#e8e808,#e8e808,1,0.2613727915493749
 'Michael Sandel',de,USA,#18e8e8,#18e8e8,1,0.2613727915493749
 'Richard Ferrand',de,Frankreich,#e8e808,#e8e808,1,0.2611531399999999
+'Thomas Bayes',de,UK,#e838e8,#e838e8,1,0.2610031249999999
 'Aurélien Pradié',de,Frankreich,#e8e808,#e8e808,1,0.2610031249999999
 'Detlef Garbe',de,Deutschland,#1818e8,#1818e8,1,0.2610031249999999
-'Thomas Bayes',de,UK,#e838e8,#e838e8,1,0.2610031249999999
 'Éric Ciotti',de,Frankreich,#e8e808,#e8e808,1,0.2606087850089374
 'Jens Stoltenberg',de,Norwegen,#e818e8,#e818e8,3,0.2594692406020896
 'Michelle Obama',de,USA,#18e8e8,#18e8e8,3,0.2587062187967412
@@ -529,7 +529,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Michael Mann',de,USA,#18e8e8,#18e8e8,3,0.2175966228437927
 'Rainer Maria Woelki',de,Deutschland,#1818e8,#1818e8,1,0.2166520226093558
 'Recep Tayyip Erdoğan',de,Türkei,#111111,#111111,2,0.216266069377041
-'Sahra Wagenknecht',de,Deutschland,#1818e8,#1818e8,3,0.21576566624952126
+'Sahra Wagenknecht',de,Deutschland,#1818e8,#1818e8,3,0.2157656662495212
 'Alice Weidel',de,Deutschland,#1818e8,#1818e8,2,0.2156405238292488
 'Winfried Kretschmann',de,Deutschland,#1818e8,#1818e8,3,0.2155208059668675
 'Lothar Wieler',de,Deutschland,#1818e8,#1818e8,1,0.2144756430385868
