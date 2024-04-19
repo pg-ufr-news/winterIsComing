@@ -97,11 +97,11 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Robert De Niro',de,USA,#18e8e8,#18e8e8,3,0.3978250178998863
 'Lars Klingbeil',de,Deutschland,#1818e8,#1818e8,3,0.3978100444218748
 'Taylor Swift',de,unknown,#111111,#111111,3,0.397618711584167
+'Mark Hertsgaard',de,unknown,#111111,#111111,1,0.397375
 'Eriberto Gualinga',de,unknown,#111111,#111111,1,0.397375
 'Tasneem Essop',de,unknown,#111111,#111111,1,0.397375
-'Kyle Pope',de,unknown,#111111,#111111,1,0.397375
-'Mark Hertsgaard',de,unknown,#111111,#111111,1,0.397375
 'Elizabeth Mpofu',de,unknown,#111111,#111111,1,0.397375
+'Kyle Pope',de,unknown,#111111,#111111,1,0.397375
 'Markus Lanz',de,Deutschland,#1818e8,#1818e8,3,0.3963907783420516
 'Marine Le Pen',de,Frankreich,#e8e808,#e8e808,3,0.3958509831136363
 'Sam Altman',de,USA,#18e8e8,#18e8e8,3,0.3956334636092782
@@ -258,17 +258,17 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Jamie Dimon',de,USA,#18e8e8,#18e8e8,1,0.3615589175613636
 'Katy Perry',de,USA,#18e8e8,#18e8e8,3,0.3614742758982953
 'Chelsea Handler',de,USA,#18e8e8,#18e8e8,1,0.3614000149999999
-'Gilbert Plass',de,Kanada,#111111,#111111,1,0.3612499999999999
+'Salvador Dali',de,Spanien,#111111,#111111,1,0.3612499999999999
 'Evgueni Prigojine',de,Russland,#e81818,#e81818,1,0.3612499999999999
 'Leon Botstein',de,USA,#18e8e8,#18e8e8,1,0.3612499999999999
 'Uwe Neumärker',de,Deutschland,#1818e8,#1818e8,1,0.3612499999999999
 'Kemal Kiliçdaroglu',de,Türkei,#111111,#111111,1,0.3612499999999999
-'Sergei Surovikin',de,Russland,#e81818,#e81818,1,0.3612499999999999
+'Gilbert Plass',de,Kanada,#111111,#111111,1,0.3612499999999999
 'Moon Hyung-jin',de,USA,#18e8e8,#18e8e8,1,0.3612499999999999
 'Pedro Sánchez Pérez-Castejón',de,Spanien,#111111,#111111,1,0.3612499999999999
 'Patti LaBelle',de,USA,#18e8e8,#18e8e8,1,0.3612499999999999
 'Dorothée Pacaud',de,Frankreich,#e8e808,#e8e808,1,0.3612499999999999
-'Salvador Dali',de,Spanien,#111111,#111111,1,0.3612499999999999
+'Sergei Surovikin',de,Russland,#e81818,#e81818,1,0.3612499999999999
 'Henry Ford',de,USA,#18e8e8,#18e8e8,2,0.3606879322925437
 'Hugh Grant',de,unknown,#111111,#111111,2,0.3606844371103204
 'Mathias Döpfner',de,Deutschland,#1818e8,#1818e8,2,0.3602330955687252
@@ -396,6 +396,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Peter Tschentscher',de,Deutschland,#1818e8,#1818e8,2,0.3210594086783664
 'Georg Bätzing',de,Deutschland,#1818e8,#1818e8,2,0.3199244797808566
 'Chez Krömer',de,Deutschland,#1818e8,#1818e8,1,0.3198003061974999
+'Olaf Scholz',de,Deutschland,#1818e8,#1818e8,3,0.3196536026801907
 'Harrison Ford',de,unknown,#111111,#111111,2,0.3193035364829544
 'Silvio Berlusconi',de,Italien,#111111,#111111,3,0.3184097321982022
 'Margaret Qualley',de,unknown,#111111,#111111,1,0.3166947052083154
@@ -435,7 +436,6 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Andrei Nikolajewitsch Kolmogorow',de,Russland,#e81818,#e81818,1,0.3070624999999999
 'Yevgeny Prigozhin',de,Russland,#e81818,#e81818,1,0.3070624999999999
 'Camille Etienne',de,Frankreich,#e8e808,#e8e808,1,0.3070624999999999
-'Olaf Scholz',de,Deutschland,#1818e8,#1818e8,3,0.3060209566291014
 'Kevin Kühnert',de,Deutschland,#1818e8,#1818e8,3,0.3052661568897969
 'Charles III',de,UK,#e838e8,#e838e8,3,0.3046119308651951
 'Bruce Springsteen',de,USA,#18e8e8,#18e8e8,1,0.3042234815268893
