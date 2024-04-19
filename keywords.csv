@@ -97,11 +97,11 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Robert De Niro',de,USA,#18e8e8,#18e8e8,3,0.3978250178998863
 'Lars Klingbeil',de,Deutschland,#1818e8,#1818e8,3,0.3978100444218748
 'Taylor Swift',de,unknown,#111111,#111111,3,0.397618711584167
+'Tasneem Essop',de,unknown,#111111,#111111,1,0.397375
 'Kyle Pope',de,unknown,#111111,#111111,1,0.397375
 'Elizabeth Mpofu',de,unknown,#111111,#111111,1,0.397375
-'Mark Hertsgaard',de,unknown,#111111,#111111,1,0.397375
-'Tasneem Essop',de,unknown,#111111,#111111,1,0.397375
 'Eriberto Gualinga',de,unknown,#111111,#111111,1,0.397375
+'Mark Hertsgaard',de,unknown,#111111,#111111,1,0.397375
 'Markus Lanz',de,Deutschland,#1818e8,#1818e8,3,0.3963907783420516
 'Marine Le Pen',de,Frankreich,#e8e808,#e8e808,3,0.3958509831136363
 'Sam Altman',de,USA,#18e8e8,#18e8e8,3,0.3956334636092782
@@ -141,7 +141,6 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Wolfgang Kubicki',de,Deutschland,#1818e8,#1818e8,3,0.3858334997092045
 'Roberto Saviano',de,unknown,#111111,#111111,1,0.38579273175
 'Rachida Dati',de,unknown,#111111,#111111,2,0.3854884059159367
-'nan nan',de,unknown,#111111,#111111,1,0.3853401725461829
 'Sam H',de,unknown,#111111,#111111,1,0.3852180011675959
 'Irina Scherbakowa',de,unknown,#111111,#111111,1,0.3850657007808333
 'Melania Trump',de,unknown,#111111,#111111,1,0.3850519088052437
@@ -259,17 +258,17 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Jamie Dimon',de,USA,#18e8e8,#18e8e8,1,0.3615589175613636
 'Katy Perry',de,USA,#18e8e8,#18e8e8,3,0.3614742758982953
 'Chelsea Handler',de,USA,#18e8e8,#18e8e8,1,0.3614000149999999
-'Uwe Neumärker',de,Deutschland,#1818e8,#1818e8,1,0.3612499999999999
-'Leon Botstein',de,USA,#18e8e8,#18e8e8,1,0.3612499999999999
-'Evgueni Prigojine',de,Russland,#e81818,#e81818,1,0.3612499999999999
 'Sergei Surovikin',de,Russland,#e81818,#e81818,1,0.3612499999999999
-'Salvador Dali',de,Spanien,#111111,#111111,1,0.3612499999999999
-'Dorothée Pacaud',de,Frankreich,#e8e808,#e8e808,1,0.3612499999999999
-'Pedro Sánchez Pérez-Castejón',de,Spanien,#111111,#111111,1,0.3612499999999999
-'Gilbert Plass',de,Kanada,#111111,#111111,1,0.3612499999999999
-'Patti LaBelle',de,USA,#18e8e8,#18e8e8,1,0.3612499999999999
+'Evgueni Prigojine',de,Russland,#e81818,#e81818,1,0.3612499999999999
+'Leon Botstein',de,USA,#18e8e8,#18e8e8,1,0.3612499999999999
+'Uwe Neumärker',de,Deutschland,#1818e8,#1818e8,1,0.3612499999999999
 'Kemal Kiliçdaroglu',de,Türkei,#111111,#111111,1,0.3612499999999999
+'Salvador Dali',de,Spanien,#111111,#111111,1,0.3612499999999999
 'Moon Hyung-jin',de,USA,#18e8e8,#18e8e8,1,0.3612499999999999
+'Pedro Sánchez Pérez-Castejón',de,Spanien,#111111,#111111,1,0.3612499999999999
+'Patti LaBelle',de,USA,#18e8e8,#18e8e8,1,0.3612499999999999
+'Dorothée Pacaud',de,Frankreich,#e8e808,#e8e808,1,0.3612499999999999
+'Gilbert Plass',de,Kanada,#111111,#111111,1,0.3612499999999999
 'Henry Ford',de,USA,#18e8e8,#18e8e8,2,0.3606879322925437
 'Hugh Grant',de,unknown,#111111,#111111,2,0.3606844371103204
 'Mathias Döpfner',de,Deutschland,#1818e8,#1818e8,2,0.3602330955687252
@@ -342,6 +341,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Joachim Gauck',de,Deutschland,#1818e8,#1818e8,1,0.341559116540784
 'Konrad Adenauer',de,Deutschland,#1818e8,#1818e8,3,0.3413742646164234
 'Tim Cook',de,USA,#18e8e8,#18e8e8,3,0.3413569805292045
+'nan nan',de,unknown,#111111,#111111,1,0.34102780320271703
 'Alvin Bragg',de,USA,#18e8e8,#18e8e8,1,0.3398128841043014
 'Johan Rockström',de,unknown,#111111,#111111,1,0.3397857016749999
 'Patricia Blanco',de,Deutschland,#1818e8,#1818e8,2,0.338900915525
@@ -446,7 +446,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Barack Obama',de,USA,#18e8e8,#18e8e8,3,0.2996641882250379
 'Patrick Graichen',de,Deutschland,#1818e8,#1818e8,3,0.2991518660671385
 'Gayle King',de,unknown,#111111,#111111,1,0.2987508604419264
-'Jimmy Carter',de,USA,#18e8e8,#18e8e8,1,0.29822433508450846
+'Jimmy Carter',de,USA,#18e8e8,#18e8e8,1,0.2982243350845084
 'Gerhard Schröder',de,Deutschland,#1818e8,#1818e8,3,0.2980571127537039
 'Herbert Diess',de,Deutschland,#1818e8,#1818e8,1,0.2974403375852296
 'Jack Teixeira',de,USA,#18e8e8,#18e8e8,2,0.2967327402129548
