@@ -5,6 +5,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Heidi Klum',de,unknown,#111111,#111111,3,0.4452993933052755
 'Wolfgang Grupp',de,unknown,#111111,#111111,2,0.4440962484759832
 'Taylor Swift',de,unknown,#111111,#111111,3,0.4398300312711447
+'Robin Roberts',de,unknown,#111111,#111111,2,0.43814283865805603
 'Eric Trump',de,unknown,#111111,#111111,2,0.4374128030716972
 'Hunter Biden',de,USA,#18e8e8,#18e8e8,3,0.4367554704085474
 'David Beckham',de,unknown,#111111,#111111,3,0.4365747847806818
@@ -12,7 +13,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Teresa Giudice',de,unknown,#111111,#111111,1,0.4334586671291075
 'Dua Lipa',de,unknown,#111111,#111111,3,0.4333132419783794
 'Yorgos Lanthimos',de,unknown,#111111,#111111,1,0.433231701407319
-'Franca Lehfeldt',de,Deutschland,#1818e8,#1818e8,2,0.43317529260132837
+'Franca Lehfeldt',de,Deutschland,#1818e8,#1818e8,2,0.4331752926013283
 'Bill Barr',de,unknown,#111111,#111111,1,0.4328457203805682
 'Sophia Chikirou',de,unknown,#111111,#111111,1,0.4327342856054099
 'Ayo Edebiri',de,unknown,#111111,#111111,1,0.4326190463275454
@@ -42,7 +43,6 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Tom Brady',de,unknown,#111111,#111111,3,0.4276751270940306
 'Dawn Staley',de,unknown,#111111,#111111,2,0.4274238307815551
 'François Braun',de,unknown,#111111,#111111,1,0.4272290440029895
-'Robin Roberts',de,unknown,#111111,#111111,1,0.4268738925388894
 'Kim Mulkey',de,unknown,#111111,#111111,1,0.4268097657805394
 'Roman Pacino',de,unknown,#111111,#111111,2,0.4266594074586563
 'Petro Poroshenko',de,unknown,#111111,#111111,1,0.4262043725866905
@@ -102,10 +102,10 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Peter Breuer',de,unknown,#111111,#111111,1,0.3986947040874999
 'Robert De Niro',de,USA,#18e8e8,#18e8e8,3,0.3978250178998863
 'Lars Klingbeil',de,Deutschland,#1818e8,#1818e8,3,0.3978100444218748
-'Elizabeth Mpofu',de,unknown,#111111,#111111,1,0.397375
-'Eriberto Gualinga',de,unknown,#111111,#111111,1,0.397375
 'Mark Hertsgaard',de,unknown,#111111,#111111,1,0.397375
+'Eriberto Gualinga',de,unknown,#111111,#111111,1,0.397375
 'Kyle Pope',de,unknown,#111111,#111111,1,0.397375
+'Elizabeth Mpofu',de,unknown,#111111,#111111,1,0.397375
 'Tasneem Essop',de,unknown,#111111,#111111,1,0.397375
 'Markus Lanz',de,Deutschland,#1818e8,#1818e8,3,0.3963907783420516
 'Marine Le Pen',de,Frankreich,#e8e808,#e8e808,3,0.3958509831136363
@@ -361,11 +361,11 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Tucker Carlson',de,USA,#18e8e8,#18e8e8,1,0.338091972310273
 'Robin Wall Kimmerer',de,unknown,#111111,#111111,1,0.3380237754999999
 'Sophia Kianni',de,unknown,#111111,#111111,1,0.3377687499999999
-'Minka Indigena',de,unknown,#111111,#111111,1,0.3377687499999999
-'Autumn Peltier',de,unknown,#111111,#111111,1,0.3377687499999999
-'Haitham A-Ghais',de,unknown,#111111,#111111,1,0.3377687499999999
-'Claudia Kempfert',de,unknown,#111111,#111111,1,0.3377687499999999
 'Marjan Minnesma',de,unknown,#111111,#111111,1,0.3377687499999999
+'Autumn Peltier',de,unknown,#111111,#111111,1,0.3377687499999999
+'Minka Indigena',de,unknown,#111111,#111111,1,0.3377687499999999
+'Claudia Kempfert',de,unknown,#111111,#111111,1,0.3377687499999999
+'Haitham A-Ghais',de,unknown,#111111,#111111,1,0.3377687499999999
 'Steven Donziger',de,unknown,#111111,#111111,1,0.3377687499999999
 'Axel Springer',de,Deutschland,#1818e8,#1818e8,3,0.3377581246605246
 'Ron DeSantis',de,USA,#18e8e8,#18e8e8,3,0.335952659677906
@@ -441,10 +441,10 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Hazel Monét',de,unknown,#111111,#111111,1,0.3075633781377621
 'Joy Behar',de,unknown,#111111,#111111,1,0.3075100247641175
 'Andreas Jung',de,Deutschland,#1818e8,#1818e8,3,0.3074824027518248
-'Andrei Nikolajewitsch Kolmogorow',de,Russland,#e81818,#e81818,1,0.3070624999999999
 'Camille Etienne',de,Frankreich,#e8e808,#e8e808,1,0.3070624999999999
-'Pierre-Yves Dermagne',de,Belgien,#111111,#111111,1,0.3070624999999999
+'Andrei Nikolajewitsch Kolmogorow',de,Russland,#e81818,#e81818,1,0.3070624999999999
 'Yevgeny Prigozhin',de,Russland,#e81818,#e81818,1,0.3070624999999999
+'Pierre-Yves Dermagne',de,Belgien,#111111,#111111,1,0.3070624999999999
 'Kevin Kühnert',de,Deutschland,#1818e8,#1818e8,3,0.3052661568897969
 'Charles III',de,UK,#e838e8,#e838e8,3,0.3046119308651951
 'Jane Fonda',de,unknown,#111111,#111111,1,0.3028122277856212
