@@ -262,17 +262,17 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Jamie Dimon',de,USA,#18e8e8,#18e8e8,1,0.3615589175613636
 'Katy Perry',de,USA,#18e8e8,#18e8e8,3,0.3614742758982953
 'Chelsea Handler',de,USA,#18e8e8,#18e8e8,1,0.3614000149999999
+'Evgueni Prigojine',de,Russland,#e81818,#e81818,1,0.3612499999999999
 'Dorothée Pacaud',de,Frankreich,#e8e808,#e8e808,1,0.3612499999999999
 'Leon Botstein',de,USA,#18e8e8,#18e8e8,1,0.3612499999999999
 'Gilbert Plass',de,Kanada,#111111,#111111,1,0.3612499999999999
 'Sergei Surovikin',de,Russland,#e81818,#e81818,1,0.3612499999999999
-'Pedro Sánchez Pérez-Castejón',de,Spanien,#111111,#111111,1,0.3612499999999999
-'Evgueni Prigojine',de,Russland,#e81818,#e81818,1,0.3612499999999999
-'Uwe Neumärker',de,Deutschland,#1818e8,#1818e8,1,0.3612499999999999
 'Kemal Kiliçdaroglu',de,Türkei,#111111,#111111,1,0.3612499999999999
+'Pedro Sánchez Pérez-Castejón',de,Spanien,#111111,#111111,1,0.3612499999999999
 'Moon Hyung-jin',de,USA,#18e8e8,#18e8e8,1,0.3612499999999999
 'Patti LaBelle',de,USA,#18e8e8,#18e8e8,1,0.3612499999999999
 'Salvador Dali',de,Spanien,#111111,#111111,1,0.3612499999999999
+'Uwe Neumärker',de,Deutschland,#1818e8,#1818e8,1,0.3612499999999999
 'Henry Ford',de,USA,#18e8e8,#18e8e8,2,0.3606879322925437
 'Hugh Grant',de,unknown,#111111,#111111,2,0.3606844371103204
 'Mathias Döpfner',de,Deutschland,#1818e8,#1818e8,2,0.3602330955687252
@@ -416,7 +416,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Steve Scalise',de,unknown,#111111,#111111,1,0.3196256750972193
 'Harrison Ford',de,unknown,#111111,#111111,2,0.3193035364829544
 'Silvio Berlusconi',de,Italien,#111111,#111111,3,0.3184097321982022
-'Peregrine Pearson',de,unknown,#111111,#111111,1,0.31742055588844614
+'Peregrine Pearson',de,unknown,#111111,#111111,1,0.3174205558884461
 'Margaret Qualley',de,unknown,#111111,#111111,1,0.3166947052083154
 'Tiffany Chen',de,USA,#18e8e8,#18e8e8,1,0.3160557285382119
 'Peter Urban',de,Deutschland,#1818e8,#1818e8,1,0.3155355532106818
@@ -545,9 +545,9 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'John Paul II',de,Vatikan,#58b8e8,#58b8e8,1,0.2234445607214374
 'Jean-Jacques Rousseau',de,Schweiz,#111111,#111111,1,0.2223234995640312
 'Richard Ferrand',de,Frankreich,#e8e808,#e8e808,1,0.2219801689999999
-'Robert Nozick',de,USA,#18e8e8,#18e8e8,1,0.2218526562499999
 'Detlef Garbe',de,Deutschland,#1818e8,#1818e8,1,0.2218526562499999
 'Megyn Kell',de,USA,#18e8e8,#18e8e8,1,0.2218526562499999
+'Robert Nozick',de,USA,#18e8e8,#18e8e8,1,0.2218526562499999
 'Sergej Schoigu',de,Russland,#e81818,#e81818,3,0.2218285882839788
 'Bodo Ramelow',de,Deutschland,#1818e8,#1818e8,3,0.2207643662991027
 'Bruno Kahl',de,Deutschland,#1818e8,#1818e8,2,0.2205390953043907
@@ -669,8 +669,8 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Michael Walzer',de,USA,#18e8e8,#18e8e8,1,0.1382677543156648
 'Alexei Nawalny',de,Russland,#e81818,#e81818,1,0.1374187838083438
 'Benjamin Nethanaju',de,Israel,#111111,#111111,1,0.1362452625195311
+'Sundar Pichai',de,USA,#18e8e8,#18e8e8,2,0.1351537294115783
 'Robin Li',de,China,#e88818,#e88818,2,0.1343048911569064
-'Sundar Pichai',de,USA,#18e8e8,#18e8e8,2,0.1317890543879531
 'Werner von Braun',de,Deutschland,#1818e8,#1818e8,1,0.127755628705082
 'Gérard Biard',de,Frankreich,#e8e808,#e8e808,1,0.1273893204557615
 'Katalin Novak',de,Ungarn,#111111,#111111,2,0.1263801094100121
