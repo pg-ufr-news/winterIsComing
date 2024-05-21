@@ -1,12 +1,11 @@
 keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
-'Nathalie Emmanuel',de,unknown,#111111,#111111,2,0.5069274478192882
 'Roger Corman',de,unknown,#111111,#111111,2,0.5060132268096466
 'Jake Gyllenhaal',de,unknown,#111111,#111111,2,0.5057803589611473
 'Aubrey Plaza',de,unknown,#111111,#111111,2,0.5055315509537973
 'Andrew Schulz',de,unknown,#111111,#111111,2,0.5054202784781047
 'Maya Rudolph',de,unknown,#111111,#111111,2,0.5045939054555725
 'Barry Keoghan',de,unknown,#111111,#111111,2,0.5023359151347511
-'LeBron James',de,unknown,#111111,#111111,2,0.49062192262445325
+'LeBron James',de,unknown,#111111,#111111,2,0.4906219226244532
 'Adam Driver',de,unknown,#111111,#111111,2,0.4828569407874699
 'Chris Hemsworth',de,unknown,#111111,#111111,3,0.4697582682914842
 'président de la République',de,unknown,#111111,#111111,2,0.459840662627324
@@ -36,6 +35,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Wolodimir Selenski',de,Ukraine,#e818e8,#e818e8,3,0.4312027118505794
 'Al Nassr',de,unknown,#111111,#111111,3,0.4311718848942488
 'Matty Healy',de,unknown,#111111,#111111,1,0.43095812532932
+'Nathalie Emmanuel',de,unknown,#111111,#111111,1,0.430888765646395
 'Kamilla Cardoso',de,unknown,#111111,#111111,1,0.4306656020159785
 'Lauren Sánchez',de,USA,#18e8e8,#18e8e8,2,0.4305171171098683
 'Leandro De Niro-Rodriguez',de,unknown,#111111,#111111,1,0.4303114797610817
@@ -277,11 +277,11 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Gilbert Plass',de,Kanada,#111111,#111111,1,0.3612499999999999
 'Evgueni Prigojine',de,Russland,#e81818,#e81818,1,0.3612499999999999
 'Salvador Dali',de,Spanien,#111111,#111111,1,0.3612499999999999
-'Sergei Surovikin',de,Russland,#e81818,#e81818,1,0.3612499999999999
-'Uwe Neumärker',de,Deutschland,#1818e8,#1818e8,1,0.3612499999999999
-'Patti LaBelle',de,USA,#18e8e8,#18e8e8,1,0.3612499999999999
-'Leon Botstein',de,USA,#18e8e8,#18e8e8,1,0.3612499999999999
 'Dorothée Pacaud',de,Frankreich,#e8e808,#e8e808,1,0.3612499999999999
+'Uwe Neumärker',de,Deutschland,#1818e8,#1818e8,1,0.3612499999999999
+'Sergei Surovikin',de,Russland,#e81818,#e81818,1,0.3612499999999999
+'Leon Botstein',de,USA,#18e8e8,#18e8e8,1,0.3612499999999999
+'Patti LaBelle',de,USA,#18e8e8,#18e8e8,1,0.3612499999999999
 'Pedro Sánchez Pérez-Castejón',de,Spanien,#111111,#111111,1,0.3612499999999999
 'Kemal Kiliçdaroglu',de,Türkei,#111111,#111111,1,0.3612499999999999
 'Moon Hyung-jin',de,USA,#18e8e8,#18e8e8,1,0.3612499999999999
