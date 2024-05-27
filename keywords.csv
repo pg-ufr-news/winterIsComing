@@ -1,5 +1,4 @@
 keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
-'Lily Gladstone',de,unknown,#111111,#111111,2,0.5091606865553835
 'Ron Howard',de,unknown,#111111,#111111,2,0.5087898258622372
 'Bronny James',de,unknown,#111111,#111111,2,0.5087607088542181
 'Andrea Arnold',de,unknown,#111111,#111111,2,0.5082693298936691
@@ -7,6 +6,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Kristen Wiig',de,unknown,#111111,#111111,2,0.5068067072131064
 'Radical Optimism',de,unknown,#111111,#111111,2,0.505973964850731
 'Charles Barkley',de,unknown,#111111,#111111,2,0.5059653677870999
+'Lily Gladstone',de,unknown,#111111,#111111,2,0.4886100504951529
 'Chris Hemsworth',de,unknown,#111111,#111111,3,0.4697582682914842
 'président de la République',de,unknown,#111111,#111111,2,0.459840662627324
 'LeBron James',de,unknown,#111111,#111111,3,0.4583432905944216
@@ -282,11 +282,11 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Sergei Surovikin',de,Russland,#e81818,#e81818,1,0.3612499999999999
 'Pedro Sánchez Pérez-Castejón',de,Spanien,#111111,#111111,1,0.3612499999999999
 'Kemal Kiliçdaroglu',de,Türkei,#111111,#111111,1,0.3612499999999999
-'Patti LaBelle',de,USA,#18e8e8,#18e8e8,1,0.3612499999999999
-'Uwe Neumärker',de,Deutschland,#1818e8,#1818e8,1,0.3612499999999999
-'Evgueni Prigojine',de,Russland,#e81818,#e81818,1,0.3612499999999999
-'Leon Botstein',de,USA,#18e8e8,#18e8e8,1,0.3612499999999999
 'Dorothée Pacaud',de,Frankreich,#e8e808,#e8e808,1,0.3612499999999999
+'Uwe Neumärker',de,Deutschland,#1818e8,#1818e8,1,0.3612499999999999
+'Patti LaBelle',de,USA,#18e8e8,#18e8e8,1,0.3612499999999999
+'Leon Botstein',de,USA,#18e8e8,#18e8e8,1,0.3612499999999999
+'Evgueni Prigojine',de,Russland,#e81818,#e81818,1,0.3612499999999999
 'Salvador Dali',de,Spanien,#111111,#111111,1,0.3612499999999999
 'Gilbert Plass',de,Kanada,#111111,#111111,1,0.3612499999999999
 'Moon Hyung-jin',de,USA,#18e8e8,#18e8e8,1,0.3612499999999999
@@ -583,7 +583,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Winfried Kretschmann',de,Deutschland,#1818e8,#1818e8,3,0.2155208059668675
 'Lothar Wieler',de,Deutschland,#1818e8,#1818e8,1,0.2144756430385868
 'Mojib Latif',de,Deutschland,#1818e8,#1818e8,2,0.2138006766059943
-'Tamim bin Hamad Al Thani',de,Katar,#111111,#111111,2,0.21295928996839047
+'Tamim bin Hamad Al Thani',de,Katar,#111111,#111111,2,0.2129592899683904
 'Thomas Haldenwang',de,Deutschland,#1818e8,#1818e8,2,0.2122102233303716
 'Sandra Maischberger',de,Deutschland,#1818e8,#1818e8,2,0.2116071361922318
 'Xi Jinping',de,China,#e88818,#e88818,3,0.2109909185156437
