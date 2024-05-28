@@ -1,8 +1,8 @@
 keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
-'Emily Blunt',de,unknown,#111111,#111111,2,0.507801301297393
 'Kristen Wiig',de,unknown,#111111,#111111,2,0.5068067072131064
 'Radical Optimism',de,unknown,#111111,#111111,2,0.505973964850731
 'Charles Barkley',de,unknown,#111111,#111111,2,0.5059653677870999
+'Emily Blunt',de,unknown,#111111,#111111,2,0.5055345176817314
 'Lily Gladstone',de,unknown,#111111,#111111,2,0.4886100504951529
 'Chris Hemsworth',de,unknown,#111111,#111111,3,0.4697582682914842
 'Bronny James',de,unknown,#111111,#111111,2,0.4639467525260853
@@ -30,7 +30,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Sam Bankman-Fried',de,unknown,#111111,#111111,3,0.4324976008969767
 'Ron Howard',de,unknown,#111111,#111111,1,0.4324717419829016
 'James Comer',de,unknown,#111111,#111111,1,0.4321175266131972
-'Andrea Arnold',de,unknown,#111111,#111111,1,0.43202938040961875
+'Andrea Arnold',de,unknown,#111111,#111111,1,0.4320293804096187
 'Hubert Aiwanger',de,unknown,#111111,#111111,3,0.4320154085799035
 'Pat McAfee',de,unknown,#111111,#111111,2,0.4318760734333512
 'Aubrey Plaza',de,unknown,#111111,#111111,2,0.4316520133107276
@@ -282,11 +282,11 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Sergei Surovikin',de,Russland,#e81818,#e81818,1,0.3612499999999999
 'Pedro Sánchez Pérez-Castejón',de,Spanien,#111111,#111111,1,0.3612499999999999
 'Kemal Kiliçdaroglu',de,Türkei,#111111,#111111,1,0.3612499999999999
-'Dorothée Pacaud',de,Frankreich,#e8e808,#e8e808,1,0.3612499999999999
-'Uwe Neumärker',de,Deutschland,#1818e8,#1818e8,1,0.3612499999999999
-'Patti LaBelle',de,USA,#18e8e8,#18e8e8,1,0.3612499999999999
-'Leon Botstein',de,USA,#18e8e8,#18e8e8,1,0.3612499999999999
 'Evgueni Prigojine',de,Russland,#e81818,#e81818,1,0.3612499999999999
+'Uwe Neumärker',de,Deutschland,#1818e8,#1818e8,1,0.3612499999999999
+'Dorothée Pacaud',de,Frankreich,#e8e808,#e8e808,1,0.3612499999999999
+'Leon Botstein',de,USA,#18e8e8,#18e8e8,1,0.3612499999999999
+'Patti LaBelle',de,USA,#18e8e8,#18e8e8,1,0.3612499999999999
 'Salvador Dali',de,Spanien,#111111,#111111,1,0.3612499999999999
 'Gilbert Plass',de,Kanada,#111111,#111111,1,0.3612499999999999
 'Moon Hyung-jin',de,USA,#18e8e8,#18e8e8,1,0.3612499999999999
