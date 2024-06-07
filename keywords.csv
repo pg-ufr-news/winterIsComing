@@ -74,7 +74,6 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Barbara Schöneberger',de,Deutschland,#1818e8,#1818e8,2,0.4236444884089285
 'Emily Blunt',de,unknown,#111111,#111111,2,0.4233306364368155
 'James Biden',de,unknown,#111111,#111111,3,0.4232973774973468
-'Fani Willis',de,unknown,#111111,#111111,3,0.4231907150313106
 'Javier Milei',de,unknown,#111111,#111111,2,0.4220114657313635
 'Matteo Salvini',de,Italien,#111111,#111111,3,0.4218745628238635
 'Brad Pitt',de,unknown,#111111,#111111,3,0.4217403158485358
@@ -127,10 +126,10 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Hunter Biden',de,USA,#18e8e8,#18e8e8,2,0.3980949512565391
 'Robert De Niro',de,USA,#18e8e8,#18e8e8,3,0.3978250178998863
 'Lars Klingbeil',de,Deutschland,#1818e8,#1818e8,3,0.3978100444218748
-'Eriberto Gualinga',de,unknown,#111111,#111111,1,0.397375
-'Tasneem Essop',de,unknown,#111111,#111111,1,0.397375
 'Kyle Pope',de,unknown,#111111,#111111,1,0.397375
 'Elizabeth Mpofu',de,unknown,#111111,#111111,1,0.397375
+'Tasneem Essop',de,unknown,#111111,#111111,1,0.397375
+'Eriberto Gualinga',de,unknown,#111111,#111111,1,0.397375
 'Markus Lanz',de,Deutschland,#1818e8,#1818e8,3,0.3963907783420516
 'Marine Le Pen',de,Frankreich,#e8e808,#e8e808,3,0.3958509831136363
 'Sam Altman',de,USA,#18e8e8,#18e8e8,3,0.3956334636092782
@@ -283,20 +282,21 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Jamie Dimon',de,USA,#18e8e8,#18e8e8,1,0.3615589175613636
 'Katy Perry',de,USA,#18e8e8,#18e8e8,3,0.3614742758982953
 'Chelsea Handler',de,USA,#18e8e8,#18e8e8,1,0.3614000149999999
-'Kemal Kiliçdaroglu',de,Türkei,#111111,#111111,1,0.3612499999999999
 'Salvador Dali',de,Spanien,#111111,#111111,1,0.3612499999999999
 'Dorothée Pacaud',de,Frankreich,#e8e808,#e8e808,1,0.3612499999999999
-'Evgueni Prigojine',de,Russland,#e81818,#e81818,1,0.3612499999999999
+'Kemal Kiliçdaroglu',de,Türkei,#111111,#111111,1,0.3612499999999999
+'Pedro Sánchez Pérez-Castejón',de,Spanien,#111111,#111111,1,0.3612499999999999
 'Patti LaBelle',de,USA,#18e8e8,#18e8e8,1,0.3612499999999999
-'Uwe Neumärker',de,Deutschland,#1818e8,#1818e8,1,0.3612499999999999
+'Evgueni Prigojine',de,Russland,#e81818,#e81818,1,0.3612499999999999
 'Leon Botstein',de,USA,#18e8e8,#18e8e8,1,0.3612499999999999
 'Gilbert Plass',de,Kanada,#111111,#111111,1,0.3612499999999999
-'Pedro Sánchez Pérez-Castejón',de,Spanien,#111111,#111111,1,0.3612499999999999
+'Uwe Neumärker',de,Deutschland,#1818e8,#1818e8,1,0.3612499999999999
 'Sergei Surovikin',de,Russland,#e81818,#e81818,1,0.3612499999999999
 'Henry Ford',de,USA,#18e8e8,#18e8e8,2,0.3606879322925437
 'Hugh Grant',de,unknown,#111111,#111111,2,0.3606844371103204
 'Mathias Döpfner',de,Deutschland,#1818e8,#1818e8,2,0.3602330955687252
 'Olivia Rodrigo',de,unknown,#111111,#111111,2,0.3600780871431262
+'Fani Willis',de,unknown,#111111,#111111,2,0.359712557776614
 'Abraham Lincoln',de,unknown,#111111,#111111,1,0.3596778948624999
 'Rand Paul',de,unknown,#111111,#111111,1,0.3594953541520784
 'Chris Christie',de,USA,#18e8e8,#18e8e8,2,0.3593602387250567
@@ -384,9 +384,9 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Jean Carroll',de,USA,#18e8e8,#18e8e8,2,0.33829535119902
 'Alexander Smirnov',de,unknown,#111111,#111111,1,0.3381332651080311
 'Tucker Carlson',de,USA,#18e8e8,#18e8e8,1,0.338091972310273
+'Steven Donziger',de,unknown,#111111,#111111,1,0.3377687499999999
 'Mark Hertsgaard',de,unknown,#111111,#111111,1,0.3377687499999999
 'Haitham A-Ghais',de,unknown,#111111,#111111,1,0.3377687499999999
-'Steven Donziger',de,unknown,#111111,#111111,1,0.3377687499999999
 'Minka Indigena',de,unknown,#111111,#111111,1,0.3377687499999999
 'Claudia Kempfert',de,unknown,#111111,#111111,1,0.3377687499999999
 'Marjan Minnesma',de,unknown,#111111,#111111,1,0.3377687499999999
@@ -731,9 +731,9 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Gautam Adani',de,Indien,#111111,#111111,1,0.0980152362022505
 'Bartholomäus',de,Türkei,#111111,#111111,1,0.0938905547524025
 'Sergej Lavrov',de,Russland,#e81818,#e81818,1,0.0922427569981809
+'Volodymyr Zelenskiy',de,Ukraine,#e818e8,#e818e8,1,0.0920387840292876
 'Daniel Dillmann',de,Deutschland,#1818e8,#1818e8,1,0.0920387840292876
 'Milo Yiannopoulos',de,UK,#e838e8,#e838e8,1,0.0920387840292876
-'Volodymyr Zelenskiy',de,Ukraine,#e818e8,#e818e8,1,0.0920387840292876
 'Schellnhuber',de,Deutschland,#1818e8,#1818e8,2,0.0888831888990715
 'Maybritt Illner',de,Deutschland,#1818e8,#1818e8,1,0.0886036856338809
 'Millie Mackintosh',de,UK,#e838e8,#e838e8,1,0.085870735393038
