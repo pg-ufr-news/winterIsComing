@@ -1,5 +1,4 @@
 keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
-'Dwayne Johnson',de,unknown,#111111,#111111,2,0.4730202293724626
 'Chris Hemsworth',de,unknown,#111111,#111111,3,0.4697582682914842
 'Stormy Daniels',de,USA,#18e8e8,#18e8e8,3,0.4658393889180066
 'Demi Moore',de,unknown,#111111,#111111,2,0.4640851601827174
@@ -89,6 +88,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Nina Gummich',de,Deutschland,#1818e8,#1818e8,2,0.418500017925924
 'Ulrich Reitz',de,Deutschland,#1818e8,#1818e8,1,0.4180327834351537
 'François Bayrou',de,unknown,#111111,#111111,1,0.4178263508969694
+'Dwayne Johnson',de,unknown,#111111,#111111,2,0.41610897405750225
 'Mark Meadows',de,unknown,#111111,#111111,2,0.4161020850364588
 'Missy Elliott',de,unknown,#111111,#111111,2,0.4158937995524761
 'Angelina Jolie',de,unknown,#111111,#111111,2,0.4153715399511692
@@ -128,10 +128,10 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Lady Gaga',de,USA,#18e8e8,#18e8e8,3,0.3980236471968019
 'Robert De Niro',de,USA,#18e8e8,#18e8e8,3,0.3978250178998863
 'Lars Klingbeil',de,Deutschland,#1818e8,#1818e8,3,0.3978100444218748
-'Elizabeth Mpofu',de,unknown,#111111,#111111,1,0.397375
 'Tasneem Essop',de,unknown,#111111,#111111,1,0.397375
-'Eriberto Gualinga',de,unknown,#111111,#111111,1,0.397375
+'Elizabeth Mpofu',de,unknown,#111111,#111111,1,0.397375
 'Kyle Pope',de,unknown,#111111,#111111,1,0.397375
+'Eriberto Gualinga',de,unknown,#111111,#111111,1,0.397375
 'Markus Lanz',de,Deutschland,#1818e8,#1818e8,3,0.3963907783420516
 'Marine Le Pen',de,Frankreich,#e8e808,#e8e808,3,0.3958509831136363
 'Sam Altman',de,USA,#18e8e8,#18e8e8,3,0.3956334636092782
