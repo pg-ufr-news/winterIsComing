@@ -128,10 +128,10 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Lady Gaga',de,USA,#18e8e8,#18e8e8,3,0.3980236471968019
 'Robert De Niro',de,USA,#18e8e8,#18e8e8,3,0.3978250178998863
 'Lars Klingbeil',de,Deutschland,#1818e8,#1818e8,3,0.3978100444218748
-'Tasneem Essop',de,unknown,#111111,#111111,1,0.397375
 'Elizabeth Mpofu',de,unknown,#111111,#111111,1,0.397375
-'Kyle Pope',de,unknown,#111111,#111111,1,0.397375
+'Tasneem Essop',de,unknown,#111111,#111111,1,0.397375
 'Eriberto Gualinga',de,unknown,#111111,#111111,1,0.397375
+'Kyle Pope',de,unknown,#111111,#111111,1,0.397375
 'Markus Lanz',de,Deutschland,#1818e8,#1818e8,3,0.3963907783420516
 'Marine Le Pen',de,Frankreich,#e8e808,#e8e808,3,0.3958509831136363
 'Sam Altman',de,USA,#18e8e8,#18e8e8,3,0.3956334636092782
@@ -463,7 +463,6 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Georg Gänswein',de,Deutschland,#1818e8,#1818e8,1,0.311276120084578
 'Steve Doocy',de,unknown,#111111,#111111,1,0.3111128127561841
 'Devon Archer',de,unknown,#111111,#111111,1,0.3100419522494443
-'nan Si',de,unknown,#111111,#111111,1,0.3100351698294785
 'Robert Menendez',de,unknown,#111111,#111111,1,0.309992578116932
 'Recep Tayyip Erdoan',de,Türkei,#111111,#111111,3,0.3096159787664843
 'Daniel Penny',de,USA,#18e8e8,#18e8e8,1,0.3094417481110416
@@ -501,8 +500,8 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Dieter Bohlen',de,Deutschland,#1818e8,#1818e8,3,0.2895958084030875
 'Rosalynn Carter',de,USA,#18e8e8,#18e8e8,1,0.2889524689206233
 'Robin Wall Kimmerer',de,unknown,#111111,#111111,1,0.2874702241749999
-'Hans Joosten',de,unknown,#111111,#111111,1,0.2871034374999999
 'Helena Gualinga',de,unknown,#111111,#111111,1,0.2871034374999999
+'Hans Joosten',de,unknown,#111111,#111111,1,0.2871034374999999
 'King Charles III',de,UK,#e838e8,#e838e8,2,0.2866234463454403
 'Kemal Klçdarolu',de,Türkei,#111111,#111111,3,0.2862786906655112
 'Christian Lindner',de,Deutschland,#1818e8,#1818e8,3,0.2846494974145291
@@ -529,6 +528,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Putin',de,Russland,#e81818,#e81818,3,0.26463311976709
 'Bill Geddie',de,unknown,#111111,#111111,1,0.2637725243025919
 'Oisin Fanning',de,Irland,#111111,#111111,1,0.2635907908456249
+'nan Si',de,unknown,#111111,#111111,1,0.2635298943550567
 'Aleksandar Vučić',de,Serbien,#111111,#111111,2,0.2631335223312125
 'Péter Szijjártó',de,Ungarn,#111111,#111111,1,0.2619467561974999
 'Michael Sandel',de,USA,#18e8e8,#18e8e8,1,0.2613727915493749
