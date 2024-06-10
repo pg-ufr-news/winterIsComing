@@ -9,7 +9,6 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Emma Stone',de,unknown,#111111,#111111,2,0.4492078350648718
 'Heidi Klum',de,unknown,#111111,#111111,3,0.4452993933052755
 'Anya Taylor-Joy',de,unknown,#111111,#111111,3,0.4444470714959044
-'Wolfgang Grupp',de,unknown,#111111,#111111,2,0.4440962484759832
 'Taylor Swift',de,unknown,#111111,#111111,3,0.4398300312711447
 'Recep Tayyip Erdogan',de,Türkei,#111111,#111111,3,0.436557779703431
 'Kim Kardashian',de,USA,#18e8e8,#18e8e8,3,0.4351221940980782
@@ -128,8 +127,8 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Lady Gaga',de,USA,#18e8e8,#18e8e8,3,0.3980236471968019
 'Robert De Niro',de,USA,#18e8e8,#18e8e8,3,0.3978250178998863
 'Lars Klingbeil',de,Deutschland,#1818e8,#1818e8,3,0.3978100444218748
-'Elizabeth Mpofu',de,unknown,#111111,#111111,1,0.397375
 'Tasneem Essop',de,unknown,#111111,#111111,1,0.397375
+'Elizabeth Mpofu',de,unknown,#111111,#111111,1,0.397375
 'Eriberto Gualinga',de,unknown,#111111,#111111,1,0.397375
 'Kyle Pope',de,unknown,#111111,#111111,1,0.397375
 'Markus Lanz',de,Deutschland,#1818e8,#1818e8,3,0.3963907783420516
@@ -184,6 +183,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Bettina Stark-Watzinger',de,Deutschland,#1818e8,#1818e8,3,0.3782420321639772
 'Kim Yo Jong',de,NordKorea,#111111,#111111,1,0.378207617
 'David Koch',de,unknown,#111111,#111111,2,0.3779829133264028
+'Wolfgang Grupp',de,unknown,#111111,#111111,2,0.37763182620458574
 'Ben Affleck',de,unknown,#111111,#111111,2,0.377607536292919
 'Lionel Messi',de,Argentinien,#111111,#111111,3,0.3773722030285648
 'Michelle Williams',de,unknown,#111111,#111111,2,0.3769887823339475
