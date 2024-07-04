@@ -135,9 +135,9 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Barbara Schöneberger',de,Deutschland,#1818e8,#1818e8,2,0.397942187794648
 'Robert De Niro',de,USA,#18e8e8,#18e8e8,3,0.3978250178998863
 'Lars Klingbeil',de,Deutschland,#1818e8,#1818e8,3,0.3978100444218748
-'Kyle Pope',de,unknown,#111111,#111111,1,0.397375
 'Tasneem Essop',de,unknown,#111111,#111111,1,0.397375
 'Elizabeth Mpofu',de,unknown,#111111,#111111,1,0.397375
+'Kyle Pope',de,unknown,#111111,#111111,1,0.397375
 'Sam Altman',de,USA,#18e8e8,#18e8e8,3,0.3956334636092782
 'Rudolf Steiner',de,Oesterreich,#111111,#111111,1,0.395632577175
 'Königin Camilla',de,UK,#e838e8,#e838e8,3,0.3951162089659538
@@ -399,15 +399,15 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Jean Carroll',de,USA,#18e8e8,#18e8e8,2,0.33829535119902
 'Alexander Smirnov',de,unknown,#111111,#111111,1,0.3381332651080311
 'Tucker Carlson',de,USA,#18e8e8,#18e8e8,1,0.338091972310273
-'Sophia Kianni',de,unknown,#111111,#111111,1,0.3377687499999999
+'Eriberto Gualinga',de,unknown,#111111,#111111,1,0.3377687499999999
 'Minka Indigena',de,unknown,#111111,#111111,1,0.3377687499999999
 'Autumn Peltier',de,unknown,#111111,#111111,1,0.3377687499999999
 'Steven Donziger',de,unknown,#111111,#111111,1,0.3377687499999999
-'Mark Hertsgaard',de,unknown,#111111,#111111,1,0.3377687499999999
+'Sophia Kianni',de,unknown,#111111,#111111,1,0.3377687499999999
 'Haitham A-Ghais',de,unknown,#111111,#111111,1,0.3377687499999999
 'Marjan Minnesma',de,unknown,#111111,#111111,1,0.3377687499999999
 'Claudia Kempfert',de,unknown,#111111,#111111,1,0.3377687499999999
-'Eriberto Gualinga',de,unknown,#111111,#111111,1,0.3377687499999999
+'Mark Hertsgaard',de,unknown,#111111,#111111,1,0.3377687499999999
 'Axel Springer',de,Deutschland,#1818e8,#1818e8,3,0.3377581246605246
 'Ron DeSantis',de,USA,#18e8e8,#18e8e8,3,0.335952659677906
 'Stockton Rush',de,USA,#18e8e8,#18e8e8,3,0.3356858441934091
@@ -514,12 +514,13 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'King Charles',de,UK,#e838e8,#e838e8,3,0.294948075164018
 'Winston Churchill',de,UK,#e838e8,#e838e8,2,0.2942145588395231
 'Lindsey Graham',de,USA,#18e8e8,#18e8e8,2,0.293233516859784
+'Selenski',de,Ukraine,#e818e8,#e818e8,2,0.29145103746869083
 'Hamish Harding',de,UK,#e838e8,#e838e8,1,0.2896279299634089
 'Dieter Bohlen',de,Deutschland,#1818e8,#1818e8,3,0.2895958084030875
 'Rosalynn Carter',de,USA,#18e8e8,#18e8e8,1,0.2889524689206233
 'Robin Wall Kimmerer',de,unknown,#111111,#111111,1,0.2874702241749999
-'Hans Joosten',de,unknown,#111111,#111111,1,0.2871034374999999
 'Helena Gualinga',de,unknown,#111111,#111111,1,0.2871034374999999
+'Hans Joosten',de,unknown,#111111,#111111,1,0.2871034374999999
 'Peter Urban',de,Deutschland,#1818e8,#1818e8,2,0.2867930988654431
 'King Charles III',de,UK,#e838e8,#e838e8,2,0.2866234463454403
 'Kemal Klçdarolu',de,Türkei,#111111,#111111,3,0.2862786906655112
@@ -535,7 +536,6 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Angela Merkel',de,Deutschland,#1818e8,#1818e8,3,0.2762117999871901
 'Stephen Hawking',de,UK,#e838e8,#e838e8,1,0.275303918138122
 'Markus Krebber',de,Deutschland,#1818e8,#1818e8,2,0.2733643561975386
-'Selenski',de,Ukraine,#e818e8,#e818e8,2,0.2728879681449839
 'Geoffrey Hinton',de,UK,#e838e8,#e838e8,1,0.2727559061797484
 'Andreas Jung',de,Deutschland,#1818e8,#1818e8,3,0.2723946356723844
 'Georg Bätzing',de,Deutschland,#1818e8,#1818e8,1,0.2719361828137281
@@ -751,9 +751,9 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Gautam Adani',de,Indien,#111111,#111111,1,0.0980152362022505
 'Bartholomäus',de,Türkei,#111111,#111111,1,0.0938905547524025
 'Sergej Lavrov',de,Russland,#e81818,#e81818,1,0.0922427569981809
+'Daniel Dillmann',de,Deutschland,#1818e8,#1818e8,1,0.0920387840292876
 'Volodymyr Zelenskiy',de,Ukraine,#e818e8,#e818e8,1,0.0920387840292876
 'Milo Yiannopoulos',de,UK,#e838e8,#e838e8,1,0.0920387840292876
-'Daniel Dillmann',de,Deutschland,#1818e8,#1818e8,1,0.0920387840292876
 'Schellnhuber',de,Deutschland,#1818e8,#1818e8,2,0.0888831888990715
 'Maybritt Illner',de,Deutschland,#1818e8,#1818e8,1,0.0886036856338809
 'Millie Mackintosh',de,UK,#e838e8,#e838e8,1,0.085870735393038
