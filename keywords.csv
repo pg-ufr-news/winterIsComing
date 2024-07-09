@@ -7,7 +7,6 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'LeBron James',de,unknown,#111111,#111111,3,0.4583432905944216
 'David Beckham',de,unknown,#111111,#111111,3,0.4578573338817613
 'Benny Safdie',de,unknown,#111111,#111111,2,0.4531519939279738
-"'Dwayne ""The Rock"" Johnson'",de,unknown,#111111,#111111,2,0.4458235904262706
 'Heidi Klum',de,unknown,#111111,#111111,3,0.4452993933052755
 'Anya Taylor-Joy',de,unknown,#111111,#111111,3,0.4444470714959044
 'George Miller',de,unknown,#111111,#111111,3,0.4441854589908559
@@ -91,6 +90,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Nina Gummich',de,Deutschland,#1818e8,#1818e8,2,0.418500017925924
 'Ulrich Reitz',de,Deutschland,#1818e8,#1818e8,1,0.4180327834351537
 'Stormy Daniels',de,USA,#18e8e8,#18e8e8,3,0.4172128124574596
+"'Dwayne ""The Rock"" Johnson'",de,unknown,#111111,#111111,2,0.41705060686233
 'Sabrina Carpenter',de,unknown,#111111,#111111,2,0.4164972418805164
 'Dwayne Johnson',de,unknown,#111111,#111111,2,0.4161089740575022
 'Mark Meadows',de,unknown,#111111,#111111,2,0.4161020850364588
@@ -751,9 +751,9 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Gautam Adani',de,Indien,#111111,#111111,1,0.0980152362022505
 'Bartholomäus',de,Türkei,#111111,#111111,1,0.0938905547524025
 'Sergej Lavrov',de,Russland,#e81818,#e81818,1,0.0922427569981809
+'Volodymyr Zelenskiy',de,Ukraine,#e818e8,#e818e8,1,0.0920387840292876
 'Milo Yiannopoulos',de,UK,#e838e8,#e838e8,1,0.0920387840292876
 'Daniel Dillmann',de,Deutschland,#1818e8,#1818e8,1,0.0920387840292876
-'Volodymyr Zelenskiy',de,Ukraine,#e818e8,#e818e8,1,0.0920387840292876
 'Schellnhuber',de,Deutschland,#1818e8,#1818e8,2,0.0888831888990715
 'Maybritt Illner',de,Deutschland,#1818e8,#1818e8,1,0.0886036856338809
 'Millie Mackintosh',de,UK,#e838e8,#e838e8,1,0.085870735393038
