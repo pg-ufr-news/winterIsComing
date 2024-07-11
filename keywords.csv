@@ -1,4 +1,5 @@
 keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
+'Bill Barr',de,unknown,#111111,#111111,2,0.518068877323483
 'Tyson Fury',de,unknown,#111111,#111111,2,0.4640720212829382
 'Bronny James',de,unknown,#111111,#111111,2,0.4639467525260853
 'Jerry Seinfeld',de,unknown,#111111,#111111,2,0.4636244719004504
@@ -21,7 +22,6 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Eliot Wolf',de,unknown,#111111,#111111,1,0.4331033740616263
 'Antonio Brown',de,unknown,#111111,#111111,2,0.4330609927382997
 'Matt Winkelmeyer',de,unknown,#111111,#111111,1,0.4328939586937084
-'Bill Barr',de,unknown,#111111,#111111,1,0.4328457203805682
 'Jill Biden',de,USA,#18e8e8,#18e8e8,3,0.4326232301159573
 'Mark Kerr',de,unknown,#111111,#111111,2,0.4325541613838302
 'Sam Bankman-Fried',de,unknown,#111111,#111111,3,0.4324976008969767
@@ -292,10 +292,10 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Patti LaBelle',de,USA,#18e8e8,#18e8e8,1,0.3612499999999999
 'Salvador Dali',de,Spanien,#111111,#111111,1,0.3612499999999999
 'Kemal Kiliçdaroglu',de,Türkei,#111111,#111111,1,0.3612499999999999
-'Evgueni Prigojine',de,Russland,#e81818,#e81818,1,0.3612499999999999
 'Dorothée Pacaud',de,Frankreich,#e8e808,#e8e808,1,0.3612499999999999
-'Sergei Surovikin',de,Russland,#e81818,#e81818,1,0.3612499999999999
+'Evgueni Prigojine',de,Russland,#e81818,#e81818,1,0.3612499999999999
 'Uwe Neumärker',de,Deutschland,#1818e8,#1818e8,1,0.3612499999999999
+'Sergei Surovikin',de,Russland,#e81818,#e81818,1,0.3612499999999999
 'Gilbert Plass',de,Kanada,#111111,#111111,1,0.3612499999999999
 'Leon Botstein',de,USA,#18e8e8,#18e8e8,1,0.3612499999999999
 'Pedro Sánchez Pérez-Castejón',de,Spanien,#111111,#111111,1,0.3612499999999999
@@ -382,7 +382,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Joachim Gauck',de,Deutschland,#1818e8,#1818e8,1,0.341559116540784
 'Konrad Adenauer',de,Deutschland,#1818e8,#1818e8,3,0.3413742646164234
 'Tim Cook',de,USA,#18e8e8,#18e8e8,3,0.3413569805292045
-'António Guterres',de,unknown,#111111,#111111,2,0.34113806365890054
+'António Guterres',de,unknown,#111111,#111111,2,0.3411380636589005
 'nan nan',de,unknown,#111111,#111111,1,0.341027803202717
 'Bruce Springsteen',de,USA,#18e8e8,#18e8e8,3,0.3408132565705831
 'Steve Jobs',de,USA,#18e8e8,#18e8e8,3,0.340345782114706
@@ -751,9 +751,9 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Gautam Adani',de,Indien,#111111,#111111,1,0.0980152362022505
 'Bartholomäus',de,Türkei,#111111,#111111,1,0.0938905547524025
 'Sergej Lavrov',de,Russland,#e81818,#e81818,1,0.0922427569981809
+'Milo Yiannopoulos',de,UK,#e838e8,#e838e8,1,0.0920387840292876
 'Daniel Dillmann',de,Deutschland,#1818e8,#1818e8,1,0.0920387840292876
 'Volodymyr Zelenskiy',de,Ukraine,#e818e8,#e818e8,1,0.0920387840292876
-'Milo Yiannopoulos',de,UK,#e838e8,#e838e8,1,0.0920387840292876
 'Schellnhuber',de,Deutschland,#1818e8,#1818e8,2,0.0888831888990715
 'Maybritt Illner',de,Deutschland,#1818e8,#1818e8,1,0.0886036856338809
 'Millie Mackintosh',de,UK,#e838e8,#e838e8,1,0.085870735393038
