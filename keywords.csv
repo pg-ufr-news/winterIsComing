@@ -595,7 +595,6 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Jean-Jacques Rousseau',de,Schweiz,#111111,#111111,1,0.2223234995640312
 'Richard Ferrand',de,Frankreich,#e8e808,#e8e808,1,0.2219801689999999
 'Robert Nozick',de,USA,#18e8e8,#18e8e8,1,0.2218526562499999
-'Detlef Garbe',de,Deutschland,#1818e8,#1818e8,1,0.2218526562499999
 'Megyn Kell',de,USA,#18e8e8,#18e8e8,1,0.2218526562499999
 'Sergej Schoigu',de,Russland,#e81818,#e81818,3,0.2218285882839788
 'Bruno Kahl',de,Deutschland,#1818e8,#1818e8,2,0.2205390953043907
@@ -657,6 +656,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Daniel Freund',de,EU,#111111,#111111,3,0.1894234340124423
 'Rishi Sunak',de,UK,#e838e8,#e838e8,3,0.1890834447602599
 'Oliver Blume',de,Deutschland,#1818e8,#1818e8,3,0.189021618034757
+'Detlef Garbe',de,Deutschland,#1818e8,#1818e8,1,0.1885747578124999
 'Lukaschenko',de,Belarus,#e81858,#e81858,3,0.1883763872446562
 'Paul Kagame',de,Ruanda,#111111,#111111,1,0.1878978150731675
 'Roland Busch',de,Deutschland,#1818e8,#1818e8,1,0.1874277478256465
@@ -751,9 +751,9 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Gautam Adani',de,Indien,#111111,#111111,1,0.0980152362022505
 'Bartholomäus',de,Türkei,#111111,#111111,1,0.0938905547524025
 'Sergej Lavrov',de,Russland,#e81818,#e81818,1,0.0922427569981809
+'Milo Yiannopoulos',de,UK,#e838e8,#e838e8,1,0.0920387840292876
 'Daniel Dillmann',de,Deutschland,#1818e8,#1818e8,1,0.0920387840292876
 'Volodymyr Zelenskiy',de,Ukraine,#e818e8,#e818e8,1,0.0920387840292876
-'Milo Yiannopoulos',de,UK,#e838e8,#e838e8,1,0.0920387840292876
 'Schellnhuber',de,Deutschland,#1818e8,#1818e8,2,0.0888831888990715
 'Maybritt Illner',de,Deutschland,#1818e8,#1818e8,1,0.0886036856338809
 'Millie Mackintosh',de,UK,#e838e8,#e838e8,1,0.085870735393038
