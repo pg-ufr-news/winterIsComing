@@ -3,7 +3,6 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'David Beckham',de,unknown,#111111,#111111,3,0.4486758533449516
 'Edouard Philippe',de,unknown,#111111,#111111,2,0.4463198835705919
 'Heidi Klum',de,unknown,#111111,#111111,3,0.4452993933052755
-'Tyson Fury',de,unknown,#111111,#111111,2,0.4449112630904974
 'Anya Taylor-Joy',de,unknown,#111111,#111111,3,0.4444470714959044
 'George Miller',de,unknown,#111111,#111111,3,0.4441854589908559
 'Taylor Swift',de,unknown,#111111,#111111,3,0.4435093159028805
@@ -176,6 +175,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Gérald Darmanin',de,Frankreich,#e8e808,#e8e808,2,0.37902619325
 'Boris Johnson',de,UK,#e838e8,#e838e8,3,0.3785386954543956
 'Erich Honecker',de,Deutschland,#1818e8,#1818e8,1,0.3785252529153846
+'Tyson Fury',de,unknown,#111111,#111111,2,0.37847460362692276
 'Meryl Streep',de,unknown,#111111,#111111,1,0.3784469849408833
 'Mike Johnson',de,unknown,#111111,#111111,3,0.3782438545872159
 'Bettina Stark-Watzinger',de,Deutschland,#1818e8,#1818e8,3,0.3782420321639772
@@ -488,11 +488,11 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Sean Hannity',de,unknown,#111111,#111111,1,0.3080275551135952
 'Ayatollah Chamenei',de,Iran,#111111,#111111,1,0.3077702407625
 'Hazel Monét',de,unknown,#111111,#111111,1,0.3075633781377621
-'Yevgeny Prigozhin',de,Russland,#e81818,#e81818,1,0.3070624999999999
-'Pierre-Yves Dermagne',de,Belgien,#111111,#111111,1,0.3070624999999999
-'Camille Etienne',de,Frankreich,#e8e808,#e8e808,1,0.3070624999999999
-'Moon Hyung-jin',de,USA,#18e8e8,#18e8e8,1,0.3070624999999999
 'Andrei Nikolajewitsch Kolmogorow',de,Russland,#e81818,#e81818,1,0.3070624999999999
+'Pierre-Yves Dermagne',de,Belgien,#111111,#111111,1,0.3070624999999999
+'Yevgeny Prigozhin',de,Russland,#e81818,#e81818,1,0.3070624999999999
+'Moon Hyung-jin',de,USA,#18e8e8,#18e8e8,1,0.3070624999999999
+'Camille Etienne',de,Frankreich,#e8e808,#e8e808,1,0.3070624999999999
 'Kevin Kühnert',de,Deutschland,#1818e8,#1818e8,3,0.3052661568897969
 'Charles III',de,UK,#e838e8,#e838e8,3,0.3046119308651951
 'Jane Fonda',de,unknown,#111111,#111111,1,0.3028122277856212
