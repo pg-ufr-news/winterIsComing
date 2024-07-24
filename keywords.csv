@@ -1,5 +1,4 @@
 keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
-'Edouard Philippe',de,unknown,#111111,#111111,2,0.4463198835705919
 'Heidi Klum',de,unknown,#111111,#111111,3,0.4452993933052755
 'George Miller',de,unknown,#111111,#111111,3,0.4441854589908559
 'Taylor Swift',de,unknown,#111111,#111111,3,0.4435093159028805
@@ -61,7 +60,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Sergio Massa',de,unknown,#111111,#111111,2,0.42616824167092
 'Drake Maye',de,unknown,#111111,#111111,2,0.4261581469607426
 'Novak Djokovic',de,unknown,#111111,#111111,3,0.424755430745357
-'Anya Taylor-Joy',de,unknown,#111111,#111111,3,0.42428016077151876
+'Anya Taylor-Joy',de,unknown,#111111,#111111,3,0.4242801607715187
 'Emily Blunt',de,unknown,#111111,#111111,2,0.4233306364368155
 'Chris Hemsworth',de,unknown,#111111,#111111,3,0.4224282512295797
 'Javier Milei',de,unknown,#111111,#111111,2,0.4220114657313635
@@ -166,6 +165,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Lady Di',de,UK,#e838e8,#e838e8,3,0.3820396460380764
 'Nawaz Sharif',de,unknown,#111111,#111111,2,0.3819017219267937
 'Emma Stone',de,unknown,#111111,#111111,1,0.381826824805141
+'Edouard Philippe',de,unknown,#111111,#111111,2,0.38177214103500307
 'Jack Antonoff',de,unknown,#111111,#111111,1,0.3808409834819081
 'Stanislaw Petrow',de,unknown,#111111,#111111,1,0.3806510112243749
 'Kate Capshaw',de,unknown,#111111,#111111,1,0.3806301529999999
@@ -488,11 +488,11 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Sean Hannity',de,unknown,#111111,#111111,1,0.3080275551135952
 'Ayatollah Chamenei',de,Iran,#111111,#111111,1,0.3077702407625
 'Hazel Monét',de,unknown,#111111,#111111,1,0.3075633781377621
-'Camille Etienne',de,Frankreich,#e8e808,#e8e808,1,0.3070624999999999
-'Moon Hyung-jin',de,USA,#18e8e8,#18e8e8,1,0.3070624999999999
-'Andrei Nikolajewitsch Kolmogorow',de,Russland,#e81818,#e81818,1,0.3070624999999999
-'Pierre-Yves Dermagne',de,Belgien,#111111,#111111,1,0.3070624999999999
 'Yevgeny Prigozhin',de,Russland,#e81818,#e81818,1,0.3070624999999999
+'Moon Hyung-jin',de,USA,#18e8e8,#18e8e8,1,0.3070624999999999
+'Camille Etienne',de,Frankreich,#e8e808,#e8e808,1,0.3070624999999999
+'Pierre-Yves Dermagne',de,Belgien,#111111,#111111,1,0.3070624999999999
+'Andrei Nikolajewitsch Kolmogorow',de,Russland,#e81818,#e81818,1,0.3070624999999999
 'Kevin Kühnert',de,Deutschland,#1818e8,#1818e8,3,0.3052661568897969
 'Charles III',de,UK,#e838e8,#e838e8,3,0.3046119308651951
 'Jane Fonda',de,unknown,#111111,#111111,1,0.3028122277856212
