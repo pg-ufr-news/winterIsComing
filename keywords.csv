@@ -129,6 +129,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Königin Camilla',de,UK,#e838e8,#e838e8,3,0.3951162089659538
 'America Ferrera',de,unknown,#111111,#111111,1,0.3950598489027943
 'Derek Chauvin',de,unknown,#111111,#111111,1,0.3950161966478056
+'Gavin Newsom',de,unknown,#111111,#111111,3,0.39447598669692535
 'Bronny James',de,unknown,#111111,#111111,1,0.3943552346471725
 'Lance Bass',de,unknown,#111111,#111111,1,0.3942214340492417
 'Jerry Seinfeld',de,unknown,#111111,#111111,1,0.3940808761153828
@@ -145,7 +146,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Bettina Jarasch',de,Deutschland,#1818e8,#1818e8,2,0.3889215813848814
 'Robert Downey Jr',de,unknown,#111111,#111111,2,0.3886220858806616
 'Sophie Turner',de,unknown,#111111,#111111,1,0.3880373912792749
-'Malu Dreyer',de,Deutschland,#1818e8,#1818e8,2,0.38663684424366473
+'Malu Dreyer',de,Deutschland,#1818e8,#1818e8,2,0.3866368442436647
 'Sarah Ferguson',de,unknown,#111111,#111111,1,0.3861103181862255
 'Mick Jagger',de,unknown,#111111,#111111,3,0.3860783510803511
 'Reed Richards',de,unknown,#111111,#111111,1,0.385872359141326
@@ -284,16 +285,16 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Katy Perry',de,USA,#18e8e8,#18e8e8,3,0.3614742758982953
 'Chelsea Handler',de,USA,#18e8e8,#18e8e8,1,0.3614000149999999
 'Jimmy Kimmel',de,unknown,#111111,#111111,2,0.3613939971495674
+'Patti LaBelle',de,USA,#18e8e8,#18e8e8,1,0.3612499999999999
+'Pedro Sánchez Pérez-Castejón',de,Spanien,#111111,#111111,1,0.3612499999999999
+'Sergei Surovikin',de,Russland,#e81818,#e81818,1,0.3612499999999999
+'Gilbert Plass',de,Kanada,#111111,#111111,1,0.3612499999999999
+'Evgueni Prigojine',de,Russland,#e81818,#e81818,1,0.3612499999999999
+'Kemal Kiliçdaroglu',de,Türkei,#111111,#111111,1,0.3612499999999999
+'Dorothée Pacaud',de,Frankreich,#e8e808,#e8e808,1,0.3612499999999999
+'Salvador Dali',de,Spanien,#111111,#111111,1,0.3612499999999999
 'Leon Botstein',de,USA,#18e8e8,#18e8e8,1,0.3612499999999999
 'Uwe Neumärker',de,Deutschland,#1818e8,#1818e8,1,0.3612499999999999
-'Evgueni Prigojine',de,Russland,#e81818,#e81818,1,0.3612499999999999
-'Salvador Dali',de,Spanien,#111111,#111111,1,0.3612499999999999
-'Dorothée Pacaud',de,Frankreich,#e8e808,#e8e808,1,0.3612499999999999
-'Kemal Kiliçdaroglu',de,Türkei,#111111,#111111,1,0.3612499999999999
-'Patti LaBelle',de,USA,#18e8e8,#18e8e8,1,0.3612499999999999
-'Gilbert Plass',de,Kanada,#111111,#111111,1,0.3612499999999999
-'Sergei Surovikin',de,Russland,#e81818,#e81818,1,0.3612499999999999
-'Pedro Sánchez Pérez-Castejón',de,Spanien,#111111,#111111,1,0.3612499999999999
 'Henry Ford',de,USA,#18e8e8,#18e8e8,2,0.3606879322925437
 'Hugh Grant',de,unknown,#111111,#111111,2,0.3606844371103204
 'Mathias Döpfner',de,Deutschland,#1818e8,#1818e8,2,0.3602330955687252
@@ -343,7 +344,6 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Marine Le Pen',de,Frankreich,#e8e808,#e8e808,3,0.3527062217586931
 'Laura Maria Rypa',de,unknown,#111111,#111111,1,0.352580260482055
 'Prinz Andrew',de,UK,#e838e8,#e838e8,3,0.3514093522420453
-'Gavin Newsom',de,unknown,#111111,#111111,2,0.3513080126915699
 'George Floyd',de,USA,#18e8e8,#18e8e8,2,0.3512483837249999
 'Papst Franziskus',de,Vatikan,#58b8e8,#58b8e8,3,0.3510299150028324
 'Cem Özdemir',de,Deutschland,#1818e8,#1818e8,3,0.3509877427356347
