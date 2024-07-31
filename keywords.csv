@@ -3,6 +3,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Kim Kardashian',de,USA,#18e8e8,#18e8e8,3,0.4611687163470028
 'Queen Elizabeth II',de,UK,#e838e8,#e838e8,3,0.4489459148098347
 'Heidi Klum',de,unknown,#111111,#111111,3,0.4470924679458478
+'Matteo Salvini',de,Italien,#111111,#111111,3,0.44536282021846574
 'Taylor Swift',de,unknown,#111111,#111111,3,0.4435093159028805
 'Demi Moore',de,unknown,#111111,#111111,3,0.4430999798189697
 'Radical Optimism',de,unknown,#111111,#111111,2,0.4414665856046531
@@ -60,7 +61,6 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Chris Hemsworth',de,unknown,#111111,#111111,3,0.4224282512295797
 'Javier Milei',de,unknown,#111111,#111111,2,0.4220114657313635
 'Mindy Kaling',de,unknown,#111111,#111111,1,0.4218931293427186
-'Matteo Salvini',de,Italien,#111111,#111111,3,0.4218745628238635
 'Brad Pitt',de,unknown,#111111,#111111,3,0.4217403158485358
 'Wagner-Chef Prigoschin',de,unknown,#111111,#111111,3,0.4215284726591458
 'Nikki Glaser',de,unknown,#111111,#111111,1,0.4209961610007502
@@ -209,7 +209,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Phoebe Bridgers',de,unknown,#111111,#111111,1,0.3710147764268684
 'Leonard Bernstein',de,unknown,#111111,#111111,2,0.3708144529545745
 'Kanye West',de,USA,#18e8e8,#18e8e8,2,0.3699310048162996
-'Francis Ford Coppola',de,unknown,#111111,#111111,2,0.36982142728789136
+'Francis Ford Coppola',de,unknown,#111111,#111111,2,0.3698214272878913
 'Al Pacino',de,USA,#18e8e8,#18e8e8,2,0.3697049956874431
 'Tina Turner',de,USA,#18e8e8,#18e8e8,3,0.3693944169076285
 'Jeff Ross',de,unknown,#111111,#111111,1,0.3688933766669093
@@ -283,16 +283,16 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Katy Perry',de,USA,#18e8e8,#18e8e8,3,0.3614742758982953
 'Chelsea Handler',de,USA,#18e8e8,#18e8e8,1,0.3614000149999999
 'Jimmy Kimmel',de,unknown,#111111,#111111,2,0.3613939971495674
-'Pedro Sánchez Pérez-Castejón',de,Spanien,#111111,#111111,1,0.3612499999999999
+'Sergei Surovikin',de,Russland,#e81818,#e81818,1,0.3612499999999999
 'Gilbert Plass',de,Kanada,#111111,#111111,1,0.3612499999999999
 'Evgueni Prigojine',de,Russland,#e81818,#e81818,1,0.3612499999999999
 'Patti LaBelle',de,USA,#18e8e8,#18e8e8,1,0.3612499999999999
-'Sergei Surovikin',de,Russland,#e81818,#e81818,1,0.3612499999999999
-'Salvador Dali',de,Spanien,#111111,#111111,1,0.3612499999999999
+'Pedro Sánchez Pérez-Castejón',de,Spanien,#111111,#111111,1,0.3612499999999999
+'Uwe Neumärker',de,Deutschland,#1818e8,#1818e8,1,0.3612499999999999
 'Kemal Kiliçdaroglu',de,Türkei,#111111,#111111,1,0.3612499999999999
 'Dorothée Pacaud',de,Frankreich,#e8e808,#e8e808,1,0.3612499999999999
 'Leon Botstein',de,USA,#18e8e8,#18e8e8,1,0.3612499999999999
-'Uwe Neumärker',de,Deutschland,#1818e8,#1818e8,1,0.3612499999999999
+'Salvador Dali',de,Spanien,#111111,#111111,1,0.3612499999999999
 'Henry Ford',de,USA,#18e8e8,#18e8e8,2,0.3606879322925437
 'Hugh Grant',de,unknown,#111111,#111111,2,0.3606844371103204
 'Mathias Döpfner',de,Deutschland,#1818e8,#1818e8,2,0.3602330955687252
@@ -387,14 +387,14 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Tucker Carlson',de,USA,#18e8e8,#18e8e8,1,0.338091972310273
 'Kyle Pope',de,unknown,#111111,#111111,1,0.3379187649999999
 'Mark Hertsgaard',de,unknown,#111111,#111111,1,0.3377687499999999
-'Eriberto Gualinga',de,unknown,#111111,#111111,1,0.3377687499999999
+'Marjan Minnesma',de,unknown,#111111,#111111,1,0.3377687499999999
 'Minka Indigena',de,unknown,#111111,#111111,1,0.3377687499999999
 'Haitham A-Ghais',de,unknown,#111111,#111111,1,0.3377687499999999
-'Marjan Minnesma',de,unknown,#111111,#111111,1,0.3377687499999999
-'Claudia Kempfert',de,unknown,#111111,#111111,1,0.3377687499999999
+'Eriberto Gualinga',de,unknown,#111111,#111111,1,0.3377687499999999
+'Steven Donziger',de,unknown,#111111,#111111,1,0.3377687499999999
 'Sophia Kianni',de,unknown,#111111,#111111,1,0.3377687499999999
 'Autumn Peltier',de,unknown,#111111,#111111,1,0.3377687499999999
-'Steven Donziger',de,unknown,#111111,#111111,1,0.3377687499999999
+'Claudia Kempfert',de,unknown,#111111,#111111,1,0.3377687499999999
 'Elizabeth Mpofu',de,unknown,#111111,#111111,1,0.3377687499999999
 'Axel Springer',de,Deutschland,#1818e8,#1818e8,3,0.3377581246605246
 'Ron DeSantis',de,USA,#18e8e8,#18e8e8,3,0.335952659677906
