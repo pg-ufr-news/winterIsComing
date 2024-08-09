@@ -93,7 +93,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Lana Del Rey',de,unknown,#111111,#111111,2,0.4061345129102356
 'George Bush',de,USA,#18e8e8,#18e8e8,3,0.405319014562784
 'Reed Richards',de,unknown,#111111,#111111,2,0.4041916252701271
-'Tom Brady',de,unknown,#111111,#111111,3,0.40204529077186146
+'Tom Brady',de,unknown,#111111,#111111,3,0.4020452907718614
 'Jens Spahn',de,Deutschland,#1818e8,#1818e8,3,0.4019383389040966
 'Merrick Garland',de,unknown,#111111,#111111,2,0.401907435916348
 'Markus Lanz',de,Deutschland,#1818e8,#1818e8,3,0.4009753206816529
@@ -274,16 +274,16 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Katy Perry',de,USA,#18e8e8,#18e8e8,3,0.3614742758982953
 'Chelsea Handler',de,USA,#18e8e8,#18e8e8,1,0.3614000149999999
 'Jimmy Kimmel',de,unknown,#111111,#111111,2,0.3613939971495674
-'Sergei Surovikin',de,Russland,#e81818,#e81818,1,0.3612499999999999
+'Leon Botstein',de,USA,#18e8e8,#18e8e8,1,0.3612499999999999
 'Evgueni Prigojine',de,Russland,#e81818,#e81818,1,0.3612499999999999
 'Patti LaBelle',de,USA,#18e8e8,#18e8e8,1,0.3612499999999999
 'Uwe Neumärker',de,Deutschland,#1818e8,#1818e8,1,0.3612499999999999
-'Leon Botstein',de,USA,#18e8e8,#18e8e8,1,0.3612499999999999
-'Dorothée Pacaud',de,Frankreich,#e8e808,#e8e808,1,0.3612499999999999
+'Sergei Surovikin',de,Russland,#e81818,#e81818,1,0.3612499999999999
+'Pedro Sánchez Pérez-Castejón',de,Spanien,#111111,#111111,1,0.3612499999999999
 'Gilbert Plass',de,Kanada,#111111,#111111,1,0.3612499999999999
 'Salvador Dali',de,Spanien,#111111,#111111,1,0.3612499999999999
 'Kemal Kiliçdaroglu',de,Türkei,#111111,#111111,1,0.3612499999999999
-'Pedro Sánchez Pérez-Castejón',de,Spanien,#111111,#111111,1,0.3612499999999999
+'Dorothée Pacaud',de,Frankreich,#e8e808,#e8e808,1,0.3612499999999999
 'Henry Ford',de,USA,#18e8e8,#18e8e8,2,0.3606879322925437
 'Hugh Grant',de,unknown,#111111,#111111,2,0.3606844371103204
 'Mathias Döpfner',de,Deutschland,#1818e8,#1818e8,2,0.3602330955687252
@@ -454,6 +454,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Adolf Hitler',de,Deutschland,#1818e8,#1818e8,3,0.3143594538471903
 'Ramsan Kadyrow',de,Russland,#e81818,#e81818,2,0.3142913242298293
 'John Rawls',de,USA,#18e8e8,#18e8e8,1,0.3141910656294687
+'Robert Menendez',de,unknown,#111111,#111111,1,0.31394373639939216
 'Markus Wipperfürth',de,Deutschland,#1818e8,#1818e8,1,0.313704319299375
 'Sultan al-Jaber',de,VAE,#111111,#111111,2,0.3135387523625
 'Yaël Braun-Pivet',de,unknown,#111111,#111111,1,0.3132508628870632
@@ -472,7 +473,6 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Georg Gänswein',de,Deutschland,#1818e8,#1818e8,1,0.311276120084578
 'Steve Doocy',de,unknown,#111111,#111111,1,0.3111128127561841
 'Devon Archer',de,unknown,#111111,#111111,1,0.3100419522494443
-'Robert Menendez',de,unknown,#111111,#111111,1,0.309992578116932
 'Recep Tayyip Erdoan',de,Türkei,#111111,#111111,3,0.3096159787664843
 'Alyssa Farah Griffin',de,unknown,#111111,#111111,1,0.3095160315911298
 'Daniel Penny',de,USA,#18e8e8,#18e8e8,1,0.3094417481110416
