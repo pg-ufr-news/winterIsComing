@@ -1,6 +1,6 @@
 keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Kim Kardashian',de,USA,#18e8e8,#18e8e8,3,0.4611687163470028
-'Margot Robbie',de,unknown,#111111,#111111,3,0.45210280155879884
+'Margot Robbie',de,unknown,#111111,#111111,3,0.4521028015587988
 'Queen Elizabeth II',de,UK,#e838e8,#e838e8,3,0.4489459148098347
 'Pat McAfee',de,unknown,#111111,#111111,1,0.4455163288570433
 'Matteo Salvini',de,Italien,#111111,#111111,3,0.4453628202184657
@@ -627,6 +627,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Mark Zuckerberg',de,USA,#18e8e8,#18e8e8,3,0.2029919317936823
 'Mark Rutte',de,Niederlande,#111111,#111111,3,0.2019286506652954
 'Napoleon Bonaparte',de,Frankreich,#e8e808,#e8e808,1,0.2019191026751476
+'Jeff Bezos',de,USA,#18e8e8,#18e8e8,2,0.19891147010819515
 'Warren Buffet',de,USA,#18e8e8,#18e8e8,2,0.1988121366111569
 'Karl Lauterbach',de,Deutschland,#1818e8,#1818e8,3,0.1984699434775285
 'Wolfgang Schäuble',de,Deutschland,#1818e8,#1818e8,2,0.1978795008654871
@@ -645,7 +646,6 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Viktor Orbán',de,Ungarn,#111111,#111111,3,0.1917488659698207
 'Franziska Giffey',de,Deutschland,#1818e8,#1818e8,3,0.1916232707710685
 'Louis Klamroth',de,Deutschland,#1818e8,#1818e8,2,0.1911774805741061
-'Jeff Bezos',de,USA,#18e8e8,#18e8e8,2,0.1909945829327183
 'John Paul II',de,Vatikan,#58b8e8,#58b8e8,1,0.1909779816132217
 'Antonio Guterres',de,UN,#e888e8,#e888e8,3,0.1906260347477037
 'Karine Jean-Pierre',de,USA,#18e8e8,#18e8e8,3,0.1904188018847302
