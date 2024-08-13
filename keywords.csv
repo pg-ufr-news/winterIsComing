@@ -1,5 +1,6 @@
 keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Kim Kardashian',de,USA,#18e8e8,#18e8e8,3,0.4611687163470028
+'Margot Robbie',de,unknown,#111111,#111111,3,0.45210280155879884
 'Queen Elizabeth II',de,UK,#e838e8,#e838e8,3,0.4489459148098347
 'Pat McAfee',de,unknown,#111111,#111111,1,0.4455163288570433
 'Matteo Salvini',de,Italien,#111111,#111111,3,0.4453628202184657
@@ -78,7 +79,6 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Alexander De Croo',de,Belgien,#111111,#111111,3,0.4120649757704546
 'James Comer',de,unknown,#111111,#111111,1,0.4119396668049579
 'Prinzessin Kate',de,UK,#e838e8,#e838e8,3,0.4115638959211794
-'Margot Robbie',de,unknown,#111111,#111111,3,0.4111488288115686
 'Abraham Lincoln',de,unknown,#111111,#111111,3,0.4106768106331249
 'Joe Jonas',de,unknown,#111111,#111111,1,0.4100532088377741
 'Greta Gerwig',de,unknown,#111111,#111111,2,0.4089679234818978
@@ -332,7 +332,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Marine Le Pen',de,Frankreich,#e8e808,#e8e808,3,0.3527062217586931
 'Laura Maria Rypa',de,unknown,#111111,#111111,1,0.352580260482055
 'Patrick Mahomes',de,unknown,#111111,#111111,2,0.3524724608740194
-'Christian Lindner',de,Deutschland,#1818e8,#1818e8,3,0.35145934734780426
+'Christian Lindner',de,Deutschland,#1818e8,#1818e8,3,0.3514593473478042
 'Prinz Andrew',de,UK,#e838e8,#e838e8,3,0.3514093522420453
 'George Floyd',de,USA,#18e8e8,#18e8e8,2,0.3512483837249999
 'Papst Franziskus',de,Vatikan,#58b8e8,#58b8e8,3,0.3510299150028324
