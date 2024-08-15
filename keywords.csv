@@ -80,7 +80,6 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Joe Jonas',de,unknown,#111111,#111111,1,0.4100532088377741
 'Greta Gerwig',de,unknown,#111111,#111111,2,0.4089679234818978
 'Matt Winkelmeyer',de,unknown,#111111,#111111,1,0.4089009961562043
-'Hubert Aiwanger',de,unknown,#111111,#111111,3,0.4085278436565543
 'Willem Dafoe',de,unknown,#111111,#111111,2,0.4084789358526677
 'George Santos',de,USA,#18e8e8,#18e8e8,2,0.4076650750718749
 'Marjorie Taylor Greene',de,USA,#18e8e8,#18e8e8,3,0.4071551850997219
@@ -125,6 +124,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Ryan Gosling',de,unknown,#111111,#111111,1,0.3892365249272727
 'Pap Ndiaye',de,unknown,#111111,#111111,1,0.388993226207131
 'Bettina Jarasch',de,Deutschland,#1818e8,#1818e8,2,0.3889215813848814
+'Hubert Aiwanger',de,unknown,#111111,#111111,3,0.3885639534717075
 'Sophie Turner',de,unknown,#111111,#111111,1,0.3880373912792749
 'Wolfgang Kubicki',de,Deutschland,#1818e8,#1818e8,3,0.3878098247528238
 'Malu Dreyer',de,Deutschland,#1818e8,#1818e8,2,0.3866368442436647
@@ -271,12 +271,12 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Katy Perry',de,USA,#18e8e8,#18e8e8,3,0.3614742758982953
 'Chelsea Handler',de,USA,#18e8e8,#18e8e8,1,0.3614000149999999
 'Jimmy Kimmel',de,unknown,#111111,#111111,2,0.3613939971495674
-'Evgueni Prigojine',de,Russland,#e81818,#e81818,1,0.3612499999999999
+'Pedro Sánchez Pérez-Castejón',de,Spanien,#111111,#111111,1,0.3612499999999999
 'Salvador Dali',de,Spanien,#111111,#111111,1,0.3612499999999999
 'Sergei Surovikin',de,Russland,#e81818,#e81818,1,0.3612499999999999
 'Leon Botstein',de,USA,#18e8e8,#18e8e8,1,0.3612499999999999
-'Pedro Sánchez Pérez-Castejón',de,Spanien,#111111,#111111,1,0.3612499999999999
 'Uwe Neumärker',de,Deutschland,#1818e8,#1818e8,1,0.3612499999999999
+'Evgueni Prigojine',de,Russland,#e81818,#e81818,1,0.3612499999999999
 'Patti LaBelle',de,USA,#18e8e8,#18e8e8,1,0.3612499999999999
 'Dorothée Pacaud',de,Frankreich,#e8e808,#e8e808,1,0.3612499999999999
 'Gilbert Plass',de,Kanada,#111111,#111111,1,0.3612499999999999
@@ -379,16 +379,16 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Alexander Smirnov',de,unknown,#111111,#111111,1,0.3381332651080311
 'Tucker Carlson',de,USA,#18e8e8,#18e8e8,1,0.338091972310273
 'Kyle Pope',de,unknown,#111111,#111111,1,0.3379187649999999
+'Eriberto Gualinga',de,unknown,#111111,#111111,1,0.3377687499999999
 'Haitham A-Ghais',de,unknown,#111111,#111111,1,0.3377687499999999
 'Elizabeth Mpofu',de,unknown,#111111,#111111,1,0.3377687499999999
-'Eriberto Gualinga',de,unknown,#111111,#111111,1,0.3377687499999999
 'Mark Hertsgaard',de,unknown,#111111,#111111,1,0.3377687499999999
 'Sophia Kianni',de,unknown,#111111,#111111,1,0.3377687499999999
-'Steven Donziger',de,unknown,#111111,#111111,1,0.3377687499999999
+'Minka Indigena',de,unknown,#111111,#111111,1,0.3377687499999999
 'Autumn Peltier',de,unknown,#111111,#111111,1,0.3377687499999999
 'Marjan Minnesma',de,unknown,#111111,#111111,1,0.3377687499999999
-'Minka Indigena',de,unknown,#111111,#111111,1,0.3377687499999999
 'Claudia Kempfert',de,unknown,#111111,#111111,1,0.3377687499999999
+'Steven Donziger',de,unknown,#111111,#111111,1,0.3377687499999999
 'Axel Springer',de,Deutschland,#1818e8,#1818e8,3,0.3377581246605246
 'Pete Davidson',de,USA,#18e8e8,#18e8e8,1,0.3376129924385236
 'Ron DeSantis',de,USA,#18e8e8,#18e8e8,3,0.335952659677906
@@ -697,7 +697,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Steve Milloy',de,USA,#18e8e8,#18e8e8,1,0.1602885441406249
 'Chip Somodevilla',de,USA,#18e8e8,#18e8e8,1,0.1595936124873299
 'Andreas Baum',de,Deutschland,#1818e8,#1818e8,1,0.1584502875557973
-'Charles Koch',de,USA,#18e8e8,#18e8e8,1,0.15699050915521637
+'Charles Koch',de,USA,#18e8e8,#18e8e8,1,0.1569905091552163
 'Horst Seehofer',de,Deutschland,#1818e8,#1818e8,1,0.1541542295658092
 'Christine Lagarde',de,EU,#111111,#111111,3,0.1517491587387547
 'Volker Wissing',de,Deutschland,#1818e8,#1818e8,3,0.1509181475313735
