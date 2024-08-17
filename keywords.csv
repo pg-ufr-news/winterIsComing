@@ -59,7 +59,6 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Robert Downey Jr',de,unknown,#111111,#111111,3,0.4170989948167442
 "'Dwayne ""The Rock"" Johnson'",de,unknown,#111111,#111111,2,0.41705060686233
 'Joseph Ratzinger',de,Vatikan,#58b8e8,#58b8e8,2,0.416980758623677
-'Sabrina Carpenter',de,unknown,#111111,#111111,2,0.4164972418805164
 'Eva Green',de,unknown,#111111,#111111,1,0.4162755418542738
 'Angelina Jolie',de,unknown,#111111,#111111,2,0.4153715399511692
 'Selenskyj',de,Ukraine,#e818e8,#e818e8,3,0.4145214148631513
@@ -270,14 +269,14 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Katy Perry',de,USA,#18e8e8,#18e8e8,3,0.3614742758982953
 'Chelsea Handler',de,USA,#18e8e8,#18e8e8,1,0.3614000149999999
 'Jimmy Kimmel',de,unknown,#111111,#111111,2,0.3613939971495674
-'Salvador Dali',de,Spanien,#111111,#111111,1,0.3612499999999999
-'Uwe Neumärker',de,Deutschland,#1818e8,#1818e8,1,0.3612499999999999
 'Leon Botstein',de,USA,#18e8e8,#18e8e8,1,0.3612499999999999
 'Evgueni Prigojine',de,Russland,#e81818,#e81818,1,0.3612499999999999
+'Uwe Neumärker',de,Deutschland,#1818e8,#1818e8,1,0.3612499999999999
+'Salvador Dali',de,Spanien,#111111,#111111,1,0.3612499999999999
 'Sergei Surovikin',de,Russland,#e81818,#e81818,1,0.3612499999999999
-'Patti LaBelle',de,USA,#18e8e8,#18e8e8,1,0.3612499999999999
 'Dorothée Pacaud',de,Frankreich,#e8e808,#e8e808,1,0.3612499999999999
 'Gilbert Plass',de,Kanada,#111111,#111111,1,0.3612499999999999
+'Patti LaBelle',de,USA,#18e8e8,#18e8e8,1,0.3612499999999999
 'Pedro Sánchez Pérez-Castejón',de,Spanien,#111111,#111111,1,0.3612499999999999
 'Henry Ford',de,USA,#18e8e8,#18e8e8,2,0.3606879322925437
 'Hugh Grant',de,unknown,#111111,#111111,2,0.3606844371103204
@@ -316,6 +315,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Michael Kahle',de,Deutschland,#1818e8,#1818e8,1,0.3544300405
 'Christopher Nolan',de,USA,#18e8e8,#18e8e8,2,0.354371501166877
 'Sandy Hook',de,unknown,#111111,#111111,1,0.3541278253448644
+'Sabrina Carpenter',de,unknown,#111111,#111111,1,0.35402307559843893
 'Nikki Haley',de,USA,#18e8e8,#18e8e8,3,0.3539064459281895
 'Mark Meadows',de,unknown,#111111,#111111,2,0.3538367872809899
 'Ron Johnson',de,unknown,#111111,#111111,1,0.3537556466438903
@@ -378,16 +378,16 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Alexander Smirnov',de,unknown,#111111,#111111,1,0.3381332651080311
 'Tucker Carlson',de,USA,#18e8e8,#18e8e8,1,0.338091972310273
 'Kyle Pope',de,unknown,#111111,#111111,1,0.3379187649999999
+'Eriberto Gualinga',de,unknown,#111111,#111111,1,0.3377687499999999
 'Autumn Peltier',de,unknown,#111111,#111111,1,0.3377687499999999
 'Mark Hertsgaard',de,unknown,#111111,#111111,1,0.3377687499999999
 'Sophia Kianni',de,unknown,#111111,#111111,1,0.3377687499999999
-'Eriberto Gualinga',de,unknown,#111111,#111111,1,0.3377687499999999
 'Haitham A-Ghais',de,unknown,#111111,#111111,1,0.3377687499999999
-'Marjan Minnesma',de,unknown,#111111,#111111,1,0.3377687499999999
 'Minka Indigena',de,unknown,#111111,#111111,1,0.3377687499999999
 'Claudia Kempfert',de,unknown,#111111,#111111,1,0.3377687499999999
 'Steven Donziger',de,unknown,#111111,#111111,1,0.3377687499999999
 'Elizabeth Mpofu',de,unknown,#111111,#111111,1,0.3377687499999999
+'Marjan Minnesma',de,unknown,#111111,#111111,1,0.3377687499999999
 'Axel Springer',de,Deutschland,#1818e8,#1818e8,3,0.3377581246605246
 'Pete Davidson',de,USA,#18e8e8,#18e8e8,1,0.3376129924385236
 'Ron DeSantis',de,USA,#18e8e8,#18e8e8,3,0.335952659677906
@@ -462,7 +462,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Pedro Pascal',de,unknown,#111111,#111111,1,0.3125313655755374
 'Aurélien Rousseau',de,unknown,#111111,#111111,1,0.3124715611469738
 'Jean-Luc Mélenchon',de,unknown,#111111,#111111,1,0.3124714507024091
-'Ainsley Earhardt',de,unknown,#111111,#111111,1,0.31217829460171237
+'Ainsley Earhardt',de,unknown,#111111,#111111,1,0.3121782946017123
 'Jean Jouzel',de,unknown,#111111,#111111,1,0.3119443266274943
 'Peyton Manning',de,unknown,#111111,#111111,1,0.3117269792069623
 'Leonardo da Vinci',de,Italien,#111111,#111111,2,0.3117224592143928
