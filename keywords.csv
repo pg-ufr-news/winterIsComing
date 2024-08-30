@@ -154,7 +154,6 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Carter Reum',de,unknown,#111111,#111111,1,0.3737239409219445
 'Christine Lambrecht',de,Deutschland,#1818e8,#1818e8,2,0.3736931517795454
 'Jessy Wellmer',de,unknown,#111111,#111111,1,0.3735660314359089
-'Caren Miosga',de,Deutschland,#1818e8,#1818e8,3,0.3733710154719989
 'Élisabeth Borne',de,Frankreich,#e8e808,#e8e808,3,0.3731406734909089
 'Robin Roberts',de,unknown,#111111,#111111,2,0.3730214728593475
 'Leandro De Niro-Rodriguez',de,unknown,#111111,#111111,1,0.3729652332707742
@@ -257,13 +256,13 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Chelsea Handler',de,USA,#18e8e8,#18e8e8,1,0.3614000149999999
 'Jimmy Kimmel',de,unknown,#111111,#111111,2,0.3613939971495674
 'Uwe Neumärker',de,Deutschland,#1818e8,#1818e8,1,0.3612499999999999
-'Patti LaBelle',de,USA,#18e8e8,#18e8e8,1,0.3612499999999999
-'Leon Botstein',de,USA,#18e8e8,#18e8e8,1,0.3612499999999999
-'Dorothée Pacaud',de,Frankreich,#e8e808,#e8e808,1,0.3612499999999999
 'Evgueni Prigojine',de,Russland,#e81818,#e81818,1,0.3612499999999999
-'Pedro Sánchez Pérez-Castejón',de,Spanien,#111111,#111111,1,0.3612499999999999
-'Gilbert Plass',de,Kanada,#111111,#111111,1,0.3612499999999999
 'Salvador Dali',de,Spanien,#111111,#111111,1,0.3612499999999999
+'Gilbert Plass',de,Kanada,#111111,#111111,1,0.3612499999999999
+'Pedro Sánchez Pérez-Castejón',de,Spanien,#111111,#111111,1,0.3612499999999999
+'Dorothée Pacaud',de,Frankreich,#e8e808,#e8e808,1,0.3612499999999999
+'Leon Botstein',de,USA,#18e8e8,#18e8e8,1,0.3612499999999999
+'Patti LaBelle',de,USA,#18e8e8,#18e8e8,1,0.3612499999999999
 'Richard David Precht',de,Deutschland,#1818e8,#1818e8,2,0.3610551881034481
 'Henry Ford',de,USA,#18e8e8,#18e8e8,2,0.3606879322925437
 'Hugh Grant',de,unknown,#111111,#111111,2,0.3606844371103204
@@ -373,16 +372,16 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Alexander Smirnov',de,unknown,#111111,#111111,1,0.3381332651080311
 'Tucker Carlson',de,USA,#18e8e8,#18e8e8,1,0.338091972310273
 'Kyle Pope',de,unknown,#111111,#111111,1,0.3379187649999999
+'Elizabeth Mpofu',de,unknown,#111111,#111111,1,0.3377687499999999
+'Minka Indigena',de,unknown,#111111,#111111,1,0.3377687499999999
 'Mark Hertsgaard',de,unknown,#111111,#111111,1,0.3377687499999999
 'Haitham A-Ghais',de,unknown,#111111,#111111,1,0.3377687499999999
 'Autumn Peltier',de,unknown,#111111,#111111,1,0.3377687499999999
 'Claudia Kempfert',de,unknown,#111111,#111111,1,0.3377687499999999
-'Minka Indigena',de,unknown,#111111,#111111,1,0.3377687499999999
-'Steven Donziger',de,unknown,#111111,#111111,1,0.3377687499999999
-'Sophia Kianni',de,unknown,#111111,#111111,1,0.3377687499999999
-'Elizabeth Mpofu',de,unknown,#111111,#111111,1,0.3377687499999999
-'Eriberto Gualinga',de,unknown,#111111,#111111,1,0.3377687499999999
 'Marjan Minnesma',de,unknown,#111111,#111111,1,0.3377687499999999
+'Eriberto Gualinga',de,unknown,#111111,#111111,1,0.3377687499999999
+'Sophia Kianni',de,unknown,#111111,#111111,1,0.3377687499999999
+'Steven Donziger',de,unknown,#111111,#111111,1,0.3377687499999999
 'Axel Springer',de,Deutschland,#1818e8,#1818e8,3,0.3377581246605246
 'Pete Davidson',de,USA,#18e8e8,#18e8e8,1,0.3376129924385236
 'Ron DeSantis',de,USA,#18e8e8,#18e8e8,3,0.335952659677906
@@ -444,6 +443,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Holger Friedrich',de,Deutschland,#1818e8,#1818e8,1,0.3190432093505554
 'Silvio Berlusconi',de,Italien,#111111,#111111,3,0.3184097321982022
 'Peregrine Pearson',de,unknown,#111111,#111111,1,0.3174205558884461
+'Caren Miosga',de,Deutschland,#1818e8,#1818e8,2,0.3173660081511991
 'Tiffany Chen',de,USA,#18e8e8,#18e8e8,1,0.3160557285382119
 'Chuck Todd',de,USA,#18e8e8,#18e8e8,1,0.3154074150987499
 'Leonard Bernstein',de,unknown,#111111,#111111,1,0.3151923000113883
@@ -543,7 +543,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'nan Si',de,unknown,#111111,#111111,1,0.2635298943550567
 'Aleksandar Vučić',de,Serbien,#111111,#111111,2,0.2631335223312125
 'Péter Szijjártó',de,Ungarn,#111111,#111111,1,0.2619467561974999
-'Hazel Monét',de,unknown,#111111,#111111,1,0.26142887141709775
+'Hazel Monét',de,unknown,#111111,#111111,1,0.2614288714170977
 'Joy Behar',de,unknown,#111111,#111111,1,0.2613835210494998
 'Michael Sandel',de,USA,#18e8e8,#18e8e8,1,0.2613727915493749
 'Yannick Morez',de,Frankreich,#e8e808,#e8e808,1,0.2613727915493749
