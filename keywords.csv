@@ -241,12 +241,12 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Chelsea Handler',de,USA,#18e8e8,#18e8e8,1,0.3614000149999999
 'Jimmy Kimmel',de,unknown,#111111,#111111,2,0.3613939971495674
 'Salvador Dali',de,Spanien,#111111,#111111,1,0.3612499999999999
-'Evgueni Prigojine',de,Russland,#e81818,#e81818,1,0.3612499999999999
-'Pedro Sánchez Pérez-Castejón',de,Spanien,#111111,#111111,1,0.3612499999999999
 'Uwe Neumärker',de,Deutschland,#1818e8,#1818e8,1,0.3612499999999999
-'Leon Botstein',de,USA,#18e8e8,#18e8e8,1,0.3612499999999999
-'Dorothée Pacaud',de,Frankreich,#e8e808,#e8e808,1,0.3612499999999999
+'Pedro Sánchez Pérez-Castejón',de,Spanien,#111111,#111111,1,0.3612499999999999
+'Evgueni Prigojine',de,Russland,#e81818,#e81818,1,0.3612499999999999
 'Patti LaBelle',de,USA,#18e8e8,#18e8e8,1,0.3612499999999999
+'Dorothée Pacaud',de,Frankreich,#e8e808,#e8e808,1,0.3612499999999999
+'Leon Botstein',de,USA,#18e8e8,#18e8e8,1,0.3612499999999999
 'Gilbert Plass',de,Kanada,#111111,#111111,1,0.3612499999999999
 'Richard David Precht',de,Deutschland,#1818e8,#1818e8,2,0.3610551881034481
 'Henry Ford',de,USA,#18e8e8,#18e8e8,2,0.3606879322925437
@@ -479,12 +479,12 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Viktor Shokin',de,unknown,#111111,#111111,1,0.3082459027257873
 'Sean Hannity',de,unknown,#111111,#111111,1,0.3080275551135952
 'Ayatollah Chamenei',de,Iran,#111111,#111111,1,0.3077702407625
-'Camille Etienne',de,Frankreich,#e8e808,#e8e808,1,0.3070624999999999
 'Pierre-Yves Dermagne',de,Belgien,#111111,#111111,1,0.3070624999999999
+'Camille Etienne',de,Frankreich,#e8e808,#e8e808,1,0.3070624999999999
 'Sergei Surovikin',de,Russland,#e81818,#e81818,1,0.3070624999999999
-'Kemal Kiliçdaroglu',de,Türkei,#111111,#111111,1,0.3070624999999999
-'Andrei Nikolajewitsch Kolmogorow',de,Russland,#e81818,#e81818,1,0.3070624999999999
 'Moon Hyung-jin',de,USA,#18e8e8,#18e8e8,1,0.3070624999999999
+'Andrei Nikolajewitsch Kolmogorow',de,Russland,#e81818,#e81818,1,0.3070624999999999
+'Kemal Kiliçdaroglu',de,Türkei,#111111,#111111,1,0.3070624999999999
 'Alberto Núñez Feijóo',de,unknown,#111111,#111111,1,0.3068759318382417
 'Kevin Kühnert',de,Deutschland,#1818e8,#1818e8,3,0.3052661568897969
 'Charles III',de,UK,#e838e8,#e838e8,3,0.3046119308651951
@@ -666,6 +666,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Sergej Lawrow',de,Russland,#e81818,#e81818,3,0.1801563823979405
 'Gregor Gysi',de,Deutschland,#1818e8,#1818e8,2,0.1793542177960141
 'Andrzej Duda',de,Polen,#111111,#111111,3,0.1791535853548615
+'Dalai Lama',de,Tibet,#111111,#111111,1,0.17910893162658886
 'Veronika Grimm',de,Deutschland,#1818e8,#1818e8,2,0.1789600792369795
 'Alice Schwarzer',de,Deutschland,#1818e8,#1818e8,1,0.1786532559854335
 'Macky Sall',de,Senegal,#111111,#111111,2,0.1785743603676145
@@ -691,8 +692,8 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Nicola Sturgeon',de,UK,#e838e8,#e838e8,2,0.1632700488409633
 'Bruno Retailleau',de,Frankreich,#e8e808,#e8e808,1,0.1612143842548948
 'Christoph Heusgen',de,Deutschland,#1818e8,#1818e8,2,0.1612007755474939
-'Edir Macedo',de,Brasilien,#58e838,#58e848,1,0.1602885441406249
 'Steve Milloy',de,USA,#18e8e8,#18e8e8,1,0.1602885441406249
+'Edir Macedo',de,Brasilien,#58e838,#58e848,1,0.1602885441406249
 'Chip Somodevilla',de,USA,#18e8e8,#18e8e8,1,0.1595936124873299
 'Andreas Baum',de,Deutschland,#1818e8,#1818e8,1,0.1584502875557973
 'Charles Koch',de,USA,#18e8e8,#18e8e8,1,0.1569905091552163
@@ -713,7 +714,6 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Mary Lou McDonald',de,Irland,#111111,#111111,2,0.144444660027504
 'Karl Jenkins',de,UK,#e838e8,#e838e8,1,0.1407311270079205
 'Edmund Stoiber',de,Deutschland,#1818e8,#1818e8,1,0.1402849213689529
-'Dalai Lama',de,Tibet,#111111,#111111,1,0.1389121509332418
 'Michael Walzer',de,USA,#18e8e8,#18e8e8,1,0.1382677543156648
 'Alexei Nawalny',de,Russland,#e81818,#e81818,1,0.1374187838083438
 'Sucharit Bhakdi',de,Deutschland,#1818e8,#1818e8,1,0.1368833022567215
