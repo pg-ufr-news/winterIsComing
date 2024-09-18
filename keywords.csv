@@ -46,7 +46,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Eva Green',de,unknown,#111111,#111111,1,0.4162755418542738
 'Billie Eilish',de,unknown,#111111,#111111,3,0.4159438257567382
 'Ronna McDaniel',de,unknown,#111111,#111111,2,0.4129695678024622
-'Angelina Jolie',de,unknown,#111111,#111111,2,0.41256447350394837
+'Angelina Jolie',de,unknown,#111111,#111111,2,0.4125644735039483
 'Prinz Archie',de,UK,#e838e8,#e838e8,3,0.4123031510413915
 'Alexander De Croo',de,Belgien,#111111,#111111,3,0.4120649757704546
 'James Comer',de,unknown,#111111,#111111,1,0.4119396668049579
@@ -760,7 +760,6 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Alberto Ángel Fernández',de,Argentinien,#111111,#111111,1,0.0834899180866222
 'Daniel Zhang',de,China,#e88818,#e88818,1,0.083152075283367
 'Julia Koch',de,USA,#18e8e8,#18e8e8,1,0.0809323051175894
-'Daniel Dillmann',de,Deutschland,#1818e8,#1818e8,1,0.0782329664248944
 'Scott Morrison',de,Australien,#111111,#111111,1,0.0774562832971674
 'Muhammad bin Zayid Al Nahyan',de,VAE,#111111,#111111,1,0.0770078797197197
 'Lael Brainard',de,USA,#18e8e8,#18e8e8,1,0.0766618611072041
@@ -776,6 +775,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Yanis Varoufakis',de,Griechenland,#1858e8,#1858e8,1,0.0682165568688824
 'Otmar Issing',de,EU,#111111,#111111,1,0.0675175558949335
 'Jürgen Grässlin',de,Deutschland,#1818e8,#1818e8,1,0.0667271696671177
+'Daniel Dillmann',de,Deutschland,#1818e8,#1818e8,1,0.06649802146116024
 'Tamim bin Hamad Al-Thani',de,Katar,#111111,#111111,1,0.065709176791444
 'Philipp Wolff',de,Deutschland,#1818e8,#1818e8,1,0.0654199081845615
 'Badri Hosseini Chamenei',de,Iran,#111111,#111111,1,0.0649775735050562
