@@ -89,7 +89,6 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Geert Wilders',de,Niederlande,#111111,#111111,3,0.3931240735060226
 'Tom Kaulitz',de,unknown,#111111,#111111,2,0.3928926299378852
 'Kim Kardashian',de,USA,#18e8e8,#18e8e8,2,0.3919943238949523
-'Kai Wegner',de,Deutschland,#1818e8,#1818e8,3,0.3908912308709938
 'Gisele Bundchen',de,unknown,#111111,#111111,2,0.3894604601400397
 'Ryan Gosling',de,unknown,#111111,#111111,1,0.3892365249272727
 'Bettina Jarasch',de,Deutschland,#1818e8,#1818e8,2,0.3889215813848814
@@ -107,7 +106,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Margot Robbie',de,unknown,#111111,#111111,2,0.384287606324979
 'Indiana Jones',de,unknown,#111111,#111111,3,0.3840840005991071
 'Camille Cottin',de,unknown,#111111,#111111,1,0.3836970842117616
-'Al Nassr',de,unknown,#111111,#111111,3,0.38365832408200046
+'Al Nassr',de,unknown,#111111,#111111,3,0.3836583240820004
 'Billy Crystal',de,unknown,#111111,#111111,2,0.3835790523457523
 'Matt Gaetz',de,unknown,#111111,#111111,1,0.3830993816820487
 'Matty Healy',de,unknown,#111111,#111111,1,0.3830117779844859
@@ -135,6 +134,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Justin Timberlake',de,unknown,#111111,#111111,2,0.373771720164565
 'Carter Reum',de,unknown,#111111,#111111,1,0.3737239409219445
 'Christine Lambrecht',de,Deutschland,#1818e8,#1818e8,2,0.3736931517795454
+'Kai Wegner',de,Deutschland,#1818e8,#1818e8,3,0.37357460260398107
 'Jessy Wellmer',de,unknown,#111111,#111111,1,0.3735660314359089
 'Robin Roberts',de,unknown,#111111,#111111,2,0.3730214728593475
 'Leandro De Niro-Rodriguez',de,unknown,#111111,#111111,1,0.3729652332707742
@@ -351,14 +351,14 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Alexander Smirnov',de,unknown,#111111,#111111,1,0.3381332651080311
 'Tucker Carlson',de,USA,#18e8e8,#18e8e8,1,0.338091972310273
 'Kyle Pope',de,unknown,#111111,#111111,1,0.3379187649999999
-'Eriberto Gualinga',de,unknown,#111111,#111111,1,0.3377687499999999
-'Haitham A-Ghais',de,unknown,#111111,#111111,1,0.3377687499999999
-'Sophia Kianni',de,unknown,#111111,#111111,1,0.3377687499999999
 'Minka Indigena',de,unknown,#111111,#111111,1,0.3377687499999999
-'Claudia Kempfert',de,unknown,#111111,#111111,1,0.3377687499999999
-'Steven Donziger',de,unknown,#111111,#111111,1,0.3377687499999999
+'Eriberto Gualinga',de,unknown,#111111,#111111,1,0.3377687499999999
+'Sophia Kianni',de,unknown,#111111,#111111,1,0.3377687499999999
+'Haitham A-Ghais',de,unknown,#111111,#111111,1,0.3377687499999999
 'Autumn Peltier',de,unknown,#111111,#111111,1,0.3377687499999999
+'Steven Donziger',de,unknown,#111111,#111111,1,0.3377687499999999
 'Marjan Minnesma',de,unknown,#111111,#111111,1,0.3377687499999999
+'Claudia Kempfert',de,unknown,#111111,#111111,1,0.3377687499999999
 'Axel Springer',de,Deutschland,#1818e8,#1818e8,3,0.3377581246605246
 'Pete Davidson',de,USA,#18e8e8,#18e8e8,1,0.3376129924385236
 'Ron DeSantis',de,USA,#18e8e8,#18e8e8,3,0.335952659677906
@@ -475,12 +475,12 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Viktor Shokin',de,unknown,#111111,#111111,1,0.3082459027257873
 'Sean Hannity',de,unknown,#111111,#111111,1,0.3080275551135952
 'Ayatollah Chamenei',de,Iran,#111111,#111111,1,0.3077702407625
-'Sergei Surovikin',de,Russland,#e81818,#e81818,1,0.3070624999999999
-'Pierre-Yves Dermagne',de,Belgien,#111111,#111111,1,0.3070624999999999
 'Andrei Nikolajewitsch Kolmogorow',de,Russland,#e81818,#e81818,1,0.3070624999999999
-'Kemal Kiliçdaroglu',de,Türkei,#111111,#111111,1,0.3070624999999999
-'Camille Etienne',de,Frankreich,#e8e808,#e8e808,1,0.3070624999999999
+'Pierre-Yves Dermagne',de,Belgien,#111111,#111111,1,0.3070624999999999
+'Sergei Surovikin',de,Russland,#e81818,#e81818,1,0.3070624999999999
 'Moon Hyung-jin',de,USA,#18e8e8,#18e8e8,1,0.3070624999999999
+'Camille Etienne',de,Frankreich,#e8e808,#e8e808,1,0.3070624999999999
+'Kemal Kiliçdaroglu',de,Türkei,#111111,#111111,1,0.3070624999999999
 'Alberto Núñez Feijóo',de,unknown,#111111,#111111,1,0.3068759318382417
 'Kevin Kühnert',de,Deutschland,#1818e8,#1818e8,3,0.3052661568897969
 'Charles III',de,UK,#e838e8,#e838e8,3,0.3046119308651951
