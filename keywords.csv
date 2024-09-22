@@ -100,7 +100,6 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Sam H',de,unknown,#111111,#111111,1,0.3852180011675959
 'Irina Scherbakowa',de,unknown,#111111,#111111,1,0.3850657007808333
 'Melania Trump',de,unknown,#111111,#111111,1,0.3850519088052437
-'Margot Robbie',de,unknown,#111111,#111111,2,0.384287606324979
 'Indiana Jones',de,unknown,#111111,#111111,3,0.3840840005991071
 'Camille Cottin',de,unknown,#111111,#111111,1,0.3836970842117616
 'Al Nassr',de,unknown,#111111,#111111,3,0.3836583240820004
@@ -122,6 +121,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'George Miller',de,unknown,#111111,#111111,2,0.3775578351422274
 'Lionel Messi',de,Argentinien,#111111,#111111,3,0.3773722030285648
 'Alex Jones',de,unknown,#111111,#111111,2,0.377106761577706
+'Margot Robbie',de,unknown,#111111,#111111,3,0.3770500308307776
 'Steve Wozniak',de,USA,#18e8e8,#18e8e8,1,0.3746162252400734
 'Boris Johnson',de,UK,#e838e8,#e838e8,3,0.3744586561362362
 'Bill Barr',de,unknown,#111111,#111111,1,0.3744322916162164
@@ -232,18 +232,18 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Katy Perry',de,USA,#18e8e8,#18e8e8,3,0.3614742758982953
 'Chelsea Handler',de,USA,#18e8e8,#18e8e8,1,0.3614000149999999
 'Jimmy Kimmel',de,unknown,#111111,#111111,2,0.3613939971495674
+'Dorothée Pacaud',de,Frankreich,#e8e808,#e8e808,1,0.3612499999999999
 'Uwe Neumärker',de,Deutschland,#1818e8,#1818e8,1,0.3612499999999999
 'Leon Botstein',de,USA,#18e8e8,#18e8e8,1,0.3612499999999999
-'Dorothée Pacaud',de,Frankreich,#e8e808,#e8e808,1,0.3612499999999999
 'Pedro Sánchez Pérez-Castejón',de,Spanien,#111111,#111111,1,0.3612499999999999
-'Salvador Dali',de,Spanien,#111111,#111111,1,0.3612499999999999
-'Patti LaBelle',de,USA,#18e8e8,#18e8e8,1,0.3612499999999999
 'Gilbert Plass',de,Kanada,#111111,#111111,1,0.3612499999999999
+'Patti LaBelle',de,USA,#18e8e8,#18e8e8,1,0.3612499999999999
 'Evgueni Prigojine',de,Russland,#e81818,#e81818,1,0.3612499999999999
+'Salvador Dali',de,Spanien,#111111,#111111,1,0.3612499999999999
 'Richard David Precht',de,Deutschland,#1818e8,#1818e8,2,0.3610551881034481
 'Henry Ford',de,USA,#18e8e8,#18e8e8,2,0.3606879322925437
 'Hugh Grant',de,unknown,#111111,#111111,2,0.3606844371103204
-'Anya Taylor-Joy',de,unknown,#111111,#111111,1,0.36063839165579087
+'Anya Taylor-Joy',de,unknown,#111111,#111111,1,0.3606383916557908
 'Mathias Döpfner',de,Deutschland,#1818e8,#1818e8,2,0.3602330955687252
 'Olivia Rodrigo',de,unknown,#111111,#111111,2,0.3600780871431262
 'James Biden',de,unknown,#111111,#111111,1,0.3598031908727447
@@ -350,14 +350,14 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Alexander Smirnov',de,unknown,#111111,#111111,1,0.3381332651080311
 'Tucker Carlson',de,USA,#18e8e8,#18e8e8,1,0.338091972310273
 'Kyle Pope',de,unknown,#111111,#111111,1,0.3379187649999999
-'Haitham A-Ghais',de,unknown,#111111,#111111,1,0.3377687499999999
+'Marjan Minnesma',de,unknown,#111111,#111111,1,0.3377687499999999
 'Steven Donziger',de,unknown,#111111,#111111,1,0.3377687499999999
 'Claudia Kempfert',de,unknown,#111111,#111111,1,0.3377687499999999
-'Marjan Minnesma',de,unknown,#111111,#111111,1,0.3377687499999999
-'Autumn Peltier',de,unknown,#111111,#111111,1,0.3377687499999999
+'Haitham A-Ghais',de,unknown,#111111,#111111,1,0.3377687499999999
+'Minka Indigena',de,unknown,#111111,#111111,1,0.3377687499999999
 'Sophia Kianni',de,unknown,#111111,#111111,1,0.3377687499999999
 'Eriberto Gualinga',de,unknown,#111111,#111111,1,0.3377687499999999
-'Minka Indigena',de,unknown,#111111,#111111,1,0.3377687499999999
+'Autumn Peltier',de,unknown,#111111,#111111,1,0.3377687499999999
 'Axel Springer',de,Deutschland,#1818e8,#1818e8,3,0.3377581246605246
 'Pete Davidson',de,USA,#18e8e8,#18e8e8,1,0.3376129924385236
 'Ron DeSantis',de,USA,#18e8e8,#18e8e8,3,0.335952659677906
