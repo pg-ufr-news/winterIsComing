@@ -45,7 +45,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Eva Green',de,unknown,#111111,#111111,1,0.4162755418542738
 'Billie Eilish',de,unknown,#111111,#111111,3,0.4159438257567382
 'Ronna McDaniel',de,unknown,#111111,#111111,2,0.4129695678024622
-'Mike Johnson',de,unknown,#111111,#111111,3,0.41282146776276984
+'Mike Johnson',de,unknown,#111111,#111111,3,0.4128214677627698
 'Angelina Jolie',de,unknown,#111111,#111111,2,0.4125644735039483
 'Prinz Archie',de,UK,#e838e8,#e838e8,3,0.4123031510413915
 'James Comer',de,unknown,#111111,#111111,1,0.4119396668049579
@@ -203,7 +203,6 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Joe Alwyn',de,unknown,#111111,#111111,1,0.3644201270711055
 'Lily Gladstone',de,unknown,#111111,#111111,1,0.3643949028945126
 'Ines de Ramon',de,unknown,#111111,#111111,1,0.3640622803609304
-'Kim Jong Un',de,NordKorea,#e85858,#e85858,3,0.3639364704561567
 'Robert de Niro',de,USA,#18e8e8,#18e8e8,3,0.3638742468261326
 'Tim Malone',de,unknown,#111111,#111111,1,0.3637004088810685
 'Sam Asghari',de,unknown,#111111,#111111,1,0.363652588124256
@@ -231,14 +230,14 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Katy Perry',de,USA,#18e8e8,#18e8e8,3,0.3614742758982953
 'Chelsea Handler',de,USA,#18e8e8,#18e8e8,1,0.3614000149999999
 'Jimmy Kimmel',de,unknown,#111111,#111111,2,0.3613939971495674
+'Pedro Sánchez Pérez-Castejón',de,Spanien,#111111,#111111,1,0.3612499999999999
+'Gilbert Plass',de,Kanada,#111111,#111111,1,0.3612499999999999
 'Salvador Dali',de,Spanien,#111111,#111111,1,0.3612499999999999
 'Patti LaBelle',de,USA,#18e8e8,#18e8e8,1,0.3612499999999999
 'Evgueni Prigojine',de,Russland,#e81818,#e81818,1,0.3612499999999999
-'Gilbert Plass',de,Kanada,#111111,#111111,1,0.3612499999999999
 'Dorothée Pacaud',de,Frankreich,#e8e808,#e8e808,1,0.3612499999999999
 'Leon Botstein',de,USA,#18e8e8,#18e8e8,1,0.3612499999999999
 'Uwe Neumärker',de,Deutschland,#1818e8,#1818e8,1,0.3612499999999999
-'Pedro Sánchez Pérez-Castejón',de,Spanien,#111111,#111111,1,0.3612499999999999
 'Richard David Precht',de,Deutschland,#1818e8,#1818e8,2,0.3610551881034481
 'Henry Ford',de,USA,#18e8e8,#18e8e8,2,0.3606879322925437
 'Hugh Grant',de,unknown,#111111,#111111,2,0.3606844371103204
@@ -331,6 +330,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'David Weiss',de,unknown,#111111,#111111,2,0.3421170734113719
 'Meryl Streep',de,unknown,#111111,#111111,1,0.3418772510232802
 'Vanessa Nakate',de,unknown,#111111,#111111,1,0.3416324381562544
+'Kim Jong Un',de,NordKorea,#e85858,#e85858,3,0.3415725521604604
 'Joachim Gauck',de,Deutschland,#1818e8,#1818e8,1,0.341559116540784
 'Tim Cook',de,USA,#18e8e8,#18e8e8,3,0.3413569805292045
 'nan nan',de,unknown,#111111,#111111,1,0.341027803202717
