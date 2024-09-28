@@ -228,14 +228,14 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Charles Barkley',de,unknown,#111111,#111111,1,0.3614311278547526
 'Chelsea Handler',de,USA,#18e8e8,#18e8e8,1,0.3614000149999999
 'Jimmy Kimmel',de,unknown,#111111,#111111,2,0.3613939971495674
-'Gilbert Plass',de,Kanada,#111111,#111111,1,0.3612499999999999
-'Uwe Neumärker',de,Deutschland,#1818e8,#1818e8,1,0.3612499999999999
-'Evgueni Prigojine',de,Russland,#e81818,#e81818,1,0.3612499999999999
 'Pedro Sánchez Pérez-Castejón',de,Spanien,#111111,#111111,1,0.3612499999999999
-'Salvador Dali',de,Spanien,#111111,#111111,1,0.3612499999999999
-'Dorothée Pacaud',de,Frankreich,#e8e808,#e8e808,1,0.3612499999999999
+'Gilbert Plass',de,Kanada,#111111,#111111,1,0.3612499999999999
+'Evgueni Prigojine',de,Russland,#e81818,#e81818,1,0.3612499999999999
+'Uwe Neumärker',de,Deutschland,#1818e8,#1818e8,1,0.3612499999999999
 'Patti LaBelle',de,USA,#18e8e8,#18e8e8,1,0.3612499999999999
+'Dorothée Pacaud',de,Frankreich,#e8e808,#e8e808,1,0.3612499999999999
 'Leon Botstein',de,USA,#18e8e8,#18e8e8,1,0.3612499999999999
+'Salvador Dali',de,Spanien,#111111,#111111,1,0.3612499999999999
 'Richard David Precht',de,Deutschland,#1818e8,#1818e8,2,0.3610551881034481
 'Henry Ford',de,USA,#18e8e8,#18e8e8,2,0.3606879322925437
 'Hugh Grant',de,unknown,#111111,#111111,2,0.3606844371103204
@@ -409,7 +409,6 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Lady Di',de,UK,#e838e8,#e838e8,2,0.3247340141323649
 'Nawaz Sharif',de,unknown,#111111,#111111,1,0.3246164786377746
 'Dieter Bohlen',de,Deutschland,#1818e8,#1818e8,3,0.3238343098698971
-'Ulf Poschardt',de,Deutschland,#1818e8,#1818e8,2,0.3237742247420472
 'Stanislaw Petrow',de,unknown,#111111,#111111,1,0.3235533595407186
 'Emmanuel Macron',de,Frankreich,#e8e808,#e8e808,3,0.3234161993634266
 'George Clooney',de,USA,#18e8e8,#18e8e8,2,0.3232592203260634
@@ -475,11 +474,11 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Viktor Shokin',de,unknown,#111111,#111111,1,0.3082459027257873
 'Sean Hannity',de,unknown,#111111,#111111,1,0.3080275551135952
 'Ayatollah Chamenei',de,Iran,#111111,#111111,1,0.3077702407625
-'Camille Etienne',de,Frankreich,#e8e808,#e8e808,1,0.3070624999999999
-'Kemal Kiliçdaroglu',de,Türkei,#111111,#111111,1,0.3070624999999999
 'Moon Hyung-jin',de,USA,#18e8e8,#18e8e8,1,0.3070624999999999
-'Sergei Surovikin',de,Russland,#e81818,#e81818,1,0.3070624999999999
 'Andrei Nikolajewitsch Kolmogorow',de,Russland,#e81818,#e81818,1,0.3070624999999999
+'Sergei Surovikin',de,Russland,#e81818,#e81818,1,0.3070624999999999
+'Kemal Kiliçdaroglu',de,Türkei,#111111,#111111,1,0.3070624999999999
+'Camille Etienne',de,Frankreich,#e8e808,#e8e808,1,0.3070624999999999
 'Alberto Núñez Feijóo',de,unknown,#111111,#111111,1,0.3068759318382417
 'Kevin Kühnert',de,Deutschland,#1818e8,#1818e8,3,0.3052661568897969
 'Charles III',de,UK,#e838e8,#e838e8,3,0.3046119308651951
@@ -508,11 +507,11 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Harrison Ford',de,unknown,#111111,#111111,2,0.2925587410105112
 'Alexander von Humboldt',de,Deutschland,#1818e8,#1818e8,1,0.29117562501723
 'Hamish Harding',de,UK,#e838e8,#e838e8,1,0.2896279299634089
-'Hans Joosten',de,unknown,#111111,#111111,1,0.2871034374999999
-'Elizabeth Mpofu',de,unknown,#111111,#111111,1,0.2871034374999999
+'Tasneem Essop',de,unknown,#111111,#111111,1,0.2871034374999999
 'Helena Gualinga',de,unknown,#111111,#111111,1,0.2871034374999999
 'Mark Hertsgaard',de,unknown,#111111,#111111,1,0.2871034374999999
-'Tasneem Essop',de,unknown,#111111,#111111,1,0.2871034374999999
+'Hans Joosten',de,unknown,#111111,#111111,1,0.2871034374999999
+'Elizabeth Mpofu',de,unknown,#111111,#111111,1,0.2871034374999999
 'King Charles III',de,UK,#e838e8,#e838e8,2,0.2866234463454403
 'Kemal Klçdarolu',de,Türkei,#111111,#111111,3,0.2862786906655112
 'Chris Hipkins',de,Neuseeland,#1818e8,#1818e8,1,0.2823558058735521
@@ -525,6 +524,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Larry Ellison',de,USA,#18e8e8,#18e8e8,2,0.2767811027692829
 'Martin Scorsese',de,USA,#18e8e8,#18e8e8,2,0.2765116034836655
 'Angela Merkel',de,Deutschland,#1818e8,#1818e8,3,0.2762117999871901
+'Ulf Poschardt',de,Deutschland,#1818e8,#1818e8,1,0.27520836103074015
 'Markus Krebber',de,Deutschland,#1818e8,#1818e8,2,0.2733643561975386
 'Wolfgang Grupp',de,unknown,#111111,#111111,1,0.2729890476828131
 'Geoffrey Hinton',de,UK,#e838e8,#e838e8,1,0.2727559061797484
