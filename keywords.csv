@@ -1,6 +1,7 @@
 keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
+'Jason Kelce',de,unknown,#111111,#111111,2,0.4815720138045011
 'Taylor Swift',de,unknown,#111111,#111111,3,0.4637619753356302
-'Matteo Salvini',de,Italien,#111111,#111111,3,0.45169089036751403
+'Matteo Salvini',de,Italien,#111111,#111111,3,0.451690890367514
 'Selenskyj',de,Ukraine,#e818e8,#e818e8,3,0.4509755351142196
 'Pat McAfee',de,unknown,#111111,#111111,1,0.4496406030992137
 'Lauren Sánchez',de,USA,#18e8e8,#18e8e8,2,0.4480513754127081
@@ -18,7 +19,6 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Gabriel Attal',de,unknown,#111111,#111111,2,0.4290645186863449
 'Amber Heard',de,USA,#18e8e8,#18e8e8,2,0.4285384574598709
 'Ayo Edebiri',de,unknown,#111111,#111111,1,0.4284762643784136
-'Jason Kelce',de,unknown,#111111,#111111,1,0.4277120142798052
 'Jake Gyllenhaal',de,unknown,#111111,#111111,1,0.4276768913494289
 'Dawn Staley',de,unknown,#111111,#111111,2,0.4274238307815551
 'Prinz William',de,UK,#e838e8,#e838e8,3,0.4274163094369086
@@ -228,14 +228,14 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Charles Barkley',de,unknown,#111111,#111111,1,0.3614311278547526
 'Chelsea Handler',de,USA,#18e8e8,#18e8e8,1,0.3614000149999999
 'Jimmy Kimmel',de,unknown,#111111,#111111,2,0.3613939971495674
-'Gilbert Plass',de,Kanada,#111111,#111111,1,0.3612499999999999
-'Uwe Neumärker',de,Deutschland,#1818e8,#1818e8,1,0.3612499999999999
-'Evgueni Prigojine',de,Russland,#e81818,#e81818,1,0.3612499999999999
 'Pedro Sánchez Pérez-Castejón',de,Spanien,#111111,#111111,1,0.3612499999999999
-'Salvador Dali',de,Spanien,#111111,#111111,1,0.3612499999999999
-'Dorothée Pacaud',de,Frankreich,#e8e808,#e8e808,1,0.3612499999999999
+'Gilbert Plass',de,Kanada,#111111,#111111,1,0.3612499999999999
+'Evgueni Prigojine',de,Russland,#e81818,#e81818,1,0.3612499999999999
+'Uwe Neumärker',de,Deutschland,#1818e8,#1818e8,1,0.3612499999999999
 'Patti LaBelle',de,USA,#18e8e8,#18e8e8,1,0.3612499999999999
+'Dorothée Pacaud',de,Frankreich,#e8e808,#e8e808,1,0.3612499999999999
 'Leon Botstein',de,USA,#18e8e8,#18e8e8,1,0.3612499999999999
+'Salvador Dali',de,Spanien,#111111,#111111,1,0.3612499999999999
 'Richard David Precht',de,Deutschland,#1818e8,#1818e8,2,0.3610551881034481
 'Henry Ford',de,USA,#18e8e8,#18e8e8,2,0.3606879322925437
 'Hugh Grant',de,unknown,#111111,#111111,2,0.3606844371103204
