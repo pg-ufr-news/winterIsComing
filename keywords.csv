@@ -14,7 +14,6 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Prinz George',de,UK,#e838e8,#e838e8,3,0.4383570981468203
 'Nikki Glaser',de,unknown,#111111,#111111,2,0.432779837323042
 'Prinz Harry',de,UK,#e838e8,#e838e8,3,0.4323000174662449
-'Andrew Schulz',de,unknown,#111111,#111111,1,0.4296072367063889
 'Jacoby Brissett',de,unknown,#111111,#111111,1,0.4295829092962015
 'Gabriel Attal',de,unknown,#111111,#111111,2,0.4290645186863449
 'Amber Heard',de,USA,#18e8e8,#18e8e8,2,0.4285384574598709
@@ -184,6 +183,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Lula da Silva',de,Brasilien,#58e838,#58e848,3,0.365701607512585
 'Sarah Stier',de,unknown,#111111,#111111,1,0.3655492666764219
 'Jeffrey Epstein',de,USA,#18e8e8,#18e8e8,1,0.3655114490820765
+'Andrew Schulz',de,unknown,#111111,#111111,1,0.36531616620043056
 'François Bayrou',de,unknown,#111111,#111111,1,0.3652085213321013
 'König Charles III',de,UK,#e838e8,#e838e8,3,0.3651385935564507
 'Robert Badinter',de,unknown,#111111,#111111,1,0.3650806521924647
@@ -443,7 +443,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Robert Menendez',de,unknown,#111111,#111111,1,0.3139437363993921
 'Markus Wipperfürth',de,Deutschland,#1818e8,#1818e8,1,0.313704319299375
 'Sultan al-Jaber',de,VAE,#111111,#111111,2,0.3135387523625
-'Mark Kerr',de,unknown,#111111,#111111,1,0.31327046934981734
+'Mark Kerr',de,unknown,#111111,#111111,1,0.3132704693498173
 'Yaël Braun-Pivet',de,unknown,#111111,#111111,1,0.3132508628870632
 'Yoon Suk Yeol',de,SüdKorea,#111111,#111111,3,0.3132295237705156
 'Jason Whitlock',de,unknown,#111111,#111111,1,0.3131636440986311
