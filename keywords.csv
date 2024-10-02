@@ -22,7 +22,6 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Prinz William',de,UK,#e838e8,#e838e8,3,0.4274163094369086
 'Irina Shayk',de,unknown,#111111,#111111,1,0.42692874174277
 'Kim Mulkey',de,unknown,#111111,#111111,1,0.4268097657805394
-'Roman Pacino',de,unknown,#111111,#111111,2,0.4266594074586563
 'Emily Blunt',de,unknown,#111111,#111111,2,0.4233306364368155
 'Javier Milei',de,unknown,#111111,#111111,2,0.4220114657313635
 'Mindy Kaling',de,unknown,#111111,#111111,1,0.4218931293427186
@@ -205,6 +204,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'François Braun',de,unknown,#111111,#111111,1,0.3632947024025411
 'Marie Trintignant',de,unknown,#111111,#111111,1,0.3632050942391267
 'Anne Will',de,Deutschland,#1818e8,#1818e8,3,0.3631121886321952
+'Roman Pacino',de,unknown,#111111,#111111,2,0.3631105413398579
 'Jerod Mayo',de,unknown,#111111,#111111,1,0.3630895367961478
 'Miley Cyrus',de,unknown,#111111,#111111,2,0.3630394794574747
 'Le Pen',de,Frankreich,#e8e808,#e8e808,3,0.3629946204829544
@@ -344,11 +344,11 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Alexander Smirnov',de,unknown,#111111,#111111,1,0.3381332651080311
 'Tucker Carlson',de,USA,#18e8e8,#18e8e8,1,0.338091972310273
 'Kyle Pope',de,unknown,#111111,#111111,1,0.3379187649999999
-'Marjan Minnesma',de,unknown,#111111,#111111,1,0.3377687499999999
+'Haitham A-Ghais',de,unknown,#111111,#111111,1,0.3377687499999999
 'Eriberto Gualinga',de,unknown,#111111,#111111,1,0.3377687499999999
 'Minka Indigena',de,unknown,#111111,#111111,1,0.3377687499999999
-'Haitham A-Ghais',de,unknown,#111111,#111111,1,0.3377687499999999
 'Autumn Peltier',de,unknown,#111111,#111111,1,0.3377687499999999
+'Marjan Minnesma',de,unknown,#111111,#111111,1,0.3377687499999999
 'Claudia Kempfert',de,unknown,#111111,#111111,1,0.3377687499999999
 'Steven Donziger',de,unknown,#111111,#111111,1,0.3377687499999999
 'Axel Springer',de,Deutschland,#1818e8,#1818e8,3,0.3377581246605246
@@ -500,7 +500,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Finnegan Biden',de,USA,#18e8e8,#18e8e8,1,0.2952764855582953
 'King Charles',de,UK,#e838e8,#e838e8,3,0.294948075164018
 'Winston Churchill',de,UK,#e838e8,#e838e8,2,0.2942145588395231
-'Eric Ciotti',de,Frankreich,#e8e808,#e8e808,1,0.29331907340851243
+'Eric Ciotti',de,Frankreich,#e8e808,#e8e808,1,0.2933190734085124
 'Noam Chomsky',de,USA,#18e8e8,#18e8e8,1,0.293305923398125
 'Lindsey Graham',de,USA,#18e8e8,#18e8e8,2,0.293233516859784
 'Harrison Ford',de,unknown,#111111,#111111,2,0.2925587410105112
