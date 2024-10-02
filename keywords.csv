@@ -319,7 +319,6 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Sam Altman',de,USA,#18e8e8,#18e8e8,3,0.3453456400486125
 'Gérald Darmanin',de,Frankreich,#e8e808,#e8e808,3,0.3453051474443181
 'Lana Del Rey',de,unknown,#111111,#111111,1,0.3452146359737003
-'Eric Ciotti',de,Frankreich,#e8e808,#e8e808,1,0.3449047745982499
 'Prinz Heinrich XIII',de,Deutschland,#1818e8,#1818e8,1,0.3443977314539285
 'Helge Schneider',de,Deutschland,#1818e8,#1818e8,1,0.3439259496110415
 'Vo Van Thuong',de,unknown,#111111,#111111,1,0.3435998159476603
@@ -501,17 +500,18 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Finnegan Biden',de,USA,#18e8e8,#18e8e8,1,0.2952764855582953
 'King Charles',de,UK,#e838e8,#e838e8,3,0.294948075164018
 'Winston Churchill',de,UK,#e838e8,#e838e8,2,0.2942145588395231
+'Eric Ciotti',de,Frankreich,#e8e808,#e8e808,1,0.29331907340851243
 'Noam Chomsky',de,USA,#18e8e8,#18e8e8,1,0.293305923398125
 'Lindsey Graham',de,USA,#18e8e8,#18e8e8,2,0.293233516859784
 'Harrison Ford',de,unknown,#111111,#111111,2,0.2925587410105112
 'Alexander von Humboldt',de,Deutschland,#1818e8,#1818e8,1,0.29117562501723
 'Hamish Harding',de,UK,#e838e8,#e838e8,1,0.2896279299634089
-'Elizabeth Mpofu',de,unknown,#111111,#111111,1,0.2871034374999999
-'Mark Hertsgaard',de,unknown,#111111,#111111,1,0.2871034374999999
-'Hans Joosten',de,unknown,#111111,#111111,1,0.2871034374999999
 'Sophia Kianni',de,unknown,#111111,#111111,1,0.2871034374999999
 'Helena Gualinga',de,unknown,#111111,#111111,1,0.2871034374999999
 'Tasneem Essop',de,unknown,#111111,#111111,1,0.2871034374999999
+'Hans Joosten',de,unknown,#111111,#111111,1,0.2871034374999999
+'Mark Hertsgaard',de,unknown,#111111,#111111,1,0.2871034374999999
+'Elizabeth Mpofu',de,unknown,#111111,#111111,1,0.2871034374999999
 'King Charles III',de,UK,#e838e8,#e838e8,2,0.2866234463454403
 'Kemal Klçdarolu',de,Türkei,#111111,#111111,3,0.2862786906655112
 'Chris Hipkins',de,Neuseeland,#1818e8,#1818e8,1,0.2823558058735521
@@ -544,8 +544,8 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Péter Szijjártó',de,Ungarn,#111111,#111111,1,0.2619467561974999
 'Hazel Monét',de,unknown,#111111,#111111,1,0.2614288714170977
 'Joy Behar',de,unknown,#111111,#111111,1,0.2613835210494998
-'Yannick Morez',de,Frankreich,#e8e808,#e8e808,1,0.2613727915493749
 'Michael Sandel',de,USA,#18e8e8,#18e8e8,1,0.2613727915493749
+'Yannick Morez',de,Frankreich,#e8e808,#e8e808,1,0.2613727915493749
 'Thomas Bayes',de,UK,#e838e8,#e838e8,1,0.2610031249999999
 'Yevgeny Prigozhin',de,Russland,#e81818,#e81818,1,0.2610031249999999
 'Pierre-Yves Dermagne',de,Belgien,#111111,#111111,1,0.2610031249999999
