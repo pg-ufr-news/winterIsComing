@@ -14,7 +14,6 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Prinz George',de,UK,#e838e8,#e838e8,3,0.4383570981468203
 'Nikki Glaser',de,unknown,#111111,#111111,2,0.432779837323042
 'Prinz Harry',de,UK,#e838e8,#e838e8,3,0.4323000174662449
-'Gabriel Attal',de,unknown,#111111,#111111,2,0.4290645186863449
 'Amber Heard',de,USA,#18e8e8,#18e8e8,2,0.4285384574598709
 'Ayo Edebiri',de,unknown,#111111,#111111,1,0.4284762643784136
 'Jake Gyllenhaal',de,unknown,#111111,#111111,1,0.4276768913494289
@@ -191,6 +190,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Bruce Springsteen',de,USA,#18e8e8,#18e8e8,3,0.3648812385197782
 'Linda Yaccarino',de,USA,#18e8e8,#18e8e8,3,0.3648547760833654
 'Jamie Spears',de,unknown,#111111,#111111,1,0.3648205459654227
+'Gabriel Attal',de,unknown,#111111,#111111,1,0.36470532088339314
 'Luc Terlinden',de,unknown,#111111,#111111,1,0.3645652907586416
 'Sherri Shepherd',de,unknown,#111111,#111111,1,0.3645449771088023
 'Joe Alwyn',de,unknown,#111111,#111111,1,0.3644201270711055
@@ -344,10 +344,10 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Tucker Carlson',de,USA,#18e8e8,#18e8e8,1,0.338091972310273
 'Kyle Pope',de,unknown,#111111,#111111,1,0.3379187649999999
 'Marjan Minnesma',de,unknown,#111111,#111111,1,0.3377687499999999
-'Autumn Peltier',de,unknown,#111111,#111111,1,0.3377687499999999
-'Steven Donziger',de,unknown,#111111,#111111,1,0.3377687499999999
 'Eriberto Gualinga',de,unknown,#111111,#111111,1,0.3377687499999999
+'Steven Donziger',de,unknown,#111111,#111111,1,0.3377687499999999
 'Haitham A-Ghais',de,unknown,#111111,#111111,1,0.3377687499999999
+'Autumn Peltier',de,unknown,#111111,#111111,1,0.3377687499999999
 'Minka Indigena',de,unknown,#111111,#111111,1,0.3377687499999999
 'Claudia Kempfert',de,unknown,#111111,#111111,1,0.3377687499999999
 'Axel Springer',de,Deutschland,#1818e8,#1818e8,3,0.3377581246605246
@@ -490,7 +490,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Barack Obama',de,USA,#18e8e8,#18e8e8,3,0.2996641882250379
 'Noor Alfallah',de,USA,#18e8e8,#18e8e8,1,0.2995170758189093
 'Patrick Graichen',de,Deutschland,#1818e8,#1818e8,3,0.2991518660671385
-'Jack Smith',de,USA,#18e8e8,#18e8e8,3,0.29904817946937134
+'Jack Smith',de,USA,#18e8e8,#18e8e8,3,0.2990481794693713
 'Gayle King',de,unknown,#111111,#111111,1,0.2987508604419264
 'Jimmy Carter',de,USA,#18e8e8,#18e8e8,1,0.2982243350845084
 'Gerhard Schröder',de,Deutschland,#1818e8,#1818e8,3,0.2980571127537039
