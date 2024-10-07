@@ -219,13 +219,13 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Charles Barkley',de,unknown,#111111,#111111,1,0.3614311278547526
 'Chelsea Handler',de,USA,#18e8e8,#18e8e8,1,0.3614000149999999
 'Jimmy Kimmel',de,unknown,#111111,#111111,2,0.3613939971495674
+'Salvador Dali',de,Spanien,#111111,#111111,1,0.3612499999999999
 'Pedro Sánchez Pérez-Castejón',de,Spanien,#111111,#111111,1,0.3612499999999999
 'Dorothée Pacaud',de,Frankreich,#e8e808,#e8e808,1,0.3612499999999999
-'Uwe Neumärker',de,Deutschland,#1818e8,#1818e8,1,0.3612499999999999
-'Salvador Dali',de,Spanien,#111111,#111111,1,0.3612499999999999
-'Leon Botstein',de,USA,#18e8e8,#18e8e8,1,0.3612499999999999
 'Patti LaBelle',de,USA,#18e8e8,#18e8e8,1,0.3612499999999999
+'Uwe Neumärker',de,Deutschland,#1818e8,#1818e8,1,0.3612499999999999
 'Gilbert Plass',de,Kanada,#111111,#111111,1,0.3612499999999999
+'Leon Botstein',de,USA,#18e8e8,#18e8e8,1,0.3612499999999999
 'Richard David Precht',de,Deutschland,#1818e8,#1818e8,2,0.3610551881034481
 'Henry Ford',de,USA,#18e8e8,#18e8e8,2,0.3606879322925437
 'Hugh Grant',de,unknown,#111111,#111111,2,0.3606844371103204
@@ -340,11 +340,11 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Tucker Carlson',de,USA,#18e8e8,#18e8e8,1,0.338091972310273
 'Kyle Pope',de,unknown,#111111,#111111,1,0.3379187649999999
 'Marjan Minnesma',de,unknown,#111111,#111111,1,0.3377687499999999
-'Haitham A-Ghais',de,unknown,#111111,#111111,1,0.3377687499999999
-'Claudia Kempfert',de,unknown,#111111,#111111,1,0.3377687499999999
-'Minka Indigena',de,unknown,#111111,#111111,1,0.3377687499999999
-'Eriberto Gualinga',de,unknown,#111111,#111111,1,0.3377687499999999
 'Autumn Peltier',de,unknown,#111111,#111111,1,0.3377687499999999
+'Claudia Kempfert',de,unknown,#111111,#111111,1,0.3377687499999999
+'Haitham A-Ghais',de,unknown,#111111,#111111,1,0.3377687499999999
+'Eriberto Gualinga',de,unknown,#111111,#111111,1,0.3377687499999999
+'Minka Indigena',de,unknown,#111111,#111111,1,0.3377687499999999
 'Steven Donziger',de,unknown,#111111,#111111,1,0.3377687499999999
 'Axel Springer',de,Deutschland,#1818e8,#1818e8,3,0.3377581246605246
 'Pete Davidson',de,USA,#18e8e8,#18e8e8,1,0.3376129924385236
@@ -727,6 +727,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'John Kerry',de,USA,#18e8e8,#18e8e8,1,0.1236069912483804
 'Jerome Powell',de,USA,#18e8e8,#18e8e8,3,0.1231918053841207
 'Sergey Brin',de,USA,#18e8e8,#18e8e8,1,0.1204010720496926
+'Mahmud Abbas',de,Palistina,#111111,#111111,2,0.11913307499395473
 'Paul Gosar',de,USA,#18e8e8,#18e8e8,1,0.1181246426044334
 'Steffen Große',de,Deutschland,#1818e8,#1818e8,3,0.1177249681573005
 'John Roberts',de,USA,#18e8e8,#18e8e8,1,0.117536359398511
@@ -738,7 +739,6 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Kurt Krömer',de,Deutschland,#1818e8,#1818e8,1,0.1147813464736931
 'Robin Li',de,China,#e88818,#e88818,2,0.1147597124833704
 'Alexej Kudrin',de,Russland,#e81818,#e81818,1,0.1118888387080861
-'Mahmud Abbas',de,Palistina,#111111,#111111,1,0.10759377325492
 'Miguel Díaz-Canel',de,Kuba,#111111,#111111,1,0.1071361477764129
 'Carl Friedrich Gauß',de,Deutschland,#1818e8,#1818e8,1,0.1068943807314018
 'Larry Page',de,USA,#18e8e8,#18e8e8,1,0.1061468938790979
