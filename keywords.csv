@@ -40,6 +40,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'James Comer',de,unknown,#111111,#111111,1,0.4119396668049579
 'Prinzessin Kate',de,UK,#e838e8,#e838e8,3,0.4115638959211794
 'Tom Hanks',de,unknown,#111111,#111111,2,0.4115593771994854
+'Merrick Garland',de,unknown,#111111,#111111,2,0.4102083141652594
 'Jon Hamm',de,unknown,#111111,#111111,2,0.4100643464067706
 'Jason Kelce',de,unknown,#111111,#111111,2,0.4099362717338259
 'Greta Gerwig',de,unknown,#111111,#111111,2,0.4089679234818978
@@ -55,7 +56,6 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Reed Richards',de,unknown,#111111,#111111,2,0.4041916252701271
 'Tom Brady',de,unknown,#111111,#111111,3,0.4020452907718614
 'Jens Spahn',de,Deutschland,#1818e8,#1818e8,3,0.4019383389040966
-'Merrick Garland',de,unknown,#111111,#111111,2,0.401907435916348
 'Markus Lanz',de,Deutschland,#1818e8,#1818e8,3,0.4009753206816529
 'Barry Keoghan',de,unknown,#111111,#111111,1,0.4007822370819164
 'Cara Delevingne',de,unknown,#111111,#111111,1,0.4006410637300353
@@ -303,7 +303,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Kim Reynolds',de,unknown,#111111,#111111,1,0.3471747287524587
 'Billy Graham',de,USA,#18e8e8,#18e8e8,1,0.3470652495464375
 'Hendrik Wüst',de,Deutschland,#1818e8,#1818e8,3,0.346774976595158
-'George Santos',de,USA,#18e8e8,#18e8e8,1,0.34651531381109363
+'George Santos',de,USA,#18e8e8,#18e8e8,1,0.3465153138110936
 'Pippa Middleton',de,UK,#e838e8,#e838e8,2,0.3464533289087072
 'Mohammed Bin Salman',de,SaudiArabien,#111111,#111111,2,0.3464241127509568
 'Kemal Kılıçdaroğlu',de,Türkei,#111111,#111111,2,0.3464008525504922
@@ -340,11 +340,11 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Tucker Carlson',de,USA,#18e8e8,#18e8e8,1,0.338091972310273
 'Kyle Pope',de,unknown,#111111,#111111,1,0.3379187649999999
 'Steven Donziger',de,unknown,#111111,#111111,1,0.3377687499999999
-'Autumn Peltier',de,unknown,#111111,#111111,1,0.3377687499999999
-'Eriberto Gualinga',de,unknown,#111111,#111111,1,0.3377687499999999
-'Haitham A-Ghais',de,unknown,#111111,#111111,1,0.3377687499999999
-'Claudia Kempfert',de,unknown,#111111,#111111,1,0.3377687499999999
 'Minka Indigena',de,unknown,#111111,#111111,1,0.3377687499999999
+'Eriberto Gualinga',de,unknown,#111111,#111111,1,0.3377687499999999
+'Autumn Peltier',de,unknown,#111111,#111111,1,0.3377687499999999
+'Claudia Kempfert',de,unknown,#111111,#111111,1,0.3377687499999999
+'Haitham A-Ghais',de,unknown,#111111,#111111,1,0.3377687499999999
 'Marjan Minnesma',de,unknown,#111111,#111111,1,0.3377687499999999
 'Axel Springer',de,Deutschland,#1818e8,#1818e8,3,0.3377581246605246
 'Pete Davidson',de,USA,#18e8e8,#18e8e8,1,0.3376129924385236
