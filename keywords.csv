@@ -60,7 +60,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Cara Delevingne',de,unknown,#111111,#111111,1,0.4006410637300353
 'Helmut Kohl',de,Deutschland,#1818e8,#1818e8,3,0.4000794639105317
 'Jessica Biel',de,unknown,#111111,#111111,1,0.3998488172140294
-'Demi Moore',de,unknown,#111111,#111111,3,0.39951871018549134
+'Demi Moore',de,unknown,#111111,#111111,3,0.3995187101854913
 'Hunter Biden',de,USA,#18e8e8,#18e8e8,2,0.3980949512565391
 'Barbara Schöneberger',de,Deutschland,#1818e8,#1818e8,2,0.397942187794648
 'Tyson Fury',de,unknown,#111111,#111111,2,0.3973034730828843
@@ -151,7 +151,6 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Cameron Brink',de,unknown,#111111,#111111,1,0.3677026203280103
 'Dmitri Medwedew',de,Russland,#e81818,#e81818,3,0.3676935926749999
 'Valérie Hayer',de,unknown,#111111,#111111,2,0.3674927516852165
-'Drew Bledsoe',de,unknown,#111111,#111111,1,0.3674495122751443
 'Kate Hudson',de,unknown,#111111,#111111,1,0.3672543874218154
 'Aubrey Plaza',de,unknown,#111111,#111111,2,0.3672042413141184
 'Tony Bobulinski',de,unknown,#111111,#111111,1,0.367141329093436
@@ -219,12 +218,12 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Chelsea Handler',de,USA,#18e8e8,#18e8e8,1,0.3614000149999999
 'Jimmy Kimmel',de,unknown,#111111,#111111,2,0.3613939971495674
 'Salvador Dali',de,Spanien,#111111,#111111,1,0.3612499999999999
+'Gilbert Plass',de,Kanada,#111111,#111111,1,0.3612499999999999
 'Pedro Sánchez Pérez-Castejón',de,Spanien,#111111,#111111,1,0.3612499999999999
 'Patti LaBelle',de,USA,#18e8e8,#18e8e8,1,0.3612499999999999
-'Gilbert Plass',de,Kanada,#111111,#111111,1,0.3612499999999999
+'Uwe Neumärker',de,Deutschland,#1818e8,#1818e8,1,0.3612499999999999
 'Dorothée Pacaud',de,Frankreich,#e8e808,#e8e808,1,0.3612499999999999
 'Leon Botstein',de,USA,#18e8e8,#18e8e8,1,0.3612499999999999
-'Uwe Neumärker',de,Deutschland,#1818e8,#1818e8,1,0.3612499999999999
 'Richard David Precht',de,Deutschland,#1818e8,#1818e8,2,0.3610551881034481
 'Henry Ford',de,USA,#18e8e8,#18e8e8,2,0.3606879322925437
 'Hugh Grant',de,unknown,#111111,#111111,2,0.3606844371103204
@@ -339,11 +338,11 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Alexander Smirnov',de,unknown,#111111,#111111,1,0.3381332651080311
 'Tucker Carlson',de,USA,#18e8e8,#18e8e8,1,0.338091972310273
 'Kyle Pope',de,unknown,#111111,#111111,1,0.3379187649999999
-'Steven Donziger',de,unknown,#111111,#111111,1,0.3377687499999999
 'Haitham A-Ghais',de,unknown,#111111,#111111,1,0.3377687499999999
 'Eriberto Gualinga',de,unknown,#111111,#111111,1,0.3377687499999999
-'Minka Indigena',de,unknown,#111111,#111111,1,0.3377687499999999
+'Steven Donziger',de,unknown,#111111,#111111,1,0.3377687499999999
 'Claudia Kempfert',de,unknown,#111111,#111111,1,0.3377687499999999
+'Minka Indigena',de,unknown,#111111,#111111,1,0.3377687499999999
 'Autumn Peltier',de,unknown,#111111,#111111,1,0.3377687499999999
 'Marjan Minnesma',de,unknown,#111111,#111111,1,0.3377687499999999
 'Axel Springer',de,Deutschland,#1818e8,#1818e8,3,0.3377581246605246
@@ -445,6 +444,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Pedro Pascal',de,unknown,#111111,#111111,1,0.3125313655755374
 'Aurélien Rousseau',de,unknown,#111111,#111111,1,0.3124715611469738
 'Jean-Luc Mélenchon',de,unknown,#111111,#111111,1,0.3124714507024091
+'Drew Bledsoe',de,unknown,#111111,#111111,1,0.31233208543387264
 'Billionaire Bunker',de,unknown,#111111,#111111,1,0.3123144497747725
 'Ainsley Earhardt',de,unknown,#111111,#111111,1,0.3121782946017123
 'Jean Jouzel',de,unknown,#111111,#111111,1,0.3119443266274943
@@ -652,8 +652,8 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Rishi Sunak',de,UK,#e838e8,#e838e8,3,0.1890834447602599
 'Oliver Blume',de,Deutschland,#1818e8,#1818e8,3,0.189021618034757
 'Richard Ferrand',de,Frankreich,#e8e808,#e8e808,1,0.1886831436499999
-'Detlef Garbe',de,Deutschland,#1818e8,#1818e8,1,0.1885747578124999
 'Robert Nozick',de,USA,#18e8e8,#18e8e8,1,0.1885747578124999
+'Detlef Garbe',de,Deutschland,#1818e8,#1818e8,1,0.1885747578124999
 'Lukaschenko',de,Belarus,#e81858,#e81858,3,0.1883763872446562
 'Paul Kagame',de,Ruanda,#111111,#111111,1,0.1878978150731675
 'Roland Busch',de,Deutschland,#1818e8,#1818e8,1,0.1874277478256465
@@ -690,8 +690,8 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Nicola Sturgeon',de,UK,#e838e8,#e838e8,2,0.1632700488409633
 'Bruno Retailleau',de,Frankreich,#e8e808,#e8e808,1,0.1612143842548948
 'Christoph Heusgen',de,Deutschland,#1818e8,#1818e8,2,0.1612007755474939
-'Edir Macedo',de,Brasilien,#58e838,#58e848,1,0.1602885441406249
 'Steve Milloy',de,USA,#18e8e8,#18e8e8,1,0.1602885441406249
+'Edir Macedo',de,Brasilien,#58e838,#58e848,1,0.1602885441406249
 'Chip Somodevilla',de,USA,#18e8e8,#18e8e8,1,0.1595936124873299
 'Meg Bellamy',de,UK,#e838e8,#e838e8,1,0.1591283947673411
 'Cyril Ramaphosa',de,Südafrika,#111111,#111111,2,0.1586593821854459
