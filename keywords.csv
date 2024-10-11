@@ -594,6 +594,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Edward Snowden',de,USA,#18e8e8,#18e8e8,2,0.2285994919847821
 'Giorgia Meloni',de,Italien,#111111,#111111,3,0.2276149926050359
 'Mohammed bin Salman',de,SaudiArabien,#111111,#111111,3,0.2258793669860262
+'Maybritt Illner',de,Deutschland,#1818e8,#1818e8,2,0.22576317778879876
 'Suleika Jaouad',de,unknown,#111111,#111111,1,0.2254884024661918
 'Jean-Jacques Rousseau',de,Schweiz,#111111,#111111,1,0.2223234995640312
 'Megyn Kell',de,USA,#18e8e8,#18e8e8,1,0.2218526562499999
@@ -690,8 +691,8 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Nicola Sturgeon',de,UK,#e838e8,#e838e8,2,0.1632700488409633
 'Bruno Retailleau',de,Frankreich,#e8e808,#e8e808,1,0.1612143842548948
 'Christoph Heusgen',de,Deutschland,#1818e8,#1818e8,2,0.1612007755474939
-'Edir Macedo',de,Brasilien,#58e838,#58e848,1,0.1602885441406249
 'Steve Milloy',de,USA,#18e8e8,#18e8e8,1,0.1602885441406249
+'Edir Macedo',de,Brasilien,#58e838,#58e848,1,0.1602885441406249
 'Chip Somodevilla',de,USA,#18e8e8,#18e8e8,1,0.1595936124873299
 'Meg Bellamy',de,UK,#e838e8,#e838e8,1,0.1591283947673411
 'Cyril Ramaphosa',de,Südafrika,#111111,#111111,2,0.1586593821854459
@@ -751,10 +752,9 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Gautam Adani',de,Indien,#111111,#111111,1,0.0980152362022505
 'Bartholomäus',de,Türkei,#111111,#111111,1,0.0938905547524025
 'Sergej Lavrov',de,Russland,#e81818,#e81818,1,0.0922427569981809
-'Volodymyr Zelenskiy',de,Ukraine,#e818e8,#e818e8,1,0.0920387840292876
 'Milo Yiannopoulos',de,UK,#e838e8,#e838e8,1,0.0920387840292876
+'Volodymyr Zelenskiy',de,Ukraine,#e818e8,#e818e8,1,0.0920387840292876
 'Schellnhuber',de,Deutschland,#1818e8,#1818e8,2,0.0888831888990715
-'Maybritt Illner',de,Deutschland,#1818e8,#1818e8,1,0.0886036856338809
 'Millie Mackintosh',de,UK,#e838e8,#e838e8,1,0.085870735393038
 'Patrick Pouyanné',de,Frankreich,#e8e808,#e8e808,1,0.0853757212615144
 'Alberto Ángel Fernández',de,Argentinien,#111111,#111111,1,0.0834899180866222
