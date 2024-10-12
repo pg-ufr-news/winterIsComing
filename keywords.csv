@@ -1,5 +1,4 @@
 keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
-'Taylor Swift',de,unknown,#111111,#111111,3,0.4547253560416356
 'Pat McAfee',de,unknown,#111111,#111111,1,0.4524928634891819
 'Matteo Salvini',de,Italien,#111111,#111111,3,0.451690890367514
 'Selenskyj',de,Ukraine,#e818e8,#e818e8,3,0.4509755351142196
@@ -19,6 +18,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Irina Shayk',de,unknown,#111111,#111111,1,0.42692874174277
 'Kim Mulkey',de,unknown,#111111,#111111,1,0.4268097657805394
 'Emily Blunt',de,unknown,#111111,#111111,2,0.4233306364368155
+'Taylor Swift',de,unknown,#111111,#111111,3,0.4232932094535721
 'Javier Milei',de,unknown,#111111,#111111,2,0.4220114657313635
 'Wagner-Chef Prigoschin',de,unknown,#111111,#111111,3,0.4215284726591458
 'Roger Corman',de,unknown,#111111,#111111,1,0.420982250064414
@@ -267,7 +267,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Dwayne Johnson',de,unknown,#111111,#111111,1,0.3536930929488768
 'Lars Klingbeil',de,Deutschland,#1818e8,#1818e8,3,0.3534255613949572
 'James Cleverly',de,UK,#e838e8,#e838e8,3,0.3533365200448863
-'Papst Franziskus',de,Vatikan,#58b8e8,#58b8e8,3,0.35333042275240756
+'Papst Franziskus',de,Vatikan,#58b8e8,#58b8e8,3,0.3533304227524075
 'Pietro Lombardi',de,Deutschland,#1818e8,#1818e8,2,0.3528292534756288
 'Charlie Munger',de,unknown,#111111,#111111,2,0.3527739361726963
 'Marine Le Pen',de,Frankreich,#e8e808,#e8e808,3,0.3527062217586931
