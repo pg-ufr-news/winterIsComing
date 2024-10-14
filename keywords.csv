@@ -12,7 +12,6 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Prinz Harry',de,UK,#e838e8,#e838e8,3,0.4323000174662449
 'Amber Heard',de,USA,#18e8e8,#18e8e8,2,0.4285384574598709
 'Jake Gyllenhaal',de,unknown,#111111,#111111,1,0.4276768913494289
-'Dawn Staley',de,unknown,#111111,#111111,2,0.4274238307815551
 'Prinz William',de,UK,#e838e8,#e838e8,3,0.4273475021122814
 'Irina Shayk',de,unknown,#111111,#111111,1,0.42692874174277
 'Kim Mulkey',de,unknown,#111111,#111111,1,0.4268097657805394
@@ -187,6 +186,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Tim Malone',de,unknown,#111111,#111111,1,0.3637004088810685
 'Sam Asghari',de,unknown,#111111,#111111,1,0.363652588124256
 'Chris Kirkpatrick',de,unknown,#111111,#111111,1,0.3634304707507816
+'Dawn Staley',de,unknown,#111111,#111111,1,0.36331025616432183
 'François Braun',de,unknown,#111111,#111111,1,0.3632947024025411
 'Marie Trintignant',de,unknown,#111111,#111111,1,0.3632050942391267
 'Anne Will',de,Deutschland,#1818e8,#1818e8,3,0.3631121886321952
@@ -466,7 +466,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Matt Damon',de,USA,#18e8e8,#18e8e8,1,0.308394569700974
 'Viktor Shokin',de,unknown,#111111,#111111,1,0.3082459027257873
 'Sean Hannity',de,unknown,#111111,#111111,1,0.3080275551135952
-'Petro Poroshenko',de,unknown,#111111,#111111,1,0.30793265919388385
+'Petro Poroshenko',de,unknown,#111111,#111111,1,0.3079326591938838
 'Ayatollah Chamenei',de,Iran,#111111,#111111,1,0.3077702407625
 'Moon Hyung-jin',de,USA,#18e8e8,#18e8e8,1,0.3070624999999999
 'Andrei Nikolajewitsch Kolmogorow',de,Russland,#e81818,#e81818,1,0.3070624999999999
