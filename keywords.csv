@@ -145,7 +145,6 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Dmitri Medwedew',de,Russland,#e81818,#e81818,3,0.3676935926749999
 'Valérie Hayer',de,unknown,#111111,#111111,2,0.3674927516852165
 'Kate Hudson',de,unknown,#111111,#111111,1,0.3672543874218154
-'Aubrey Plaza',de,unknown,#111111,#111111,2,0.3672042413141184
 'Andy Cohen',de,unknown,#111111,#111111,1,0.3670596075557663
 'Lawrence Jones',de,unknown,#111111,#111111,1,0.3670055807837214
 'Colin Farrell',de,unknown,#111111,#111111,3,0.3667383607937851
@@ -209,13 +208,13 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Charles Barkley',de,unknown,#111111,#111111,1,0.3614311278547526
 'Chelsea Handler',de,USA,#18e8e8,#18e8e8,1,0.3614000149999999
 'Jimmy Kimmel',de,unknown,#111111,#111111,2,0.3613939971495674
-'Salvador Dali',de,Spanien,#111111,#111111,1,0.3612499999999999
 'Dorothée Pacaud',de,Frankreich,#e8e808,#e8e808,1,0.3612499999999999
-'Gilbert Plass',de,Kanada,#111111,#111111,1,0.3612499999999999
-'Pedro Sánchez Pérez-Castejón',de,Spanien,#111111,#111111,1,0.3612499999999999
 'Patti LaBelle',de,USA,#18e8e8,#18e8e8,1,0.3612499999999999
-'Leon Botstein',de,USA,#18e8e8,#18e8e8,1,0.3612499999999999
 'Uwe Neumärker',de,Deutschland,#1818e8,#1818e8,1,0.3612499999999999
+'Leon Botstein',de,USA,#18e8e8,#18e8e8,1,0.3612499999999999
+'Salvador Dali',de,Spanien,#111111,#111111,1,0.3612499999999999
+'Pedro Sánchez Pérez-Castejón',de,Spanien,#111111,#111111,1,0.3612499999999999
+'Gilbert Plass',de,Kanada,#111111,#111111,1,0.3612499999999999
 'Richard David Precht',de,Deutschland,#1818e8,#1818e8,2,0.3610551881034481
 'Henry Ford',de,USA,#18e8e8,#18e8e8,2,0.3606879322925437
 'Hugh Grant',de,unknown,#111111,#111111,2,0.3606844371103204
@@ -271,7 +270,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Laura Maria Rypa',de,unknown,#111111,#111111,1,0.352580260482055
 'Patrick Mahomes',de,unknown,#111111,#111111,2,0.3524724608740194
 'Robert Kraft',de,unknown,#111111,#111111,3,0.352251674458101
-'Markus Söder',de,Deutschland,#1818e8,#1818e8,3,0.35215764881019174
+'Markus Söder',de,Deutschland,#1818e8,#1818e8,3,0.3521576488101917
 'Christian Lindner',de,Deutschland,#1818e8,#1818e8,3,0.3514593473478042
 'Prinz Andrew',de,UK,#e838e8,#e838e8,3,0.3514093522420453
 'George Floyd',de,USA,#18e8e8,#18e8e8,2,0.3512483837249999
@@ -332,13 +331,13 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Alexander Smirnov',de,unknown,#111111,#111111,1,0.3381332651080311
 'Tucker Carlson',de,USA,#18e8e8,#18e8e8,1,0.338091972310273
 'Kyle Pope',de,unknown,#111111,#111111,1,0.3379187649999999
+'Haitham A-Ghais',de,unknown,#111111,#111111,1,0.3377687499999999
+'Minka Indigena',de,unknown,#111111,#111111,1,0.3377687499999999
 'Steven Donziger',de,unknown,#111111,#111111,1,0.3377687499999999
 'Marjan Minnesma',de,unknown,#111111,#111111,1,0.3377687499999999
-'Autumn Peltier',de,unknown,#111111,#111111,1,0.3377687499999999
-'Minka Indigena',de,unknown,#111111,#111111,1,0.3377687499999999
-'Claudia Kempfert',de,unknown,#111111,#111111,1,0.3377687499999999
-'Haitham A-Ghais',de,unknown,#111111,#111111,1,0.3377687499999999
 'Eriberto Gualinga',de,unknown,#111111,#111111,1,0.3377687499999999
+'Claudia Kempfert',de,unknown,#111111,#111111,1,0.3377687499999999
+'Autumn Peltier',de,unknown,#111111,#111111,1,0.3377687499999999
 'Axel Springer',de,Deutschland,#1818e8,#1818e8,3,0.3377581246605246
 'Pete Davidson',de,USA,#18e8e8,#18e8e8,1,0.3376129924385236
 'Travis Kelce',de,unknown,#111111,#111111,2,0.3366477152805304
@@ -445,6 +444,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Drew Bledsoe',de,unknown,#111111,#111111,1,0.3123320854338726
 'Billionaire Bunker',de,unknown,#111111,#111111,1,0.3123144497747725
 'Ainsley Earhardt',de,unknown,#111111,#111111,1,0.3121782946017123
+'Aubrey Plaza',de,unknown,#111111,#111111,1,0.3121239351170006
 'Tony Bobulinski',de,unknown,#111111,#111111,1,0.3120701297294206
 'Jean Jouzel',de,unknown,#111111,#111111,1,0.3119443266274943
 'Peyton Manning',de,unknown,#111111,#111111,1,0.3117269792069623
@@ -505,12 +505,12 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Harrison Ford',de,unknown,#111111,#111111,2,0.2925587410105112
 'Alexander von Humboldt',de,Deutschland,#1818e8,#1818e8,1,0.29117562501723
 'Hamish Harding',de,UK,#e838e8,#e838e8,1,0.2896279299634089
-'Hans Joosten',de,unknown,#111111,#111111,1,0.2871034374999999
-'Elizabeth Mpofu',de,unknown,#111111,#111111,1,0.2871034374999999
-'Mark Hertsgaard',de,unknown,#111111,#111111,1,0.2871034374999999
 'Sophia Kianni',de,unknown,#111111,#111111,1,0.2871034374999999
-'Tasneem Essop',de,unknown,#111111,#111111,1,0.2871034374999999
 'Helena Gualinga',de,unknown,#111111,#111111,1,0.2871034374999999
+'Tasneem Essop',de,unknown,#111111,#111111,1,0.2871034374999999
+'Hans Joosten',de,unknown,#111111,#111111,1,0.2871034374999999
+'Mark Hertsgaard',de,unknown,#111111,#111111,1,0.2871034374999999
+'Elizabeth Mpofu',de,unknown,#111111,#111111,1,0.2871034374999999
 'King Charles III',de,UK,#e838e8,#e838e8,2,0.2866234463454403
 'Kemal Klçdarolu',de,Türkei,#111111,#111111,3,0.2862786906655112
 'Chris Hipkins',de,Neuseeland,#1818e8,#1818e8,1,0.2823558058735521
