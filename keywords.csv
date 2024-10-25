@@ -300,7 +300,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Lana Del Rey',de,unknown,#111111,#111111,1,0.3452146359737003
 'Prinz Heinrich XIII',de,Deutschland,#1818e8,#1818e8,1,0.3443977314539285
 'Helge Schneider',de,Deutschland,#1818e8,#1818e8,1,0.3439259496110415
-'Geert Wilders',de,Niederlande,#111111,#111111,3,0.34365202702557374
+'Geert Wilders',de,Niederlande,#111111,#111111,3,0.3436520270255737
 'Vo Van Thuong',de,unknown,#111111,#111111,1,0.3435998159476603
 'Bettina Jarasch',de,Deutschland,#1818e8,#1818e8,2,0.3433978398914349
 'David Weiss',de,unknown,#111111,#111111,2,0.3421170734113719
@@ -678,6 +678,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Patriarch Kyrill',de,Ukraine,#e818e8,#e818e8,3,0.1732528095557875
 'Andrea Lindholz',de,Deutschland,#1818e8,#1818e8,2,0.1715984894181786
 'Justin Trudeau',de,Kanada,#111111,#111111,3,0.1715884061962994
+'Charles Koch',de,USA,#18e8e8,#18e8e8,1,0.1712326378289295
 'Thierry Breton',de,EU,#111111,#111111,2,0.1707289014687776
 'Jack Ma',de,China,#e88818,#e88818,1,0.1704717007485522
 'Boris Palmer',de,Deutschland,#1818e8,#1818e8,1,0.1685351256009039
@@ -691,13 +692,12 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Nicola Sturgeon',de,UK,#e838e8,#e838e8,2,0.1632700488409633
 'Bruno Retailleau',de,Frankreich,#e8e808,#e8e808,1,0.1612143842548948
 'Christoph Heusgen',de,Deutschland,#1818e8,#1818e8,2,0.1612007755474939
-'Steve Milloy',de,USA,#18e8e8,#18e8e8,1,0.1602885441406249
 'Edir Macedo',de,Brasilien,#58e838,#58e848,1,0.1602885441406249
+'Steve Milloy',de,USA,#18e8e8,#18e8e8,1,0.1602885441406249
 'Chip Somodevilla',de,USA,#18e8e8,#18e8e8,1,0.1595936124873299
 'Meg Bellamy',de,UK,#e838e8,#e838e8,1,0.1591283947673411
 'Cyril Ramaphosa',de,Südafrika,#111111,#111111,2,0.1586593821854459
 'Andreas Baum',de,Deutschland,#1818e8,#1818e8,1,0.1584502875557973
-'Charles Koch',de,USA,#18e8e8,#18e8e8,1,0.1559206092105053
 'Horst Seehofer',de,Deutschland,#1818e8,#1818e8,1,0.1541542295658092
 'Erik Marquardt',de,EU,#111111,#111111,1,0.1537946238575888
 'Christine Lagarde',de,EU,#111111,#111111,3,0.1517491587387547
