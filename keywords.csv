@@ -48,7 +48,6 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Queen Elizabeth II',de,UK,#e838e8,#e838e8,3,0.4068071220564532
 'Omar Sy',de,unknown,#111111,#111111,1,0.4064936491733194
 'Jens Spahn',de,Deutschland,#1818e8,#1818e8,3,0.4056898021593912
-'Jacoby Brissett',de,unknown,#111111,#111111,2,0.4052864932165055
 'Marine Le Pen',de,Frankreich,#e8e808,#e8e808,3,0.405037717250482
 'Matteo Salvini',de,Italien,#111111,#111111,3,0.4046548234790535
 'Eva Green',de,unknown,#111111,#111111,1,0.4042842555761327
@@ -202,12 +201,12 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Chelsea Handler',de,USA,#18e8e8,#18e8e8,1,0.3614000149999999
 'Jimmy Kimmel',de,unknown,#111111,#111111,2,0.3613939971495674
 'Barbara Schöneberger',de,Deutschland,#1818e8,#1818e8,2,0.361383457807269
-'Gilbert Plass',de,Kanada,#111111,#111111,1,0.3612499999999999
-'Pedro Sánchez Pérez-Castejón',de,Spanien,#111111,#111111,1,0.3612499999999999
 'Leon Botstein',de,USA,#18e8e8,#18e8e8,1,0.3612499999999999
-'Uwe Neumärker',de,Deutschland,#1818e8,#1818e8,1,0.3612499999999999
 'Salvador Dali',de,Spanien,#111111,#111111,1,0.3612499999999999
+'Uwe Neumärker',de,Deutschland,#1818e8,#1818e8,1,0.3612499999999999
 'Patti LaBelle',de,USA,#18e8e8,#18e8e8,1,0.3612499999999999
+'Pedro Sánchez Pérez-Castejón',de,Spanien,#111111,#111111,1,0.3612499999999999
+'Gilbert Plass',de,Kanada,#111111,#111111,1,0.3612499999999999
 'Richard David Precht',de,Deutschland,#1818e8,#1818e8,2,0.3610551881034481
 'Henry Ford',de,USA,#18e8e8,#18e8e8,2,0.3606879322925437
 'Anya Taylor-Joy',de,unknown,#111111,#111111,1,0.3606383916557908
@@ -297,6 +296,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Sam Altman',de,USA,#18e8e8,#18e8e8,3,0.3453456400486125
 'Gérald Darmanin',de,Frankreich,#e8e808,#e8e808,3,0.3453051474443181
 'Lana Del Rey',de,unknown,#111111,#111111,1,0.3452146359737003
+'Jacoby Brissett',de,unknown,#111111,#111111,1,0.34449356423402966
 'Prinz Heinrich XIII',de,Deutschland,#1818e8,#1818e8,1,0.3443977314539285
 'Helge Schneider',de,Deutschland,#1818e8,#1818e8,1,0.3439259496110415
 'Geert Wilders',de,Niederlande,#111111,#111111,3,0.3436520270255737
