@@ -12,7 +12,6 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Prinz Harry',de,UK,#e838e8,#e838e8,3,0.4323000174662449
 'Amber Heard',de,USA,#18e8e8,#18e8e8,2,0.4285384574598709
 'Prinz William',de,UK,#e838e8,#e838e8,3,0.4273475021122814
-'Emily Blunt',de,unknown,#111111,#111111,2,0.4233306364368155
 'Taylor Swift',de,unknown,#111111,#111111,3,0.4232932094535721
 'Lara Trump',de,unknown,#111111,#111111,1,0.4224272296399661
 'Javier Milei',de,unknown,#111111,#111111,2,0.4220114657313635
@@ -60,6 +59,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Jessica Biel',de,unknown,#111111,#111111,1,0.3998488172140294
 'Dua Lipa',de,unknown,#111111,#111111,2,0.399844465329379
 'Demi Moore',de,unknown,#111111,#111111,3,0.3995187101854913
+'Emily Blunt',de,unknown,#111111,#111111,2,0.39913122097129317
 'Hunter Biden',de,USA,#18e8e8,#18e8e8,2,0.3980949512565391
 'Tyson Fury',de,unknown,#111111,#111111,2,0.3973034730828843
 'Sergej Surowikin',de,Russland,#e81818,#e81818,1,0.3967785279300734
@@ -296,7 +296,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Sam Altman',de,USA,#18e8e8,#18e8e8,3,0.3453456400486125
 'Gérald Darmanin',de,Frankreich,#e8e808,#e8e808,3,0.3453051474443181
 'Lana Del Rey',de,unknown,#111111,#111111,1,0.3452146359737003
-'Jacoby Brissett',de,unknown,#111111,#111111,1,0.34449356423402966
+'Jacoby Brissett',de,unknown,#111111,#111111,1,0.3444935642340296
 'Prinz Heinrich XIII',de,Deutschland,#1818e8,#1818e8,1,0.3443977314539285
 'Helge Schneider',de,Deutschland,#1818e8,#1818e8,1,0.3439259496110415
 'Geert Wilders',de,Niederlande,#111111,#111111,3,0.3436520270255737
