@@ -1,7 +1,6 @@
 keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Laura Ingraham',de,USA,#18e8e8,#18e8e8,2,0.4754353657915098
 'Rosalynn Carter',de,USA,#18e8e8,#18e8e8,2,0.4494195239087867
-'Novak Djokovic',de,unknown,#111111,#111111,3,0.4478147979517352
 'Brad Pitt',de,unknown,#111111,#111111,3,0.4446869291573528
 'Heidi Klum',de,unknown,#111111,#111111,3,0.442956887262471
 'George Bush',de,USA,#18e8e8,#18e8e8,3,0.4423004140419087
@@ -12,6 +11,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Prinz Harry',de,UK,#e838e8,#e838e8,3,0.4323000174662449
 'Amber Heard',de,USA,#18e8e8,#18e8e8,2,0.4285384574598709
 'Prinz William',de,UK,#e838e8,#e838e8,3,0.4273475021122814
+'Novak Djokovic',de,unknown,#111111,#111111,3,0.4265035891680658
 'Taylor Swift',de,unknown,#111111,#111111,3,0.4232932094535721
 'Lara Trump',de,unknown,#111111,#111111,1,0.4224272296399661
 'Javier Milei',de,unknown,#111111,#111111,2,0.4220114657313635
@@ -502,12 +502,12 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Olaf Scholz',de,Deutschland,#1818e8,#1818e8,3,0.2903364759145257
 'Hamish Harding',de,UK,#e838e8,#e838e8,1,0.2896279299634089
 'Wolfgang Benz',de,Deutschland,#1818e8,#1818e8,2,0.2886971390918749
+'Hans Joosten',de,unknown,#111111,#111111,1,0.2871034374999999
 'Elizabeth Mpofu',de,unknown,#111111,#111111,1,0.2871034374999999
 'Helena Gualinga',de,unknown,#111111,#111111,1,0.2871034374999999
-'Hans Joosten',de,unknown,#111111,#111111,1,0.2871034374999999
-'Mark Hertsgaard',de,unknown,#111111,#111111,1,0.2871034374999999
 'Tasneem Essop',de,unknown,#111111,#111111,1,0.2871034374999999
 'Sophia Kianni',de,unknown,#111111,#111111,1,0.2871034374999999
+'Mark Hertsgaard',de,unknown,#111111,#111111,1,0.2871034374999999
 'King Charles III',de,UK,#e838e8,#e838e8,2,0.2866234463454403
 'Kemal Klçdarolu',de,Türkei,#111111,#111111,3,0.2862786906655112
 'Chris Hipkins',de,Neuseeland,#1818e8,#1818e8,1,0.2823558058735521
