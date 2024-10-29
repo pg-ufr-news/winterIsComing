@@ -14,7 +14,6 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Novak Djokovic',de,unknown,#111111,#111111,3,0.4265035891680658
 'Taylor Swift',de,unknown,#111111,#111111,3,0.4232932094535721
 'Lara Trump',de,unknown,#111111,#111111,1,0.4224272296399661
-'Roger Corman',de,unknown,#111111,#111111,1,0.420982250064414
 'Bill Clinton',de,USA,#18e8e8,#18e8e8,3,0.420892577561655
 'Boris Rhein',de,unknown,#111111,#111111,3,0.4191755650692044
 'Steve Wozniak',de,USA,#18e8e8,#18e8e8,2,0.4188738364540623
@@ -220,6 +219,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Ivanka Trump',de,unknown,#111111,#111111,1,0.3583569941191412
 'Wagner-Chef Prigoschin',de,unknown,#111111,#111111,1,0.3582992467602739
 'Leonardo DiCaprio',de,USA,#18e8e8,#18e8e8,3,0.3582551360048295
+'Roger Corman',de,unknown,#111111,#111111,1,0.35813494255475187
 'Yorgos Lanthimos',de,unknown,#111111,#111111,1,0.3579900267517697
 'Joey Fatone',de,unknown,#111111,#111111,1,0.3579694995218932
 'Chris Stapleton',de,unknown,#111111,#111111,1,0.357519615267766
@@ -502,12 +502,12 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Olaf Scholz',de,Deutschland,#1818e8,#1818e8,3,0.2903364759145257
 'Hamish Harding',de,UK,#e838e8,#e838e8,1,0.2896279299634089
 'Wolfgang Benz',de,Deutschland,#1818e8,#1818e8,2,0.2886971390918749
+'Mark Hertsgaard',de,unknown,#111111,#111111,1,0.2871034374999999
 'Tasneem Essop',de,unknown,#111111,#111111,1,0.2871034374999999
 'Helena Gualinga',de,unknown,#111111,#111111,1,0.2871034374999999
-'Mark Hertsgaard',de,unknown,#111111,#111111,1,0.2871034374999999
-'Sophia Kianni',de,unknown,#111111,#111111,1,0.2871034374999999
 'Elizabeth Mpofu',de,unknown,#111111,#111111,1,0.2871034374999999
 'Hans Joosten',de,unknown,#111111,#111111,1,0.2871034374999999
+'Sophia Kianni',de,unknown,#111111,#111111,1,0.2871034374999999
 'King Charles III',de,UK,#e838e8,#e838e8,2,0.2866234463454403
 'Kemal Klçdarolu',de,Türkei,#111111,#111111,3,0.2862786906655112
 'Maybrit Illner',de,Deutschland,#1818e8,#1818e8,2,0.2822091025186961
@@ -527,7 +527,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Peregrine Pearson',de,unknown,#111111,#111111,1,0.2698074725051791
 'Katarina Barley',de,EU,#111111,#111111,2,0.2693155743291762
 'Leonard Bernstein',de,unknown,#111111,#111111,1,0.2686635300096801
-'John Rawls',de,USA,#18e8e8,#18e8e8,1,0.26706240578504836
+'John Rawls',de,USA,#18e8e8,#18e8e8,1,0.2670624057850483
 'Missy Motown',de,Deutschland,#1818e8,#1818e8,1,0.2665211478169687
 'Sara Haines',de,unknown,#111111,#111111,1,0.265434004987198
 'Elon Musk',de,USA,#18e8e8,#18e8e8,3,0.2649691531606777
