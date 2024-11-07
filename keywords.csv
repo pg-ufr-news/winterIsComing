@@ -1,5 +1,4 @@
 keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
-'Maria Bartiromo',de,unknown,#111111,#111111,2,0.4605559098954675
 'Bill Clinton',de,USA,#18e8e8,#18e8e8,3,0.4536191168364977
 'Heidi Klum',de,unknown,#111111,#111111,3,0.442956887262471
 'George Bush',de,USA,#18e8e8,#18e8e8,3,0.4423004140419087
@@ -69,6 +68,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Julia Louis-Dreyfus',de,unknown,#111111,#111111,1,0.3931986716618678
 'Tom Kaulitz',de,unknown,#111111,#111111,2,0.3928926299378852
 'Kim Kardashian',de,USA,#18e8e8,#18e8e8,2,0.3919943238949523
+'Maria Bartiromo',de,unknown,#111111,#111111,2,0.39177255341114736
 'Bridget Moynahan',de,unknown,#111111,#111111,2,0.3917258684499334
 'Chris Hipkins',de,Neuseeland,#1818e8,#1818e8,2,0.3901524499925192
 'Sophie Turner',de,unknown,#111111,#111111,1,0.3880373912792749
@@ -501,12 +501,12 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Olaf Scholz',de,Deutschland,#1818e8,#1818e8,3,0.2903364759145257
 'Hamish Harding',de,UK,#e838e8,#e838e8,1,0.2896279299634089
 'Wolfgang Benz',de,Deutschland,#1818e8,#1818e8,2,0.2886971390918749
-'Hans Joosten',de,unknown,#111111,#111111,1,0.2871034374999999
-'Elizabeth Mpofu',de,unknown,#111111,#111111,1,0.2871034374999999
 'Sophia Kianni',de,unknown,#111111,#111111,1,0.2871034374999999
-'Helena Gualinga',de,unknown,#111111,#111111,1,0.2871034374999999
-'Tasneem Essop',de,unknown,#111111,#111111,1,0.2871034374999999
+'Elizabeth Mpofu',de,unknown,#111111,#111111,1,0.2871034374999999
+'Hans Joosten',de,unknown,#111111,#111111,1,0.2871034374999999
 'Mark Hertsgaard',de,unknown,#111111,#111111,1,0.2871034374999999
+'Tasneem Essop',de,unknown,#111111,#111111,1,0.2871034374999999
+'Helena Gualinga',de,unknown,#111111,#111111,1,0.2871034374999999
 'King Charles III',de,UK,#e838e8,#e838e8,2,0.2866234463454403
 'Kemal Klçdarolu',de,Türkei,#111111,#111111,3,0.2862786906655112
 'Maybrit Illner',de,Deutschland,#1818e8,#1818e8,2,0.2822091025186961
