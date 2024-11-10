@@ -350,7 +350,6 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'António Guterres',de,unknown,#111111,#111111,3,0.3288324498243511
 'Buzz Aldrin',de,USA,#18e8e8,#18e8e8,1,0.328387253781875
 'Gérard Larcher',de,unknown,#111111,#111111,1,0.3283366425030601
-'Jim Jordan',de,unknown,#111111,#111111,1,0.3282750109137368
 'Irina Scherbakowa',de,unknown,#111111,#111111,1,0.3276058756637083
 'Cristiano Ronaldo',de,Portugal,#111111,#111111,3,0.3274578979182896
 'Anne Will',de,Deutschland,#1818e8,#1818e8,3,0.3272344539737295
@@ -456,14 +455,14 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Sean Hannity',de,unknown,#111111,#111111,1,0.3080275551135952
 'Petro Poroshenko',de,unknown,#111111,#111111,1,0.3079326591938838
 'Ayatollah Chamenei',de,Iran,#111111,#111111,1,0.3077702407625
-'Sergei Surovikin',de,Russland,#e81818,#e81818,1,0.3070624999999999
-'Evgueni Prigojine',de,Russland,#e81818,#e81818,1,0.3070624999999999
+'Patti LaBelle',de,USA,#18e8e8,#18e8e8,1,0.3070624999999999
 'Dorothée Pacaud',de,Frankreich,#e8e808,#e8e808,1,0.3070624999999999
 'Pedro Sánchez Pérez-Castejón',de,Spanien,#111111,#111111,1,0.3070624999999999
-'Camille Etienne',de,Frankreich,#e8e808,#e8e808,1,0.3070624999999999
-'Patti LaBelle',de,USA,#18e8e8,#18e8e8,1,0.3070624999999999
+'Sergei Surovikin',de,Russland,#e81818,#e81818,1,0.3070624999999999
+'Evgueni Prigojine',de,Russland,#e81818,#e81818,1,0.3070624999999999
 'Kemal Kiliçdaroglu',de,Türkei,#111111,#111111,1,0.3070624999999999
 'Moon Hyung-jin',de,USA,#18e8e8,#18e8e8,1,0.3070624999999999
+'Camille Etienne',de,Frankreich,#e8e808,#e8e808,1,0.3070624999999999
 'Alberto Núñez Feijóo',de,unknown,#111111,#111111,1,0.3068759318382417
 'Hugh Grant',de,unknown,#111111,#111111,1,0.3065820265437723
 'Kevin Kühnert',de,Deutschland,#1818e8,#1818e8,3,0.3052661568897969
@@ -492,6 +491,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Finnegan Biden',de,USA,#18e8e8,#18e8e8,1,0.2952764855582953
 'King Charles',de,UK,#e838e8,#e838e8,3,0.294948075164018
 'Winston Churchill',de,UK,#e838e8,#e838e8,2,0.2942145588395231
+'Jim Jordan',de,unknown,#111111,#111111,1,0.2933339392766763
 'Eric Ciotti',de,Frankreich,#e8e808,#e8e808,1,0.2933190734085124
 'Noam Chomsky',de,USA,#18e8e8,#18e8e8,1,0.293305923398125
 'Lindsey Graham',de,USA,#18e8e8,#18e8e8,2,0.293233516859784
@@ -500,12 +500,12 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Olaf Scholz',de,Deutschland,#1818e8,#1818e8,3,0.2903364759145257
 'Hamish Harding',de,UK,#e838e8,#e838e8,1,0.2896279299634089
 'Wolfgang Benz',de,Deutschland,#1818e8,#1818e8,2,0.2886971390918749
-'Sophia Kianni',de,unknown,#111111,#111111,1,0.2871034374999999
-'Hans Joosten',de,unknown,#111111,#111111,1,0.2871034374999999
-'Helena Gualinga',de,unknown,#111111,#111111,1,0.2871034374999999
 'Tasneem Essop',de,unknown,#111111,#111111,1,0.2871034374999999
-'Mark Hertsgaard',de,unknown,#111111,#111111,1,0.2871034374999999
 'Elizabeth Mpofu',de,unknown,#111111,#111111,1,0.2871034374999999
+'Mark Hertsgaard',de,unknown,#111111,#111111,1,0.2871034374999999
+'Helena Gualinga',de,unknown,#111111,#111111,1,0.2871034374999999
+'Hans Joosten',de,unknown,#111111,#111111,1,0.2871034374999999
+'Sophia Kianni',de,unknown,#111111,#111111,1,0.2871034374999999
 'King Charles III',de,UK,#e838e8,#e838e8,2,0.2866234463454403
 'Kemal Klçdarolu',de,Türkei,#111111,#111111,3,0.2862786906655112
 'Caroline Ellison',de,unknown,#111111,#111111,1,0.2828844680671253
@@ -542,8 +542,8 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Péter Szijjártó',de,Ungarn,#111111,#111111,1,0.2619467561974999
 'Hazel Monét',de,unknown,#111111,#111111,1,0.2614288714170977
 'Joy Behar',de,unknown,#111111,#111111,1,0.2613835210494998
-'Yannick Morez',de,Frankreich,#e8e808,#e8e808,1,0.2613727915493749
 'Michael Sandel',de,USA,#18e8e8,#18e8e8,1,0.2613727915493749
+'Yannick Morez',de,Frankreich,#e8e808,#e8e808,1,0.2613727915493749
 'Andrei Nikolajewitsch Kolmogorow',de,Russland,#e81818,#e81818,1,0.2610031249999999
 'Yevgeny Prigozhin',de,Russland,#e81818,#e81818,1,0.2610031249999999
 'Pierre-Yves Dermagne',de,Belgien,#111111,#111111,1,0.2610031249999999
@@ -652,8 +652,8 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Rishi Sunak',de,UK,#e838e8,#e838e8,3,0.1890834447602599
 'Oliver Blume',de,Deutschland,#1818e8,#1818e8,3,0.189021618034757
 'Richard Ferrand',de,Frankreich,#e8e808,#e8e808,1,0.1886831436499999
-'Detlef Garbe',de,Deutschland,#1818e8,#1818e8,1,0.1885747578124999
 'Robert Nozick',de,USA,#18e8e8,#18e8e8,1,0.1885747578124999
+'Detlef Garbe',de,Deutschland,#1818e8,#1818e8,1,0.1885747578124999
 'Lukaschenko',de,Belarus,#e81858,#e81858,3,0.1883763872446562
 'Paul Kagame',de,Ruanda,#111111,#111111,1,0.1878978150731675
 'Roland Busch',de,Deutschland,#1818e8,#1818e8,1,0.1874277478256465
