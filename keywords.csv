@@ -1,5 +1,4 @@
 keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
-'Lara Trump',de,unknown,#111111,#111111,3,0.454922731103062
 'Bill Clinton',de,USA,#18e8e8,#18e8e8,3,0.4536191168364977
 'Nina Gummich',de,Deutschland,#1818e8,#1818e8,2,0.4464750902370353
 'Heidi Klum',de,unknown,#111111,#111111,3,0.442956887262471
@@ -75,6 +74,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Chris Hipkins',de,Neuseeland,#1818e8,#1818e8,2,0.3901524499925192
 'Sophie Turner',de,unknown,#111111,#111111,1,0.3880373912792749
 'Johnny Depp',de,USA,#18e8e8,#18e8e8,2,0.3870989779375738
+'Lara Trump',de,unknown,#111111,#111111,2,0.3866848764376027
 'Malu Dreyer',de,Deutschland,#1818e8,#1818e8,2,0.3866368442436647
 'Mick Jagger',de,unknown,#111111,#111111,3,0.3860783510803511
 'Roberto Saviano',de,unknown,#111111,#111111,1,0.38579273175
@@ -455,14 +455,14 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Sean Hannity',de,unknown,#111111,#111111,1,0.3080275551135952
 'Petro Poroshenko',de,unknown,#111111,#111111,1,0.3079326591938838
 'Ayatollah Chamenei',de,Iran,#111111,#111111,1,0.3077702407625
-'Sergei Surovikin',de,Russland,#e81818,#e81818,1,0.3070624999999999
 'Moon Hyung-jin',de,USA,#18e8e8,#18e8e8,1,0.3070624999999999
+'Sergei Surovikin',de,Russland,#e81818,#e81818,1,0.3070624999999999
 'Patti LaBelle',de,USA,#18e8e8,#18e8e8,1,0.3070624999999999
 'Evgueni Prigojine',de,Russland,#e81818,#e81818,1,0.3070624999999999
-'Kemal Kiliçdaroglu',de,Türkei,#111111,#111111,1,0.3070624999999999
+'Pedro Sánchez Pérez-Castejón',de,Spanien,#111111,#111111,1,0.3070624999999999
 'Camille Etienne',de,Frankreich,#e8e808,#e8e808,1,0.3070624999999999
 'Dorothée Pacaud',de,Frankreich,#e8e808,#e8e808,1,0.3070624999999999
-'Pedro Sánchez Pérez-Castejón',de,Spanien,#111111,#111111,1,0.3070624999999999
+'Kemal Kiliçdaroglu',de,Türkei,#111111,#111111,1,0.3070624999999999
 'Alberto Núñez Feijóo',de,unknown,#111111,#111111,1,0.3068759318382417
 'Hugh Grant',de,unknown,#111111,#111111,1,0.3065820265437723
 'Chris Christie',de,USA,#18e8e8,#18e8e8,1,0.3054563079162981
