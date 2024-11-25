@@ -23,6 +23,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Jake Gyllenhaal',de,unknown,#111111,#111111,1,0.4153255376470145
 'Amber Heard',de,USA,#18e8e8,#18e8e8,2,0.4137812016814233
 'Angelina Jolie',de,unknown,#111111,#111111,2,0.4125644735039483
+'Berkshire Hathaway',de,USA,#18e8e8,#18e8e8,3,0.4124030333008964
 'John Fetterman',de,unknown,#111111,#111111,1,0.4122150829893081
 'James Comer',de,unknown,#111111,#111111,1,0.4119396668049579
 'Prinzessin Kate',de,UK,#e838e8,#e838e8,3,0.4115638959211794
@@ -169,10 +170,10 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Chelsea Handler',de,USA,#18e8e8,#18e8e8,1,0.3614000149999999
 'Jimmy Kimmel',de,unknown,#111111,#111111,2,0.3613939971495674
 'Barbara Schöneberger',de,Deutschland,#1818e8,#1818e8,2,0.361383457807269
-'Gilbert Plass',de,Kanada,#111111,#111111,1,0.3612499999999999
-'Uwe Neumärker',de,Deutschland,#1818e8,#1818e8,1,0.3612499999999999
 'Salvador Dali',de,Spanien,#111111,#111111,1,0.3612499999999999
 'Leon Botstein',de,USA,#18e8e8,#18e8e8,1,0.3612499999999999
+'Uwe Neumärker',de,Deutschland,#1818e8,#1818e8,1,0.3612499999999999
+'Gilbert Plass',de,Kanada,#111111,#111111,1,0.3612499999999999
 'Richard David Precht',de,Deutschland,#1818e8,#1818e8,2,0.3610551881034481
 'Anya Taylor-Joy',de,unknown,#111111,#111111,1,0.3606383916557908
 'Mathias Döpfner',de,Deutschland,#1818e8,#1818e8,2,0.3602330955687252
@@ -201,7 +202,6 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Lula da Silva',de,Brasilien,#58e838,#58e848,3,0.3567079022947881
 'Ulrich Reitz',de,Deutschland,#1818e8,#1818e8,1,0.3565231914342565
 'Selena Gomez',de,unknown,#111111,#111111,2,0.3565217878384712
-'Berkshire Hathaway',de,USA,#18e8e8,#18e8e8,1,0.3562318502886363
 'Albert Einstein',de,Deutschland,#1818e8,#1818e8,3,0.3561333688079544
 'Jeff Ross',de,unknown,#111111,#111111,1,0.3561186260759638
 'Ahmed Al Jaber',de,unknown,#111111,#111111,1,0.3559857679068182
@@ -500,12 +500,12 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Melinda Gates',de,USA,#18e8e8,#18e8e8,2,0.2894451807941606
 'Wolfgang Benz',de,Deutschland,#1818e8,#1818e8,2,0.2886971390918749
 'Kyle Pope',de,unknown,#111111,#111111,1,0.2873809652499999
-'Sophia Kianni',de,unknown,#111111,#111111,1,0.2871034374999999
-'Hans Joosten',de,unknown,#111111,#111111,1,0.2871034374999999
 'Helena Gualinga',de,unknown,#111111,#111111,1,0.2871034374999999
-'Elizabeth Mpofu',de,unknown,#111111,#111111,1,0.2871034374999999
-'Tasneem Essop',de,unknown,#111111,#111111,1,0.2871034374999999
+'Hans Joosten',de,unknown,#111111,#111111,1,0.2871034374999999
+'Sophia Kianni',de,unknown,#111111,#111111,1,0.2871034374999999
 'Mark Hertsgaard',de,unknown,#111111,#111111,1,0.2871034374999999
+'Tasneem Essop',de,unknown,#111111,#111111,1,0.2871034374999999
+'Elizabeth Mpofu',de,unknown,#111111,#111111,1,0.2871034374999999
 'King Charles III',de,UK,#e838e8,#e838e8,2,0.2866234463454403
 'Kemal Klçdarolu',de,Türkei,#111111,#111111,3,0.2862786906655112
 'Caroline Ellison',de,unknown,#111111,#111111,1,0.2828844680671253
