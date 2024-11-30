@@ -15,6 +15,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Prinz William',de,UK,#e838e8,#e838e8,3,0.4273475021122814
 'Novak Djokovic',de,unknown,#111111,#111111,3,0.4265035891680658
 'Brad Pitt',de,unknown,#111111,#111111,3,0.4238438356928408
+'Le Pen',de,Frankreich,#e8e808,#e8e808,3,0.4225874765014203
 'Steve Wozniak',de,USA,#18e8e8,#18e8e8,2,0.4188738364540623
 'Kim Yo Jong',de,NordKorea,#111111,#111111,3,0.41882683445
 'Bill Barr',de,unknown,#111111,#111111,2,0.4187174928737839
@@ -148,7 +149,6 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Marie Trintignant',de,unknown,#111111,#111111,1,0.3632050942391267
 'Jerod Mayo',de,unknown,#111111,#111111,1,0.3630895367961478
 'Miley Cyrus',de,unknown,#111111,#111111,2,0.3630394794574747
-'Le Pen',de,Frankreich,#e8e808,#e8e808,3,0.3629946204829544
 'Elisabeth Borne',de,Frankreich,#e8e808,#e8e808,3,0.3629885025243749
 'Kim Mulkey',de,unknown,#111111,#111111,1,0.3627883009134585
 'Jean-Denis Combrexelle',de,unknown,#111111,#111111,1,0.3627478189008838
@@ -451,14 +451,14 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Sean Hannity',de,unknown,#111111,#111111,1,0.3080275551135952
 'Petro Poroshenko',de,unknown,#111111,#111111,1,0.3079326591938838
 'Ayatollah Chamenei',de,Iran,#111111,#111111,1,0.3077702407625
+'Patti LaBelle',de,USA,#18e8e8,#18e8e8,1,0.3070624999999999
 'Dorothée Pacaud',de,Frankreich,#e8e808,#e8e808,1,0.3070624999999999
 'Moon Hyung-jin',de,USA,#18e8e8,#18e8e8,1,0.3070624999999999
 'Camille Etienne',de,Frankreich,#e8e808,#e8e808,1,0.3070624999999999
-'Patti LaBelle',de,USA,#18e8e8,#18e8e8,1,0.3070624999999999
-'Kemal Kiliçdaroglu',de,Türkei,#111111,#111111,1,0.3070624999999999
 'Evgueni Prigojine',de,Russland,#e81818,#e81818,1,0.3070624999999999
 'Pedro Sánchez Pérez-Castejón',de,Spanien,#111111,#111111,1,0.3070624999999999
 'Sergei Surovikin',de,Russland,#e81818,#e81818,1,0.3070624999999999
+'Kemal Kiliçdaroglu',de,Türkei,#111111,#111111,1,0.3070624999999999
 'Alberto Núñez Feijóo',de,unknown,#111111,#111111,1,0.3068759318382417
 'Hugh Grant',de,unknown,#111111,#111111,1,0.3065820265437723
 'Chris Christie',de,USA,#18e8e8,#18e8e8,1,0.3054563079162981
@@ -700,7 +700,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Andreas Baum',de,Deutschland,#1818e8,#1818e8,1,0.1584502875557973
 'Horst Seehofer',de,Deutschland,#1818e8,#1818e8,1,0.1541542295658092
 'Erik Marquardt',de,EU,#111111,#111111,1,0.1537946238575888
-'Fidel Castro',de,Kuba,#111111,#111111,1,0.15258767084105285
+'Fidel Castro',de,Kuba,#111111,#111111,1,0.1525876708410528
 'Christine Lagarde',de,EU,#111111,#111111,3,0.1517491587387547
 'Volker Wissing',de,Deutschland,#1818e8,#1818e8,3,0.1509181475313735
 'David Malpass',de,USA,#18e8e8,#18e8e8,1,0.1496457276356005
