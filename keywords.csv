@@ -1,5 +1,4 @@
 keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
-'François Bayrou',de,unknown,#111111,#111111,2,0.4605772581322861
 'Mike Johnson',de,unknown,#111111,#111111,3,0.4513047880528997
 'Bill Clinton',de,USA,#18e8e8,#18e8e8,3,0.4502412056746594
 'Taylor Swift',de,unknown,#111111,#111111,3,0.446572944853718
@@ -65,6 +64,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Kim Kardashian',de,USA,#18e8e8,#18e8e8,2,0.3919943238949523
 'Lily Gladstone',de,unknown,#111111,#111111,2,0.3919079305912853
 'Bridget Moynahan',de,unknown,#111111,#111111,2,0.3917258684499334
+'François Bayrou',de,unknown,#111111,#111111,2,0.3916406844124432
 'Chris Hipkins',de,Neuseeland,#1818e8,#1818e8,2,0.3901524499925192
 'Sophie Turner',de,unknown,#111111,#111111,1,0.3880373912792749
 'Johnny Depp',de,USA,#18e8e8,#18e8e8,2,0.3870989779375738
@@ -451,14 +451,14 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Sean Hannity',de,unknown,#111111,#111111,1,0.3080275551135952
 'Petro Poroshenko',de,unknown,#111111,#111111,1,0.3079326591938838
 'Ayatollah Chamenei',de,Iran,#111111,#111111,1,0.3077702407625
+'Patti LaBelle',de,USA,#18e8e8,#18e8e8,1,0.3070624999999999
 'Dorothée Pacaud',de,Frankreich,#e8e808,#e8e808,1,0.3070624999999999
 'Moon Hyung-jin',de,USA,#18e8e8,#18e8e8,1,0.3070624999999999
 'Camille Etienne',de,Frankreich,#e8e808,#e8e808,1,0.3070624999999999
-'Patti LaBelle',de,USA,#18e8e8,#18e8e8,1,0.3070624999999999
-'Kemal Kiliçdaroglu',de,Türkei,#111111,#111111,1,0.3070624999999999
 'Evgueni Prigojine',de,Russland,#e81818,#e81818,1,0.3070624999999999
 'Pedro Sánchez Pérez-Castejón',de,Spanien,#111111,#111111,1,0.3070624999999999
 'Sergei Surovikin',de,Russland,#e81818,#e81818,1,0.3070624999999999
+'Kemal Kiliçdaroglu',de,Türkei,#111111,#111111,1,0.3070624999999999
 'Alberto Núñez Feijóo',de,unknown,#111111,#111111,1,0.3068759318382417
 'Hugh Grant',de,unknown,#111111,#111111,1,0.3065820265437723
 'Chris Christie',de,USA,#18e8e8,#18e8e8,1,0.3054563079162981
