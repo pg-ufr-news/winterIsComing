@@ -26,7 +26,6 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Jake Gyllenhaal',de,unknown,#111111,#111111,1,0.4153255376470145
 'Amber Heard',de,USA,#18e8e8,#18e8e8,2,0.4137812016814233
 'Berkshire Hathaway',de,USA,#18e8e8,#18e8e8,3,0.4124030333008964
-'John Fetterman',de,unknown,#111111,#111111,1,0.4122150829893081
 'Prinzessin Kate',de,UK,#e838e8,#e838e8,3,0.4115638959211794
 'David Beckham',de,unknown,#111111,#111111,3,0.4085557977690002
 'Benny Blanco',de,unknown,#111111,#111111,2,0.4080111736861249
@@ -165,10 +164,10 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Chelsea Handler',de,USA,#18e8e8,#18e8e8,1,0.3614000149999999
 'Jimmy Kimmel',de,unknown,#111111,#111111,2,0.3613939971495674
 'Barbara Schöneberger',de,Deutschland,#1818e8,#1818e8,2,0.361383457807269
-'Gilbert Plass',de,Kanada,#111111,#111111,1,0.3612499999999999
 'Salvador Dali',de,Spanien,#111111,#111111,1,0.3612499999999999
-'Leon Botstein',de,USA,#18e8e8,#18e8e8,1,0.3612499999999999
 'Uwe Neumärker',de,Deutschland,#1818e8,#1818e8,1,0.3612499999999999
+'Gilbert Plass',de,Kanada,#111111,#111111,1,0.3612499999999999
+'Leon Botstein',de,USA,#18e8e8,#18e8e8,1,0.3612499999999999
 'Richard David Precht',de,Deutschland,#1818e8,#1818e8,2,0.3610551881034481
 'Anya Taylor-Joy',de,unknown,#111111,#111111,1,0.3606383916557908
 'Mathias Döpfner',de,Deutschland,#1818e8,#1818e8,2,0.3602330955687252
@@ -236,6 +235,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Wolodimir Selenski',de,Ukraine,#e818e8,#e818e8,2,0.3512118860620435
 'Cem Özdemir',de,Deutschland,#1818e8,#1818e8,3,0.3509877427356347
 'Martin Luther King',de,USA,#18e8e8,#18e8e8,2,0.3509285271388473
+'John Fetterman',de,unknown,#111111,#111111,1,0.35053283554091186
 'Andrea Arnold',de,unknown,#111111,#111111,1,0.3504963128459495
 'Prinz Archie',de,UK,#e838e8,#e838e8,1,0.3504579033851828
 'Andreas Ellermann',de,Deutschland,#1818e8,#1818e8,1,0.3503496174459869
