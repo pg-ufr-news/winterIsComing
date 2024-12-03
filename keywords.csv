@@ -93,6 +93,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Lionel Messi',de,Argentinien,#111111,#111111,3,0.3773722030285648
 'Alex Jones',de,unknown,#111111,#111111,2,0.377106761577706
 'Margot Robbie',de,unknown,#111111,#111111,3,0.3770500308307776
+'Hubert Aiwanger',de,unknown,#111111,#111111,3,0.37603313201967226
 'Boris Johnson',de,UK,#e838e8,#e838e8,3,0.3744586561362362
 'Maya Rudolph',de,unknown,#111111,#111111,1,0.3741438540254034
 'Justin Timberlake',de,unknown,#111111,#111111,2,0.373771720164565
@@ -119,7 +120,6 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Dmitri Medwedew',de,Russland,#e81818,#e81818,3,0.3676935926749999
 'Kate Hudson',de,unknown,#111111,#111111,1,0.3672543874218154
 'Andy Cohen',de,unknown,#111111,#111111,1,0.3670596075557663
-'Hubert Aiwanger',de,unknown,#111111,#111111,3,0.3670485622691332
 'Colin Farrell',de,unknown,#111111,#111111,3,0.3667383607937851
 'Kristen Wiig',de,unknown,#111111,#111111,1,0.3666779269614693
 'Marguerite Cazeneuve',de,unknown,#111111,#111111,1,0.366468865001143
@@ -439,7 +439,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Robert de Niro',de,USA,#18e8e8,#18e8e8,3,0.3107937548022127
 'Linda Yaccarino',de,USA,#18e8e8,#18e8e8,2,0.3101265896708606
 'Devon Archer',de,unknown,#111111,#111111,1,0.3100419522494443
-'Luc Terlinden',de,unknown,#111111,#111111,1,0.30988049714484533
+'Luc Terlinden',de,unknown,#111111,#111111,1,0.3098804971448453
 'Sergei Shoigu',de,unknown,#111111,#111111,1,0.3098541992790031
 'Daniel Penny',de,USA,#18e8e8,#18e8e8,1,0.3094417481110416
 'Sunny Hostin',de,unknown,#111111,#111111,1,0.3092000732870115
