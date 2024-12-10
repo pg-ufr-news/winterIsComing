@@ -5,7 +5,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Nina Gummich',de,Deutschland,#1818e8,#1818e8,2,0.4464750902370353
 'Merrick Garland',de,unknown,#111111,#111111,3,0.4445370879495613
 'Heidi Klum',de,unknown,#111111,#111111,3,0.442956887262471
-'Mike Johnson',de,unknown,#111111,#111111,3,0.44226029984496473
+'Mike Johnson',de,unknown,#111111,#111111,3,0.4422602998449647
 'Billie Eilish',de,unknown,#111111,#111111,3,0.4403219337114092
 'Gigi Hadid',de,unknown,#111111,#111111,2,0.4402243352493059
 'Prinz Louis',de,UK,#e838e8,#e838e8,3,0.4382241056377405
@@ -52,7 +52,6 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Demi Moore',de,unknown,#111111,#111111,3,0.3995187101854913
 'Wolfgang Kubicki',de,Deutschland,#1818e8,#1818e8,3,0.3982261846762638
 'Hunter Biden',de,USA,#18e8e8,#18e8e8,2,0.3980949512565391
-'Charles Barkley',de,unknown,#111111,#111111,2,0.3979665336765397
 'Tyson Fury',de,unknown,#111111,#111111,2,0.3973034730828843
 'Ben Affleck',de,unknown,#111111,#111111,2,0.3969441857508547
 'Sergej Surowikin',de,Russland,#e81818,#e81818,1,0.3967785279300734
@@ -154,10 +153,10 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Chelsea Handler',de,USA,#18e8e8,#18e8e8,1,0.3614000149999999
 'Jimmy Kimmel',de,unknown,#111111,#111111,2,0.3613939971495674
 'Barbara Schöneberger',de,Deutschland,#1818e8,#1818e8,2,0.361383457807269
-'Salvador Dali',de,Spanien,#111111,#111111,1,0.3612499999999999
+'Leon Botstein',de,USA,#18e8e8,#18e8e8,1,0.3612499999999999
 'Uwe Neumärker',de,Deutschland,#1818e8,#1818e8,1,0.3612499999999999
 'Gilbert Plass',de,Kanada,#111111,#111111,1,0.3612499999999999
-'Leon Botstein',de,USA,#18e8e8,#18e8e8,1,0.3612499999999999
+'Salvador Dali',de,Spanien,#111111,#111111,1,0.3612499999999999
 'Richard David Precht',de,Deutschland,#1818e8,#1818e8,2,0.3610551881034481
 'Anya Taylor-Joy',de,unknown,#111111,#111111,1,0.3606383916557908
 'Mathias Döpfner',de,Deutschland,#1818e8,#1818e8,2,0.3602330955687252
@@ -288,14 +287,15 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Patricia Blanco',de,Deutschland,#1818e8,#1818e8,2,0.338900915525
 'Chuck Schumer',de,unknown,#111111,#111111,2,0.3383816085291019
 'Jean Carroll',de,USA,#18e8e8,#18e8e8,2,0.33829535119902
+'Charles Barkley',de,unknown,#111111,#111111,1,0.3382715836250587
 'Robert De Niro',de,USA,#18e8e8,#18e8e8,2,0.3381521652149034
 'Alexander Smirnov',de,unknown,#111111,#111111,1,0.3381332651080311
 'Tucker Carlson',de,USA,#18e8e8,#18e8e8,1,0.338091972310273
 'Eriberto Gualinga',de,unknown,#111111,#111111,1,0.3377687499999999
 'Claudia Kempfert',de,unknown,#111111,#111111,1,0.3377687499999999
 'Autumn Peltier',de,unknown,#111111,#111111,1,0.3377687499999999
-'Marjan Minnesma',de,unknown,#111111,#111111,1,0.3377687499999999
 'Steven Donziger',de,unknown,#111111,#111111,1,0.3377687499999999
+'Marjan Minnesma',de,unknown,#111111,#111111,1,0.3377687499999999
 'Haitham A-Ghais',de,unknown,#111111,#111111,1,0.3377687499999999
 'Minka Indigena',de,unknown,#111111,#111111,1,0.3377687499999999
 'Axel Springer',de,Deutschland,#1818e8,#1818e8,3,0.3377581246605246
@@ -450,14 +450,14 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Petro Poroshenko',de,unknown,#111111,#111111,1,0.3079326591938838
 'Ayatollah Chamenei',de,Iran,#111111,#111111,1,0.3077702407625
 'Jacques Doriot',de,unknown,#111111,#111111,1,0.3074774501230968
-'Sergei Surovikin',de,Russland,#e81818,#e81818,1,0.3070624999999999
-'Camille Etienne',de,Frankreich,#e8e808,#e8e808,1,0.3070624999999999
-'Evgueni Prigojine',de,Russland,#e81818,#e81818,1,0.3070624999999999
 'Moon Hyung-jin',de,USA,#18e8e8,#18e8e8,1,0.3070624999999999
-'Patti LaBelle',de,USA,#18e8e8,#18e8e8,1,0.3070624999999999
-'Pedro Sánchez Pérez-Castejón',de,Spanien,#111111,#111111,1,0.3070624999999999
+'Sergei Surovikin',de,Russland,#e81818,#e81818,1,0.3070624999999999
+'Evgueni Prigojine',de,Russland,#e81818,#e81818,1,0.3070624999999999
+'Camille Etienne',de,Frankreich,#e8e808,#e8e808,1,0.3070624999999999
 'Kemal Kiliçdaroglu',de,Türkei,#111111,#111111,1,0.3070624999999999
+'Pedro Sánchez Pérez-Castejón',de,Spanien,#111111,#111111,1,0.3070624999999999
 'Dorothée Pacaud',de,Frankreich,#e8e808,#e8e808,1,0.3070624999999999
+'Patti LaBelle',de,USA,#18e8e8,#18e8e8,1,0.3070624999999999
 'Alberto Núñez Feijóo',de,unknown,#111111,#111111,1,0.3068759318382417
 'Hugh Grant',de,unknown,#111111,#111111,1,0.3065820265437723
 'Chris Christie',de,USA,#18e8e8,#18e8e8,1,0.3054563079162981
