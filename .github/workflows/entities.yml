@@ -32,7 +32,7 @@ jobs:
 #          ref: main
       - name: cd /cre/python/
         run: (cd /cre/python/)
-      - name: Install spacy textblob_de
+      - name: Install spacy~=3.6 textblob_de
         run: (pip3 install spacy textblob_de nltk==3.8)
       - name: Install download de_core_news_md
         run: (python3 -m spacy download de_core_news_md)
