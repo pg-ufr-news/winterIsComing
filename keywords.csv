@@ -11,10 +11,9 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Ferdinand Dudenhöffer',de,Deutschland,#1818e8,#1818e8,2,0.4418617357245967
 'Matt Gaetz',de,USA,#18e8e8,#18e8e8,2,0.44090844203125
 'Thierry Breton',de,Frankreich,#e8e808,#e8e808,1,0.4408262601204544
+'Andrei Sacharow',de,Russland,#e81818,#e81818,1,0.440725
 'Maja Göpel',de,Deutschland,#1818e8,#1818e8,1,0.440725
 'Lea Bonasera',de,Deutschland,#1818e8,#1818e8,1,0.440725
-'Chad Frischmann',de,USA,#18e8e8,#18e8e8,1,0.440725
-'Andrei Sacharow',de,Russland,#e81818,#e81818,1,0.440725
 'Gigi Hadid',de,unknown,#111111,#111111,2,0.4402243352493059
 'Gabriel Attal',de,unknown,#111111,#111111,2,0.4396210563223126
 'Prinz Louis',de,UK,#e838e8,#e838e8,3,0.4382241056377405
@@ -116,6 +115,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Hubert Aiwanger',de,unknown,#111111,#111111,3,0.3760331320196722
 'Christian Kroll',de,Deutschland,#1818e8,#1818e8,1,0.3750021635875
 'Hilda Nakabuye',de,Uganda,#111111,#111111,1,0.37461625
+'Chad Frischmann',de,USA,#18e8e8,#18e8e8,1,0.37461625
 'Lady Gaga',de,USA,#18e8e8,#18e8e8,3,0.374461211576962
 'Boris Johnson',de,UK,#e838e8,#e838e8,3,0.3744586561362362
 'Maya Rudolph',de,unknown,#111111,#111111,1,0.3741438540254034
@@ -525,7 +525,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'King Charles III',de,UK,#e838e8,#e838e8,2,0.2866234463454403
 'Kemal Klçdarolu',de,Türkei,#111111,#111111,3,0.2862786906655112
 'Caroline Ellison',de,unknown,#111111,#111111,1,0.2828844680671253
-'Robert Oppenheimer',de,USA,#18e8e8,#18e8e8,1,0.28192672358756304
+'Robert Oppenheimer',de,USA,#18e8e8,#18e8e8,1,0.281926723587563
 'Papst Benedikt XVI',de,Vatikan,#58b8e8,#58b8e8,3,0.2803198878619299
 'Leandro De Niro Rodriguez',de,USA,#18e8e8,#18e8e8,1,0.2798875148093749
 'Hun Sen',de,Kambodscha,#111111,#111111,2,0.2792928061473924
@@ -566,11 +566,11 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Joy Behar',de,unknown,#111111,#111111,1,0.2613835210494998
 'Michael Sandel',de,USA,#18e8e8,#18e8e8,1,0.2613727915493749
 'Yannick Morez',de,Frankreich,#e8e808,#e8e808,1,0.2613727915493749
-'Thomas Bayes',de,UK,#e838e8,#e838e8,1,0.2610031249999999
-'Andrei Nikolajewitsch Kolmogorow',de,Russland,#e81818,#e81818,1,0.2610031249999999
 'Yevgeny Prigozhin',de,Russland,#e81818,#e81818,1,0.2610031249999999
-'Pierre-Yves Dermagne',de,Belgien,#111111,#111111,1,0.2610031249999999
+'Thomas Bayes',de,UK,#e838e8,#e838e8,1,0.2610031249999999
 'Aurélien Pradié',de,Frankreich,#e8e808,#e8e808,1,0.2610031249999999
+'Andrei Nikolajewitsch Kolmogorow',de,Russland,#e81818,#e81818,1,0.2610031249999999
+'Pierre-Yves Dermagne',de,Belgien,#111111,#111111,1,0.2610031249999999
 'Éric Ciotti',de,Frankreich,#e8e808,#e8e808,1,0.2606087850089374
 'Jens Stoltenberg',de,Norwegen,#e818e8,#e818e8,3,0.2594692406020896
 'Kemal Kilicdaroglu',de,Türkei,#111111,#111111,1,0.2574383858305537
