@@ -565,10 +565,10 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Joy Behar',de,unknown,#111111,#111111,1,0.2613835210494998
 'Michael Sandel',de,USA,#18e8e8,#18e8e8,1,0.2613727915493749
 'Yannick Morez',de,Frankreich,#e8e808,#e8e808,1,0.2613727915493749
-'Pierre-Yves Dermagne',de,Belgien,#111111,#111111,1,0.2610031249999999
 'Yevgeny Prigozhin',de,Russland,#e81818,#e81818,1,0.2610031249999999
-'Aurélien Pradié',de,Frankreich,#e8e808,#e8e808,1,0.2610031249999999
+'Pierre-Yves Dermagne',de,Belgien,#111111,#111111,1,0.2610031249999999
 'Thomas Bayes',de,UK,#e838e8,#e838e8,1,0.2610031249999999
+'Aurélien Pradié',de,Frankreich,#e8e808,#e8e808,1,0.2610031249999999
 'Andrei Nikolajewitsch Kolmogorow',de,Russland,#e81818,#e81818,1,0.2610031249999999
 'Éric Ciotti',de,Frankreich,#e8e808,#e8e808,1,0.2606087850089374
 'Jens Stoltenberg',de,Norwegen,#e818e8,#e818e8,3,0.2594692406020896
@@ -598,7 +598,6 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Nancy Faeser',de,Deutschland,#1818e8,#1818e8,3,0.2383423883632433
 'Ricarda Lang',de,Deutschland,#1818e8,#1818e8,3,0.2363265143606869
 'Gabor Steingart',de,Deutschland,#1818e8,#1818e8,2,0.2354302087174241
-'Faisal Kawusi',de,Deutschland,#1818e8,#1818e8,1,0.2352341799531249
 'Stephan Harbarth',de,Deutschland,#1818e8,#1818e8,1,0.2346118675919032
 'Martin Schirdewan',de,Deutschland,#1818e8,#1818e8,3,0.2327807335849112
 'Joschka Fischer',de,Deutschland,#1818e8,#1818e8,1,0.2324487513776068
@@ -649,6 +648,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Mark Zuckerberg',de,USA,#18e8e8,#18e8e8,3,0.2029919317936823
 'Mark Rutte',de,Niederlande,#111111,#111111,3,0.2019286506652954
 'Igor Setschin',de,Russland,#e81818,#e81818,2,0.2005356461940724
+'Faisal Kawusi',de,Deutschland,#1818e8,#1818e8,1,0.19994905296015617
 'Luisa Neubauer',de,Deutschland,#1818e8,#1818e8,2,0.1993359436528656
 'Jeff Bezos',de,USA,#18e8e8,#18e8e8,2,0.1989114701081951
 'Warren Buffet',de,USA,#18e8e8,#18e8e8,2,0.1988121366111569
