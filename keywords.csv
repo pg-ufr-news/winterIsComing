@@ -22,8 +22,8 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Hillary Clinton',de,USA,#18e8e8,#18e8e8,3,0.4366803036444317
 'Ralf Dieter',de,Deutschland,#1818e8,#1818e8,1,0.4365004275
 'Selenskyj',de,Ukraine,#e818e8,#e818e8,3,0.4337621153016321
-'Tulsin Gabbard',de,USA,#18e8e8,#18e8e8,1,0.4335
 'Merrill McCollum',de,USA,#18e8e8,#18e8e8,1,0.4335
+'Tulsin Gabbard',de,USA,#18e8e8,#18e8e8,1,0.4335
 'Mike Johnson',de,USA,#18e8e8,#18e8e8,3,0.4333668934494886
 'Queen Elizabeth II',de,UK,#e838e8,#e838e8,3,0.432555120566167
 'Prinz Harry',de,UK,#e838e8,#e838e8,3,0.4323000174662449
@@ -64,7 +64,6 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Boris Rhein',de,unknown,#111111,#111111,3,0.4021595062179146
 'Markus Lanz',de,Deutschland,#1818e8,#1818e8,3,0.4009753206816529
 'Barry Keoghan',de,unknown,#111111,#111111,1,0.4007822370819164
-'Helmut Kohl',de,Deutschland,#1818e8,#1818e8,3,0.4000794639105317
 'Abraham Lincoln',de,unknown,#111111,#111111,3,0.4000102930875129
 'Jessica Biel',de,unknown,#111111,#111111,1,0.3998488172140294
 'Edouard Philippe',de,unknown,#111111,#111111,2,0.3998063498797525
@@ -124,6 +123,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Bronny James',de,unknown,#111111,#111111,2,0.3728714072276948
 'Prinz George',de,UK,#e838e8,#e838e8,2,0.3726043434247972
 'Mark Cuban',de,unknown,#111111,#111111,1,0.3725675590312493
+'Helmut Kohl',de,Deutschland,#1818e8,#1818e8,3,0.3722920115966792
 'Gavin Newsom',de,unknown,#111111,#111111,2,0.3717734823528142
 'Arno Antlitz',de,Deutschland,#1818e8,#1818e8,1,0.3715801154625
 'Travis Kelce',de,unknown,#111111,#111111,2,0.370796607449274
@@ -647,7 +647,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Jerome Powell',de,USA,#18e8e8,#18e8e8,3,0.205118435031048
 'Mark Zuckerberg',de,USA,#18e8e8,#18e8e8,3,0.2029919317936823
 'Mark Rutte',de,Niederlande,#111111,#111111,3,0.2019286506652954
-'Karine Jean-Pierre',de,USA,#18e8e8,#18e8e8,3,0.20160685160202066
+'Karine Jean-Pierre',de,USA,#18e8e8,#18e8e8,3,0.2016068516020206
 'Igor Setschin',de,Russland,#e81818,#e81818,2,0.2005356461940724
 'Faisal Kawusi',de,Deutschland,#1818e8,#1818e8,1,0.1999490529601561
 'Luisa Neubauer',de,Deutschland,#1818e8,#1818e8,2,0.1993359436528656
