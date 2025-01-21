@@ -22,8 +22,8 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Hillary Clinton',de,USA,#18e8e8,#18e8e8,3,0.4366803036444317
 'Ralf Dieter',de,Deutschland,#1818e8,#1818e8,1,0.4365004275
 'Selenskyj',de,Ukraine,#e818e8,#e818e8,3,0.4337621153016321
-'Merrill McCollum',de,USA,#18e8e8,#18e8e8,1,0.4335
 'Tulsin Gabbard',de,USA,#18e8e8,#18e8e8,1,0.4335
+'Merrill McCollum',de,USA,#18e8e8,#18e8e8,1,0.4335
 'Mike Johnson',de,USA,#18e8e8,#18e8e8,3,0.4333668934494886
 'Queen Elizabeth II',de,UK,#e838e8,#e838e8,3,0.432555120566167
 'Prinz Harry',de,UK,#e838e8,#e838e8,3,0.4323000174662449
@@ -98,7 +98,6 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Recep Tayyip Erdogan',de,Türkei,#111111,#111111,3,0.382448392159681
 'Rosalynn Carter',de,USA,#18e8e8,#18e8e8,1,0.3820067303224687
 'Emma Stone',de,unknown,#111111,#111111,1,0.381826824805141
-'Ryan Gosling',de,unknown,#111111,#111111,2,0.3817532053261128
 'Jack Antonoff',de,unknown,#111111,#111111,1,0.3808409834819081
 'Wladimir Putin',de,Russland,#e81818,#e81818,3,0.3804714763886117
 'Karim Benzema',de,Frankreich,#e8e808,#e8e808,3,0.38030212052698
@@ -173,8 +172,8 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Chelsea Handler',de,USA,#18e8e8,#18e8e8,1,0.3614000149999999
 'Jimmy Kimmel',de,unknown,#111111,#111111,2,0.3613939971495674
 'Barbara Schöneberger',de,Deutschland,#1818e8,#1818e8,2,0.361383457807269
-'Gilbert Plass',de,Kanada,#111111,#111111,1,0.3612499999999999
 'Leon Botstein',de,USA,#18e8e8,#18e8e8,1,0.3612499999999999
+'Gilbert Plass',de,Kanada,#111111,#111111,1,0.3612499999999999
 'Richard David Precht',de,Deutschland,#1818e8,#1818e8,2,0.3610551881034481
 'Anya Taylor-Joy',de,unknown,#111111,#111111,1,0.3606383916557908
 'Brad Pitt',de,unknown,#111111,#111111,2,0.3602681003389146
@@ -370,6 +369,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Lady Di',de,UK,#e838e8,#e838e8,2,0.3247340141323649
 'Nawaz Sharif',de,unknown,#111111,#111111,1,0.3246164786377746
 'Jan Böhmermann',de,Deutschland,#1818e8,#1818e8,3,0.3245781169422155
+'Ryan Gosling',de,unknown,#111111,#111111,1,0.32449043452719584
 'Dieter Bohlen',de,Deutschland,#1818e8,#1818e8,3,0.3238343098698971
 'Stanislaw Petrow',de,unknown,#111111,#111111,1,0.3235533595407186
 'Emmanuel Macron',de,Frankreich,#e8e808,#e8e808,3,0.3234161993634266
