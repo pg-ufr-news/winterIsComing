@@ -23,8 +23,8 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Hillary Clinton',de,USA,#18e8e8,#18e8e8,3,0.4366803036444317
 'Ralf Dieter',de,Deutschland,#1818e8,#1818e8,1,0.4365004275
 'Selenskyj',de,Ukraine,#e818e8,#e818e8,3,0.4337621153016321
-'Tulsin Gabbard',de,USA,#18e8e8,#18e8e8,1,0.4335
 'Merrill McCollum',de,USA,#18e8e8,#18e8e8,1,0.4335
+'Tulsin Gabbard',de,USA,#18e8e8,#18e8e8,1,0.4335
 'Mike Johnson',de,USA,#18e8e8,#18e8e8,3,0.4333668934494886
 'Queen Elizabeth II',de,UK,#e838e8,#e838e8,3,0.432555120566167
 'Prinz Harry',de,UK,#e838e8,#e838e8,3,0.4323000174662449
@@ -33,6 +33,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Novak Djokovic',de,unknown,#111111,#111111,3,0.4265035891680658
 'Lauren Sánchez',de,USA,#18e8e8,#18e8e8,2,0.4254595917628293
 'Vivek Ramaswamy',de,USA,#18e8e8,#18e8e8,2,0.4223607381101705
+'Steve Scalise',de,unknown,#111111,#111111,2,0.42198185383263637
 'Ottmar Edenhofer',de,Deutschland,#1818e8,#1818e8,1,0.4216073240875
 'Oliver Blume',de,Deutschland,#1818e8,#1818e8,3,0.4205938963886362
 'König Charles III',de,UK,#e838e8,#e838e8,3,0.4198665740684376
@@ -111,8 +112,8 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Friederike Otto',de,Deutschland,#1818e8,#1818e8,1,0.3765458179375
 'Hubert Aiwanger',de,unknown,#111111,#111111,3,0.3760331320196722
 'Christian Kroll',de,Deutschland,#1818e8,#1818e8,1,0.3750021635875
-'Hilda Nakabuye',de,Uganda,#111111,#111111,1,0.37461625
 'Chad Frischmann',de,USA,#18e8e8,#18e8e8,1,0.37461625
+'Hilda Nakabuye',de,Uganda,#111111,#111111,1,0.37461625
 'Lady Gaga',de,USA,#18e8e8,#18e8e8,3,0.374461211576962
 'Boris Johnson',de,UK,#e838e8,#e838e8,3,0.3744586561362362
 'Maya Rudolph',de,unknown,#111111,#111111,1,0.3741438540254034
@@ -303,13 +304,13 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Robert De Niro',de,USA,#18e8e8,#18e8e8,2,0.3381521652149034
 'Alexander Smirnov',de,unknown,#111111,#111111,1,0.3381332651080311
 'Tucker Carlson',de,USA,#18e8e8,#18e8e8,1,0.338091972310273
-'Marjan Minnesma',de,unknown,#111111,#111111,1,0.3377687499999999
 'Steven Donziger',de,unknown,#111111,#111111,1,0.3377687499999999
-'Claudia Kempfert',de,unknown,#111111,#111111,1,0.3377687499999999
-'Haitham A-Ghais',de,unknown,#111111,#111111,1,0.3377687499999999
-'Autumn Peltier',de,unknown,#111111,#111111,1,0.3377687499999999
 'Minka Indigena',de,unknown,#111111,#111111,1,0.3377687499999999
+'Marjan Minnesma',de,unknown,#111111,#111111,1,0.3377687499999999
 'Eriberto Gualinga',de,unknown,#111111,#111111,1,0.3377687499999999
+'Claudia Kempfert',de,unknown,#111111,#111111,1,0.3377687499999999
+'Autumn Peltier',de,unknown,#111111,#111111,1,0.3377687499999999
+'Haitham A-Ghais',de,unknown,#111111,#111111,1,0.3377687499999999
 'Axel Springer',de,Deutschland,#1818e8,#1818e8,3,0.3377581246605246
 'Pete Davidson',de,USA,#18e8e8,#18e8e8,1,0.3376129924385236
 'Rudolf Steiner',de,Oesterreich,#111111,#111111,1,0.33733779559875
@@ -379,11 +380,10 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Steven Spielberg',de,USA,#18e8e8,#18e8e8,3,0.3211550897791231
 'Peter Tschentscher',de,Deutschland,#1818e8,#1818e8,2,0.3210594086783664
 'Lachlan Murdoch',de,UK,#e838e8,#e838e8,1,0.3206467617265723
-'Margot Robbie',de,unknown,#111111,#111111,2,0.32049270620616094
+'Margot Robbie',de,unknown,#111111,#111111,2,0.3204927062061609
 'Michelle Williams',de,unknown,#111111,#111111,1,0.3204405549838554
 'Chez Krömer',de,Deutschland,#1818e8,#1818e8,1,0.3198003061974999
 'Margaret Qualley',de,unknown,#111111,#111111,1,0.3197496682630079
-'Steve Scalise',de,unknown,#111111,#111111,1,0.3196256750972193
 'Radical Optimism',de,unknown,#111111,#111111,1,0.3189596208493618
 'Silvio Berlusconi',de,Italien,#111111,#111111,3,0.3184097321982022
 'Brittany Mahomes',de,unknown,#111111,#111111,1,0.318209565574466
