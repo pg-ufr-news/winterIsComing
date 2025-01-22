@@ -21,7 +21,6 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Prinz Louis',de,UK,#e838e8,#e838e8,3,0.4382241056377405
 'Le Pen',de,Frankreich,#e8e808,#e8e808,3,0.43688058775348
 'Hillary Clinton',de,USA,#18e8e8,#18e8e8,3,0.4366803036444317
-'Ralf Dieter',de,Deutschland,#1818e8,#1818e8,1,0.4365004275
 'Selenskyj',de,Ukraine,#e818e8,#e818e8,3,0.4337621153016321
 'Merrill McCollum',de,USA,#18e8e8,#18e8e8,1,0.4335
 'Tulsin Gabbard',de,USA,#18e8e8,#18e8e8,1,0.4335
@@ -33,7 +32,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Novak Djokovic',de,unknown,#111111,#111111,3,0.4265035891680658
 'Lauren Sánchez',de,USA,#18e8e8,#18e8e8,2,0.4254595917628293
 'Vivek Ramaswamy',de,USA,#18e8e8,#18e8e8,2,0.4223607381101705
-'Steve Scalise',de,unknown,#111111,#111111,2,0.42198185383263637
+'Steve Scalise',de,unknown,#111111,#111111,2,0.4219818538326363
 'Ottmar Edenhofer',de,Deutschland,#1818e8,#1818e8,1,0.4216073240875
 'Oliver Blume',de,Deutschland,#1818e8,#1818e8,3,0.4205938963886362
 'König Charles III',de,UK,#e838e8,#e838e8,3,0.4198665740684376
@@ -112,8 +111,8 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Friederike Otto',de,Deutschland,#1818e8,#1818e8,1,0.3765458179375
 'Hubert Aiwanger',de,unknown,#111111,#111111,3,0.3760331320196722
 'Christian Kroll',de,Deutschland,#1818e8,#1818e8,1,0.3750021635875
-'Chad Frischmann',de,USA,#18e8e8,#18e8e8,1,0.37461625
 'Hilda Nakabuye',de,Uganda,#111111,#111111,1,0.37461625
+'Chad Frischmann',de,USA,#18e8e8,#18e8e8,1,0.37461625
 'Lady Gaga',de,USA,#18e8e8,#18e8e8,3,0.374461211576962
 'Boris Johnson',de,UK,#e838e8,#e838e8,3,0.3744586561362362
 'Maya Rudolph',de,unknown,#111111,#111111,1,0.3741438540254034
@@ -123,6 +122,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Prinz George',de,UK,#e838e8,#e838e8,2,0.3726043434247972
 'Mark Cuban',de,unknown,#111111,#111111,1,0.3725675590312493
 'Helmut Kohl',de,Deutschland,#1818e8,#1818e8,3,0.3722920115966792
+'Ralf Dieter',de,Deutschland,#1818e8,#1818e8,1,0.371775438375
 'Gavin Newsom',de,unknown,#111111,#111111,2,0.3717734823528142
 'Arno Antlitz',de,Deutschland,#1818e8,#1818e8,1,0.3715801154625
 'Travis Kelce',de,unknown,#111111,#111111,2,0.370796607449274
