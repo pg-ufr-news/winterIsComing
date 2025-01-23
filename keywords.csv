@@ -22,8 +22,8 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Le Pen',de,Frankreich,#e8e808,#e8e808,3,0.43688058775348
 'Hillary Clinton',de,USA,#18e8e8,#18e8e8,3,0.4366803036444317
 'Selenskyj',de,Ukraine,#e818e8,#e818e8,3,0.4337621153016321
-'Merrill McCollum',de,USA,#18e8e8,#18e8e8,1,0.4335
 'Tulsin Gabbard',de,USA,#18e8e8,#18e8e8,1,0.4335
+'Merrill McCollum',de,USA,#18e8e8,#18e8e8,1,0.4335
 'Mike Johnson',de,USA,#18e8e8,#18e8e8,3,0.4333668934494886
 'Queen Elizabeth II',de,UK,#e838e8,#e838e8,3,0.432555120566167
 'Prinz Harry',de,UK,#e838e8,#e838e8,3,0.4323000174662449
@@ -87,7 +87,6 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Matthias Müller',de,Deutschland,#1818e8,#1818e8,2,0.3870061304047078
 'Tom Hanks',de,unknown,#111111,#111111,3,0.3867378852539008
 'Lara Trump',de,unknown,#111111,#111111,2,0.3866848764376027
-'Malu Dreyer',de,Deutschland,#1818e8,#1818e8,2,0.3866368442436647
 'Mick Jagger',de,unknown,#111111,#111111,3,0.3860783510803511
 'Roberto Saviano',de,unknown,#111111,#111111,1,0.38579273175
 'Rachida Dati',de,unknown,#111111,#111111,2,0.3854884059159367
@@ -111,8 +110,8 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Friederike Otto',de,Deutschland,#1818e8,#1818e8,1,0.3765458179375
 'Hubert Aiwanger',de,unknown,#111111,#111111,3,0.3760331320196722
 'Christian Kroll',de,Deutschland,#1818e8,#1818e8,1,0.3750021635875
-'Chad Frischmann',de,USA,#18e8e8,#18e8e8,1,0.37461625
 'Hilda Nakabuye',de,Uganda,#111111,#111111,1,0.37461625
+'Chad Frischmann',de,USA,#18e8e8,#18e8e8,1,0.37461625
 'Lady Gaga',de,USA,#18e8e8,#18e8e8,3,0.374461211576962
 'Boris Johnson',de,UK,#e838e8,#e838e8,3,0.3744586561362362
 'Maya Rudolph',de,unknown,#111111,#111111,1,0.3741438540254034
@@ -341,6 +340,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Pedro Sánchez',de,Spanien,#111111,#111111,2,0.33056958898218
 'Aaron Rodgers',de,unknown,#111111,#111111,1,0.3299326461004407
 'Olli Schulz',de,Deutschland,#1818e8,#1818e8,1,0.3292270400253571
+'Malu Dreyer',de,Deutschland,#1818e8,#1818e8,2,0.32909136260711497
 'Tony Bennett',de,USA,#18e8e8,#18e8e8,1,0.3289207931388172
 'António Guterres',de,unknown,#111111,#111111,3,0.3288324498243511
 'Antonio Brown',de,unknown,#111111,#111111,2,0.3286370060034215
