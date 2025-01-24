@@ -110,12 +110,11 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Friederike Otto',de,Deutschland,#1818e8,#1818e8,1,0.3765458179375
 'Hubert Aiwanger',de,unknown,#111111,#111111,3,0.3760331320196722
 'Christian Kroll',de,Deutschland,#1818e8,#1818e8,1,0.3750021635875
-'Hilda Nakabuye',de,Uganda,#111111,#111111,1,0.37461625
 'Chad Frischmann',de,USA,#18e8e8,#18e8e8,1,0.37461625
+'Hilda Nakabuye',de,Uganda,#111111,#111111,1,0.37461625
 'Lady Gaga',de,USA,#18e8e8,#18e8e8,3,0.374461211576962
 'Boris Johnson',de,UK,#e838e8,#e838e8,3,0.3744586561362362
 'Maya Rudolph',de,unknown,#111111,#111111,1,0.3741438540254034
-'Justin Timberlake',de,unknown,#111111,#111111,2,0.373771720164565
 'Christine Lambrecht',de,Deutschland,#1818e8,#1818e8,2,0.3736931517795454
 'Bronny James',de,unknown,#111111,#111111,2,0.3728714072276948
 'Prinz George',de,UK,#e838e8,#e838e8,2,0.3726043434247972
@@ -338,7 +337,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Gisele Bundchen',de,unknown,#111111,#111111,1,0.3310413911190337
 'Pap Ndiaye',de,unknown,#111111,#111111,1,0.3306442422760613
 'Pedro Sánchez',de,Spanien,#111111,#111111,2,0.33056958898218
-'Cem Özdemir',de,Deutschland,#1818e8,#1818e8,3,0.33056446859801675
+'Cem Özdemir',de,Deutschland,#1818e8,#1818e8,3,0.3305644685980167
 'Aaron Rodgers',de,unknown,#111111,#111111,1,0.3299326461004407
 'Olli Schulz',de,Deutschland,#1818e8,#1818e8,1,0.3292270400253571
 'Malu Dreyer',de,Deutschland,#1818e8,#1818e8,2,0.3290913626071149
@@ -388,6 +387,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Brittany Mahomes',de,unknown,#111111,#111111,1,0.318209565574466
 'Michelle O\'Neill',de,Irland,#111111,#111111,1,0.3179549730821428
 'Laurent Berger',de,Frankreich,#e8e808,#e8e808,1,0.3178259788125
+'Justin Timberlake',de,unknown,#111111,#111111,1,0.31770618713988025
 'Carter Reum',de,unknown,#111111,#111111,1,0.3176653497836528
 'Emily Blunt',de,unknown,#111111,#111111,1,0.3176374846649171
 'Caren Miosga',de,Deutschland,#1818e8,#1818e8,2,0.3173660081511991
@@ -515,10 +515,10 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Melinda Gates',de,USA,#18e8e8,#18e8e8,2,0.2894451807941606
 'Wolfgang Benz',de,Deutschland,#1818e8,#1818e8,2,0.2886971390918749
 'Kyle Pope',de,unknown,#111111,#111111,1,0.2873809652499999
-'Tasneem Essop',de,unknown,#111111,#111111,1,0.2871034374999999
 'Hans Joosten',de,unknown,#111111,#111111,1,0.2871034374999999
-'Elizabeth Mpofu',de,unknown,#111111,#111111,1,0.2871034374999999
+'Tasneem Essop',de,unknown,#111111,#111111,1,0.2871034374999999
 'Helena Gualinga',de,unknown,#111111,#111111,1,0.2871034374999999
+'Elizabeth Mpofu',de,unknown,#111111,#111111,1,0.2871034374999999
 'King Charles III',de,UK,#e838e8,#e838e8,2,0.2866234463454403
 'Kemal Klçdarolu',de,Türkei,#111111,#111111,3,0.2862786906655112
 'Caroline Ellison',de,unknown,#111111,#111111,1,0.2828844680671253
