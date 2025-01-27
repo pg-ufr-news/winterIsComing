@@ -1,4 +1,5 @@
 keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
+'Pat McAfee',de,unknown,#111111,#111111,2,0.49529928733299966
 'Heidi Klum',de,unknown,#111111,#111111,3,0.4587383914458276
 'Christian Lindner',de,Deutschland,#1818e8,#1818e8,3,0.4577546105297288
 'Angelina Jolie',de,unknown,#111111,#111111,3,0.4572381558566026
@@ -13,9 +14,9 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Ferdinand Dudenhöffer',de,Deutschland,#1818e8,#1818e8,2,0.4418617357245967
 'Matt Gaetz',de,USA,#18e8e8,#18e8e8,2,0.44090844203125
 'Thierry Breton',de,Frankreich,#e8e808,#e8e808,1,0.4408262601204544
-'Andrei Sacharow',de,Russland,#e81818,#e81818,1,0.440725
-'Maja Göpel',de,Deutschland,#1818e8,#1818e8,1,0.440725
 'Lea Bonasera',de,Deutschland,#1818e8,#1818e8,1,0.440725
+'Maja Göpel',de,Deutschland,#1818e8,#1818e8,1,0.440725
+'Andrei Sacharow',de,Russland,#e81818,#e81818,1,0.440725
 'Prinz Harry',de,UK,#e838e8,#e838e8,3,0.4405900430281263
 'Gigi Hadid',de,unknown,#111111,#111111,2,0.4402243352493059
 'Gabriel Attal',de,unknown,#111111,#111111,2,0.4396210563223126
@@ -52,7 +53,6 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Taylor Swift',de,unknown,#111111,#111111,3,0.407267590852933
 'Javier Milei',de,unknown,#111111,#111111,2,0.4068142820255051
 'Omar Sy',de,unknown,#111111,#111111,1,0.4064936491733194
-'Pat McAfee',de,unknown,#111111,#111111,2,0.4058814792152938
 'Jens Spahn',de,Deutschland,#1818e8,#1818e8,3,0.4056898021593912
 'Marine Le Pen',de,Frankreich,#e8e808,#e8e808,3,0.405037717250482
 'Matteo Salvini',de,Italien,#111111,#111111,3,0.4046548234790535
@@ -301,9 +301,9 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Tucker Carlson',de,USA,#18e8e8,#18e8e8,1,0.338091972310273
 'Steven Donziger',de,unknown,#111111,#111111,1,0.3377687499999999
 'Claudia Kempfert',de,unknown,#111111,#111111,1,0.3377687499999999
-'Haitham A-Ghais',de,unknown,#111111,#111111,1,0.3377687499999999
 'Autumn Peltier',de,unknown,#111111,#111111,1,0.3377687499999999
 'Marjan Minnesma',de,unknown,#111111,#111111,1,0.3377687499999999
+'Haitham A-Ghais',de,unknown,#111111,#111111,1,0.3377687499999999
 'Minka Indigena',de,unknown,#111111,#111111,1,0.3377687499999999
 'Eriberto Gualinga',de,unknown,#111111,#111111,1,0.3377687499999999
 'Axel Springer',de,Deutschland,#1818e8,#1818e8,3,0.3377581246605246
@@ -381,7 +381,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Chez Krömer',de,Deutschland,#1818e8,#1818e8,1,0.3198003061974999
 'Margaret Qualley',de,unknown,#111111,#111111,1,0.3197496682630079
 'Radical Optimism',de,unknown,#111111,#111111,1,0.3189596208493618
-'Chad Frischmann',de,USA,#18e8e8,#18e8e8,1,0.31842381249999996
+'Chad Frischmann',de,USA,#18e8e8,#18e8e8,1,0.3184238124999999
 'Silvio Berlusconi',de,Italien,#111111,#111111,3,0.3184097321982022
 'Brittany Mahomes',de,unknown,#111111,#111111,1,0.318209565574466
 'Maya Rudolph',de,unknown,#111111,#111111,1,0.3180222759215929
@@ -515,10 +515,10 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Melinda Gates',de,USA,#18e8e8,#18e8e8,2,0.2894451807941606
 'Wolfgang Benz',de,Deutschland,#1818e8,#1818e8,2,0.2886971390918749
 'Kyle Pope',de,unknown,#111111,#111111,1,0.2873809652499999
-'Elizabeth Mpofu',de,unknown,#111111,#111111,1,0.2871034374999999
 'Hans Joosten',de,unknown,#111111,#111111,1,0.2871034374999999
-'Helena Gualinga',de,unknown,#111111,#111111,1,0.2871034374999999
+'Elizabeth Mpofu',de,unknown,#111111,#111111,1,0.2871034374999999
 'Tasneem Essop',de,unknown,#111111,#111111,1,0.2871034374999999
+'Helena Gualinga',de,unknown,#111111,#111111,1,0.2871034374999999
 'King Charles III',de,UK,#e838e8,#e838e8,2,0.2866234463454403
 'Kemal Klçdarolu',de,Türkei,#111111,#111111,3,0.2862786906655112
 'Caroline Ellison',de,unknown,#111111,#111111,1,0.2828844680671253
