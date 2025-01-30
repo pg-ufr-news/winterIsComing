@@ -153,7 +153,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Jean-Denis Combrexelle',de,unknown,#111111,#111111,1,0.3627478189008838
 'Greg Brockman',de,unknown,#111111,#111111,1,0.3626105202568766
 'Ronna McDaniel',de,unknown,#111111,#111111,1,0.3624617630016869
-'Al Pacino',de,USA,#18e8e8,#18e8e8,2,0.36235328748817275
+'Al Pacino',de,USA,#18e8e8,#18e8e8,2,0.3623532874881727
 'Drake Maye',de,unknown,#111111,#111111,1,0.3622344399166312
 'Robert Sesselmann',de,Deutschland,#1818e8,#1818e8,2,0.362050608993409
 'Rosa Parks',de,unknown,#111111,#111111,1,0.361720802027259
@@ -301,9 +301,9 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Tucker Carlson',de,USA,#18e8e8,#18e8e8,1,0.338091972310273
 'Steven Donziger',de,unknown,#111111,#111111,1,0.3377687499999999
 'Autumn Peltier',de,unknown,#111111,#111111,1,0.3377687499999999
-'Claudia Kempfert',de,unknown,#111111,#111111,1,0.3377687499999999
 'Marjan Minnesma',de,unknown,#111111,#111111,1,0.3377687499999999
 'Minka Indigena',de,unknown,#111111,#111111,1,0.3377687499999999
+'Claudia Kempfert',de,unknown,#111111,#111111,1,0.3377687499999999
 'Eriberto Gualinga',de,unknown,#111111,#111111,1,0.3377687499999999
 'Haitham A-Ghais',de,unknown,#111111,#111111,1,0.3377687499999999
 'Axel Springer',de,Deutschland,#1818e8,#1818e8,3,0.3377581246605246
@@ -515,10 +515,10 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Melinda Gates',de,USA,#18e8e8,#18e8e8,2,0.2894451807941606
 'Wolfgang Benz',de,Deutschland,#1818e8,#1818e8,2,0.2886971390918749
 'Kyle Pope',de,unknown,#111111,#111111,1,0.2873809652499999
-'Elizabeth Mpofu',de,unknown,#111111,#111111,1,0.2871034374999999
 'Hans Joosten',de,unknown,#111111,#111111,1,0.2871034374999999
-'Helena Gualinga',de,unknown,#111111,#111111,1,0.2871034374999999
+'Elizabeth Mpofu',de,unknown,#111111,#111111,1,0.2871034374999999
 'Tasneem Essop',de,unknown,#111111,#111111,1,0.2871034374999999
+'Helena Gualinga',de,unknown,#111111,#111111,1,0.2871034374999999
 'King Charles III',de,UK,#e838e8,#e838e8,2,0.2866234463454403
 'Kemal Klçdarolu',de,Türkei,#111111,#111111,3,0.2862786906655112
 'Caroline Ellison',de,unknown,#111111,#111111,1,0.2828844680671253
@@ -796,7 +796,6 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Daniel Dillmann',de,Deutschland,#1818e8,#1818e8,1,0.0664980214611602
 'Muhammad bin Zayid Al Nahyan',de,VAE,#111111,#111111,1,0.0654566977617617
 'Philipp Wolff',de,Deutschland,#1818e8,#1818e8,1,0.0654199081845615
-'Jitzchak Herzog',de,Israel,#111111,#111111,1,0.064671432448694
 'Jochen Thewes',de,Deutschland,#1818e8,#1818e8,1,0.063817872261489
 'Carola Rackete',de,Deutschland,#1818e8,#1818e8,1,0.063660438501002
 'Klaus Hasselmann',de,Deutschland,#1818e8,#1818e8,1,0.0634254763934972
@@ -804,5 +803,6 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Steven Milloy',de,USA,#18e8e8,#18e8e8,1,0.060452746782873
 'Amin Nasser',de,SaudiArabien,#111111,#111111,1,0.0599741714510161
 'Badri Hosseini Chamenei',de,Iran,#111111,#111111,1,0.0552309374792977
+'Jitzchak Herzog',de,Israel,#111111,#111111,1,0.0551207325813899
 'Frank Bainimarama',de,Fidschi,#111111,#111111,1,0.0526971504473425
 'Erica Chenoweth',de,USA,#18e8e8,#18e8e8,1,0.0504065604288481
