@@ -42,7 +42,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Joaquim Valente',de,unknown,#111111,#111111,2,0.4152664428754044
 'Amber Heard',de,USA,#18e8e8,#18e8e8,2,0.4137812016814233
 'Berkshire Hathaway',de,USA,#18e8e8,#18e8e8,3,0.4124030333008964
-'Angelina Jolie',de,unknown,#111111,#111111,3,0.41178606565993037
+'Angelina Jolie',de,unknown,#111111,#111111,3,0.4117860656599303
 'Prinzessin Kate',de,UK,#e838e8,#e838e8,3,0.4115638959211794
 'Hunter Biden',de,USA,#18e8e8,#18e8e8,2,0.4115135467498764
 'Maja Göpel',de,Deutschland,#1818e8,#1818e8,1,0.4103879653214285
@@ -299,9 +299,9 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Tucker Carlson',de,USA,#18e8e8,#18e8e8,1,0.338091972310273
 'Steven Donziger',de,unknown,#111111,#111111,1,0.3377687499999999
 'Autumn Peltier',de,unknown,#111111,#111111,1,0.3377687499999999
+'Minka Indigena',de,unknown,#111111,#111111,1,0.3377687499999999
 'Claudia Kempfert',de,unknown,#111111,#111111,1,0.3377687499999999
 'Eriberto Gualinga',de,unknown,#111111,#111111,1,0.3377687499999999
-'Minka Indigena',de,unknown,#111111,#111111,1,0.3377687499999999
 'Marjan Minnesma',de,unknown,#111111,#111111,1,0.3377687499999999
 'Haitham A-Ghais',de,unknown,#111111,#111111,1,0.3377687499999999
 'Axel Springer',de,Deutschland,#1818e8,#1818e8,3,0.3377581246605246
@@ -564,11 +564,11 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Joy Behar',de,unknown,#111111,#111111,1,0.2613835210494998
 'Yannick Morez',de,Frankreich,#e8e808,#e8e808,1,0.2613727915493749
 'Michael Sandel',de,USA,#18e8e8,#18e8e8,1,0.2613727915493749
+'Aurélien Pradié',de,Frankreich,#e8e808,#e8e808,1,0.2610031249999999
 'Thomas Bayes',de,UK,#e838e8,#e838e8,1,0.2610031249999999
 'Yevgeny Prigozhin',de,Russland,#e81818,#e81818,1,0.2610031249999999
-'Pierre-Yves Dermagne',de,Belgien,#111111,#111111,1,0.2610031249999999
-'Aurélien Pradié',de,Frankreich,#e8e808,#e8e808,1,0.2610031249999999
 'Andrei Nikolajewitsch Kolmogorow',de,Russland,#e81818,#e81818,1,0.2610031249999999
+'Pierre-Yves Dermagne',de,Belgien,#111111,#111111,1,0.2610031249999999
 'Éric Ciotti',de,Frankreich,#e8e808,#e8e808,1,0.2606087850089374
 'Jens Stoltenberg',de,Norwegen,#e818e8,#e818e8,3,0.2594692406020896
 'Kemal Kilicdaroglu',de,Türkei,#111111,#111111,1,0.2574383858305537
@@ -666,6 +666,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Stefan Rahmstorf',de,Deutschland,#1818e8,#1818e8,2,0.193634442976254
 'Rafael Grossi',de,UN,#e888e8,#e888e8,3,0.1926627400628053
 'Greta Thunberg',de,Schweden,#111111,#111111,3,0.192022202079363
+'Justin Trudeau',de,Kanada,#111111,#111111,3,0.19171235617594537
 'Franziska Giffey',de,Deutschland,#1818e8,#1818e8,3,0.1916232707710685
 'Louis Klamroth',de,Deutschland,#1818e8,#1818e8,2,0.1911774805741061
 'John Paul II',de,Vatikan,#58b8e8,#58b8e8,1,0.1909779816132217
@@ -697,7 +698,6 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Roberta Metsola',de,EU,#111111,#111111,2,0.1749304753397745
 'Napoleon Bonaparte',de,Frankreich,#e8e808,#e8e808,1,0.1719312672738754
 'Andrea Lindholz',de,Deutschland,#1818e8,#1818e8,2,0.1715984894181786
-'Justin Trudeau',de,Kanada,#111111,#111111,3,0.1715884061962994
 'Charles Koch',de,USA,#18e8e8,#18e8e8,1,0.1712326378289295
 'Jack Ma',de,China,#e88818,#e88818,1,0.1704717007485522
 'Boris Palmer',de,Deutschland,#1818e8,#1818e8,1,0.1685351256009039
