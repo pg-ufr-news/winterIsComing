@@ -1,5 +1,4 @@
 keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
-'Jesse Watters',de,USA,#18e8e8,#18e8e8,2,0.4511149922884062
 'Billie Eilish',de,unknown,#111111,#111111,3,0.4472922001064931
 'Marco Rubio',de,USA,#18e8e8,#18e8e8,2,0.4454440549897727
 'Robert Habeck',de,Deutschland,#1818e8,#1818e8,3,0.4432462301754033
@@ -82,6 +81,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Laura Ingraham',de,USA,#18e8e8,#18e8e8,2,0.3861831110506395
 'Rachida Dati',de,unknown,#111111,#111111,2,0.3854884059159367
 'Tyson Fury',de,unknown,#111111,#111111,2,0.3839878662796566
+'Jesse Watters',de,USA,#18e8e8,#18e8e8,2,0.38359775844514526
 'Billy Crystal',de,unknown,#111111,#111111,2,0.3835790523457523
 'Bill Clinton',de,USA,#18e8e8,#18e8e8,2,0.3827057448234605
 'Recep Tayyip Erdogan',de,Türkei,#111111,#111111,3,0.382448392159681
@@ -283,13 +283,13 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Robert De Niro',de,USA,#18e8e8,#18e8e8,2,0.3381521652149034
 'Alexander Smirnov',de,unknown,#111111,#111111,1,0.3381332651080311
 'Tucker Carlson',de,USA,#18e8e8,#18e8e8,1,0.338091972310273
-'Claudia Kempfert',de,unknown,#111111,#111111,1,0.3377687499999999
+'Haitham A-Ghais',de,unknown,#111111,#111111,1,0.3377687499999999
 'Autumn Peltier',de,unknown,#111111,#111111,1,0.3377687499999999
 'Steven Donziger',de,unknown,#111111,#111111,1,0.3377687499999999
-'Minka Indigena',de,unknown,#111111,#111111,1,0.3377687499999999
+'Claudia Kempfert',de,unknown,#111111,#111111,1,0.3377687499999999
 'Eriberto Gualinga',de,unknown,#111111,#111111,1,0.3377687499999999
 'Marjan Minnesma',de,unknown,#111111,#111111,1,0.3377687499999999
-'Haitham A-Ghais',de,unknown,#111111,#111111,1,0.3377687499999999
+'Minka Indigena',de,unknown,#111111,#111111,1,0.3377687499999999
 'Axel Springer',de,Deutschland,#1818e8,#1818e8,3,0.3377581246605246
 'Pete Davidson',de,USA,#18e8e8,#18e8e8,1,0.3376129924385236
 'Rudolf Steiner',de,Oesterreich,#111111,#111111,1,0.33733779559875
