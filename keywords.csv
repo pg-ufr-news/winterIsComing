@@ -284,13 +284,13 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Robert De Niro',de,USA,#18e8e8,#18e8e8,2,0.3381521652149034
 'Alexander Smirnov',de,unknown,#111111,#111111,1,0.3381332651080311
 'Tucker Carlson',de,USA,#18e8e8,#18e8e8,1,0.338091972310273
-'Claudia Kempfert',de,unknown,#111111,#111111,1,0.3377687499999999
-'Marjan Minnesma',de,unknown,#111111,#111111,1,0.3377687499999999
-'Eriberto Gualinga',de,unknown,#111111,#111111,1,0.3377687499999999
-'Minka Indigena',de,unknown,#111111,#111111,1,0.3377687499999999
-'Steven Donziger',de,unknown,#111111,#111111,1,0.3377687499999999
 'Autumn Peltier',de,unknown,#111111,#111111,1,0.3377687499999999
+'Claudia Kempfert',de,unknown,#111111,#111111,1,0.3377687499999999
+'Eriberto Gualinga',de,unknown,#111111,#111111,1,0.3377687499999999
+'Marjan Minnesma',de,unknown,#111111,#111111,1,0.3377687499999999
+'Steven Donziger',de,unknown,#111111,#111111,1,0.3377687499999999
 'Haitham A-Ghais',de,unknown,#111111,#111111,1,0.3377687499999999
+'Minka Indigena',de,unknown,#111111,#111111,1,0.3377687499999999
 'Axel Springer',de,Deutschland,#1818e8,#1818e8,3,0.3377581246605246
 'Pete Davidson',de,USA,#18e8e8,#18e8e8,1,0.3376129924385236
 'Rudolf Steiner',de,Oesterreich,#111111,#111111,1,0.33733779559875
@@ -649,6 +649,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Julian Assange',de,Australien,#111111,#111111,3,0.2067803908126472
 'Jan Lipavský',de,Tschechien,#111111,#111111,1,0.2051915178456233
 'Jerome Powell',de,USA,#18e8e8,#18e8e8,3,0.205118435031048
+'Rafael Grossi',de,UN,#e888e8,#e888e8,3,0.20507821041702085
 'Mark Zuckerberg',de,USA,#18e8e8,#18e8e8,3,0.2029919317936823
 'Mark Rutte',de,Niederlande,#111111,#111111,3,0.2019286506652954
 'Karine Jean-Pierre',de,USA,#18e8e8,#18e8e8,3,0.2016068516020206
@@ -665,7 +666,6 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Frank-Walter Steinmeier',de,Deutschland,#1818e8,#1818e8,3,0.1937903750239842
 'Jacinda Ardern',de,Neuseeland,#1818e8,#1818e8,1,0.1936528852271206
 'Stefan Rahmstorf',de,Deutschland,#1818e8,#1818e8,2,0.193634442976254
-'Rafael Grossi',de,UN,#e888e8,#e888e8,3,0.1926627400628053
 'Greta Thunberg',de,Schweden,#111111,#111111,3,0.192022202079363
 'Justin Trudeau',de,Kanada,#111111,#111111,3,0.1917123561759453
 'Franziska Giffey',de,Deutschland,#1818e8,#1818e8,3,0.1916232707710685
