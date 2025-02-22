@@ -74,7 +74,6 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Johnny Depp',de,USA,#18e8e8,#18e8e8,2,0.3870989779375738
 'Matthias Müller',de,Deutschland,#1818e8,#1818e8,2,0.3870061304047078
 'Emma Stone',de,unknown,#111111,#111111,1,0.3868030260843698
-'Tom Hanks',de,unknown,#111111,#111111,3,0.3867378852539008
 'Lara Trump',de,unknown,#111111,#111111,2,0.3866848764376027
 'America Ferrera',de,unknown,#111111,#111111,1,0.3862509165673751
 'Laura Ingraham',de,USA,#18e8e8,#18e8e8,2,0.3861831110506395
@@ -145,6 +144,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Drake Maye',de,unknown,#111111,#111111,1,0.3622344399166312
 'Gavin Newsom',de,unknown,#111111,#111111,2,0.3618673609089829
 'Rosa Parks',de,unknown,#111111,#111111,1,0.361720802027259
+'Tom Hanks',de,unknown,#111111,#111111,3,0.36165268246581567
 'Hailey Van Lith',de,unknown,#111111,#111111,1,0.3615797840474908
 'Jamie Dimon',de,USA,#18e8e8,#18e8e8,1,0.3615589175613636
 'Jeanne du Barry',de,Frankreich,#e8e808,#e8e808,2,0.3615465348446371
@@ -284,13 +284,13 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Robert De Niro',de,USA,#18e8e8,#18e8e8,2,0.3381521652149034
 'Alexander Smirnov',de,unknown,#111111,#111111,1,0.3381332651080311
 'Tucker Carlson',de,USA,#18e8e8,#18e8e8,1,0.338091972310273
-'Autumn Peltier',de,unknown,#111111,#111111,1,0.3377687499999999
-'Claudia Kempfert',de,unknown,#111111,#111111,1,0.3377687499999999
-'Eriberto Gualinga',de,unknown,#111111,#111111,1,0.3377687499999999
-'Marjan Minnesma',de,unknown,#111111,#111111,1,0.3377687499999999
-'Steven Donziger',de,unknown,#111111,#111111,1,0.3377687499999999
 'Haitham A-Ghais',de,unknown,#111111,#111111,1,0.3377687499999999
+'Autumn Peltier',de,unknown,#111111,#111111,1,0.3377687499999999
+'Eriberto Gualinga',de,unknown,#111111,#111111,1,0.3377687499999999
+'Claudia Kempfert',de,unknown,#111111,#111111,1,0.3377687499999999
+'Steven Donziger',de,unknown,#111111,#111111,1,0.3377687499999999
 'Minka Indigena',de,unknown,#111111,#111111,1,0.3377687499999999
+'Marjan Minnesma',de,unknown,#111111,#111111,1,0.3377687499999999
 'Axel Springer',de,Deutschland,#1818e8,#1818e8,3,0.3377581246605246
 'Pete Davidson',de,USA,#18e8e8,#18e8e8,1,0.3376129924385236
 'Rudolf Steiner',de,Oesterreich,#111111,#111111,1,0.33733779559875
@@ -767,7 +767,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Jewgenij Roisman',de,Russland,#e81818,#e81818,1,0.0996049671635481
 'Raphael Warnock',de,USA,#18e8e8,#18e8e8,1,0.0984372021703612
 'Gautam Adani',de,Indien,#111111,#111111,1,0.0980152362022505
-'Ebrahim Raisi',de,Iran,#111111,#111111,2,0.09784107520192319
+'Ebrahim Raisi',de,Iran,#111111,#111111,2,0.0978410752019231
 'Bartholomäus',de,Türkei,#111111,#111111,1,0.0938905547524025
 'Sergej Lavrov',de,Russland,#e81818,#e81818,1,0.0922427569981809
 'Milo Yiannopoulos',de,UK,#e838e8,#e838e8,1,0.0920387840292876
