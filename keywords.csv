@@ -7,6 +7,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Friedrich Merz',de,Deutschland,#1818e8,#1818e8,3,0.4280228641402883
 'Prinz William',de,UK,#e838e8,#e838e8,3,0.4273475021122814
 'Novak Djokovic',de,unknown,#111111,#111111,3,0.4265035891680658
+'Marco Rubio',de,USA,#18e8e8,#18e8e8,3,0.4262512622073835
 'Lauren Sánchez',de,USA,#18e8e8,#18e8e8,2,0.4254595917628293
 'Olaf Scholz',de,Deutschland,#1818e8,#1818e8,3,0.4253071477123959
 'Hillary Clinton',de,USA,#18e8e8,#18e8e8,3,0.4241767025194654
@@ -25,7 +26,6 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Robert Habeck',de,Deutschland,#1818e8,#1818e8,3,0.4181089920127292
 'Tina Turner',de,USA,#18e8e8,#18e8e8,3,0.4180356593714842
 'Recep Tayyip Erdogan',de,Türkei,#111111,#111111,3,0.4165822733357288
-'Marco Rubio',de,USA,#18e8e8,#18e8e8,3,0.4154137635594886
 'Jake Gyllenhaal',de,unknown,#111111,#111111,1,0.4153255376470145
 'Amber Heard',de,USA,#18e8e8,#18e8e8,2,0.4137812016814233
 'Berkshire Hathaway',de,USA,#18e8e8,#18e8e8,3,0.4124030333008964
@@ -459,16 +459,16 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Ayatollah Chamenei',de,Iran,#111111,#111111,1,0.3077702407625
 'Salvador Dali',de,Spanien,#111111,#111111,1,0.3075125449999999
 'Jacques Doriot',de,unknown,#111111,#111111,1,0.3074774501230968
+'Kemal Kiliçdaroglu',de,Türkei,#111111,#111111,1,0.3070624999999999
 'Moon Hyung-jin',de,USA,#18e8e8,#18e8e8,1,0.3070624999999999
 'Patti LaBelle',de,USA,#18e8e8,#18e8e8,1,0.3070624999999999
-'Uwe Neumärker',de,Deutschland,#1818e8,#1818e8,1,0.3070624999999999
 'Evgueni Prigojine',de,Russland,#e81818,#e81818,1,0.3070624999999999
-'Kemal Kiliçdaroglu',de,Türkei,#111111,#111111,1,0.3070624999999999
-'Leon Botstein',de,USA,#18e8e8,#18e8e8,1,0.3070624999999999
-'Pedro Sánchez Pérez-Castejón',de,Spanien,#111111,#111111,1,0.3070624999999999
+'Uwe Neumärker',de,Deutschland,#1818e8,#1818e8,1,0.3070624999999999
 'Dorothée Pacaud',de,Frankreich,#e8e808,#e8e808,1,0.3070624999999999
+'Pedro Sánchez Pérez-Castejón',de,Spanien,#111111,#111111,1,0.3070624999999999
 'Camille Etienne',de,Frankreich,#e8e808,#e8e808,1,0.3070624999999999
 'Sergei Surovikin',de,Russland,#e81818,#e81818,1,0.3070624999999999
+'Leon Botstein',de,USA,#18e8e8,#18e8e8,1,0.3070624999999999
 'Alberto Núñez Feijóo',de,unknown,#111111,#111111,1,0.3068759318382417
 'Hugh Grant',de,unknown,#111111,#111111,1,0.3065820265437723
 'Chris Christie',de,USA,#18e8e8,#18e8e8,1,0.3054563079162981
@@ -478,7 +478,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Penny Mordaunt',de,UK,#e838e8,#e838e8,1,0.3028837797425311
 'Jane Fonda',de,unknown,#111111,#111111,1,0.3028122277856212
 'Henry Kissinger',de,USA,#18e8e8,#18e8e8,1,0.3025944953592857
-'Ahmed Al Jaber',de,unknown,#111111,#111111,1,0.30258790272079544
+'Ahmed Al Jaber',de,unknown,#111111,#111111,1,0.3025879027207954
 'George Clooney',de,USA,#18e8e8,#18e8e8,2,0.3024482850044266
 'Gerald Darmanin',de,unknown,#111111,#111111,1,0.3021559507755288
 'Bradley Cooper',de,unknown,#111111,#111111,2,0.3020052129099492
@@ -563,11 +563,11 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Joy Behar',de,unknown,#111111,#111111,1,0.2613835210494998
 'Michael Sandel',de,USA,#18e8e8,#18e8e8,1,0.2613727915493749
 'Yannick Morez',de,Frankreich,#e8e808,#e8e808,1,0.2613727915493749
-'Andrei Nikolajewitsch Kolmogorow',de,Russland,#e81818,#e81818,1,0.2610031249999999
-'Aurélien Pradié',de,Frankreich,#e8e808,#e8e808,1,0.2610031249999999
-'Pierre-Yves Dermagne',de,Belgien,#111111,#111111,1,0.2610031249999999
-'Yevgeny Prigozhin',de,Russland,#e81818,#e81818,1,0.2610031249999999
 'Thomas Bayes',de,UK,#e838e8,#e838e8,1,0.2610031249999999
+'Aurélien Pradié',de,Frankreich,#e8e808,#e8e808,1,0.2610031249999999
+'Andrei Nikolajewitsch Kolmogorow',de,Russland,#e81818,#e81818,1,0.2610031249999999
+'Yevgeny Prigozhin',de,Russland,#e81818,#e81818,1,0.2610031249999999
+'Pierre-Yves Dermagne',de,Belgien,#111111,#111111,1,0.2610031249999999
 'Éric Ciotti',de,Frankreich,#e8e808,#e8e808,1,0.2606087850089374
 'Kemal Kilicdaroglu',de,Türkei,#111111,#111111,1,0.2574383858305537
 'Ted Cruz',de,USA,#18e8e8,#18e8e8,1,0.2570009851967187
