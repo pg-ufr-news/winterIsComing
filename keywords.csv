@@ -468,7 +468,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Fani Willis',de,unknown,#111111,#111111,1,0.3057556741101219
 'Chris Christie',de,USA,#18e8e8,#18e8e8,1,0.3054563079162981
 'Kevin Kühnert',de,Deutschland,#1818e8,#1818e8,3,0.3052661568897969
-'Chris Hemsworth',de,unknown,#111111,#111111,1,0.30520494476337134
+'Chris Hemsworth',de,unknown,#111111,#111111,1,0.3052049447633713
 'Barbara Sturm',de,Deutschland,#1818e8,#1818e8,1,0.3037671292741963
 'Mary Robinson',de,unknown,#111111,#111111,1,0.3032685477410416
 'Penny Mordaunt',de,UK,#e838e8,#e838e8,1,0.3028837797425311
@@ -565,9 +565,9 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Yannick Morez',de,Frankreich,#e8e808,#e8e808,1,0.2613727915493749
 'Thomas Bayes',de,UK,#e838e8,#e838e8,1,0.2610031249999999
 'Yevgeny Prigozhin',de,Russland,#e81818,#e81818,1,0.2610031249999999
-'Andrei Nikolajewitsch Kolmogorow',de,Russland,#e81818,#e81818,1,0.2610031249999999
-'Aurélien Pradié',de,Frankreich,#e8e808,#e8e808,1,0.2610031249999999
 'Pierre-Yves Dermagne',de,Belgien,#111111,#111111,1,0.2610031249999999
+'Aurélien Pradié',de,Frankreich,#e8e808,#e8e808,1,0.2610031249999999
+'Andrei Nikolajewitsch Kolmogorow',de,Russland,#e81818,#e81818,1,0.2610031249999999
 'Éric Ciotti',de,Frankreich,#e8e808,#e8e808,1,0.2606087850089374
 'Kemal Kilicdaroglu',de,Türkei,#111111,#111111,1,0.2574383858305537
 'Ted Cruz',de,USA,#18e8e8,#18e8e8,1,0.2570009851967187
@@ -578,7 +578,6 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Jack Teixeira',de,USA,#18e8e8,#18e8e8,1,0.2522228291810116
 'Stephen Hawking',de,UK,#e838e8,#e838e8,1,0.2483085104174036
 'Selenski',de,Ukraine,#e818e8,#e818e8,1,0.2477336368483871
-'Charles Michel',de,EU,#111111,#111111,2,0.2467550776402848
 'Bodo Ramelow',de,Deutschland,#1818e8,#1818e8,3,0.2453353013898
 'Warren Buffett',de,USA,#18e8e8,#18e8e8,3,0.2452349491296017
 'Mark Hertsgaard',de,unknown,#111111,#111111,1,0.2440379218749999
@@ -639,6 +638,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Sandra Maischberger',de,Deutschland,#1818e8,#1818e8,2,0.2116071361922318
 'Xi Jinping',de,China,#e88818,#e88818,3,0.2109909185156437
 'Annalena Baerbock',de,Deutschland,#1818e8,#1818e8,3,0.2104918103561376
+'Charles Michel',de,EU,#111111,#111111,1,0.20974189099424206
 'Julian Reichelt',de,Deutschland,#1818e8,#1818e8,2,0.2089303045040666
 'Tino Chrupalla',de,Deutschland,#1818e8,#1818e8,3,0.2080369022215418
 'Ola Källenius',de,Deutschland,#1818e8,#1818e8,2,0.2079684294467748
