@@ -1,17 +1,17 @@
 keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
-'Keith Kellogg',de,unknown,#111111,#111111,1,0.6
-'Mark Carney',de,unknown,#111111,#111111,1,0.6
 'JD Vance',de,unknown,#111111,#111111,1,0.6
-'Maria Sacharowa',de,unknown,#111111,#111111,1,0.6
-'Christian Günther',de,unknown,#111111,#111111,1,0.6
-'Hans-Werner Sinn',de,unknown,#111111,#111111,1,0.6
-'Kara Hurst',de,unknown,#111111,#111111,1,0.6
 'Vinod Khosla',de,unknown,#111111,#111111,1,0.6
-'Ulrike Hermann',de,unknown,#111111,#111111,1,0.6
-'Chris Luxon',de,unknown,#111111,#111111,1,0.6
-'Jennifer Morgan',de,unknown,#111111,#111111,1,0.6
+'Mark Carney',de,unknown,#111111,#111111,1,0.6
 'Henning Jeschke',de,unknown,#111111,#111111,1,0.6
+'Jennifer Morgan',de,unknown,#111111,#111111,1,0.6
+'Chris Luxon',de,unknown,#111111,#111111,1,0.6
+'Ulrike Hermann',de,unknown,#111111,#111111,1,0.6
 'Melanie Guttmann',de,unknown,#111111,#111111,1,0.6
+'Kara Hurst',de,unknown,#111111,#111111,1,0.6
+'Hans-Werner Sinn',de,unknown,#111111,#111111,1,0.6
+'Christian Günther',de,unknown,#111111,#111111,1,0.6
+'Maria Sacharowa',de,unknown,#111111,#111111,1,0.6
+'Keith Kellogg',de,unknown,#111111,#111111,2,0.5558661859090909
 'Selenskyj',de,Ukraine,#e818e8,#e818e8,3,0.4337621153016321
 'Matt Gaetz',de,USA,#18e8e8,#18e8e8,2,0.4326484471781754
 'Queen Elizabeth II',de,UK,#e838e8,#e838e8,3,0.432555120566167
@@ -576,10 +576,10 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Joy Behar',de,unknown,#111111,#111111,1,0.2613835210494998
 'Michael Sandel',de,USA,#18e8e8,#18e8e8,1,0.2613727915493749
 'Yannick Morez',de,Frankreich,#e8e808,#e8e808,1,0.2613727915493749
-'Andrei Nikolajewitsch Kolmogorow',de,Russland,#e81818,#e81818,1,0.2610031249999999
-'Thomas Bayes',de,UK,#e838e8,#e838e8,1,0.2610031249999999
 'Yevgeny Prigozhin',de,Russland,#e81818,#e81818,1,0.2610031249999999
+'Thomas Bayes',de,UK,#e838e8,#e838e8,1,0.2610031249999999
 'Aurélien Pradié',de,Frankreich,#e8e808,#e8e808,1,0.2610031249999999
+'Andrei Nikolajewitsch Kolmogorow',de,Russland,#e81818,#e81818,1,0.2610031249999999
 'Pierre-Yves Dermagne',de,Belgien,#111111,#111111,1,0.2610031249999999
 'Éric Ciotti',de,Frankreich,#e8e808,#e8e808,1,0.2606087850089374
 'Kemal Kilicdaroglu',de,Türkei,#111111,#111111,1,0.2574383858305537
@@ -691,7 +691,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Detlef Garbe',de,Deutschland,#1818e8,#1818e8,1,0.1885747578124999
 'Lukaschenko',de,Belarus,#e81858,#e81858,3,0.1883763872446562
 'Paul Kagame',de,Ruanda,#111111,#111111,1,0.1878978150731675
-'Bruno Kahl',de,Deutschland,#1818e8,#1818e8,1,0.18745868100873211
+'Bruno Kahl',de,Deutschland,#1818e8,#1818e8,1,0.1874586810087321
 'Roland Busch',de,Deutschland,#1818e8,#1818e8,1,0.1874277478256465
 'Fumio Kishida',de,Japan,#111111,#111111,3,0.1870351350228879
 'Michael Kretschmer',de,Deutschland,#1818e8,#1818e8,3,0.1863714504351773
