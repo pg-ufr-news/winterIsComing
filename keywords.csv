@@ -1,5 +1,4 @@
 keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
-'Hans-Werner Sinn',de,unknown,#111111,#111111,2,0.58560006
 'JD Vance',de,unknown,#111111,#111111,2,0.5785935936363636
 'Maria Sacharowa',de,unknown,#111111,#111111,2,0.5785894836363636
 'Chris Luxon',de,unknown,#111111,#111111,2,0.5612775277500001
@@ -9,9 +8,10 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Jennifer Morgan',de,unknown,#111111,#111111,1,0.51060006
 'Ulrike Hermann',de,unknown,#111111,#111111,1,0.51030003
 'Vinod Khosla',de,unknown,#111111,#111111,1,0.51
-'Kara Hurst',de,unknown,#111111,#111111,1,0.51
 'Henning Jeschke',de,unknown,#111111,#111111,1,0.51
 'Melanie Guttmann',de,unknown,#111111,#111111,1,0.51
+'Kara Hurst',de,unknown,#111111,#111111,1,0.51
+'Hans-Werner Sinn',de,unknown,#111111,#111111,1,0.497760141
 'Selenskyj',de,Ukraine,#e818e8,#e818e8,3,0.4337621153016321
 'Matt Gaetz',de,USA,#18e8e8,#18e8e8,2,0.4326484471781754
 'Queen Elizabeth II',de,UK,#e838e8,#e838e8,3,0.432555120566167
@@ -576,10 +576,10 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Joy Behar',de,unknown,#111111,#111111,1,0.2613835210494998
 'Michael Sandel',de,USA,#18e8e8,#18e8e8,1,0.2613727915493749
 'Yannick Morez',de,Frankreich,#e8e808,#e8e808,1,0.2613727915493749
-'Aurélien Pradié',de,Frankreich,#e8e808,#e8e808,1,0.2610031249999999
-'Thomas Bayes',de,UK,#e838e8,#e838e8,1,0.2610031249999999
 'Andrei Nikolajewitsch Kolmogorow',de,Russland,#e81818,#e81818,1,0.2610031249999999
+'Thomas Bayes',de,UK,#e838e8,#e838e8,1,0.2610031249999999
 'Yevgeny Prigozhin',de,Russland,#e81818,#e81818,1,0.2610031249999999
+'Aurélien Pradié',de,Frankreich,#e8e808,#e8e808,1,0.2610031249999999
 'Pierre-Yves Dermagne',de,Belgien,#111111,#111111,1,0.2610031249999999
 'Éric Ciotti',de,Frankreich,#e8e808,#e8e808,1,0.2606087850089374
 'Kemal Kilicdaroglu',de,Türkei,#111111,#111111,1,0.2574383858305537
