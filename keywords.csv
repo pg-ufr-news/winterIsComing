@@ -576,10 +576,10 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Joy Behar',de,unknown,#111111,#111111,1,0.2613835210494998
 'Michael Sandel',de,USA,#18e8e8,#18e8e8,1,0.2613727915493749
 'Yannick Morez',de,Frankreich,#e8e808,#e8e808,1,0.2613727915493749
-'Andrei Nikolajewitsch Kolmogorow',de,Russland,#e81818,#e81818,1,0.2610031249999999
-'Thomas Bayes',de,UK,#e838e8,#e838e8,1,0.2610031249999999
 'Yevgeny Prigozhin',de,Russland,#e81818,#e81818,1,0.2610031249999999
+'Thomas Bayes',de,UK,#e838e8,#e838e8,1,0.2610031249999999
 'Aurélien Pradié',de,Frankreich,#e8e808,#e8e808,1,0.2610031249999999
+'Andrei Nikolajewitsch Kolmogorow',de,Russland,#e81818,#e81818,1,0.2610031249999999
 'Pierre-Yves Dermagne',de,Belgien,#111111,#111111,1,0.2610031249999999
 'Éric Ciotti',de,Frankreich,#e8e808,#e8e808,1,0.2606087850089374
 'Kemal Kilicdaroglu',de,Türkei,#111111,#111111,1,0.2574383858305537
@@ -651,6 +651,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Xi Jinping',de,China,#e88818,#e88818,3,0.2109909185156437
 'Annalena Baerbock',de,Deutschland,#1818e8,#1818e8,3,0.2104918103561376
 'Charles Michel',de,EU,#111111,#111111,1,0.209741890994242
+'Alice Schwarzer',de,Deutschland,#1818e8,#1818e8,2,0.20960564258761846
 'Julian Reichelt',de,Deutschland,#1818e8,#1818e8,2,0.2089303045040666
 'Tino Chrupalla',de,Deutschland,#1818e8,#1818e8,3,0.2080369022215418
 'Ola Källenius',de,Deutschland,#1818e8,#1818e8,2,0.2079684294467748
@@ -702,7 +703,6 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Gregor Gysi',de,Deutschland,#1818e8,#1818e8,2,0.1793542177960141
 'Dalai Lama',de,Tibet,#111111,#111111,1,0.1791089316265888
 'Veronika Grimm',de,Deutschland,#1818e8,#1818e8,2,0.1789600792369795
-'Alice Schwarzer',de,Deutschland,#1818e8,#1818e8,1,0.1786532559854335
 'Macky Sall',de,Senegal,#111111,#111111,2,0.1785743603676145
 'Martin Sonneborn',de,Deutschland,#1818e8,#1818e8,2,0.178571281510844
 'Ed McVey',de,UK,#e838e8,#e838e8,1,0.1777394275896845
