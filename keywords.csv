@@ -9,7 +9,6 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Henning Jeschke',de,unknown,#111111,#111111,1,0.4335
 'Melanie Guttmann',de,unknown,#111111,#111111,1,0.4335
 'Matt Gaetz',de,USA,#18e8e8,#18e8e8,2,0.4326484471781754
-'Queen Elizabeth II',de,UK,#e838e8,#e838e8,3,0.432555120566167
 'Prinzessin Kate',de,UK,#e838e8,#e838e8,3,0.4320542288057297
 'Friedrich Merz',de,Deutschland,#1818e8,#1818e8,3,0.4280228641402883
 'Marco Rubio',de,USA,#18e8e8,#18e8e8,3,0.4262512622073835
@@ -123,6 +122,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Vinod Khosla',de,unknown,#111111,#111111,1,0.368475
 'Tulsin Gabbard',de,USA,#18e8e8,#18e8e8,1,0.368475
 'Gisele Bündchen',de,unknown,#111111,#111111,1,0.3681667345911786
+'Queen Elizabeth II',de,UK,#e838e8,#e838e8,1,0.367672122481242
 'Jack Antonoff',de,unknown,#111111,#111111,1,0.3676220838167647
 'Kristen Wiig',de,unknown,#111111,#111111,1,0.3666779269614693
 'Marguerite Cazeneuve',de,unknown,#111111,#111111,1,0.366468865001143
@@ -280,13 +280,13 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Robert De Niro',de,USA,#18e8e8,#18e8e8,2,0.3381521652149034
 'Alexander Smirnov',de,unknown,#111111,#111111,1,0.3381332651080311
 'Tucker Carlson',de,USA,#18e8e8,#18e8e8,1,0.338091972310273
+'Autumn Peltier',de,unknown,#111111,#111111,1,0.3377687499999999
 'Steven Donziger',de,unknown,#111111,#111111,1,0.3377687499999999
 'Haitham A-Ghais',de,unknown,#111111,#111111,1,0.3377687499999999
-'Claudia Kempfert',de,unknown,#111111,#111111,1,0.3377687499999999
-'Autumn Peltier',de,unknown,#111111,#111111,1,0.3377687499999999
-'Marjan Minnesma',de,unknown,#111111,#111111,1,0.3377687499999999
 'Eriberto Gualinga',de,unknown,#111111,#111111,1,0.3377687499999999
+'Claudia Kempfert',de,unknown,#111111,#111111,1,0.3377687499999999
 'Minka Indigena',de,unknown,#111111,#111111,1,0.3377687499999999
+'Marjan Minnesma',de,unknown,#111111,#111111,1,0.3377687499999999
 'Axel Springer',de,Deutschland,#1818e8,#1818e8,3,0.3377581246605246
 'Pete Davidson',de,USA,#18e8e8,#18e8e8,1,0.3376129924385236
 'Rudolf Steiner',de,Oesterreich,#111111,#111111,1,0.33733779559875
