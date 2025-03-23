@@ -1,5 +1,6 @@
 keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'JD Vance',de,unknown,#111111,#111111,3,0.4845678858680681
+'Prinz William',de,UK,#e838e8,#e838e8,3,0.4772879808863483
 'Keith Kellogg',de,unknown,#111111,#111111,3,0.471098967423693
 'Maria Sacharowa',de,unknown,#111111,#111111,3,0.4710580442909091
 'Mark Carney',de,unknown,#111111,#111111,3,0.4572033021321591
@@ -11,7 +12,6 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Queen Elizabeth II',de,UK,#e838e8,#e838e8,3,0.432555120566167
 'Prinzessin Kate',de,UK,#e838e8,#e838e8,3,0.4320542288057297
 'Friedrich Merz',de,Deutschland,#1818e8,#1818e8,3,0.4280228641402883
-'Prinz William',de,UK,#e838e8,#e838e8,3,0.4273475021122814
 'Marco Rubio',de,USA,#18e8e8,#18e8e8,3,0.4262512622073835
 'Olaf Scholz',de,Deutschland,#1818e8,#1818e8,3,0.4253071477123959
 'Hans-Werner Sinn',de,unknown,#111111,#111111,1,0.42429623985
@@ -280,13 +280,13 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Robert De Niro',de,USA,#18e8e8,#18e8e8,2,0.3381521652149034
 'Alexander Smirnov',de,unknown,#111111,#111111,1,0.3381332651080311
 'Tucker Carlson',de,USA,#18e8e8,#18e8e8,1,0.338091972310273
+'Steven Donziger',de,unknown,#111111,#111111,1,0.3377687499999999
 'Haitham A-Ghais',de,unknown,#111111,#111111,1,0.3377687499999999
 'Claudia Kempfert',de,unknown,#111111,#111111,1,0.3377687499999999
-'Marjan Minnesma',de,unknown,#111111,#111111,1,0.3377687499999999
-'Steven Donziger',de,unknown,#111111,#111111,1,0.3377687499999999
-'Minka Indigena',de,unknown,#111111,#111111,1,0.3377687499999999
 'Autumn Peltier',de,unknown,#111111,#111111,1,0.3377687499999999
+'Marjan Minnesma',de,unknown,#111111,#111111,1,0.3377687499999999
 'Eriberto Gualinga',de,unknown,#111111,#111111,1,0.3377687499999999
+'Minka Indigena',de,unknown,#111111,#111111,1,0.3377687499999999
 'Axel Springer',de,Deutschland,#1818e8,#1818e8,3,0.3377581246605246
 'Pete Davidson',de,USA,#18e8e8,#18e8e8,1,0.3376129924385236
 'Rudolf Steiner',de,Oesterreich,#111111,#111111,1,0.33733779559875
