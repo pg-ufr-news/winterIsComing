@@ -282,10 +282,10 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Alexander Smirnov',de,unknown,#111111,#111111,1,0.3381332651080311
 'Tucker Carlson',de,USA,#18e8e8,#18e8e8,1,0.338091972310273
 'Minka Indigena',de,unknown,#111111,#111111,1,0.3377687499999999
-'Marjan Minnesma',de,unknown,#111111,#111111,1,0.3377687499999999
-'Steven Donziger',de,unknown,#111111,#111111,1,0.3377687499999999
 'Claudia Kempfert',de,unknown,#111111,#111111,1,0.3377687499999999
+'Steven Donziger',de,unknown,#111111,#111111,1,0.3377687499999999
 'Autumn Peltier',de,unknown,#111111,#111111,1,0.3377687499999999
+'Marjan Minnesma',de,unknown,#111111,#111111,1,0.3377687499999999
 'Eriberto Gualinga',de,unknown,#111111,#111111,1,0.3377687499999999
 'Haitham A-Ghais',de,unknown,#111111,#111111,1,0.3377687499999999
 'Axel Springer',de,Deutschland,#1818e8,#1818e8,3,0.3377581246605246
@@ -806,7 +806,6 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Yanis Varoufakis',de,Griechenland,#1858e8,#1858e8,1,0.0682165568688824
 'Otmar Issing',de,EU,#111111,#111111,1,0.0675175558949335
 'Jürgen Grässlin',de,Deutschland,#1818e8,#1818e8,1,0.0667271696671177
-'Daniel Dillmann',de,Deutschland,#1818e8,#1818e8,1,0.0664980214611602
 'Muhammad bin Zayid Al Nahyan',de,VAE,#111111,#111111,1,0.0654566977617617
 'Philipp Wolff',de,Deutschland,#1818e8,#1818e8,1,0.0654199081845615
 'Jochen Thewes',de,Deutschland,#1818e8,#1818e8,1,0.063817872261489
@@ -815,6 +814,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Lula sa Silva',de,Brasilien,#58e838,#58e838,1,0.0607292614810694
 'Steven Milloy',de,USA,#18e8e8,#18e8e8,1,0.060452746782873
 'Amin Nasser',de,SaudiArabien,#111111,#111111,1,0.0599741714510161
+'Daniel Dillmann',de,Deutschland,#1818e8,#1818e8,1,0.05652331824198616
 'Badri Hosseini Chamenei',de,Iran,#111111,#111111,1,0.0552309374792977
 'Jitzchak Herzog',de,Israel,#111111,#111111,1,0.0551207325813899
 'Frank Bainimarama',de,Fidschi,#111111,#111111,1,0.0526971504473425
