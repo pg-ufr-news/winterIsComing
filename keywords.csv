@@ -23,7 +23,6 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'König Charles III',de,UK,#e838e8,#e838e8,3,0.4198665740684376
 'Heidi Klum',de,unknown,#111111,#111111,3,0.4190058849149526
 'Kim Yo Jong',de,NordKorea,#111111,#111111,3,0.41882683445
-'Tina Turner',de,USA,#18e8e8,#18e8e8,3,0.4180356593714842
 'Recep Tayyip Erdogan',de,Türkei,#111111,#111111,3,0.4165822733357288
 'Jake Gyllenhaal',de,unknown,#111111,#111111,1,0.4153255376470145
 'Christine Lambrecht',de,Deutschland,#1818e8,#1818e8,2,0.414743889467159
@@ -102,8 +101,8 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Chris Wright',de,USA,#18e8e8,#18e8e8,2,0.3755664261304646
 'Christian Kroll',de,Deutschland,#1818e8,#1818e8,1,0.3750021635875
 'Andrei Sacharow',de,Russland,#e81818,#e81818,1,0.374766265
-'Lea Bonasera',de,Deutschland,#1818e8,#1818e8,1,0.37461625
 'Hilda Nakabuye',de,Uganda,#111111,#111111,1,0.37461625
+'Lea Bonasera',de,Deutschland,#1818e8,#1818e8,1,0.37461625
 'Lady Gaga',de,USA,#18e8e8,#18e8e8,3,0.374461211576962
 'Boris Johnson',de,UK,#e838e8,#e838e8,3,0.3744586561362362
 'Gigi Hadid',de,unknown,#111111,#111111,1,0.37419084996191
@@ -117,10 +116,10 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Kanye West',de,USA,#18e8e8,#18e8e8,2,0.3699310048162996
 'Willy Brandt',de,Deutschland,#1818e8,#1818e8,3,0.3696946738536971
 'Ulrike Hermann',de,unknown,#111111,#111111,1,0.368969299425
-'Merrill McCollum',de,USA,#18e8e8,#18e8e8,1,0.368475
 'Vinod Khosla',de,unknown,#111111,#111111,1,0.368475
 'Kara Hurst',de,unknown,#111111,#111111,1,0.368475
 'Tulsin Gabbard',de,USA,#18e8e8,#18e8e8,1,0.368475
+'Merrill McCollum',de,USA,#18e8e8,#18e8e8,1,0.368475
 'Gisele Bündchen',de,unknown,#111111,#111111,1,0.3681667345911786
 'Queen Elizabeth II',de,UK,#e838e8,#e838e8,1,0.367672122481242
 'Jack Antonoff',de,unknown,#111111,#111111,1,0.3676220838167647
@@ -182,6 +181,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Steve Wozniak',de,USA,#18e8e8,#18e8e8,1,0.3560427909859529
 'Bill Barr',de,unknown,#111111,#111111,1,0.3559098689427163
 'Katy Perry',de,USA,#18e8e8,#18e8e8,3,0.3555975691792222
+'Tina Turner',de,USA,#18e8e8,#18e8e8,2,0.3553304304657615
 'Lauren Sanchez',de,USA,#18e8e8,#18e8e8,1,0.3550703389513614
 'Christopher Nolan',de,USA,#18e8e8,#18e8e8,3,0.3549842276857259
 'Robert Downey Jr',de,unknown,#111111,#111111,3,0.3546846555942325
@@ -282,10 +282,10 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Alexander Smirnov',de,unknown,#111111,#111111,1,0.3381332651080311
 'Tucker Carlson',de,USA,#18e8e8,#18e8e8,1,0.338091972310273
 'Minka Indigena',de,unknown,#111111,#111111,1,0.3377687499999999
-'Autumn Peltier',de,unknown,#111111,#111111,1,0.3377687499999999
-'Steven Donziger',de,unknown,#111111,#111111,1,0.3377687499999999
 'Marjan Minnesma',de,unknown,#111111,#111111,1,0.3377687499999999
+'Steven Donziger',de,unknown,#111111,#111111,1,0.3377687499999999
 'Claudia Kempfert',de,unknown,#111111,#111111,1,0.3377687499999999
+'Autumn Peltier',de,unknown,#111111,#111111,1,0.3377687499999999
 'Eriberto Gualinga',de,unknown,#111111,#111111,1,0.3377687499999999
 'Haitham A-Ghais',de,unknown,#111111,#111111,1,0.3377687499999999
 'Axel Springer',de,Deutschland,#1818e8,#1818e8,3,0.3377581246605246
