@@ -110,11 +110,11 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Kanye West',de,USA,#18e8e8,#18e8e8,2,0.3699310048162996
 'Willy Brandt',de,Deutschland,#1818e8,#1818e8,3,0.3696946738536971
 'Ulrike Hermann',de,unknown,#111111,#111111,1,0.368969299425
-'Melanie Guttmann',de,unknown,#111111,#111111,1,0.368475
-'Kara Hurst',de,unknown,#111111,#111111,1,0.368475
-'Tulsin Gabbard',de,USA,#18e8e8,#18e8e8,1,0.368475
-'Merrill McCollum',de,USA,#18e8e8,#18e8e8,1,0.368475
 'Vinod Khosla',de,unknown,#111111,#111111,1,0.368475
+'Kara Hurst',de,unknown,#111111,#111111,1,0.368475
+'Melanie Guttmann',de,unknown,#111111,#111111,1,0.368475
+'Merrill McCollum',de,USA,#18e8e8,#18e8e8,1,0.368475
+'Tulsin Gabbard',de,USA,#18e8e8,#18e8e8,1,0.368475
 'Gisele Bündchen',de,unknown,#111111,#111111,1,0.3681667345911786
 'Matt Gaetz',de,USA,#18e8e8,#18e8e8,1,0.3677511801014491
 'Queen Elizabeth II',de,UK,#e838e8,#e838e8,1,0.367672122481242
@@ -278,11 +278,11 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Alexander Smirnov',de,unknown,#111111,#111111,1,0.3381332651080311
 'Tucker Carlson',de,USA,#18e8e8,#18e8e8,1,0.338091972310273
 'Steven Donziger',de,unknown,#111111,#111111,1,0.3377687499999999
-'Claudia Kempfert',de,unknown,#111111,#111111,1,0.3377687499999999
-'Marjan Minnesma',de,unknown,#111111,#111111,1,0.3377687499999999
-'Eriberto Gualinga',de,unknown,#111111,#111111,1,0.3377687499999999
-'Autumn Peltier',de,unknown,#111111,#111111,1,0.3377687499999999
 'Haitham A-Ghais',de,unknown,#111111,#111111,1,0.3377687499999999
+'Marjan Minnesma',de,unknown,#111111,#111111,1,0.3377687499999999
+'Claudia Kempfert',de,unknown,#111111,#111111,1,0.3377687499999999
+'Autumn Peltier',de,unknown,#111111,#111111,1,0.3377687499999999
+'Eriberto Gualinga',de,unknown,#111111,#111111,1,0.3377687499999999
 'Minka Indigena',de,unknown,#111111,#111111,1,0.3377687499999999
 'Axel Springer',de,Deutschland,#1818e8,#1818e8,3,0.3377581246605246
 'Pete Davidson',de,USA,#18e8e8,#18e8e8,1,0.3376129924385236
@@ -548,7 +548,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Élisabeth Borne',de,Frankreich,#e8e808,#e8e808,1,0.2695941365971816
 'Leonard Bernstein',de,unknown,#111111,#111111,1,0.2686635300096801
 'Tiffany Chen',de,USA,#18e8e8,#18e8e8,1,0.2686473692574801
-'Cassidy Hutchinson',de,unknown,#111111,#111111,1,0.26750005409994626
+'Cassidy Hutchinson',de,unknown,#111111,#111111,1,0.2675000540999462
 'John Rawls',de,USA,#18e8e8,#18e8e8,1,0.2670624057850483
 'Missy Motown',de,Deutschland,#1818e8,#1818e8,1,0.2665211478169687
 'Sophia Chikirou',de,unknown,#111111,#111111,1,0.2657529431474223
@@ -576,10 +576,10 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Joy Behar',de,unknown,#111111,#111111,1,0.2613835210494998
 'Yannick Morez',de,Frankreich,#e8e808,#e8e808,1,0.2613727915493749
 'Michael Sandel',de,USA,#18e8e8,#18e8e8,1,0.2613727915493749
-'Yevgeny Prigozhin',de,Russland,#e81818,#e81818,1,0.2610031249999999
-'Aurélien Pradié',de,Frankreich,#e8e808,#e8e808,1,0.2610031249999999
 'Andrei Nikolajewitsch Kolmogorow',de,Russland,#e81818,#e81818,1,0.2610031249999999
+'Aurélien Pradié',de,Frankreich,#e8e808,#e8e808,1,0.2610031249999999
 'Thomas Bayes',de,UK,#e838e8,#e838e8,1,0.2610031249999999
+'Yevgeny Prigozhin',de,Russland,#e81818,#e81818,1,0.2610031249999999
 'Pierre-Yves Dermagne',de,Belgien,#111111,#111111,1,0.2610031249999999
 'Éric Ciotti',de,Frankreich,#e8e808,#e8e808,1,0.2606087850089374
 'Kemal Kilicdaroglu',de,Türkei,#111111,#111111,1,0.2574383858305537
@@ -601,12 +601,12 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Jordan Bardella',de,Frankreich,#e8e808,#e8e808,2,0.24314759164691
 'Antony Blinken',de,USA,#18e8e8,#18e8e8,3,0.2429984226351256
 'Marco Buschmann',de,Deutschland,#1818e8,#1818e8,3,0.2423301809601367
-'Ursula von der Leyen',de,EU,#111111,#111111,3,0.2412793076076889
 'Mark Rutte',de,Niederlande,#111111,#111111,3,0.2402316717018647
 'Jair Bolsonaro',de,Brasilien,#58e838,#58e848,3,0.2398158443528236
 'Bill Gates',de,USA,#18e8e8,#18e8e8,3,0.2395104178095424
 'Zach Bryan',de,unknown,#111111,#111111,1,0.2388572122107015
 'Nancy Faeser',de,Deutschland,#1818e8,#1818e8,3,0.2383423883632433
+'Ursula von der Leyen',de,EU,#111111,#111111,3,0.23732213873926283
 'Ricarda Lang',de,Deutschland,#1818e8,#1818e8,3,0.2363265143606869
 'Gabor Steingart',de,Deutschland,#1818e8,#1818e8,2,0.2354302087174241
 'Stephan Harbarth',de,Deutschland,#1818e8,#1818e8,1,0.2346118675919032
