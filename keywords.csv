@@ -104,6 +104,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Prinz George',de,UK,#e838e8,#e838e8,2,0.3726043434247972
 'Mark Cuban',de,unknown,#111111,#111111,1,0.3725675590312493
 'Helmut Kohl',de,Deutschland,#1818e8,#1818e8,3,0.3722920115966792
+'Queen Elizabeth II',de,UK,#e838e8,#e838e8,2,0.37029315268048424
 'Jennifer Morgan',de,unknown,#111111,#111111,1,0.37016866935
 'Kanye West',de,USA,#18e8e8,#18e8e8,2,0.3699310048162996
 'Willy Brandt',de,Deutschland,#1818e8,#1818e8,3,0.3696946738536971
@@ -115,7 +116,6 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Tulsin Gabbard',de,USA,#18e8e8,#18e8e8,1,0.368475
 'Gisele Bündchen',de,unknown,#111111,#111111,1,0.3681667345911786
 'Matt Gaetz',de,USA,#18e8e8,#18e8e8,1,0.3677511801014491
-'Queen Elizabeth II',de,UK,#e838e8,#e838e8,1,0.367672122481242
 'Jack Antonoff',de,unknown,#111111,#111111,1,0.3676220838167647
 'Kristen Wiig',de,unknown,#111111,#111111,1,0.3666779269614693
 'Marguerite Cazeneuve',de,unknown,#111111,#111111,1,0.366468865001143
@@ -277,11 +277,11 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Alexander Smirnov',de,unknown,#111111,#111111,1,0.3381332651080311
 'Tucker Carlson',de,USA,#18e8e8,#18e8e8,1,0.338091972310273
 'Autumn Peltier',de,unknown,#111111,#111111,1,0.3377687499999999
-'Haitham A-Ghais',de,unknown,#111111,#111111,1,0.3377687499999999
-'Claudia Kempfert',de,unknown,#111111,#111111,1,0.3377687499999999
-'Steven Donziger',de,unknown,#111111,#111111,1,0.3377687499999999
-'Eriberto Gualinga',de,unknown,#111111,#111111,1,0.3377687499999999
 'Minka Indigena',de,unknown,#111111,#111111,1,0.3377687499999999
+'Claudia Kempfert',de,unknown,#111111,#111111,1,0.3377687499999999
+'Haitham A-Ghais',de,unknown,#111111,#111111,1,0.3377687499999999
+'Eriberto Gualinga',de,unknown,#111111,#111111,1,0.3377687499999999
+'Steven Donziger',de,unknown,#111111,#111111,1,0.3377687499999999
 'Marjan Minnesma',de,unknown,#111111,#111111,1,0.3377687499999999
 'Axel Springer',de,Deutschland,#1818e8,#1818e8,3,0.3377581246605246
 'Pete Davidson',de,USA,#18e8e8,#18e8e8,1,0.3376129924385236
@@ -474,7 +474,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Kevin Kühnert',de,Deutschland,#1818e8,#1818e8,3,0.3052661568897969
 'Chris Hemsworth',de,unknown,#111111,#111111,1,0.3052049447633713
 'Steve Scalise',de,unknown,#111111,#111111,1,0.3051369748940797
-'Drena De Niro',de,USA,#18e8e8,#18e8e8,1,0.30468718128574995
+'Drena De Niro',de,USA,#18e8e8,#18e8e8,1,0.3046871812857499
 'Roger Corman',de,unknown,#111111,#111111,1,0.304414701171539
 'Barbara Sturm',de,Deutschland,#1818e8,#1818e8,1,0.3037671292741963
 'Mary Robinson',de,unknown,#111111,#111111,1,0.3032685477410416
