@@ -276,12 +276,12 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Robert De Niro',de,USA,#18e8e8,#18e8e8,2,0.3381521652149034
 'Alexander Smirnov',de,unknown,#111111,#111111,1,0.3381332651080311
 'Tucker Carlson',de,USA,#18e8e8,#18e8e8,1,0.338091972310273
+'Claudia Kempfert',de,unknown,#111111,#111111,1,0.3377687499999999
 'Haitham A-Ghais',de,unknown,#111111,#111111,1,0.3377687499999999
 'Minka Indigena',de,unknown,#111111,#111111,1,0.3377687499999999
 'Autumn Peltier',de,unknown,#111111,#111111,1,0.3377687499999999
-'Marjan Minnesma',de,unknown,#111111,#111111,1,0.3377687499999999
 'Steven Donziger',de,unknown,#111111,#111111,1,0.3377687499999999
-'Claudia Kempfert',de,unknown,#111111,#111111,1,0.3377687499999999
+'Marjan Minnesma',de,unknown,#111111,#111111,1,0.3377687499999999
 'Eriberto Gualinga',de,unknown,#111111,#111111,1,0.3377687499999999
 'Axel Springer',de,Deutschland,#1818e8,#1818e8,3,0.3377581246605246
 'Pete Davidson',de,USA,#18e8e8,#18e8e8,1,0.3376129924385236
@@ -353,7 +353,6 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'James Cameron',de,USA,#18e8e8,#18e8e8,2,0.3211405163270453
 'Peter Tschentscher',de,Deutschland,#1818e8,#1818e8,2,0.3210594086783664
 'George Miller',de,unknown,#111111,#111111,1,0.3209242798708933
-'Lachlan Murdoch',de,UK,#e838e8,#e838e8,1,0.3206467617265723
 'Alex Jones',de,unknown,#111111,#111111,1,0.3205411973410501
 'Margot Robbie',de,unknown,#111111,#111111,2,0.3204927062061609
 'Friederike Otto',de,Deutschland,#1818e8,#1818e8,1,0.320213960246875
@@ -460,8 +459,8 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Pedro Sánchez Pérez-Castejón',de,Spanien,#111111,#111111,1,0.3070624999999999
 'Sergei Surovikin',de,Russland,#e81818,#e81818,1,0.3070624999999999
 'Uwe Neumärker',de,Deutschland,#1818e8,#1818e8,1,0.3070624999999999
-'Evgueni Prigojine',de,Russland,#e81818,#e81818,1,0.3070624999999999
 'Dorothée Pacaud',de,Frankreich,#e8e808,#e8e808,1,0.3070624999999999
+'Evgueni Prigojine',de,Russland,#e81818,#e81818,1,0.3070624999999999
 'Moon Hyung-jin',de,USA,#18e8e8,#18e8e8,1,0.3070624999999999
 'Patti LaBelle',de,USA,#18e8e8,#18e8e8,1,0.3070624999999999
 'Camille Etienne',de,Frankreich,#e8e808,#e8e808,1,0.3070624999999999
@@ -541,6 +540,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Wolfgang Grupp',de,unknown,#111111,#111111,1,0.2729890476828131
 'Geoffrey Hinton',de,UK,#e838e8,#e838e8,1,0.2727559061797484
 'Sam Bankman-Fried',de,unknown,#111111,#111111,1,0.2726281037257273
+'Lachlan Murdoch',de,UK,#e838e8,#e838e8,1,0.2725497474675865
 'Andreas Jung',de,Deutschland,#1818e8,#1818e8,3,0.2723946356723844
 'Georg Bätzing',de,Deutschland,#1818e8,#1818e8,1,0.2719361828137281
 'Frank Plasberg',de,Deutschland,#1818e8,#1818e8,2,0.271311355898125
