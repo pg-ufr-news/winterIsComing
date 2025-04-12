@@ -36,7 +36,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Chris Luxon',de,unknown,#111111,#111111,1,0.405650541549375
 'Marine Le Pen',de,Frankreich,#e8e808,#e8e808,3,0.405037717250482
 'Matteo Salvini',de,Italien,#111111,#111111,3,0.4046548234790535
-'Joaquim Valente',de,unknown,#111111,#111111,1,0.40448815654752435
+'Joaquim Valente',de,unknown,#111111,#111111,1,0.4044881565475243
 'Reed Richards',de,unknown,#111111,#111111,2,0.4041916252701271
 'Juliette Binoche',de,unknown,#111111,#111111,2,0.4035525829385509
 'Herbert Diess',de,Deutschland,#1818e8,#1818e8,1,0.4033845389196427
@@ -212,6 +212,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Roger Federer',de,unknown,#111111,#111111,2,0.3495687619473051
 'Jennifer Lopez',de,unknown,#111111,#111111,2,0.3494722141628607
 'Jon Hamm',de,unknown,#111111,#111111,2,0.349304769445755
+'Mick Jagger',de,unknown,#111111,#111111,2,0.3487741528373718
 'Jason Kelce',de,unknown,#111111,#111111,1,0.348445920973752
 'Bastian Schweinsteiger',de,unknown,#111111,#111111,2,0.3483726542474064
 'Lauren Boebert',de,USA,#18e8e8,#18e8e8,1,0.3480996556689374
@@ -270,13 +271,13 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Robert De Niro',de,USA,#18e8e8,#18e8e8,2,0.3381521652149034
 'Alexander Smirnov',de,unknown,#111111,#111111,1,0.3381332651080311
 'Tucker Carlson',de,USA,#18e8e8,#18e8e8,1,0.338091972310273
-'Minka Indigena',de,unknown,#111111,#111111,1,0.3377687499999999
-'Haitham A-Ghais',de,unknown,#111111,#111111,1,0.3377687499999999
+'Marjan Minnesma',de,unknown,#111111,#111111,1,0.3377687499999999
+'Eriberto Gualinga',de,unknown,#111111,#111111,1,0.3377687499999999
+'Autumn Peltier',de,unknown,#111111,#111111,1,0.3377687499999999
 'Steven Donziger',de,unknown,#111111,#111111,1,0.3377687499999999
 'Claudia Kempfert',de,unknown,#111111,#111111,1,0.3377687499999999
-'Marjan Minnesma',de,unknown,#111111,#111111,1,0.3377687499999999
-'Autumn Peltier',de,unknown,#111111,#111111,1,0.3377687499999999
-'Eriberto Gualinga',de,unknown,#111111,#111111,1,0.3377687499999999
+'Minka Indigena',de,unknown,#111111,#111111,1,0.3377687499999999
+'Haitham A-Ghais',de,unknown,#111111,#111111,1,0.3377687499999999
 'Axel Springer',de,Deutschland,#1818e8,#1818e8,3,0.3377581246605246
 'Pete Davidson',de,USA,#18e8e8,#18e8e8,1,0.3376129924385236
 'Rudolf Steiner',de,Oesterreich,#111111,#111111,1,0.33733779559875
@@ -315,7 +316,6 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'António Guterres',de,unknown,#111111,#111111,3,0.3288324498243511
 'Roberto Saviano',de,unknown,#111111,#111111,1,0.3285238819875
 'Gérard Larcher',de,unknown,#111111,#111111,1,0.3283366425030601
-'Mick Jagger',de,unknown,#111111,#111111,2,0.3281672584182984
 'Rudy Giuliani',de,USA,#18e8e8,#18e8e8,2,0.3279012579412641
 'Irina Scherbakowa',de,unknown,#111111,#111111,1,0.3276058756637083
 'Cristiano Ronaldo',de,Portugal,#111111,#111111,3,0.3274578979182896
