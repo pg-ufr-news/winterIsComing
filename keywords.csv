@@ -14,6 +14,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Hunter Biden',de,USA,#18e8e8,#18e8e8,3,0.4316146975151727
 'Friedrich Merz',de,Deutschland,#1818e8,#1818e8,3,0.4280228641402883
 'Marco Rubio',de,USA,#18e8e8,#18e8e8,3,0.4262512622073835
+'Tom Kaulitz',de,unknown,#111111,#111111,3,0.4250693804255765
 'Hans-Werner Sinn',de,unknown,#111111,#111111,1,0.42429623985
 'Christian Lindner',de,Deutschland,#1818e8,#1818e8,3,0.4213299112229968
 'Novak Djokovic',de,unknown,#111111,#111111,3,0.4199786657928559
@@ -48,7 +49,6 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Demi Moore',de,unknown,#111111,#111111,3,0.3990879632031221
 'Angelina Jolie',de,unknown,#111111,#111111,3,0.3982170079077149
 'Prinz Harry',de,UK,#e838e8,#e838e8,3,0.3982089081972143
-'Tom Kaulitz',de,unknown,#111111,#111111,2,0.3980004395381115
 'Matty Healy',de,unknown,#111111,#111111,2,0.3974760845937911
 'Jake Gyllenhaal',de,unknown,#111111,#111111,1,0.397228093949968
 'LeBron James',de,unknown,#111111,#111111,3,0.3970046014831776
@@ -304,7 +304,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Kamala Harris',de,USA,#18e8e8,#18e8e8,1,0.3315439338875
 'Joe Biden',de,USA,#18e8e8,#18e8e8,3,0.3313125839343794
 'Jennifer Garner',de,unknown,#111111,#111111,1,0.3312547048198755
-'Adolf Hitler',de,Deutschland,#1818e8,#1818e8,3,0.33124800486102085
+'Adolf Hitler',de,Deutschland,#1818e8,#1818e8,3,0.3312480048610208
 'Rainer Maria Woelki',de,Deutschland,#1818e8,#1818e8,2,0.3307132463053499
 'Pap Ndiaye',de,unknown,#111111,#111111,1,0.3306442422760613
 'Pedro Sánchez',de,Spanien,#111111,#111111,2,0.33056958898218
