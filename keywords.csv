@@ -1,6 +1,7 @@
 keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Mark Carney',de,unknown,#111111,#111111,3,0.4572033021321591
 'Berkshire Hathaway',de,USA,#18e8e8,#18e8e8,3,0.4514426683057619
+'Maria Kolesnikowa',de,Belarus,#e81858,#e81858,2,0.45082261238796806
 'König Charles III',de,UK,#e838e8,#e838e8,3,0.4482049493218082
 'Prinz William',de,UK,#e838e8,#e838e8,3,0.4440352142936468
 'Taylor Swift',de,unknown,#111111,#111111,3,0.4420385531340839
@@ -27,7 +28,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Lionel Messi',de,Argentinien,#111111,#111111,3,0.4075366693924618
 'Thierry Breton',de,Frankreich,#e8e808,#e8e808,1,0.4069525461023862
 'Javier Milei',de,unknown,#111111,#111111,2,0.4068142820255051
-'JD Vance',de,unknown,#111111,#111111,3,0.40653906431240644
+'JD Vance',de,unknown,#111111,#111111,3,0.4065390643124064
 'Omar Sy',de,unknown,#111111,#111111,1,0.4064936491733194
 'Travis Kelce',de,unknown,#111111,#111111,3,0.4064918326955192
 'George Bush',de,USA,#18e8e8,#18e8e8,3,0.4059170394347366
@@ -180,7 +181,6 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Nikki Haley',de,USA,#18e8e8,#18e8e8,3,0.3539064459281895
 'Mark Meadows',de,unknown,#111111,#111111,2,0.3538367872809899
 'Ron Johnson',de,unknown,#111111,#111111,1,0.3537556466438903
-'Maria Kolesnikowa',de,Belarus,#e81858,#e81858,1,0.3537324675152566
 'Dwayne Johnson',de,unknown,#111111,#111111,1,0.3536930929488768
 'Wagner-Chef Prigoschin',de,unknown,#111111,#111111,2,0.3536263062842978
 'Lars Klingbeil',de,Deutschland,#1818e8,#1818e8,3,0.3534255613949572
