@@ -77,6 +77,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Ben Affleck',de,unknown,#111111,#111111,2,0.3834100157453693
 'Jamie Dimon',de,USA,#18e8e8,#18e8e8,2,0.382925139927159
 'Bill Clinton',de,USA,#18e8e8,#18e8e8,2,0.3827057448234605
+'Ivanka Trump',de,unknown,#111111,#111111,2,0.38260374500127003
 'Rosalynn Carter',de,USA,#18e8e8,#18e8e8,1,0.3820067303224687
 'Greta Gerwig',de,unknown,#111111,#111111,2,0.3809796757156711
 'Wladimir Putin',de,Russland,#e81818,#e81818,3,0.3804714763886117
@@ -157,7 +158,6 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Vivek Ramaswamy',de,USA,#18e8e8,#18e8e8,1,0.3590066273936449
 'Ottmar Edenhofer',de,Deutschland,#1818e8,#1818e8,1,0.358816270474375
 'Maybrit Illner',de,Deutschland,#1818e8,#1818e8,3,0.3584663357772553
-'Ivanka Trump',de,unknown,#111111,#111111,1,0.3583569941191412
 'Pat McAfee',de,unknown,#111111,#111111,1,0.3581537905980921
 'Yorgos Lanthimos',de,unknown,#111111,#111111,1,0.3579900267517697
 'Joey Fatone',de,unknown,#111111,#111111,1,0.3579694995218932
@@ -312,7 +312,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Sam H',de,unknown,#111111,#111111,1,0.3293854959924565
 'Olli Schulz',de,Deutschland,#1818e8,#1818e8,1,0.3292270400253571
 'Tony Bennett',de,USA,#18e8e8,#18e8e8,1,0.3289207931388172
-'Kai Wegner',de,Deutschland,#1818e8,#1818e8,3,0.32884495990410356
+'Kai Wegner',de,Deutschland,#1818e8,#1818e8,3,0.3288449599041035
 'António Guterres',de,unknown,#111111,#111111,3,0.3288324498243511
 'Roberto Saviano',de,unknown,#111111,#111111,1,0.3285238819875
 'Gérard Larcher',de,unknown,#111111,#111111,1,0.3283366425030601
