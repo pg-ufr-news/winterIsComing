@@ -1,5 +1,6 @@
 keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Mark Carney',de,unknown,#111111,#111111,3,0.4572033021321591
+'Novak Djokovic',de,unknown,#111111,#111111,3,0.4528421118330184
 'Berkshire Hathaway',de,USA,#18e8e8,#18e8e8,3,0.4514426683057619
 'Maria Kolesnikowa',de,Belarus,#e81858,#e81858,2,0.450822612387968
 'König Charles III',de,UK,#e838e8,#e838e8,3,0.4482049493218082
@@ -16,7 +17,6 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Tom Kaulitz',de,unknown,#111111,#111111,3,0.4250693804255765
 'Hans-Werner Sinn',de,unknown,#111111,#111111,1,0.42429623985
 'Christian Lindner',de,Deutschland,#1818e8,#1818e8,3,0.4213299112229968
-'Novak Djokovic',de,unknown,#111111,#111111,3,0.4199786657928559
 'Heidi Klum',de,unknown,#111111,#111111,3,0.4190058849149526
 'Laura Ingraham',de,USA,#18e8e8,#18e8e8,2,0.4190057193930435
 'Recep Tayyip Erdogan',de,Türkei,#111111,#111111,3,0.4165822733357288
@@ -263,13 +263,13 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Robert De Niro',de,USA,#18e8e8,#18e8e8,2,0.3381521652149034
 'Alexander Smirnov',de,unknown,#111111,#111111,1,0.3381332651080311
 'Tucker Carlson',de,USA,#18e8e8,#18e8e8,1,0.338091972310273
-'Steven Donziger',de,unknown,#111111,#111111,1,0.3377687499999999
-'Marjan Minnesma',de,unknown,#111111,#111111,1,0.3377687499999999
-'Autumn Peltier',de,unknown,#111111,#111111,1,0.3377687499999999
-'Haitham A-Ghais',de,unknown,#111111,#111111,1,0.3377687499999999
-'Minka Indigena',de,unknown,#111111,#111111,1,0.3377687499999999
 'Claudia Kempfert',de,unknown,#111111,#111111,1,0.3377687499999999
+'Steven Donziger',de,unknown,#111111,#111111,1,0.3377687499999999
+'Autumn Peltier',de,unknown,#111111,#111111,1,0.3377687499999999
+'Marjan Minnesma',de,unknown,#111111,#111111,1,0.3377687499999999
+'Minka Indigena',de,unknown,#111111,#111111,1,0.3377687499999999
 'Eriberto Gualinga',de,unknown,#111111,#111111,1,0.3377687499999999
+'Haitham A-Ghais',de,unknown,#111111,#111111,1,0.3377687499999999
 'Axel Springer',de,Deutschland,#1818e8,#1818e8,3,0.3377581246605246
 'Pete Davidson',de,USA,#18e8e8,#18e8e8,1,0.3376129924385236
 'Rudolf Steiner',de,Oesterreich,#111111,#111111,1,0.33733779559875
