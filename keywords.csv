@@ -1,9 +1,9 @@
 keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
-'Mark Carney',de,unknown,#111111,#111111,3,0.4572033021321591
 'Novak Djokovic',de,unknown,#111111,#111111,3,0.4528421118330184
 'Berkshire Hathaway',de,USA,#18e8e8,#18e8e8,3,0.4514426683057619
 'Maria Kolesnikowa',de,Belarus,#e81858,#e81858,2,0.450822612387968
 'König Charles III',de,UK,#e838e8,#e838e8,3,0.4482049493218082
+'Mark Carney',de,unknown,#111111,#111111,3,0.4481207063577898
 'Prinz William',de,UK,#e838e8,#e838e8,3,0.4440352142936468
 'Taylor Swift',de,unknown,#111111,#111111,3,0.4420385531340839
 'Keith Kellogg',de,unknown,#111111,#111111,3,0.4417525736737754
@@ -575,11 +575,11 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Joy Behar',de,unknown,#111111,#111111,1,0.2613835210494998
 'Yannick Morez',de,Frankreich,#e8e808,#e8e808,1,0.2613727915493749
 'Michael Sandel',de,USA,#18e8e8,#18e8e8,1,0.2613727915493749
-'Thomas Bayes',de,UK,#e838e8,#e838e8,1,0.2610031249999999
-'Aurélien Pradié',de,Frankreich,#e8e808,#e8e808,1,0.2610031249999999
 'Andrei Nikolajewitsch Kolmogorow',de,Russland,#e81818,#e81818,1,0.2610031249999999
-'Yevgeny Prigozhin',de,Russland,#e81818,#e81818,1,0.2610031249999999
+'Thomas Bayes',de,UK,#e838e8,#e838e8,1,0.2610031249999999
 'Pierre-Yves Dermagne',de,Belgien,#111111,#111111,1,0.2610031249999999
+'Aurélien Pradié',de,Frankreich,#e8e808,#e8e808,1,0.2610031249999999
+'Yevgeny Prigozhin',de,Russland,#e81818,#e81818,1,0.2610031249999999
 'Éric Ciotti',de,Frankreich,#e8e808,#e8e808,1,0.2606087850089374
 'Kemal Kilicdaroglu',de,Türkei,#111111,#111111,1,0.2574383858305537
 'Ted Cruz',de,USA,#18e8e8,#18e8e8,1,0.2570009851967187
@@ -815,5 +815,5 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Jitzchak Herzog',de,Israel,#111111,#111111,1,0.0551207325813899
 'Klaus Hasselmann',de,Deutschland,#1818e8,#1818e8,1,0.0539116549344726
 'Frank Bainimarama',de,Fidschi,#111111,#111111,1,0.0526971504473425
-'Amin Nasser',de,SaudiArabien,#111111,#111111,1,0.05097804573336368
+'Amin Nasser',de,SaudiArabien,#111111,#111111,1,0.0509780457333636
 'Erica Chenoweth',de,USA,#18e8e8,#18e8e8,1,0.0504065604288481
