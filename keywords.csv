@@ -8,6 +8,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Taylor Swift',de,unknown,#111111,#111111,3,0.4420385531340839
 'Keith Kellogg',de,unknown,#111111,#111111,3,0.4417525736737754
 'Maria Sacharowa',de,unknown,#111111,#111111,3,0.441716799010909
+'Thierry Breton',de,Frankreich,#e8e808,#e8e808,2,0.4366597391870282
 'Olaf Scholz',de,Deutschland,#1818e8,#1818e8,3,0.4346654237373547
 'Selenskyj',de,Ukraine,#e818e8,#e818e8,3,0.4337621153016321
 'Prinzessin Kate',de,UK,#e838e8,#e838e8,3,0.4320542288057297
@@ -24,7 +25,6 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Christine Lambrecht',de,Deutschland,#1818e8,#1818e8,2,0.414743889467159
 'Robert Kennedy',de,USA,#18e8e8,#18e8e8,3,0.4119815074138623
 'Lionel Messi',de,Argentinien,#111111,#111111,3,0.4075366693924618
-'Thierry Breton',de,Frankreich,#e8e808,#e8e808,1,0.4069525461023862
 'Javier Milei',de,unknown,#111111,#111111,2,0.4068142820255051
 'JD Vance',de,unknown,#111111,#111111,3,0.4065390643124064
 'Omar Sy',de,unknown,#111111,#111111,1,0.4064936491733194
@@ -626,7 +626,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Mohammed bin Salman',de,SaudiArabien,#111111,#111111,3,0.2258793669860262
 'Maybritt Illner',de,Deutschland,#1818e8,#1818e8,2,0.2257631777887987
 'Suleika Jaouad',de,unknown,#111111,#111111,1,0.2254884024661918
-'Kamilla Cardoso',de,unknown,#111111,#111111,1,0.22481013591235327
+'Kamilla Cardoso',de,unknown,#111111,#111111,1,0.2248101359123532
 'Aleksandar Vučić',de,Serbien,#111111,#111111,1,0.2236636139815306
 'Wolfgang Schäuble',de,Deutschland,#1818e8,#1818e8,2,0.223148145735664
 'Sergej Lawrow',de,Russland,#e81818,#e81818,3,0.2227381039416028
