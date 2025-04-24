@@ -134,7 +134,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Brad Pitt',de,unknown,#111111,#111111,2,0.3611788002880774
 'Sam Altman',de,USA,#18e8e8,#18e8e8,3,0.3610979798477722
 'Richard David Precht',de,Deutschland,#1818e8,#1818e8,2,0.3610551881034481
-'James Biden',de,unknown,#111111,#111111,2,0.36078335724183297
+'James Biden',de,unknown,#111111,#111111,2,0.3607833572418329
 'Hillary Clinton',de,USA,#18e8e8,#18e8e8,2,0.3605505871415456
 'Mathias Döpfner',de,Deutschland,#1818e8,#1818e8,2,0.3602330955687252
 'Olivia Rodrigo',de,unknown,#111111,#111111,2,0.3600780871431262
@@ -188,6 +188,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Martin Luther King',de,USA,#18e8e8,#18e8e8,2,0.3509285271388473
 'Britney Spears',de,unknown,#111111,#111111,2,0.3505582170572889
 'John Fetterman',de,unknown,#111111,#111111,1,0.3505328355409118
+'Kamala Harris',de,USA,#18e8e8,#18e8e8,2,0.3504006574407386
 'Andreas Ellermann',de,Deutschland,#1818e8,#1818e8,1,0.3503496174459869
 'Alexander De Croo',de,Belgien,#111111,#111111,1,0.3502552894048864
 'James Comer',de,unknown,#111111,#111111,1,0.3501487167842142
@@ -258,13 +259,13 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Robert De Niro',de,USA,#18e8e8,#18e8e8,2,0.3381521652149034
 'Alexander Smirnov',de,unknown,#111111,#111111,1,0.3381332651080311
 'Tucker Carlson',de,USA,#18e8e8,#18e8e8,1,0.338091972310273
-'Eriberto Gualinga',de,unknown,#111111,#111111,1,0.3377687499999999
-'Marjan Minnesma',de,unknown,#111111,#111111,1,0.3377687499999999
-'Haitham A-Ghais',de,unknown,#111111,#111111,1,0.3377687499999999
-'Claudia Kempfert',de,unknown,#111111,#111111,1,0.3377687499999999
 'Autumn Peltier',de,unknown,#111111,#111111,1,0.3377687499999999
-'Minka Indigena',de,unknown,#111111,#111111,1,0.3377687499999999
 'Steven Donziger',de,unknown,#111111,#111111,1,0.3377687499999999
+'Minka Indigena',de,unknown,#111111,#111111,1,0.3377687499999999
+'Eriberto Gualinga',de,unknown,#111111,#111111,1,0.3377687499999999
+'Claudia Kempfert',de,unknown,#111111,#111111,1,0.3377687499999999
+'Haitham A-Ghais',de,unknown,#111111,#111111,1,0.3377687499999999
+'Marjan Minnesma',de,unknown,#111111,#111111,1,0.3377687499999999
 'Axel Springer',de,Deutschland,#1818e8,#1818e8,3,0.3377581246605246
 'Pete Davidson',de,USA,#18e8e8,#18e8e8,1,0.3376129924385236
 'Rudolf Steiner',de,Oesterreich,#111111,#111111,1,0.33733779559875
@@ -288,7 +289,6 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Leonardo DiCaprio',de,USA,#18e8e8,#18e8e8,3,0.3321949033313778
 'Kate Hudson',de,unknown,#111111,#111111,1,0.332116349308543
 'Chris Hipkins',de,Neuseeland,#1818e8,#1818e8,1,0.3316295824936413
-'Kamala Harris',de,USA,#18e8e8,#18e8e8,1,0.3315439338875
 'Joe Biden',de,USA,#18e8e8,#18e8e8,3,0.3313125839343794
 'Jennifer Garner',de,unknown,#111111,#111111,1,0.3312547048198755
 'Adolf Hitler',de,Deutschland,#1818e8,#1818e8,3,0.3312480048610208
