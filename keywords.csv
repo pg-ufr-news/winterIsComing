@@ -64,7 +64,6 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Ferdinand Dudenhöffer',de,Deutschland,#1818e8,#1818e8,3,0.3876346999950497
 'Johnny Depp',de,USA,#18e8e8,#18e8e8,2,0.3870989779375738
 'Matthias Müller',de,Deutschland,#1818e8,#1818e8,2,0.3870061304047078
-'Lara Trump',de,unknown,#111111,#111111,2,0.3866848764376027
 'America Ferrera',de,unknown,#111111,#111111,1,0.3862509165673751
 'Andrew Tate',de,USA,#18e8e8,#18e8e8,2,0.3860538648023625
 'Rachida Dati',de,unknown,#111111,#111111,2,0.3854884059159367
@@ -80,6 +79,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Barry Keoghan',de,unknown,#111111,#111111,1,0.3799650815196289
 'Wolfgang Kubicki',de,Deutschland,#1818e8,#1818e8,3,0.3798100483384605
 'Dua Lipa',de,unknown,#111111,#111111,2,0.3796181705299721
+'Lara Trump',de,unknown,#111111,#111111,2,0.3791321899719623
 'Cara Delevingne',de,unknown,#111111,#111111,1,0.3786449641705299
 'Miley Cyrus',de,unknown,#111111,#111111,2,0.3779504942055202
 'Merrick Garland',de,unknown,#111111,#111111,2,0.3778570797571271
@@ -296,7 +296,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Cem Özdemir',de,Deutschland,#1818e8,#1818e8,3,0.3305644685980167
 'Elizabeth Warren',de,unknown,#111111,#111111,1,0.3304496129445739
 'Aaron Rodgers',de,unknown,#111111,#111111,1,0.3299326461004407
-'Mukesh Ambani',de,Indien,#111112,#111112,1,0.32969117970090617
+'Mukesh Ambani',de,Indien,#111112,#111112,1,0.3296911797009061
 'Emily Blunt',de,unknown,#111111,#111111,1,0.3296343646574872
 'Sam H',de,unknown,#111111,#111111,1,0.3293854959924565
 'Olli Schulz',de,Deutschland,#1818e8,#1818e8,1,0.3292270400253571
