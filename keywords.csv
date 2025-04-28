@@ -1,5 +1,4 @@
 keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
-'Prinz William',de,UK,#e838e8,#e838e8,3,0.4808084166432478
 'Berkshire Hathaway',de,USA,#18e8e8,#18e8e8,3,0.4514426683057619
 'Maria Kolesnikowa',de,Belarus,#e81858,#e81858,2,0.450822612387968
 'Javier Milei',de,unknown,#111111,#111111,3,0.4507443147216793
@@ -20,6 +19,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Christian Lindner',de,Deutschland,#1818e8,#1818e8,3,0.4213299112229968
 'Heidi Klum',de,unknown,#111111,#111111,3,0.4190058849149526
 'Laura Ingraham',de,USA,#18e8e8,#18e8e8,2,0.4190057193930435
+'Prinz William',de,UK,#e838e8,#e838e8,3,0.41818512869221514
 'Marine Le Pen',de,Frankreich,#e8e808,#e8e808,3,0.4174195178447278
 'Christine Lambrecht',de,Deutschland,#1818e8,#1818e8,2,0.414743889467159
 'Robert Kennedy',de,USA,#18e8e8,#18e8e8,3,0.4119815074138623
@@ -574,10 +574,10 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Joy Behar',de,unknown,#111111,#111111,1,0.2613835210494998
 'Yannick Morez',de,Frankreich,#e8e808,#e8e808,1,0.2613727915493749
 'Michael Sandel',de,USA,#18e8e8,#18e8e8,1,0.2613727915493749
-'Aurélien Pradié',de,Frankreich,#e8e808,#e8e808,1,0.2610031249999999
 'Thomas Bayes',de,UK,#e838e8,#e838e8,1,0.2610031249999999
-'Andrei Nikolajewitsch Kolmogorow',de,Russland,#e81818,#e81818,1,0.2610031249999999
+'Aurélien Pradié',de,Frankreich,#e8e808,#e8e808,1,0.2610031249999999
 'Yevgeny Prigozhin',de,Russland,#e81818,#e81818,1,0.2610031249999999
+'Andrei Nikolajewitsch Kolmogorow',de,Russland,#e81818,#e81818,1,0.2610031249999999
 'Éric Ciotti',de,Frankreich,#e8e808,#e8e808,1,0.2606087850089374
 'Kemal Kilicdaroglu',de,Türkei,#111111,#111111,1,0.2574383858305537
 'Ted Cruz',de,USA,#18e8e8,#18e8e8,1,0.2570009851967187
