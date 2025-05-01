@@ -167,7 +167,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Charlie Munger',de,unknown,#111111,#111111,2,0.3527739361726963
 'Marine Le Pen',de,Frankreich,#e8e808,#e8e808,3,0.3527062217586931
 'Laura Maria Rypa',de,unknown,#111111,#111111,1,0.352580260482055
-'Christine Lambrecht',de,Deutschland,#1818e8,#1818e8,1,0.35253244104708514
+'Christine Lambrecht',de,Deutschland,#1818e8,#1818e8,1,0.3525324410470851
 'Christian Günther',de,unknown,#111111,#111111,1,0.3525004112073295
 'Patrick Mahomes',de,unknown,#111111,#111111,2,0.3524724608740194
 'Robert Kraft',de,unknown,#111111,#111111,3,0.352251674458101
@@ -254,13 +254,13 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Robert De Niro',de,USA,#18e8e8,#18e8e8,2,0.3381521652149034
 'Alexander Smirnov',de,unknown,#111111,#111111,1,0.3381332651080311
 'Tucker Carlson',de,USA,#18e8e8,#18e8e8,1,0.338091972310273
-'Haitham A-Ghais',de,unknown,#111111,#111111,1,0.3377687499999999
-'Eriberto Gualinga',de,unknown,#111111,#111111,1,0.3377687499999999
-'Autumn Peltier',de,unknown,#111111,#111111,1,0.3377687499999999
 'Claudia Kempfert',de,unknown,#111111,#111111,1,0.3377687499999999
-'Minka Indigena',de,unknown,#111111,#111111,1,0.3377687499999999
-'Marjan Minnesma',de,unknown,#111111,#111111,1,0.3377687499999999
+'Haitham A-Ghais',de,unknown,#111111,#111111,1,0.3377687499999999
+'Autumn Peltier',de,unknown,#111111,#111111,1,0.3377687499999999
 'Steven Donziger',de,unknown,#111111,#111111,1,0.3377687499999999
+'Eriberto Gualinga',de,unknown,#111111,#111111,1,0.3377687499999999
+'Marjan Minnesma',de,unknown,#111111,#111111,1,0.3377687499999999
+'Minka Indigena',de,unknown,#111111,#111111,1,0.3377687499999999
 'Axel Springer',de,Deutschland,#1818e8,#1818e8,3,0.3377581246605246
 'Pete Davidson',de,USA,#18e8e8,#18e8e8,1,0.3376129924385236
 'Rudolf Steiner',de,Oesterreich,#111111,#111111,1,0.33733779559875
@@ -345,8 +345,8 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Radical Optimism',de,unknown,#111111,#111111,1,0.3189596208493618
 'Christian Kroll',de,Deutschland,#1818e8,#1818e8,1,0.318901854049375
 'Rosa Parks',de,unknown,#111111,#111111,1,0.3188364661349349
-'Chad Frischmann',de,USA,#18e8e8,#18e8e8,1,0.3184238124999999
 'Lea Bonasera',de,Deutschland,#1818e8,#1818e8,1,0.3184238124999999
+'Chad Frischmann',de,USA,#18e8e8,#18e8e8,1,0.3184238124999999
 'Silvio Berlusconi',de,Italien,#111111,#111111,3,0.3184097321982022
 'Brittany Mahomes',de,unknown,#111111,#111111,1,0.318209565574466
 'Maya Rudolph',de,unknown,#111111,#111111,1,0.3180222759215929
@@ -407,7 +407,6 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Peyton Manning',de,unknown,#111111,#111111,1,0.3117269792069623
 'Leonardo da Vinci',de,Italien,#111111,#111111,2,0.3117224592143928
 'Kylie Kelce',de,unknown,#111111,#111111,1,0.3117127633555893
-'Brian Kilmeade',de,unknown,#111111,#111111,1,0.3117035825265245
 'Kristen Wiig',de,unknown,#111111,#111111,1,0.3116762379172488
 'Olivier Marleix',de,Frankreich,#e8e808,#e8e808,2,0.3113843659939572
 'Ana Navarro',de,unknown,#111111,#111111,1,0.3113145930054911
@@ -549,6 +548,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'John Rawls',de,USA,#18e8e8,#18e8e8,1,0.2670624057850483
 'Missy Motown',de,Deutschland,#1818e8,#1818e8,1,0.2665211478169687
 'Sophia Chikirou',de,unknown,#111111,#111111,1,0.2657529431474223
+'Brian Kilmeade',de,unknown,#111111,#111111,1,0.26569812014754585
 'Drew Bledsoe',de,unknown,#111111,#111111,1,0.2654822726187917
 'Sara Haines',de,unknown,#111111,#111111,1,0.265434004987198
 'Tony Bobulinski',de,unknown,#111111,#111111,1,0.2652596102700075
@@ -574,10 +574,10 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Joy Behar',de,unknown,#111111,#111111,1,0.2613835210494998
 'Yannick Morez',de,Frankreich,#e8e808,#e8e808,1,0.2613727915493749
 'Michael Sandel',de,USA,#18e8e8,#18e8e8,1,0.2613727915493749
-'Aurélien Pradié',de,Frankreich,#e8e808,#e8e808,1,0.2610031249999999
-'Thomas Bayes',de,UK,#e838e8,#e838e8,1,0.2610031249999999
 'Andrei Nikolajewitsch Kolmogorow',de,Russland,#e81818,#e81818,1,0.2610031249999999
 'Yevgeny Prigozhin',de,Russland,#e81818,#e81818,1,0.2610031249999999
+'Thomas Bayes',de,UK,#e838e8,#e838e8,1,0.2610031249999999
+'Aurélien Pradié',de,Frankreich,#e8e808,#e8e808,1,0.2610031249999999
 'Éric Ciotti',de,Frankreich,#e8e808,#e8e808,1,0.2606087850089374
 'Kemal Kilicdaroglu',de,Türkei,#111111,#111111,1,0.2574383858305537
 'Ted Cruz',de,USA,#18e8e8,#18e8e8,1,0.2570009851967187
