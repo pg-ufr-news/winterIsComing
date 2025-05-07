@@ -89,10 +89,10 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Kanye West',de,USA,#18e8e8,#18e8e8,2,0.3699310048162996
 'Willy Brandt',de,Deutschland,#1818e8,#1818e8,3,0.3696946738536971
 'Melanie Guttmann',de,unknown,#111111,#111111,1,0.368475
-'Tulsin Gabbard',de,USA,#18e8e8,#18e8e8,1,0.368475
 'Kara Hurst',de,unknown,#111111,#111111,1,0.368475
-'Vinod Khosla',de,unknown,#111111,#111111,1,0.368475
+'Tulsin Gabbard',de,USA,#18e8e8,#18e8e8,1,0.368475
 'Merrill McCollum',de,USA,#18e8e8,#18e8e8,1,0.368475
+'Vinod Khosla',de,unknown,#111111,#111111,1,0.368475
 'Gisele Bündchen',de,unknown,#111111,#111111,1,0.3681667345911786
 'Mark Cuban',de,unknown,#111111,#111111,1,0.3680325601765618
 'Matt Gaetz',de,USA,#18e8e8,#18e8e8,1,0.3677511801014491
@@ -187,7 +187,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Sergio Mattarella',de,Italien,#111111,#111111,1,0.348064632851364
 'Howard Stern',de,unknown,#111111,#111111,1,0.3480072931347571
 'Prinz Archie',de,UK,#e838e8,#e838e8,2,0.3479940878340194
-'Papst Benedikt XVI',de,Vatikan,#58b8e8,#58b8e8,3,0.34777271422809497
+'Papst Benedikt XVI',de,Vatikan,#58b8e8,#58b8e8,3,0.3477727142280949
 'Eric Trump',de,unknown,#111111,#111111,2,0.3475251648946382
 'David Beckham',de,unknown,#111111,#111111,2,0.3472728331036501
 'Willem Dafoe',de,unknown,#111111,#111111,1,0.3472071854747675
@@ -242,6 +242,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Patricia Blanco',de,Deutschland,#1818e8,#1818e8,2,0.338900915525
 'Chuck Schumer',de,unknown,#111111,#111111,2,0.3383816085291019
 'Caren Miosga',de,Deutschland,#1818e8,#1818e8,3,0.3383497055648828
+'Daniel Penny',de,USA,#18e8e8,#18e8e8,2,0.33832551589438536
 'Jean Carroll',de,USA,#18e8e8,#18e8e8,2,0.33829535119902
 'Charles Barkley',de,unknown,#111111,#111111,1,0.3382715836250587
 'Robert De Niro',de,USA,#18e8e8,#18e8e8,2,0.3381521652149034
@@ -421,7 +422,6 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Sherri Shepherd',de,unknown,#111111,#111111,1,0.3098632305424819
 'Sergei Shoigu',de,unknown,#111111,#111111,1,0.3098541992790031
 'Ron Howard',de,unknown,#111111,#111111,2,0.3097246006838857
-'Daniel Penny',de,USA,#18e8e8,#18e8e8,1,0.3094417481110416
 'Sunny Hostin',de,unknown,#111111,#111111,1,0.3092000732870115
 'François Braun',de,unknown,#111111,#111111,1,0.3091005270421599
 'Chris Kirkpatrick',de,unknown,#111111,#111111,1,0.3090659151381643
@@ -444,17 +444,17 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Jacques Doriot',de,unknown,#111111,#111111,1,0.3074774501230968
 'Anya Taylor-Joy',de,unknown,#111111,#111111,1,0.3074427229074222
 'Hailey Van Lith',de,unknown,#111111,#111111,1,0.3073428164403671
+'Leon Botstein',de,USA,#18e8e8,#18e8e8,1,0.3070624999999999
 'Pedro Sánchez Pérez-Castejón',de,Spanien,#111111,#111111,1,0.3070624999999999
 'Camille Etienne',de,Frankreich,#e8e808,#e8e808,1,0.3070624999999999
 'Gilbert Plass',de,Kanada,#111111,#111111,1,0.3070624999999999
-'Evgueni Prigojine',de,Russland,#e81818,#e81818,1,0.3070624999999999
 'Patti LaBelle',de,USA,#18e8e8,#18e8e8,1,0.3070624999999999
-'Leon Botstein',de,USA,#18e8e8,#18e8e8,1,0.3070624999999999
-'Kemal Kiliçdaroglu',de,Türkei,#111111,#111111,1,0.3070624999999999
 'Moon Hyung-jin',de,USA,#18e8e8,#18e8e8,1,0.3070624999999999
+'Evgueni Prigojine',de,Russland,#e81818,#e81818,1,0.3070624999999999
 'Sergei Surovikin',de,Russland,#e81818,#e81818,1,0.3070624999999999
 'Uwe Neumärker',de,Deutschland,#1818e8,#1818e8,1,0.3070624999999999
 'Dorothée Pacaud',de,Frankreich,#e8e808,#e8e808,1,0.3070624999999999
+'Kemal Kiliçdaroglu',de,Türkei,#111111,#111111,1,0.3070624999999999
 'Alberto Núñez Feijóo',de,unknown,#111111,#111111,1,0.3068759318382417
 'Hugh Grant',de,unknown,#111111,#111111,1,0.3065820265437723
 'Fani Willis',de,unknown,#111111,#111111,1,0.3057556741101219
