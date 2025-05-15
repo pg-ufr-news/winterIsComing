@@ -88,11 +88,11 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Jennifer Morgan',de,unknown,#111111,#111111,1,0.37016866935
 'Kanye West',de,USA,#18e8e8,#18e8e8,2,0.3699310048162996
 'Willy Brandt',de,Deutschland,#1818e8,#1818e8,3,0.3696946738536971
-'Merrill McCollum',de,USA,#18e8e8,#18e8e8,1,0.368475
-'Tulsin Gabbard',de,USA,#18e8e8,#18e8e8,1,0.368475
 'Kara Hurst',de,unknown,#111111,#111111,1,0.368475
-'Melanie Guttmann',de,unknown,#111111,#111111,1,0.368475
+'Merrill McCollum',de,USA,#18e8e8,#18e8e8,1,0.368475
 'Vinod Khosla',de,unknown,#111111,#111111,1,0.368475
+'Tulsin Gabbard',de,USA,#18e8e8,#18e8e8,1,0.368475
+'Melanie Guttmann',de,unknown,#111111,#111111,1,0.368475
 'Gisele Bündchen',de,unknown,#111111,#111111,1,0.3681667345911786
 'Mark Cuban',de,unknown,#111111,#111111,1,0.3680325601765618
 'Matt Gaetz',de,USA,#18e8e8,#18e8e8,1,0.3677511801014491
@@ -137,7 +137,6 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Kim Yo Jong',de,NordKorea,#111111,#111111,2,0.3560028242825
 'Bill Barr',de,unknown,#111111,#111111,1,0.3559098689427163
 'Katy Perry',de,USA,#18e8e8,#18e8e8,3,0.3555975691792222
-"'Dwayne ""The Rock"" Johnson'",de,unknown,#111111,#111111,1,0.3544930758329805
 'Sandy Hook',de,unknown,#111111,#111111,1,0.3541278253448644
 'Nikki Haley',de,USA,#18e8e8,#18e8e8,3,0.3539064459281895
 'Mark Meadows',de,unknown,#111111,#111111,2,0.3538367872809899
@@ -173,6 +172,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Roger Federer',de,unknown,#111111,#111111,2,0.3495687619473051
 'Jennifer Lopez',de,unknown,#111111,#111111,2,0.3494722141628607
 'Le Pen',de,Frankreich,#e8e808,#e8e808,2,0.3494652522939771
+"'Dwayne ""The Rock"" Johnson'",de,unknown,#111111,#111111,1,0.34931941445803344
 'Jon Hamm',de,unknown,#111111,#111111,2,0.349304769445755
 'Mick Jagger',de,unknown,#111111,#111111,2,0.3487741528373718
 'Jessy Wellmer',de,unknown,#111111,#111111,1,0.3485906127305774
@@ -439,17 +439,17 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Jacques Doriot',de,unknown,#111111,#111111,1,0.3074774501230968
 'Anya Taylor-Joy',de,unknown,#111111,#111111,1,0.3074427229074222
 'Hailey Van Lith',de,unknown,#111111,#111111,1,0.3073428164403671
+'Gilbert Plass',de,Kanada,#111111,#111111,1,0.3070624999999999
 'Moon Hyung-jin',de,USA,#18e8e8,#18e8e8,1,0.3070624999999999
 'Uwe Neumärker',de,Deutschland,#1818e8,#1818e8,1,0.3070624999999999
-'Leon Botstein',de,USA,#18e8e8,#18e8e8,1,0.3070624999999999
 'Sergei Surovikin',de,Russland,#e81818,#e81818,1,0.3070624999999999
 'Camille Etienne',de,Frankreich,#e8e808,#e8e808,1,0.3070624999999999
-'Kemal Kiliçdaroglu',de,Türkei,#111111,#111111,1,0.3070624999999999
+'Leon Botstein',de,USA,#18e8e8,#18e8e8,1,0.3070624999999999
 'Dorothée Pacaud',de,Frankreich,#e8e808,#e8e808,1,0.3070624999999999
 'Evgueni Prigojine',de,Russland,#e81818,#e81818,1,0.3070624999999999
-'Gilbert Plass',de,Kanada,#111111,#111111,1,0.3070624999999999
 'Patti LaBelle',de,USA,#18e8e8,#18e8e8,1,0.3070624999999999
 'Pedro Sánchez Pérez-Castejón',de,Spanien,#111111,#111111,1,0.3070624999999999
+'Kemal Kiliçdaroglu',de,Türkei,#111111,#111111,1,0.3070624999999999
 'Alberto Núñez Feijóo',de,unknown,#111111,#111111,1,0.3068759318382417
 'Hugh Grant',de,unknown,#111111,#111111,1,0.3065820265437723
 'Fani Willis',de,unknown,#111111,#111111,1,0.3057556741101219
@@ -509,9 +509,9 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Johan Rockström',de,unknown,#111111,#111111,1,0.2888178464237499
 'Wolfgang Benz',de,Deutschland,#1818e8,#1818e8,2,0.2886971390918749
 'Kyle Pope',de,unknown,#111111,#111111,1,0.2873809652499999
+'Tasneem Essop',de,unknown,#111111,#111111,1,0.2871034374999999
 'Elizabeth Mpofu',de,unknown,#111111,#111111,1,0.2871034374999999
 'Autumn Peltier',de,unknown,#111111,#111111,1,0.2871034374999999
-'Tasneem Essop',de,unknown,#111111,#111111,1,0.2871034374999999
 'King Charles III',de,UK,#e838e8,#e838e8,2,0.2866234463454403
 'Kemal Klçdarolu',de,Türkei,#111111,#111111,3,0.2862786906655112
 'Irina Shayk',de,unknown,#111111,#111111,1,0.2862041984387367
