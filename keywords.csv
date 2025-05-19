@@ -1,5 +1,4 @@
 keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
-'Christian Lindner',de,Deutschland,#1818e8,#1818e8,3,0.49084735213134234
 'Maria Kolesnikowa',de,Belarus,#e81858,#e81858,2,0.450822612387968
 'Javier Milei',de,unknown,#111111,#111111,3,0.4507443147216793
 'Selenskyj',de,Ukraine,#e818e8,#e818e8,3,0.4491163969278398
@@ -19,6 +18,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Hunter Biden',de,USA,#18e8e8,#18e8e8,3,0.4316146975151727
 'Laura Maria Rypa',de,unknown,#111111,#111111,2,0.4264934014097468
 'Tom Kaulitz',de,unknown,#111111,#111111,3,0.4250693804255765
+'Christian Lindner',de,Deutschland,#1818e8,#1818e8,3,0.4221742693116409
 'Hans-Werner Sinn',de,unknown,#111111,#111111,1,0.4191367552916249
 'Prinz William',de,UK,#e838e8,#e838e8,3,0.4181851286922151
 'Marine Le Pen',de,Frankreich,#e8e808,#e8e808,3,0.4174195178447278
@@ -88,10 +88,10 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Jennifer Morgan',de,unknown,#111111,#111111,1,0.37016866935
 'Kanye West',de,USA,#18e8e8,#18e8e8,2,0.3699310048162996
 'Willy Brandt',de,Deutschland,#1818e8,#1818e8,3,0.3696946738536971
-'Tulsin Gabbard',de,USA,#18e8e8,#18e8e8,1,0.368475
 'Kara Hurst',de,unknown,#111111,#111111,1,0.368475
-'Vinod Khosla',de,unknown,#111111,#111111,1,0.368475
+'Tulsin Gabbard',de,USA,#18e8e8,#18e8e8,1,0.368475
 'Melanie Guttmann',de,unknown,#111111,#111111,1,0.368475
+'Vinod Khosla',de,unknown,#111111,#111111,1,0.368475
 'Gisele Bündchen',de,unknown,#111111,#111111,1,0.3681667345911786
 'Mark Cuban',de,unknown,#111111,#111111,1,0.3680325601765618
 'Matt Gaetz',de,USA,#18e8e8,#18e8e8,1,0.3677511801014491
@@ -439,17 +439,17 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Jacques Doriot',de,unknown,#111111,#111111,1,0.3074774501230968
 'Anya Taylor-Joy',de,unknown,#111111,#111111,1,0.3074427229074222
 'Hailey Van Lith',de,unknown,#111111,#111111,1,0.3073428164403671
+'Leon Botstein',de,USA,#18e8e8,#18e8e8,1,0.3070624999999999
 'Kemal Kiliçdaroglu',de,Türkei,#111111,#111111,1,0.3070624999999999
 'Pedro Sánchez Pérez-Castejón',de,Spanien,#111111,#111111,1,0.3070624999999999
 'Sergei Surovikin',de,Russland,#e81818,#e81818,1,0.3070624999999999
-'Patti LaBelle',de,USA,#18e8e8,#18e8e8,1,0.3070624999999999
 'Camille Etienne',de,Frankreich,#e8e808,#e8e808,1,0.3070624999999999
-'Gilbert Plass',de,Kanada,#111111,#111111,1,0.3070624999999999
+'Patti LaBelle',de,USA,#18e8e8,#18e8e8,1,0.3070624999999999
 'Dorothée Pacaud',de,Frankreich,#e8e808,#e8e808,1,0.3070624999999999
-'Leon Botstein',de,USA,#18e8e8,#18e8e8,1,0.3070624999999999
 'Uwe Neumärker',de,Deutschland,#1818e8,#1818e8,1,0.3070624999999999
 'Evgueni Prigojine',de,Russland,#e81818,#e81818,1,0.3070624999999999
 'Moon Hyung-jin',de,USA,#18e8e8,#18e8e8,1,0.3070624999999999
+'Gilbert Plass',de,Kanada,#111111,#111111,1,0.3070624999999999
 'Alberto Núñez Feijóo',de,unknown,#111111,#111111,1,0.3068759318382417
 'Hugh Grant',de,unknown,#111111,#111111,1,0.3065820265437723
 'Fani Willis',de,unknown,#111111,#111111,1,0.3057556741101219
@@ -574,9 +574,9 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Joy Behar',de,unknown,#111111,#111111,1,0.2613835210494998
 'Michael Sandel',de,USA,#18e8e8,#18e8e8,1,0.2613727915493749
 'Yannick Morez',de,Frankreich,#e8e808,#e8e808,1,0.2613727915493749
-'Aurélien Pradié',de,Frankreich,#e8e808,#e8e808,1,0.2610031249999999
 'Thomas Bayes',de,UK,#e838e8,#e838e8,1,0.2610031249999999
 'Andrei Nikolajewitsch Kolmogorow',de,Russland,#e81818,#e81818,1,0.2610031249999999
+'Aurélien Pradié',de,Frankreich,#e8e808,#e8e808,1,0.2610031249999999
 'Éric Ciotti',de,Frankreich,#e8e808,#e8e808,1,0.2606087850089374
 'Kemal Kilicdaroglu',de,Türkei,#111111,#111111,1,0.2574383858305537
 'Ted Cruz',de,USA,#18e8e8,#18e8e8,1,0.2570009851967187
