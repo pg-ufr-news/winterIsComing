@@ -456,17 +456,17 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Jacques Doriot',de,unknown,#111111,#111111,1,0.3074774501230968
 'Anya Taylor-Joy',de,unknown,#111111,#111111,1,0.3074427229074222
 'Hailey Van Lith',de,unknown,#111111,#111111,1,0.3073428164403671
+'Gilbert Plass',de,Kanada,#111111,#111111,1,0.3070624999999999
 'Camille Etienne',de,Frankreich,#e8e808,#e8e808,1,0.3070624999999999
 'Sergei Surovikin',de,Russland,#e81818,#e81818,1,0.3070624999999999
 'Evgueni Prigojine',de,Russland,#e81818,#e81818,1,0.3070624999999999
 'Moon Hyung-jin',de,USA,#18e8e8,#18e8e8,1,0.3070624999999999
-'Patti LaBelle',de,USA,#18e8e8,#18e8e8,1,0.3070624999999999
-'Gilbert Plass',de,Kanada,#111111,#111111,1,0.3070624999999999
-'Leon Botstein',de,USA,#18e8e8,#18e8e8,1,0.3070624999999999
 'Kemal Kiliçdaroglu',de,Türkei,#111111,#111111,1,0.3070624999999999
+'Patti LaBelle',de,USA,#18e8e8,#18e8e8,1,0.3070624999999999
 'Dorothée Pacaud',de,Frankreich,#e8e808,#e8e808,1,0.3070624999999999
 'Uwe Neumärker',de,Deutschland,#1818e8,#1818e8,1,0.3070624999999999
 'Pedro Sánchez Pérez-Castejón',de,Spanien,#111111,#111111,1,0.3070624999999999
+'Leon Botstein',de,USA,#18e8e8,#18e8e8,1,0.3070624999999999
 'Alberto Núñez Feijóo',de,unknown,#111111,#111111,1,0.3068759318382417
 'James Biden',de,unknown,#111111,#111111,1,0.3066660486555579
 'Hugh Grant',de,unknown,#111111,#111111,1,0.3065820265437723
@@ -567,7 +567,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Christian Kroll',de,Deutschland,#1818e8,#1818e8,1,0.2712165909419687
 'Recep Tayyip Erdoan',de,Türkei,#111111,#111111,2,0.2704067569087848
 'Élisabeth Borne',de,Frankreich,#e8e808,#e8e808,1,0.2695941365971816
-'Arno Antlitz',de,Deutschland,#1818e8,#1818e8,1,0.26938172492165624
+'Arno Antlitz',de,Deutschland,#1818e8,#1818e8,1,0.2693817249216562
 'Leonard Bernstein',de,unknown,#111111,#111111,1,0.2686635300096801
 'Tiffany Chen',de,USA,#18e8e8,#18e8e8,1,0.2686473692574801
 'Cassidy Hutchinson',de,unknown,#111111,#111111,1,0.2675000540999462
@@ -769,6 +769,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Yoon Suk-yeol',de,SüdKorea,#111111,#111111,3,0.1454810189442506
 'Kardinal Woelki',de,Deutschland,#1818e8,#1818e8,2,0.1452748996092805
 'Mary Lou McDonald',de,Irland,#111111,#111111,2,0.144444660027504
+'Michael Walzer',de,USA,#18e8e8,#18e8e8,1,0.1441882386002106
 'Edmund Stoiber',de,Deutschland,#1818e8,#1818e8,1,0.1402849213689529
 'Alexei Nawalny',de,Russland,#e81818,#e81818,1,0.1374187838083438
 'Sucharit Bhakdi',de,Deutschland,#1818e8,#1818e8,1,0.1368833022567215
@@ -786,7 +787,6 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Karl Jenkins',de,UK,#e838e8,#e838e8,1,0.1197714729567324
 'Mahmud Abbas',de,Palistina,#111111,#111111,2,0.1191330749939547
 'Heinrich XIII. Prinz Reuß',de,Deutschland,#1818e8,#1818e8,1,0.1190006898932204
-'Michael Walzer',de,USA,#18e8e8,#18e8e8,1,0.117977636168315
 'Steffen Große',de,Deutschland,#1818e8,#1818e8,3,0.1177249681573005
 'John Roberts',de,USA,#18e8e8,#18e8e8,1,0.117536359398511
 'Holger Münch',de,Deutschland,#1818e8,#1818e8,2,0.116486442922703
