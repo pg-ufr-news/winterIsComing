@@ -121,6 +121,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Marguerite Cazeneuve',de,unknown,#111111,#111111,1,0.366468865001143
 'Sam Altman',de,USA,#18e8e8,#18e8e8,3,0.3664301474160609
 'Oleksandr Usyk',de,unknown,#111111,#111111,2,0.3662361979805291
+'Boris Johnson',de,UK,#e838e8,#e838e8,3,0.3656255744195417
 'Robert Downey Jr',de,unknown,#111111,#111111,3,0.3655244413460067
 'Melania Trump',de,unknown,#111111,#111111,3,0.3650553432734293
 'Bruce Springsteen',de,USA,#18e8e8,#18e8e8,3,0.3648812385197782
@@ -182,7 +183,6 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Kamala Harris',de,USA,#18e8e8,#18e8e8,2,0.3504006574407386
 'Andreas Ellermann',de,Deutschland,#1818e8,#1818e8,1,0.3503496174459869
 'James Comer',de,unknown,#111111,#111111,1,0.3501487167842142
-'Boris Johnson',de,UK,#e838e8,#e838e8,3,0.3501180404935785
 'Isaac Newton',de,UK,#e838e8,#e838e8,1,0.3496628526339375
 'Paul-Henry Nargeolet',de,Frankreich,#e8e808,#e8e808,3,0.349631293271232
 'Roger Federer',de,unknown,#111111,#111111,2,0.3495687619473051
@@ -453,17 +453,17 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Jacques Doriot',de,unknown,#111111,#111111,1,0.3074774501230968
 'Anya Taylor-Joy',de,unknown,#111111,#111111,1,0.3074427229074222
 'Hailey Van Lith',de,unknown,#111111,#111111,1,0.3073428164403671
+'Dorothée Pacaud',de,Frankreich,#e8e808,#e8e808,1,0.3070624999999999
 'Gilbert Plass',de,Kanada,#111111,#111111,1,0.3070624999999999
 'Pedro Sánchez Pérez-Castejón',de,Spanien,#111111,#111111,1,0.3070624999999999
 'Kemal Kiliçdaroglu',de,Türkei,#111111,#111111,1,0.3070624999999999
-'Sergei Surovikin',de,Russland,#e81818,#e81818,1,0.3070624999999999
 'Camille Etienne',de,Frankreich,#e8e808,#e8e808,1,0.3070624999999999
-'Moon Hyung-jin',de,USA,#18e8e8,#18e8e8,1,0.3070624999999999
+'Sergei Surovikin',de,Russland,#e81818,#e81818,1,0.3070624999999999
 'Leon Botstein',de,USA,#18e8e8,#18e8e8,1,0.3070624999999999
-'Dorothée Pacaud',de,Frankreich,#e8e808,#e8e808,1,0.3070624999999999
 'Uwe Neumärker',de,Deutschland,#1818e8,#1818e8,1,0.3070624999999999
 'Evgueni Prigojine',de,Russland,#e81818,#e81818,1,0.3070624999999999
 'Patti LaBelle',de,USA,#18e8e8,#18e8e8,1,0.3070624999999999
+'Moon Hyung-jin',de,USA,#18e8e8,#18e8e8,1,0.3070624999999999
 'Alberto Núñez Feijóo',de,unknown,#111111,#111111,1,0.3068759318382417
 'James Biden',de,unknown,#111111,#111111,1,0.3066660486555579
 'Hugh Grant',de,unknown,#111111,#111111,1,0.3065820265437723
@@ -781,7 +781,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Gérard Biard',de,Frankreich,#e8e808,#e8e808,1,0.1273893204557615
 'Katalin Novak',de,Ungarn,#111111,#111111,2,0.1263801094100121
 'John Kerry',de,USA,#18e8e8,#18e8e8,1,0.1236069912483804
-'Michael Walzer',de,USA,#18e8e8,#18e8e8,1,0.12331007781017901
+'Michael Walzer',de,USA,#18e8e8,#18e8e8,1,0.123310077810179
 'Nicola Beer',de,EU,#111111,#111111,1,0.1232913837814179
 'Sergey Brin',de,USA,#18e8e8,#18e8e8,1,0.1204010720496926
 'Karl Jenkins',de,UK,#e838e8,#e838e8,1,0.1197714729567324
