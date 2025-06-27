@@ -1,4 +1,5 @@
 keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
+'Jeanne du Barry',de,Frankreich,#e8e808,#e8e808,2,0.48124572429896273
 'Nina Warken',de,Deutschland,#111111,#111111,3,0.4775027448767697
 'Curtis Yarvin',de,USA,#111111,#111111,2,0.4771305069015312
 'Johann Wadephul',de,Deutschland,#111111,#111111,3,0.4763834406988295
@@ -37,8 +38,8 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Christiane Schenderlein',de,Deutschland,#111111,#111111,1,0.4339428980795453
 'Prinzessin Kate',de,UK,#e838e8,#e838e8,3,0.4320542288057297
 'Hunter Biden',de,USA,#18e8e8,#18e8e8,3,0.4316146975151727
-'Steffen Kotre',de,unknown,#111111,#111111,1,0.4298874999999999
 'Gwede Mantashe',de,unknown,#111111,#111111,1,0.4298874999999999
+'Steffen Kotre',de,unknown,#111111,#111111,1,0.4298874999999999
 'Laura Maria Rypa',de,unknown,#111111,#111111,2,0.4264934014097468
 'Benjamin Hasselhorn',de,unknown,#111111,#111111,1,0.4264189719098435
 'Tom Kaulitz',de,unknown,#111111,#111111,3,0.4250693804255765
@@ -77,7 +78,6 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Donald Trump',de,USA,#18e8e8,#18e8e8,3,0.3904407402840615
 'Marie Trintignant',de,unknown,#111111,#111111,1,0.3904257915877691
 'Mike Johnson',de,USA,#18e8e8,#18e8e8,3,0.3895699567397576
-'Jeanne du Barry',de,Frankreich,#e8e808,#e8e808,2,0.3889948991752503
 'LeBron James',de,unknown,#111111,#111111,3,0.3878594017152464
 'Ferdinand Dudenhöffer',de,Deutschland,#1818e8,#1818e8,3,0.3876346999950497
 'Johnny Depp',de,USA,#18e8e8,#18e8e8,2,0.3870989779375738
@@ -454,17 +454,17 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Jacques Doriot',de,unknown,#111111,#111111,1,0.3074774501230968
 'Anya Taylor-Joy',de,unknown,#111111,#111111,1,0.3074427229074222
 'Hailey Van Lith',de,unknown,#111111,#111111,1,0.3073428164403671
+'Pedro Sánchez Pérez-Castejón',de,Spanien,#111111,#111111,1,0.3070624999999999
 'Moon Hyung-jin',de,USA,#18e8e8,#18e8e8,1,0.3070624999999999
 'Patti LaBelle',de,USA,#18e8e8,#18e8e8,1,0.3070624999999999
 'Evgueni Prigojine',de,Russland,#e81818,#e81818,1,0.3070624999999999
 'Kemal Kiliçdaroglu',de,Türkei,#111111,#111111,1,0.3070624999999999
 'Camille Etienne',de,Frankreich,#e8e808,#e8e808,1,0.3070624999999999
-'Sergei Surovikin',de,Russland,#e81818,#e81818,1,0.3070624999999999
-'Pedro Sánchez Pérez-Castejón',de,Spanien,#111111,#111111,1,0.3070624999999999
 'Uwe Neumärker',de,Deutschland,#1818e8,#1818e8,1,0.3070624999999999
 'Gilbert Plass',de,Kanada,#111111,#111111,1,0.3070624999999999
 'Dorothée Pacaud',de,Frankreich,#e8e808,#e8e808,1,0.3070624999999999
 'Leon Botstein',de,USA,#18e8e8,#18e8e8,1,0.3070624999999999
+'Sergei Surovikin',de,Russland,#e81818,#e81818,1,0.3070624999999999
 'Alberto Núñez Feijóo',de,unknown,#111111,#111111,1,0.3068759318382417
 'James Biden',de,unknown,#111111,#111111,1,0.3066660486555579
 'Hugh Grant',de,unknown,#111111,#111111,1,0.3065820265437723
@@ -618,9 +618,9 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Aleksandar Vučić',de,Serbien,#111111,#111111,1,0.2475641918843009
 'Bodo Ramelow',de,Deutschland,#1818e8,#1818e8,3,0.2453353013898
 'Warren Buffett',de,USA,#18e8e8,#18e8e8,3,0.2452349491296017
-'Helena Gualinga',de,unknown,#111111,#111111,1,0.2440379218749999
 'Mark Hertsgaard',de,unknown,#111111,#111111,1,0.2440379218749999
 'Sophia Kianni',de,unknown,#111111,#111111,1,0.2440379218749999
+'Helena Gualinga',de,unknown,#111111,#111111,1,0.2440379218749999
 'Michael Ballweg',de,Deutschland,#1818e8,#1818e8,2,0.243835655473395
 'Jordan Bardella',de,Frankreich,#e8e808,#e8e808,2,0.24314759164691
 'Antony Blinken',de,USA,#18e8e8,#18e8e8,3,0.2429984226351256
@@ -656,9 +656,9 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Wolfgang Schäuble',de,Deutschland,#1818e8,#1818e8,2,0.223148145735664
 'Sergej Lawrow',de,Russland,#e81818,#e81818,3,0.2227381039416028
 'Jean-Jacques Rousseau',de,Schweiz,#111111,#111111,1,0.2223234995640312
+'Yevgeny Prigozhin',de,Russland,#e81818,#e81818,1,0.2218526562499999
 'Megyn Kell',de,USA,#18e8e8,#18e8e8,1,0.2218526562499999
 'Pierre-Yves Dermagne',de,Belgien,#111111,#111111,1,0.2218526562499999
-'Yevgeny Prigozhin',de,Russland,#e81818,#e81818,1,0.2218526562499999
 'Sergej Schoigu',de,Russland,#e81818,#e81818,3,0.2218285882839788
 'Jens Stoltenberg',de,Norwegen,#e818e8,#e818e8,2,0.2205491245117761
 'Eva Kaili',de,EU,#111111,#111111,3,0.2197861341940745
