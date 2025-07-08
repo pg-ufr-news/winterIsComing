@@ -19,7 +19,7 @@ jobs:
   docker-run-action:
     runs-on: ubuntu-latest
     container:
-      image: credocker/crecoding:2022.0
+      image: credocker/crepython:2020.0
       volumes:
         - ${{ github.workspace }}:/cre/python
     steps:
@@ -32,7 +32,7 @@ jobs:
 #          ref: main
       - name: cd /cre/python/
         run: (cd /cre/python/)
-      - name: Install spacy~=3.6 textblob_de
+      - name: Install spacy==3.6 textblob_de
         run: (pip3 install spacy~=3.6 textblob_de nltk==3.8)
       - name: Install download de_core_news_md
         run: (python3 -m spacy download de_core_news_md)
