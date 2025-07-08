@@ -69,7 +69,7 @@ def addNewNames(urlNames, keyDF, newRatio=0.5,language='de', limitCount=9):
         if(not newPhrase in keyDF['keyword'].unique()):
           newData = {'keyword':newPhrase,'language':language,'topic':'unknown','topicColor':'#111111','keywordColor':'#111111','limitPages':2,'ratioNew':(newRatio+random.random()/100)}
           ##print(newData)  
-          keyDF = keyDF.append(newData, ignore_index=True)
+          keyDF = pd.concat([keyDF, pd.DataFrame([newData])], ignore_index=True)
     return keyDF
 
 def getNewsFiles():
