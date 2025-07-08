@@ -1,891 +1,1273 @@
 ,phrase,label,sentiment,subjectivity,language,count
-Golden Globes,Golden Globes,MISC,,,de,33
-Ukraine-Krieg,Ukraine-Krieg,MISC,,,de,22
-deutsche,deutsche,MISC,,,de,21
-Killers of the Flower Moon,Killers of the Flower Moon,MISC,,,de,20
-britische,britische,MISC,,,de,19
-russischen Angriffskrieg,russischen Angriffskrieg,MISC,,,de,18
-französische,französische,MISC,,,de,18
-Republikaner,Republikaner,MISC,,,de,18
-Weihnachten,Weihnachten,MISC,,,de,17
-Grammys,Grammys,MISC,,,de,15
-britischen,britischen,MISC,,,de,14
-The Crown,The Crown,MISC,,,de,13
-ePaper,ePaper,MISC,,,de,13
-deutschen,deutschen,MISC,,,de,13
-Gaza-Krieg,Gaza-Krieg,MISC,,,de,13
-X,X,MISC,-1.15,0.3333333333333333,de,13
-Hollywood-Star,Hollywood-Star,MISC,,,de,13
-ukrainische,ukrainische,MISC,,,de,12
-Barbie,Barbie,MISC,,,de,12
-Oscars,Oscars,MISC,,,de,11
-Person des Jahres,Person des Jahres,MISC,,,de,11
-russischen,russischen,MISC,,,de,10
-Lesen Sie jetzt,Lesen Sie jetzt,MISC,,,de,10
-OpenAI,OpenAI,MISC,,,de,9
-Deutschland sucht den Superstar,Deutschland sucht den Superstar,MISC,,,de,9
-Amazon,Amazon,MISC,,,de,9
-russische,russische,MISC,,,de,9
-französischen,französischen,MISC,,,de,9
-Netflix,Netflix,MISC,,,de,8
-Apple Original Film,Apple Original Film,MISC,,,de,8
-Sahra Wagenknecht,Sahra Wagenknecht,MISC,,,de,8
-Gotham Awards,Gotham Awards,MISC,,,de,8
-Bauchoperation,Bauchoperation,MISC,,,de,8
-Internet,Internet,MISC,,,de,7
-Deutschen,Deutschen,MISC,,,de,7
-Deutsche,Deutsche,MISC,,,de,7
-Berliner,Berliner,MISC,,,de,7
-ukrainischen,ukrainischen,MISC,,,de,7
-Grammy,Grammy,MISC,,,de,7
-israelische,israelische,MISC,,,de,6
-Blockbuster-Produktionen,Blockbuster-Produktionen,MISC,,,de,6
-Münchner,Münchner,MISC,,,de,6
-Lilibet,Lilibet,MISC,,,de,6
-amerikanische,amerikanische,MISC,,,de,6
-Zeit,Zeit,MISC,,,de,6
-amerikanischen,amerikanischen,MISC,,,de,6
-Oscar,Oscar,MISC,,,de,6
-TV-Show,TV-Show,MISC,,,de,6
-Wetten,Wetten,MISC,,,de,6
-I'm Just Ken,I'm Just Ken,MISC,,,de,6
-sozialen,sozialen,MISC,,,de,6
-Operation,Operation,MISC,,,de,6
-Hause,Hause,MISC,6.0,0.0,de,6
-Deadpool,Deadpool,MISC,,,de,6
-Das Supertalent,Das Supertalent,MISC,,,de,6
-Regierungsstillstand,Regierungsstillstand,MISC,,,de,6
-Fest,Fest,MISC,,,de,6
-Hamburger,Hamburger,MISC,,,de,6
-Twitter,Twitter,MISC,,,de,6
-Karlsruher,Karlsruher,MISC,,,de,5
-NSYNC,NSYNC,MISC,,,de,5
-Le Pen,Le Pen,MISC,,,de,5
-Kate,Kate,MISC,,,de,5
-Grammy-Verleihung,Grammy-Verleihung,MISC,,,de,5
-Hause Lombardi,Hause Lombardi,MISC,,,de,5
-spanische,spanische,MISC,,,de,5
-spanischen,spanischen,MISC,,,de,5
-israelischen,israelischen,MISC,,,de,5
-Frieden,Frieden,MISC,,,de,5
-Serien-Highlights,Serien-Highlights,MISC,,,de,4
-Apple,Apple,MISC,,,de,4
-Tech-CEOs,Tech-CEOs,MISC,,,de,4
-Critics Choice Award,Critics Choice Award,MISC,,,de,4
-Phoenix,Phoenix,MISC,0.0,0.0,de,4
-ägyptischen,ägyptischen,MISC,,,de,4
-Heidi,Heidi,MISC,,,de,4
-Mama Heidi,Mama Heidi,MISC,,,de,4
+"Link
+","Link
+",MISC,,,de,283
+“,“,MISC,,,de,217
+Ukraine-Krieg,Ukraine-Krieg,MISC,,,de,61
+ukrainische,ukrainische,MISC,,,de,48
+russischen,russischen,MISC,,,de,45
+russischen Angriffskrieg,russischen Angriffskrieg,MISC,,,de,40
+deutschen,deutschen,MISC,,,de,36
+deutsche,deutsche,MISC,,,de,33
+Zeit,Zeit,MISC,,,de,33
+ukrainischen,ukrainischen,MISC,,,de,31
+russische,russische,MISC,,,de,26
+FAZ+,FAZ+,MISC,,,de,22
+OpenAI,OpenAI,MISC,,,de,18
+Berliner,Berliner,MISC,,,de,18
+Waffenruhe,Waffenruhe,MISC,,,de,18
+britische,britische,MISC,,,de,17
+britischen,britischen,MISC,,,de,16
+amerikanische,amerikanische,MISC,,,de,13
+Deutschen,Deutschen,MISC,,,de,13
+Frieden,Frieden,MISC,2.0,0.0,de,13
+europäische,europäische,MISC,,,de,13
+rumänische,rumänische,MISC,,,de,12
+Ostermontag,Ostermontag,MISC,,,de,12
+amerikanischen,amerikanischen,MISC,,,de,11
+rumänischen,rumänischen,MISC,,,de,11
+Kabinett,Kabinett,MISC,,,de,10
+ARD-Talkshow,ARD-Talkshow,MISC,,,de,10
+…,…,MISC,0.01833333333333333,0.0,de,10
+Krieg in der Ukraine,Krieg in der Ukraine,MISC,,,de,9
+ChatGPT,ChatGPT,MISC,,,de,9
+sozialen,sozialen,MISC,,,de,9
+Republikaner,Republikaner,MISC,,,de,9
+ESC,ESC,MISC,,,de,9
+russischem,russischem,MISC,,,de,9
+iranische,iranische,MISC,,,de,8
+Ostern,Ostern,MISC,1.4,0.0,de,8
+Russischer,Russischer,MISC,,,de,8
+ukrainischer,ukrainischer,MISC,,,de,8
+Google,Google,MISC,,,de,8
+Krieg,Krieg,MISC,,,de,7
+Merz,Merz,MISC,,,de,7
+Krieges,Krieges,MISC,,,de,7
+israelischen,israelischen,MISC,,,de,7
+S…,S…,MISC,,,de,7
+europäischen,europäischen,MISC,,,de,7
+The Accountant 2,The Accountant 2,MISC,,,de,7
+Bundestagswahl,Bundestagswahl,MISC,,,de,6
+Apple TV+,Apple TV+,MISC,,,de,6
+Bundesparteitag,Bundesparteitag,MISC,,,de,6
+d…,d…,MISC,0.24285714285714285,0.0,de,6
+The Smashing Machine,The Smashing Machine,MISC,,,de,6
+UFC-Kampf,UFC-Kampf,MISC,,,de,6
+US-Politik,US-Politik,MISC,1.5,0.5,de,6
+Liebe Jorinde,Liebe Jorinde,MISC,,,de,6
+Bürgermeisterwahl,Bürgermeisterwahl,MISC,,,de,6
+Champions League,Champions League,MISC,,,de,6
+italienischen,italienischen,MISC,,,de,6
+T1,T1,MISC,,,de,6
+F1“,F1“,MISC,,,de,6
+e…,e…,MISC,1.0,0.0,de,5
+russischer,russischer,MISC,,,de,5
+französischen,französischen,MISC,,,de,5
+Internet,Internet,MISC,,,de,5
+Grenze,Grenze,MISC,,,de,5
+INTERVIEW,INTERVIEW,MISC,,,de,5
+demokratischen,demokratischen,MISC,,,de,5
+Pfingsten,Pfingsten,MISC,,,de,5
+Frieden in der Ukraine,Frieden in der Ukraine,MISC,,,de,5
+argentinischen,argentinischen,MISC,,,de,5
+CDU-Außenpolitiker,CDU-Außenpolitiker,MISC,,,de,5
+GNTM,GNTM,MISC,,,de,5
+Kriegs,Kriegs,MISC,,,de,5
+Applaus,Applaus,MISC,,,de,5
+Steckbrief,Steckbrief,MISC,0.0,0.0,de,5
+amerikanischer,amerikanischer,MISC,,,de,4
+Ukraine-Besuch,Ukraine-Besuch,MISC,,,de,4
+Instagram,Instagram,MISC,0.0,0.0,de,4
+Boeing 747,Boeing 747,MISC,,,de,4
+deutscher Zeit,deutscher Zeit,MISC,,,de,4
+"Diana Award""-Organisation","Diana Award""-Organisation",MISC,,,de,4
+US-amerikanische,US-amerikanische,MISC,,,de,4
+Kölner,Kölner,MISC,,,de,4
+Digitalsteuer,Digitalsteuer,MISC,,,de,4
+TTS Player,TTS Player,MISC,,,de,4
+Scorsese“,Scorsese“,MISC,,,de,4
+Nato-Verbündeten,Nato-Verbündeten,MISC,,,de,4
+demokratische,demokratische,MISC,,,de,4
+SPD-Minister,SPD-Minister,MISC,,,de,4
+französische,französische,MISC,,,de,4
+Kraft von Zeit,Kraft von Zeit,MISC,,,de,4
+SPD-Vorstand,SPD-Vorstand,MISC,,,de,4
+Gästen,Gästen,MISC,,,de,4
 argentinische,argentinische,MISC,,,de,4
-Ampel-Regierung,Ampel-Regierung,MISC,,,de,4
-Royals am Abend,Royals am Abend,MISC,,,de,4
-Xbox Developer Direct,Xbox Developer Direct,MISC,,,de,4
-"Family Switch""-Filmpremiere","Family Switch""-Filmpremiere",MISC,,,de,4
-Maude v Maude,Maude v Maude,MISC,,,de,4
-Tanzvideos,Tanzvideos,MISC,,,de,4
-Der Mann,Der Mann,MISC,,,de,4
-Geschwistern Lou,Geschwistern Lou,MISC,,,de,4
-The Big Issue,The Big Issue,MISC,,,de,4
-Living Legends of Aviation Award,Living Legends of Aviation Award,MISC,,,de,4
-US-Realitystar,US-Realitystar,MISC,,,de,4
-"The Crown""-Finale","The Crown""-Finale",MISC,,,de,4
-ungarische,ungarische,MISC,,,de,4
-Fake News,Fake News,MISC,,,de,4
-Kennedy-Preis,Kennedy-Preis,MISC,,,de,4
-europäischen,europäischen,MISC,,,de,4
-Promi-Meldungen,Promi-Meldungen,MISC,,,de,4
-Gaza-Streifen,Gaza-Streifen,MISC,0.0,0.0,de,4
-Ein Jahr nach der Geburt ihres Sohnes,Ein Jahr nach der Geburt ihres Sohnes,MISC,,,de,4
-Trolls,Trolls,MISC,,,de,4
-Queen,Queen,MISC,,,de,4
-Präsidentschaftswahl im November,Präsidentschaftswahl im November,MISC,,,de,4
-Sportgymnastin,Sportgymnastin,MISC,,,de,4
-Sussexes,Sussexes,MISC,,,de,4
-Ananas-Pizza,Ananas-Pizza,MISC,,,de,4
+F1,F1,MISC,,,de,4
+Barbie-Puppe,Barbie-Puppe,MISC,,,de,4
+soziale,soziale,MISC,,,de,4
+Schweizer,Schweizer,MISC,,,de,4
 ZEIT,ZEIT,MISC,,,de,4
-Marine Le Pen,Marine Le Pen,MISC,,,de,4
-niederländische,niederländische,MISC,,,de,3
-Amazon-Gründers,Amazon-Gründers,MISC,,,de,3
-katalanischer,katalanischer,MISC,,,de,3
-Verleumdungsprozess,Verleumdungsprozess,MISC,0.0,0.0,de,3
-Die Zeit,Die Zeit,MISC,,,de,3
-Ausgerechnet,Ausgerechnet,MISC,,,de,3
-Deadpool 3,Deadpool 3,MISC,,,de,3
-Youtube,Youtube,MISC,,,de,3
-Russen,Russen,MISC,-1.4,0.0,de,3
-Eurofighter,Eurofighter,MISC,,,de,3
-Mein Falke,Mein Falke,MISC,,,de,3
-Me,Me,MISC,,,de,3
-polnische,polnische,MISC,,,de,3
-Garage Amazon,Garage Amazon,MISC,,,de,3
-Ersten,Ersten,MISC,,,de,3
-GASTKOMMENTAR,GASTKOMMENTAR,MISC,,,de,3
-spanischer,spanischer,MISC,,,de,3
+Können Männer Frauen,Können Männer Frauen,MISC,,,de,3
+Viertelfinal-Rückspiel,Viertelfinal-Rückspiel,MISC,,,de,3
+Russland,Russland,MISC,0.0020547945205479454,0.0,de,3
+09.05.2025,09.05.2025,MISC,,,de,3
+Freaky Tales“,Freaky Tales“,MISC,,,de,3
+Kirchengeschichte,Kirchengeschichte,MISC,,,de,3
+Parteitag in Berlin,Parteitag in Berlin,MISC,,,de,3
+katholischen,katholischen,MISC,,,de,3
+E…,E…,MISC,0.7,0.0,de,3
+Länder-Ministerpräsidenten,Länder-Ministerpräsidenten,MISC,,,de,3
+Krieg in der Ukraine“,Krieg in der Ukraine“,MISC,,,de,3
+Papst-Beerdigung,Papst-Beerdigung,MISC,,,de,3
+z…,z…,MISC,,,de,3
+Euro,Euro,MISC,,,de,3
+SPD-Politiker,SPD-Politiker,MISC,,,de,3
+Überfall auf Polen,Überfall auf Polen,MISC,,,de,3
+Britisches,Britisches,MISC,,,de,3
 polnischen,polnischen,MISC,,,de,3
-AfD-Bundesvorsitzende,AfD-Bundesvorsitzende,MISC,,,de,3
-Hebräisch,Hebräisch,MISC,,,de,3
-serbische,serbische,MISC,,,de,3
-ChatGPT,ChatGPT,MISC,,,de,3
-Beliebtheitsranking,Beliebtheitsranking,MISC,,,de,3
-republikanischen,republikanischen,MISC,,,de,3
-Musical-Verfilmung,Musical-Verfilmung,MISC,,,de,3
-Fantastic Four,Fantastic Four,MISC,,,de,3
-demokratische,demokratische,MISC,,,de,3
-Rechtsextremen,Rechtsextremen,MISC,,,de,3
-NFL-Fans,NFL-Fans,MISC,,,de,3
-argentinischer,argentinischer,MISC,,,de,3
-ungarischen,ungarischen,MISC,,,de,3
-Buffett-Weggefährte,Buffett-Weggefährte,MISC,-3.0,0.0,de,3
-linken Regierung,linken Regierung,MISC,,,de,3
-Meetings,Meetings,MISC,,,de,3
-OpenAI-Chef,OpenAI-Chef,MISC,,,de,3
-X-Konto,X-Konto,MISC,,,de,3
-US Open,US Open,MISC,,,de,3
-Rosenkrieg,Rosenkrieg,MISC,,,de,3
-italienische,italienische,MISC,,,de,3
-Harry und Sally,Harry und Sally,MISC,,,de,3
-Let's Dance,Let's Dance,MISC,,,de,3
-Juden,Juden,MISC,,,de,3
-OB-Wahl,OB-Wahl,MISC,,,de,3
-Meine Prinzessin,Meine Prinzessin,MISC,,,de,3
-australischen,australischen,MISC,,,de,3
-Alarm,Alarm,MISC,,,de,3
-Apple-CEO,Apple-CEO,MISC,,,de,3
-Football-Star,Football-Star,MISC,,,de,3
-Super Bowl,Super Bowl,MISC,,,de,3
-Hilf Indiana Jones,Hilf Indiana Jones,MISC,,,de,3
-britischer,britischer,MISC,,,de,3
-irische,irische,MISC,,,de,3
-Angeli,Angeli,MISC,,,de,2
-Kriegs-,Kriegs-,MISC,,,de,2
-Free Speech,Free Speech,MISC,,,de,2
+Wende,Wende,MISC,,,de,3
+chinesischen,chinesischen,MISC,,,de,3
+Präsidentschaftswahl in Rumänien,Präsidentschaftswahl in Rumänien,MISC,,,de,3
+europäischer,europäischer,MISC,,,de,3
+iranischen,iranischen,MISC,,,de,3
+The Studio,The Studio,MISC,,,de,3
+T…,T…,MISC,,,de,3
+Amazon,Amazon,MISC,,,de,3
+Big Beautiful Bill,Big Beautiful Bill,MISC,,,de,3
+America Party“,America Party“,MISC,,,de,3
+vatikanische,vatikanische,MISC,,,de,3
+MMA-Biopic,MMA-Biopic,MISC,,,de,3
+Trump,Trump,MISC,0.0,0.0,de,3
+Das Haus am Eaton,Das Haus am Eaton,MISC,,,de,3
+Englisch,Englisch,MISC,,,de,3
+Londoner,Londoner,MISC,,,de,3
+Britische,Britische,MISC,,,de,3
+Die Lage im Überblick“,Die Lage im Überblick“,MISC,,,de,3
+russischen Angriffskrieges,russischen Angriffskrieges,MISC,,,de,3
+BSW,BSW,MISC,,,de,3
+ZDFneo,ZDFneo,MISC,,,de,3
+Neues Kabinett,Neues Kabinett,MISC,,,de,3
+Ukraine-Kriegs,Ukraine-Kriegs,MISC,,,de,3
+Germany's Next Topmodel,Germany's Next Topmodel,MISC,,,de,3
+SOHN,SOHN,MISC,,,de,3
+Bus g,Bus g,MISC,,,de,3
+V…,V…,MISC,,,de,3
+Zweiten Weltkriegs,Zweiten Weltkriegs,MISC,,,de,3
+The Accountant,The Accountant,MISC,,,de,3
+jüdische,jüdische,MISC,,,de,3
+M…,M…,MISC,,,de,3
+SPD-Linken,SPD-Linken,MISC,,,de,3
+Ge…,Ge…,MISC,,,de,3
+GKV,GKV,MISC,,,de,3
+Kardinälen,Kardinälen,MISC,,,de,3
+Weltkriegsgedenken“,Weltkriegsgedenken“,MISC,,,de,2
+Nations League,Nations League,MISC,,,de,2
+Sanktionen,Sanktionen,MISC,,,de,2
+ANDERE BLICK,ANDERE BLICK,MISC,,,de,2
+Der Tegeler Forst,Der Tegeler Forst,MISC,,,de,2
+Zollkrieg,Zollkrieg,MISC,,,de,2
+rheinland-pfälzische,rheinland-pfälzische,MISC,,,de,2
+Heizungsgesetzes,Heizungsgesetzes,MISC,,,de,2
+Asperger-Syndrom,Asperger-Syndrom,MISC,,,de,2
+Liste der kommenden SPD-Minister,Liste der kommenden SPD-Minister,MISC,,,de,2
+Ressentiment“,Ressentiment“,MISC,,,de,2
+SPD-Riege,SPD-Riege,MISC,,,de,2
+Liebe in Zeiten der Pandemie,Liebe in Zeiten der Pandemie,MISC,,,de,2
+L…,L…,MISC,,,de,2
+A…,A…,MISC,,,de,2
+Free TV,Free TV,MISC,,,de,2
+kalifornischen,kalifornischen,MISC,,,de,2
+MAGA-Bewegung,MAGA-Bewegung,MISC,,,de,2
+polnische,polnische,MISC,,,de,2
+bayerischen,bayerischen,MISC,,,de,2
+Urgroßmutter,Urgroßmutter,MISC,,,de,2
+Tesla-Chef,Tesla-Chef,MISC,1.0,0.0,de,2
+SPD-Vorsitzende,SPD-Vorsitzende,MISC,,,de,2
+jüdischer,jüdischer,MISC,,,de,2
+stern+statt,stern+statt,MISC,,,de,2
 russisch,russisch,MISC,,,de,2
-Wirbel um,Wirbel um,MISC,,,de,2
-Echte Freunde,Echte Freunde,MISC,,,de,2
-Haushaltsprobleme,Haushaltsprobleme,MISC,,,de,2
-James Haven,James Haven,MISC,,,de,2
-Chinesisch-Kenntnissen,Chinesisch-Kenntnissen,MISC,,,de,2
-F16-Kampfjets,F16-Kampfjets,MISC,,,de,2
-Royals feiern Weihnachten,Royals feiern Weihnachten,MISC,,,de,2
-Sauf-Spitznamen,Sauf-Spitznamen,MISC,,,de,2
-Doku-Premiere,Doku-Premiere,MISC,,,de,2
-Weihnachtsstress,Weihnachtsstress,MISC,,,de,2
-Mr.,Mr.,MISC,,,de,2
-X-Dokumente,X-Dokumente,MISC,,,de,2
-Zusammenreißen,Zusammenreißen,MISC,,,de,2
-SPD-Parteitags,SPD-Parteitags,MISC,,,de,2
-Kurz-Trainingslager,Kurz-Trainingslager,MISC,,,de,2
-News im Blog,News im Blog,MISC,,,de,2
-Solo-Comedy-Shows,Solo-Comedy-Shows,MISC,,,de,2
-AFP,AFP,MISC,,,de,2
-Der Komiker,Der Komiker,MISC,,,de,2
-Trumps,Trumps,MISC,,,de,2
-kubanischen Revolution,kubanischen Revolution,MISC,,,de,2
-Critic,Critic,MISC,,,de,2
-RRAuction,RRAuction,MISC,,,de,2
-ägyptische,ägyptische,MISC,,,de,2
-Au menu,Au menu,MISC,,,de,2
-Inglourious Basterds,Inglourious Basterds,MISC,,,de,2
-Original-Beitrag,Original-Beitrag,MISC,,,de,2
-letzten Jahre,letzten Jahre,MISC,,,de,2
-Ruanda-Modell,Ruanda-Modell,MISC,,,de,2
-Hate Speech,Hate Speech,MISC,,,de,2
-kroatische,kroatische,MISC,,,de,2
-Drittstaaten-Modelle,Drittstaaten-Modelle,MISC,,,de,2
-neuen Jahr,neuen Jahr,MISC,,,de,2
-Weltranglisten-Erste aus Serbien,Weltranglisten-Erste aus Serbien,MISC,,,de,2
-Miss France,Miss France,MISC,,,de,2
-"The Crown""-Staffel","The Crown""-Staffel",MISC,,,de,2
-Pitbull-Mischling,Pitbull-Mischling,MISC,,,de,2
-bewegen</li><li,bewegen</li><li,MISC,,,de,2
-kroatischen,kroatischen,MISC,,,de,2
-republikanische,republikanische,MISC,,,de,2
-Weihnachtskonzert-Premiere,Weihnachtskonzert-Premiere,MISC,,,de,2
-Mehr</li><li,Mehr</li><li,MISC,,,de,2
-Oh mein Gott,Oh mein Gott,MISC,,,de,2
-Lego,Lego,MISC,,,de,2
-Star Wars,Star Wars,MISC,,,de,2
-Hollywood-Traumpaar,Hollywood-Traumpaar,MISC,,,de,2
-Das Erste,Das Erste,MISC,,,de,2
-The Brave and the Bold,The Brave and the Bold,MISC,,,de,2
-The Taste,The Taste,MISC,,,de,2
-Das Jahr 2023,Das Jahr 2023,MISC,,,de,2
-Strictly Come Dancing,Strictly Come Dancing,MISC,,,de,2
-Nahost-Konflikts,Nahost-Konflikts,MISC,,,de,2
-Comeback.</li><li,Comeback.</li><li,MISC,,,de,2
-Telegram,Telegram,MISC,,,de,2
-Krieg,Krieg,MISC,,,de,2
-Secrets of the Aquarium,Secrets of the Aquarium,MISC,,,de,2
-Twitter-Account der Königsfamilie,Twitter-Account der Königsfamilie,MISC,,,de,2
-Talkshow-Moderatorin,Talkshow-Moderatorin,MISC,,,de,2
-arabischen,arabischen,MISC,,,de,2
-Krönungstag,Krönungstag,MISC,,,de,2
-Royal,Royal,MISC,,,de,2
-"Harry und Sally""-Drehort","Harry und Sally""-Drehort",MISC,,,de,2
-Spiele,Spiele,MISC,,,de,2
-Bürgerkrieg,Bürgerkrieg,MISC,,,de,2
-DIE Pop-Prinzessinnen,DIE Pop-Prinzessinnen,MISC,,,de,2
-Quarantäne,Quarantäne,MISC,,,de,2
-Schlechte Nachrichten,Schlechte Nachrichten,MISC,,,de,2
-ostukrainischen,ostukrainischen,MISC,,,de,2
-Instagram über ihr Leb,Instagram über ihr Leb,MISC,,,de,2
-Vorfreude,Vorfreude,MISC,,,de,2
-Twitter</li><li,Twitter</li><li,MISC,,,de,2
-Wenn ich schreibe,Wenn ich schreibe,MISC,,,de,2
-Neujahr,Neujahr,MISC,,,de,2
-Royal Variety Performance,Royal Variety Performance,MISC,,,de,2
-Stormi Bree,Stormi Bree,MISC,,,de,2
-Drei Jahre nach dem Sturm,Drei Jahre nach dem Sturm,MISC,,,de,2
-NFL-Superstar,NFL-Superstar,MISC,,,de,2
-Zeit für Selbstreflexion,Zeit für Selbstreflexion,MISC,,,de,2
-Princeton-Absolvent,Princeton-Absolvent,MISC,,,de,2
-Überraschung bei der Weihnachtsfeier einer Charity-Organisation,Überraschung bei der Weihnachtsfeier einer Charity-Organisation,MISC,,,de,2
-Migrations-Krise,Migrations-Krise,MISC,,,de,2
-Oscarverleihung im Jahr 2020,Oscarverleihung im Jahr 2020,MISC,,,de,2
-Bundestagswahl,Bundestagswahl,MISC,,,de,2
-INTERVIEW,INTERVIEW,MISC,,,de,2
-Beauty-Eingriff,Beauty-Eingriff,MISC,,,de,2
-Golden Globe,Golden Globe,MISC,,,de,2
-Down Under,Down Under,MISC,,,de,2
-Amazon-Chef,Amazon-Chef,MISC,,,de,2
-Batman-Darsteller,Batman-Darsteller,MISC,,,de,2
-Die letzten Jahre,Die letzten Jahre,MISC,,,de,2
-CDU-Aufsteiger des Jahres,CDU-Aufsteiger des Jahres,MISC,,,de,2
-Thanksgiving,Thanksgiving,MISC,,,de,2
-US-amerikanische,US-amerikanische,MISC,,,de,2
-Wei,Wei,MISC,,,de,2
-Nachwuchs-Turnerin,Nachwuchs-Turnerin,MISC,,,de,2
-katalanische,katalanische,MISC,,,de,2
-Hamas-Massaker,Hamas-Massaker,MISC,,,de,2
-Keine Zeit zu sterben,Keine Zeit zu sterben,MISC,,,de,2
-Google,Google,MISC,,,de,2
-Mem,Mem,MISC,,,de,2
-Game of Thrones,Game of Thrones,MISC,,,de,2
-Mama-Tochter-Duo,Mama-Tochter-Duo,MISC,,,de,2
-Mordes an dem Schwarzen George Floyd,Mordes an dem Schwarzen George Floyd,MISC,,,de,2
-GTA 6,GTA 6,MISC,,,de,2
-Skript,Skript,MISC,,,de,2
-Ex-US-Präsident,Ex-US-Präsident,MISC,,,de,2
-WELT-Wirtschaftsgipfels,WELT-Wirtschaftsgipfels,MISC,,,de,2
-Grand Theft Auto,Grand Theft Auto,MISC,,,de,2
-Vi,Vi,MISC,,,de,2
-Weltklimakonferenz,Weltklimakonferenz,MISC,,,de,2
-KI ChatGPT,KI ChatGPT,MISC,,,de,2
-Nahostkonflikt,Nahostkonflikt,MISC,,,de,2
-Rekordpreis,Rekordpreis,MISC,,,de,2
-Hotel-Erbin,Hotel-Erbin,MISC,,,de,2
+DFB-Team,DFB-Team,MISC,,,de,2
+Mini…,Mini…,MISC,,,de,2
+n…,n…,MISC,,,de,2
+Edelschmiede A24,Edelschmiede A24,MISC,,,de,2
+SPD-Fraktionsvize,SPD-Fraktionsvize,MISC,,,de,2
+Frieden rund um die Welt,Frieden rund um die Welt,MISC,,,de,2
+Herzogspaar,Herzogspaar,MISC,,,de,2
+IWF-Treffen,IWF-Treffen,MISC,,,de,2
+Wiener,Wiener,MISC,,,de,2
+XXL-Trauerfeier,XXL-Trauerfeier,MISC,,,de,2
+UNOC,UNOC,MISC,,,de,2
+The Smashing Machine“,The Smashing Machine“,MISC,,,de,2
+World Wide Web,World Wide Web,MISC,,,de,2
+Hoffnungsträgerinnen,Hoffnungsträgerinnen,MISC,,,de,2
+Wildpark-Betreiber African Parks,Wildpark-Betreiber African Parks,MISC,,,de,2
+CDU-Sozialflügel,CDU-Sozialflügel,MISC,,,de,2
+Morgen|stern,Morgen|stern,MISC,,,de,2
+Grünen-Fraktion,Grünen-Fraktion,MISC,,,de,2
+Die Grünen-Fraktion,Die Grünen-Fraktion,MISC,,,de,2
+Jahr,Jahr,MISC,,,de,2
+Politikerranking von Forsa,Politikerranking von Forsa,MISC,,,de,2
+Pro-Europäers Nicusor Dan,Pro-Europäers Nicusor Dan,MISC,,,de,2
+Tages,Tages,MISC,,,de,2
+Streaming-Abos,Streaming-Abos,MISC,,,de,2
+Them…,Them…,MISC,,,de,2
+AfD-Verbotsantrag,AfD-Verbotsantrag,MISC,,,de,2
+Gottes Werk,Gottes Werk,MISC,,,de,2
+Veronika Grimm,Veronika Grimm,MISC,,,de,2
+zwei-Drittel-Mehrheiten,zwei-Drittel-Mehrheiten,MISC,,,de,2
+CDU-Politiker,CDU-Politiker,MISC,,,de,2
+türkischen,türkischen,MISC,,,de,2
+Air Force One,Air Force One,MISC,,,de,2
+SPD-Umweltminister,SPD-Umweltminister,MISC,,,de,2
+Pressefreiheit,Pressefreiheit,MISC,,,de,2
+Parteitag der Linkspartei,Parteitag der Linkspartei,MISC,,,de,2
+Sonne und Wind allein lasse,Sonne und Wind allein lasse,MISC,,,de,2
+Privat-Audienz,Privat-Audienz,MISC,,,de,2
+P…,P…,MISC,,,de,2
+Münchner,Münchner,MISC,,,de,2
+Bau-Turbo,Bau-Turbo,MISC,,,de,2
+Parteitag für den 48-Jährigen,Parteitag für den 48-Jährigen,MISC,,,de,2
+jüdischen,jüdischen,MISC,,,de,2
+WELT-Investigativ-Team,WELT-Investigativ-Team,MISC,,,de,2
+rumänischer,rumänischer,MISC,,,de,2
+FDP-Mitglieder,FDP-Mitglieder,MISC,,,de,2
+"Verhandlungstisch
+","Verhandlungstisch
+",MISC,,,de,2
+Wer war der Mann,Wer war der Mann,MISC,,,de,2
+Klimaschutz-Maßnahmen,Klimaschutz-Maßnahmen,MISC,,,de,2
+Linke-Politiker Marcel Bauer,Linke-Politiker Marcel Bauer,MISC,,,de,2
+Au…,Au…,MISC,0.0,0.0,de,2
+Steigende Kassenbeiträge,Steigende Kassenbeiträge,MISC,,,de,2
+Nato-Partnern,Nato-Partnern,MISC,,,de,2
+Akuttherapie“,Akuttherapie“,MISC,,,de,2
+Stichtag,Stichtag,MISC,,,de,2
+mi…,mi…,MISC,,,de,2
+Olympia-Bewerbung,Olympia-Bewerbung,MISC,,,de,2
+Untersuchungsausschuss,Untersuchungsausschuss,MISC,,,de,2
+Wahl am Sonntag,Wahl am Sonntag,MISC,,,de,2
+Linken-Fraktion,Linken-Fraktion,MISC,,,de,2
+Konklave-Prämie,Konklave-Prämie,MISC,,,de,2
+Jumbo-Jet,Jumbo-Jet,MISC,,,de,2
+israelischer,israelischer,MISC,,,de,2
+Inside CDU“,Inside CDU“,MISC,,,de,2
+Vorstoß,Vorstoß,MISC,,,de,2
+"Taurus""-Marschflugkörper","Taurus""-Marschflugkörper",MISC,,,de,2
+DDR-Staatscli­que,DDR-Staatscli­que,MISC,,,de,2
+Regierungsarbeit,Regierungsarbeit,MISC,,,de,2
+Top-Manager,Top-Manager,MISC,0.0,0.0,de,2
+Was für ein Tag,Was für ein Tag,MISC,,,de,2
+Die Hängepartie,Die Hängepartie,MISC,,,de,2
+FDP-Politiker,FDP-Politiker,MISC,,,de,2
+Willy-Brandt-Ring,Willy-Brandt-Ring,MISC,,,de,2
+ntv Frühstart,ntv Frühstart,MISC,,,de,2
+Angriffskriegs in der Ukraine,Angriffskriegs in der Ukraine,MISC,,,de,2
+Harry und Meghan,Harry und Meghan,MISC,,,de,2
+Kabinett von Bald-Vizekanzler,Kabinett von Bald-Vizekanzler,MISC,,,de,2
+Koalitionsgesprächen,Koalitionsgesprächen,MISC,,,de,2
+Hobby-Boxerin,Hobby-Boxerin,MISC,,,de,2
+Quoten-Garant,Quoten-Garant,MISC,,,de,2
+Erneuerung statt Erfahrung,Erneuerung statt Erfahrung,MISC,,,de,2
+AfD-Bericht,AfD-Bericht,MISC,,,de,2
+AfD-Gutachten,AfD-Gutachten,MISC,,,de,2
+SMS,SMS,MISC,,,de,2
+englischen,englischen,MISC,,,de,2
+"GNTM""-Models","GNTM""-Models",MISC,,,de,2
+EU-schödigend,EU-schödigend,MISC,,,de,2
+Der Ordensmann,Der Ordensmann,MISC,,,de,2
+britischer,britischer,MISC,,,de,2
+Kriegen in Nahost,Kriegen in Nahost,MISC,,,de,2
+israelische,israelische,MISC,,,de,2
+Show-Karriere,Show-Karriere,MISC,,,de,2
+RTL-Show,RTL-Show,MISC,,,de,2
+Deutschen Filmpreises,Deutschen Filmpreises,MISC,,,de,2
+G…,G…,MISC,,,de,2
+Deutschen Filmpreis,Deutschen Filmpreis,MISC,,,de,2
+Maischberger“,Maischberger“,MISC,,,de,2
+deutsch-israelische,deutsch-israelische,MISC,,,de,2
+Deutsche,Deutsche,MISC,,,de,2
+Kriege,Kriege,MISC,,,de,2
+Die Sehnsucht,Die Sehnsucht,MISC,,,de,2
+Latein,Latein,MISC,,,de,2
+Dieses Kreuz,Dieses Kreuz,MISC,,,de,2
+katholische,katholische,MISC,,,de,2
+Don…,Don…,MISC,,,de,2
+Der neue Papst,Der neue Papst,MISC,,,de,2
+Sixtinischen Kapelle,Sixtinischen Kapelle,MISC,0.0,0.0,de,2
+Markus Lanz,Markus Lanz,MISC,-0.7,0.0,de,2
+Agrarminister,Agrarminister,MISC,,,de,2
+’s,’s,MISC,,,de,2
+kommenden Jahr,kommenden Jahr,MISC,,,de,2
+s…,s…,MISC,,,de,2
+Ostersonntags,Ostersonntags,MISC,,,de,2
+Spielberg-GP,Spielberg-GP,MISC,,,de,2
+Sumy,Sumy,MISC,0.0,0.25,de,2
+Sommer-Blockbusters F1,Sommer-Blockbusters F1,MISC,,,de,2
+Crossover-Produktion,Crossover-Produktion,MISC,,,de,2
+Putins Wort,Putins Wort,MISC,,,de,2
+Konklaves,Konklaves,MISC,,,de,2
+Rosenkrieg,Rosenkrieg,MISC,,,de,2
+Zwölf Jahre lang,Zwölf Jahre lang,MISC,,,de,2
+Mindestlohnanstieg,Mindestlohnanstieg,MISC,,,de,2
+Apple iPhone,Apple iPhone,MISC,,,de,2
+Bundestagswahl 1998,Bundestagswahl 1998,MISC,,,de,2
+serbische,serbische,MISC,,,de,2
+US-Angriffen,US-Angriffen,MISC,,,de,2
+Pentagon-Chef,Pentagon-Chef,MISC,,,de,2
+Zehn Jahre waren die beiden Frauen,Zehn Jahre waren die beiden Frauen,MISC,,,de,2
+kanadischen,kanadischen,MISC,,,de,2
+türkische,türkische,MISC,,,de,2
+Pontifex,Pontifex,MISC,0.0,0.0,de,2
+Le-Pen-Urteil,Le-Pen-Urteil,MISC,,,de,2
+Germany’s Next Topmodel“,Germany’s Next Topmodel“,MISC,,,de,2
+Top Gun,Top Gun,MISC,,,de,2
 Ukrainische,Ukrainische,MISC,,,de,2
-Potsdamer Treffens von Rechtsextremen,Potsdamer Treffens von Rechtsextremen,MISC,,,de,2
-Corona-Erkrankung,Corona-Erkrankung,MISC,,,de,2
-Merz,Merz,MISC,,,de,2
-Ein Geschenk Gottes,Ein Geschenk Gottes,MISC,,,de,2
-Ostern,Ostern,MISC,,,de,2
-Mutter-Tochter-Gespann Heidi,Mutter-Tochter-Gespann Heidi,MISC,,,de,2
-Sportgymnastik-Talent,Sportgymnastik-Talent,MISC,,,de,2
-CDU-Parteitag,CDU-Parteitag,MISC,,,de,2
-Katalonienkonflikt,Katalonienkonflikt,MISC,,,de,2
-sozialistischen,sozialistischen,MISC,,,de,2
-Potsdamer Treffen,Potsdamer Treffen,MISC,,,de,2
-Traum-Halbfinale,Traum-Halbfinale,MISC,,,de,2
-First Lady,First Lady,MISC,,,de,2
-russische Invasion,russische Invasion,MISC,,,de,2
-Kölner,Kölner,MISC,,,de,2
-Weihnachtszeit,Weihnachtszeit,MISC,,,de,2
-Martinsempfang,Martinsempfang,MISC,,,de,2
-Hollywood-Star Pedro Pascal,Hollywood-Star Pedro Pascal,MISC,,,de,2
-Maestr,Maestr,MISC,,,de,2
-First Two Pages of Frankenstein,First Two Pages of Frankenstein,MISC,,,de,2
-Wiener Opernball,Wiener Opernball,MISC,,,de,2
-Kleo,Kleo,MISC,,,de,2
+fad,fad,MISC,,,de,2
+Superhelden-Anzug,Superhelden-Anzug,MISC,,,de,2
+Weltraum-Tourismus,Weltraum-Tourismus,MISC,,,de,2
+SPD-Mitglieder,SPD-Mitglieder,MISC,,,de,2
+Russische,Russische,MISC,,,de,2
+Min…,Min…,MISC,,,de,2
+jüngster Zeit,jüngster Zeit,MISC,,,de,2
+Rechtsstaat,Rechtsstaat,MISC,,,de,2
+Ein netter Spaß,Ein netter Spaß,MISC,,,de,2
+80er-Jahre-B-Movie-Fans,80er-Jahre-B-Movie-Fans,MISC,,,de,2
+Die blutige Actionkomödie,Die blutige Actionkomödie,MISC,,,de,2
+Trump-Regierung,Trump-Regierung,MISC,,,de,2
 deutscher,deutscher,MISC,,,de,2
-Die Geburt,Die Geburt,MISC,,,de,2
-Oscar-Nominierung,Oscar-Nominierung,MISC,,,de,2
-Dankbar für mein kleines Mädchen,Dankbar für mein kleines Mädchen,MISC,,,de,2
-In Love,In Love,MISC,,,de,2
-First Ladys,First Ladys,MISC,,,de,2
-demokratischen,demokratischen,MISC,,,de,2
-Krieg in der Ukraine,Krieg in der Ukraine,MISC,,,de,2
-russischer,russischer,MISC,,,de,2
-Handschellen für Killer Mike,Handschellen für Killer Mike,MISC,,,de,2
-sudanesische,sudanesische,MISC,,,de,2
-Karlsruher Parteitags,Karlsruher Parteitags,MISC,,,de,2
-La vie en rose,La vie en rose,MISC,,,de,2
-Vogue,Vogue,MISC,,,de,2
-Kriegen,Kriegen,MISC,,,de,2
-Australian Open,Australian Open,MISC,0.0,0.0,de,2
-Was ich mir,Was ich mir,MISC,,,de,2
-Grammy Awards,Grammy Awards,MISC,,,de,2
-ARD-Morgenmagazin,ARD-Morgenmagazin,MISC,,,de,2
-Milliardär on Tour,Milliardär on Tour,MISC,,,de,1
-Mega-Yacht,Mega-Yacht,MISC,,,de,1
-Präsidentschafts-Kandidaten,Präsidentschafts-Kandidaten,MISC,,,de,1
-Der Riss,Der Riss,MISC,,,de,1
-Kapitol-Sturms,Kapitol-Sturms,MISC,,,de,1
-SPD-Scholz,SPD-Scholz,MISC,,,de,1
-Anatomie eines Falls,Anatomie eines Falls,MISC,,,de,1
-Oppenheimer über den Erfinder,Oppenheimer über den Erfinder,MISC,,,de,1
-Baby-News im Hause,Baby-News im Hause,MISC,,,de,1
-Gosling,Gosling,MISC,,,de,1
-Ex-US-Präsident Trump,Ex-US-Präsident Trump,MISC,,,de,1
-Nie wieder Musikindustrie,Nie wieder Musikindustrie,MISC,,,de,1
-Kongress am Sonntag,Kongress am Sonntag,MISC,,,de,1
-Neue Polit-Talkshow,Neue Polit-Talkshow,MISC,,,de,1
-Atombombenfilm,Atombombenfilm,MISC,,,de,1
-Vorgehen Israels,Vorgehen Israels,MISC,,,de,1
-Bree,Bree,MISC,,,de,1
-Einwanderungsreform,Einwanderungsreform,MISC,-0.7,0.0,de,1
-Verfassung der Republik,Verfassung der Republik,MISC,,,de,1
-Treffen von Rechtskonservativen,Treffen von Rechtskonservativen,MISC,,,de,1
-Hart,Hart,MISC,,,de,1
-Ausgerechnet Marine Le Pen,Ausgerechnet Marine Le Pen,MISC,,,de,1
-russisches,russisches,MISC,,,de,1
-Supre,Supre,MISC,,,de,1
-Russisches Militärflugzeug,Russisches Militärflugzeug,MISC,,,de,1
-Verfassung,Verfassung,MISC,,,de,1
-Kirk Douglas Award,Kirk Douglas Award,MISC,,,de,1
-schwedische,schwedische,MISC,,,de,1
-Vip Vip,Vip Vip,MISC,,,de,1
-Dafur,Dafur,MISC,,,de,1
-Barbie“-Oscar-Nominierungen,Barbie“-Oscar-Nominierungen,MISC,,,de,1
-Neue Talkshow,Neue Talkshow,MISC,,,de,1
-Kurzstrecke,Kurzstrecke,MISC,,,de,1
-kanadischen,kanadischen,MISC,,,de,1
-"Wolfgang, Du hast Großes","Wolfgang, Du hast Großes",MISC,,,de,1
-Epsteins Klienten-Liste,Epsteins Klienten-Liste,MISC,,,de,1
-EU-Wahlen im Juni,EU-Wahlen im Juni,MISC,,,de,1
-Potsdamer Treffens,Potsdamer Treffens,MISC,,,de,1
-Russische Drohnenangriffe auf Charkiw,Russische Drohnenangriffe auf Charkiw,MISC,,,de,1
-Terrorakt,Terrorakt,MISC,,,de,1
-Videos,Videos,MISC,,,de,1
-Pädophilen-Komplize,Pädophilen-Komplize,MISC,,,de,1
-Nackt im Pool,Nackt im Pool,MISC,,,de,1
-Pizza,Pizza,MISC,,,de,1
-Gala,Gala,MISC,,,de,1
-Midnights,Midnights,MISC,0.0,0.0,de,1
-Fearless,Fearless,MISC,,,de,1
-Musikpreis,Musikpreis,MISC,,,de,1
-iranischer,iranischer,MISC,,,de,1
-Nacht zu Sonntag,Nacht zu Sonntag,MISC,,,de,1
-Nordostukraine,Nordostukraine,MISC,,,de,1
-Nacht in der Ukraine,Nacht in der Ukraine,MISC,,,de,1
-Flüchtlingszahlen,Flüchtlingszahlen,MISC,,,de,1
-Katastrophenschutzes,Katastrophenschutzes,MISC,,,de,1
-Instag,Instag,MISC,,,de,1
-US-Staatsanwälte,US-Staatsanwälte,MISC,,,de,1
-Krypto-König Bankman-Fried,Krypto-König Bankman-Fried,MISC,,,de,1
-Hamburger Senat,Hamburger Senat,MISC,,,de,1
-Apple-CEO Steve Jobs,Apple-CEO Steve Jobs,MISC,,,de,1
-Wikipedia,Wikipedia,MISC,,,de,1
-Weiße Winterzeit,Weiße Winterzeit,MISC,,,de,1
-Der Untergang der,Der Untergang der,MISC,,,de,1
-Demokratie in Gefahr,Demokratie in Gefahr,MISC,,,de,1
-Zweiten Weltkrieg,Zweiten Weltkrieg,MISC,,,de,1
-Abschied von Stars und Prominenten,Abschied von Stars und Prominenten,MISC,,,de,1
-WM,WM,MISC,,,de,1
-soziale,soziale,MISC,,,de,1
-Olympiajahr 2024,Olympiajahr 2024,MISC,,,de,1
-Olympischen Spiele,Olympischen Spiele,MISC,,,de,1
-Abwarten,Abwarten,MISC,,,de,1
-Rechte EU-Fraktion,Rechte EU-Fraktion,MISC,,,de,1
-Neue ARD-Talkshow,Neue ARD-Talkshow,MISC,,,de,1
-Selbst Marine Le Pen,Selbst Marine Le Pen,MISC,,,de,1
-Spieg,Spieg,MISC,,,de,1
-ARD-Polittalk,ARD-Polittalk,MISC,,,de,1
-"Tagesthemen""-Moderatorin","Tagesthemen""-Moderatorin",MISC,,,de,1
-Geister & weiteren Grusel,Geister & weiteren Grusel,MISC,,,de,1
-The Bear,The Bear,MISC,,,de,1
-Tennis-United-Cup,Tennis-United-Cup,MISC,,,de,1
-"Game of Thrones""-Darstellerin","Game of Thrones""-Darstellerin",MISC,,,de,1
-Jayden,Jayden,MISC,,,de,1
-Jayden und hübsche Freundin,Jayden und hübsche Freundin,MISC,,,de,1
-I,I,MISC,,,de,1
-Averroès,Averroès,MISC,,,de,1
-"Berlinale 2024
-
- 
- 
- 
-
-
-
-
- 
- Les Films du Losange
-
- 
- ","Berlinale 2024
-
- 
- 
- 
-
-
-
-
- 
- Les Films du Losange
-
- 
- ",MISC,,,de,1
-Ex-US-Pr,Ex-US-Pr,MISC,,,de,1
-Averroès &amp,Averroès &amp,MISC,,,de,1
-Streaming,Streaming,MISC,,,de,1
-Mariae und Christi,Mariae und Christi,MISC,,,de,1
-United Cup,United Cup,MISC,,,de,1
-Chinesisch,Chinesisch,MISC,,,de,1
-AP 02.01.20,AP 02.01.20,MISC,,,de,1
-Tennis-Superstar Novak Djokovic,Tennis-Superstar Novak Djokovic,MISC,,,de,1
-Frankfurter,Frankfurter,MISC,,,de,1
-… Selbst Marine Le Pen,… Selbst Marine Le Pen,MISC,,,de,1
-sowjetischen,sowjetischen,MISC,,,de,1
-Horror,Horror,MISC,,,de,1
-Rund ein Jahr vor ihrem Tod,Rund ein Jahr vor ihrem Tod,MISC,,,de,1
-Parlamentarischer Untersuchungsausschuss,Parlamentarischer Untersuchungsausschuss,MISC,,,de,1
-Jung,Jung,MISC,,,de,1
-Australian-Open-Auftakt,Australian-Open-Auftakt,MISC,,,de,1
-Parlamentarische Untersuchungsausschuss,Parlamentarische Untersuchungsausschuss,MISC,,,de,1
-PUA,PUA,MISC,,,de,1
-Benzema,Benzema,MISC,,,de,1
-Pierce-Brosnan-Filme,Pierce-Brosnan-Filme,MISC,,,de,1
-Visual-Effects-Chefin,Visual-Effects-Chefin,MISC,,,de,1
-Pro­mi­nente,Pro­mi­nente,MISC,,,de,1
-Richter,Richter,MISC,,,de,1
-Der schwierigste Effekt,Der schwierigste Effekt,MISC,,,de,1
-Queen Joe Biden,Queen Joe Biden,MISC,,,de,1
-Rund ein Jahr,Rund ein Jahr,MISC,,,de,1
-Trennungsstreit,Trennungsstreit,MISC,,,de,1
-Tennis-Saison,Tennis-Saison,MISC,,,de,1
-Entwarnung - Zverev,Entwarnung - Zverev,MISC,,,de,1
-Pershing-II-Rakete,Pershing-II-Rakete,MISC,,,de,1
-Luftangriff Russlands,Luftangriff Russlands,MISC,,,de,1
-russischen Invasoren,russischen Invasoren,MISC,,,de,1
-MAN M,MAN M,MISC,,,de,1
-französischer,französischer,MISC,,,de,1
-Tech-Konzern,Tech-Konzern,MISC,,,de,1
-Quelle-Katalog,Quelle-Katalog,MISC,,,de,1
-Versteigerung in,Versteigerung in,MISC,,,de,1
-Lesen Sie jetzt „Demo,Lesen Sie jetzt „Demo,MISC,,,de,1
-Ausgelassene Partys,Ausgelassene Partys,MISC,,,de,1
-ADHS-Erkran,ADHS-Erkran,MISC,,,de,1
-Vom schlaffen Nerd zum Muskelmann,Vom schlaffen Nerd zum Muskelmann,MISC,,,de,1
-Mittw,Mittw,MISC,,,de,1
-Beverly Hills,Beverly Hills,MISC,0.0,0.0,de,1
-Star Wars“-Fehler,Star Wars“-Fehler,MISC,,,de,1
-iPhone,iPhone,MISC,,,de,1
-Frankreichs Premier,Frankreichs Premier,MISC,,,de,1
-Kommissionschefin Ursula von der Leyen,Kommissionschefin Ursula von der Leyen,MISC,,,de,1
-Millionenprozess,Millionenprozess,MISC,,,de,1
-viral,viral,MISC,,,de,1
-"Barbie""-Preis","Barbie""-Preis",MISC,,,de,1
-Das erinnert an Zeit,Das erinnert an Zeit,MISC,,,de,1
-bayerische,bayerische,MISC,,,de,1
-DIESES Klum-Kind,DIESES Klum-Kind,MISC,,,de,1
-FilmMagic Schmuse-Sänger Seal,FilmMagic Schmuse-Sänger Seal,MISC,,,de,1
-Kiss from a Rose,Kiss from a Rose,MISC,,,de,1
-Lou,Lou,MISC,,,de,1
-Eskalation im Baltikum +++,Eskalation im Baltikum +++,MISC,,,de,1
-Instant-Meme,Instant-Meme,MISC,,,de,1
-Critics Choice Awards,Critics Choice Awards,MISC,,,de,1
-Game on,Game on,MISC,,,de,1
-Mailänder Modewoche,Mailänder Modewoche,MISC,,,de,1
-Deutscher,Deutscher,MISC,,,de,1
-Übergangsgesetz,Übergangsgesetz,MISC,,,de,1
-Getty Images Granaten-Auftritt,Getty Images Granaten-Auftritt,MISC,,,de,1
-Wow,Wow,MISC,,,de,1
-Fashion Week,Fashion Week,MISC,,,de,1
-Popstar Lana Del Rey,Popstar Lana Del Rey,MISC,0.0,0.0,de,1
-US-amerikanischen,US-amerikanischen,MISC,,,de,1
-Grand-Slam-Rekordchampion,Grand-Slam-Rekordchampion,MISC,,,de,1
-Jahr 1992,Jahr 1992,MISC,,,de,1
-US-Popstar Lana Del Rey,US-Popstar Lana Del Rey,MISC,,,de,1
-Lang-Auftritt,Lang-Auftritt,MISC,,,de,1
-Bürger,Bürger,MISC,,,de,1
-Reportage |,Reportage |,MISC,,,de,1
-The Line,The Line,MISC,0.0,0.0,de,1
-Historien-Epos Oppenheimer,Historien-Epos Oppenheimer,MISC,,,de,1
-Krieg in Nahost,Krieg in Nahost,MISC,,,de,1
-Ei,Ei,MISC,,,de,1
-Sternschnuppe statt Komet,Sternschnuppe statt Komet,MISC,,,de,1
-Schweizer,Schweizer,MISC,,,de,1
-Grenze zum Gazastreifen,Grenze zum Gazastreifen,MISC,,,de,1
-Xbox,Xbox,MISC,,,de,1
-Blinken in Israel,Blinken in Israel,MISC,,,de,1
-Triumph über Alcaraz,Triumph über Alcaraz,MISC,,,de,1
-Der Liveticker,Der Liveticker,MISC,,,de,1
-Bürgerkrieg im Sudan,Bürgerkrieg im Sudan,MISC,,,de,1
-sudanesischen Bürgerkrieg,sudanesischen Bürgerkrieg,MISC,,,de,1
-Happy birthday,Happy birthday,MISC,,,de,1
-Oscar-Nominierungen,Oscar-Nominierungen,MISC,,,de,1
-Schauspiel-Kollegin,Schauspiel-Kollegin,MISC,,,de,1
-Im Jahr 2015,Im Jahr 2015,MISC,,,de,1
-amerikanischen Kongress,amerikanischen Kongress,MISC,,,de,1
-Krisen,Krisen,MISC,,,de,1
-App,App,MISC,,,de,1
-Kri… Hessens Ministerpräsident,Kri… Hessens Ministerpräsident,MISC,,,de,1
-Chalamet und Jenner,Chalamet und Jenner,MISC,,,de,1
-Chan Junis,Chan Junis,MISC,,,de,1
-Mo,Mo,MISC,,,de,1
-Berliner Senat,Berliner Senat,MISC,,,de,1
-Wie…,Wie…,MISC,,,de,1
-Kino-Besessene,Kino-Besessene,MISC,,,de,1
-Presse-Rummel,Presse-Rummel,MISC,,,de,1
-Die neue schwarz-rote Landesregierung,Die neue schwarz-rote Landesregierung,MISC,,,de,1
-ARD-Talk-Sendung,ARD-Talk-Sendung,MISC,,,de,1
-Im just Ken aus Barbie,Im just Ken aus Barbie,MISC,,,de,1
-<ul><li>„Oppenheimer“,<ul><li>„Oppenheimer“,MISC,,,de,1
-Repräsentantenhauses just,Repräsentantenhauses just,MISC,,,de,1
-Living,Living,MISC,,,de,1
-Who is Who,Who is Who,MISC,,,de,1
-Kalten Krieges,Kalten Krieges,MISC,,,de,1
-Ein Herz zu viel,Ein Herz zu viel,MISC,,,de,1
-DIE,DIE,MISC,,,de,1
-The Woman in Me,The Woman in Me,MISC,,,de,1
-The Woman,The Woman,MISC,,,de,1
-Wende,Wende,MISC,,,de,1
-Raffzahn-Selbstbedienung,Raffzahn-Selbstbedienung,MISC,,,de,1
-Star Wars“-Trilogie,Star Wars“-Trilogie,MISC,,,de,1
-Thrones“-Showrunner,Thrones“-Showrunner,MISC,,,de,1
-"Game of Thrones""-Showrunner","Game of Thrones""-Showrunner",MISC,,,de,1
-Game of Thrones”-Macher,Game of Thrones”-Macher,MISC,,,de,1
-Pink,Pink,MISC,,,de,1
-Klimaaktivistin,Klimaaktivistin,MISC,,,de,1
-Hellblade 2.,Hellblade 2.,MISC,,,de,1
-Weltranglisten-Erste,Weltranglisten-Erste,MISC,,,de,1
-Online-Giganten,Online-Giganten,MISC,,,de,1
-9PUNKT,9PUNKT,MISC,,,de,1
-nordrhein-westfälische,nordrhein-westfälische,MISC,,,de,1
-Grand-Slam-Titel,Grand-Slam-Titel,MISC,,,de,1
-Kopfüber im Baum,Kopfüber im Baum,MISC,,,de,1
-Extreme,Extreme,MISC,,,de,1
-Melbourne,Melbourne,MISC,0.05555555555555555,0.0,de,1
-Legende der Luftfahrt,Legende der Luftfahrt,MISC,,,de,1
-Blitz-Aufstieg,Blitz-Aufstieg,MISC,,,de,1
-Bidens Sohn,Bidens Sohn,MISC,,,de,1
-Schreiduelle und Chaos,Schreiduelle und Chaos,MISC,,,de,1
-Preis-Nominierungen,Preis-Nominierungen,MISC,,,de,1
-Tag,Tag,MISC,,,de,1
-Sammlerstück für Fans,Sammlerstück für Fans,MISC,,,de,1
-Du musst Dein Leben ändern!,Du musst Dein Leben ändern!,MISC,,,de,1
-Ive,Ive,MISC,,,de,1
-Vize-Verwaltungschef,Vize-Verwaltungschef,MISC,,,de,1
-Sorge um Verfassung,Sorge um Verfassung,MISC,,,de,1
-Trump-Präsidentschaft,Trump-Präsidentschaft,MISC,,,de,1
-Der Mann hinter der Legende,Der Mann hinter der Legende,MISC,,,de,1
-Vizes,Vizes,MISC,,,de,1
-Vize-Verwaltungschef von Berkshire Hathaway,Vize-Verwaltungschef von Berkshire Hathaway,MISC,,,de,1
-Buffett-Vertrauter,Buffett-Vertrauter,MISC,,,de,1
-Der Weggefährte,Der Weggefährte,MISC,,,de,1
-Teenager-Zwillinge,Teenager-Zwillinge,MISC,,,de,1
-Russischer,Russischer,MISC,,,de,1
-italienischen,italienischen,MISC,,,de,1
-Emma,Emma,MISC,,,de,1
-Ampel-Koalition,Ampel-Koalition,MISC,,,de,1
-Grünen-Parteitag,Grünen-Parteitag,MISC,,,de,1
-OpenAI-CEO,OpenAI-CEO,MISC,,,de,1
-Klima-Hoffnung,Klima-Hoffnung,MISC,,,de,1
-Ein Jahr ChatGPT,Ein Jahr ChatGPT,MISC,,,de,1
-Krieg gegen die,Krieg gegen die,MISC,,,de,1
-europäische,europäische,MISC,,,de,1
-Intelligence,Intelligence,MISC,,,de,1
-Staffel 2,Staffel 2,MISC,,,de,1
-Krypto-Star Sam Bankman-Fried,Krypto-Star Sam Bankman-Fried,MISC,,,de,1
-Mein Leben,Mein Leben,MISC,,,de,1
-O Tannenbaum,O Tannenbaum,MISC,,,de,1
-Lingerie-Spezialisten,Lingerie-Spezialisten,MISC,,,de,1
-Klums,Klums,MISC,,,de,1
-Lesen Sie mal,Lesen Sie mal,MISC,,,de,1
-The Last of Us Staffel 2,The Last of Us Staffel 2,MISC,,,de,1
-The Last of Us,The Last of Us,MISC,,,de,1
-Jedes Jahr Anfang Mai pilgern Tausende,Jedes Jahr Anfang Mai pilgern Tausende,MISC,,,de,1
-Hollywood-Streik,Hollywood-Streik,MISC,,,de,1
-Eklat bei Awards,Eklat bei Awards,MISC,,,de,1
-Preisverleihungsrede,Preisverleihungsrede,MISC,,,de,1
-Ap,Ap,MISC,,,de,1
-Weihnachtsstimmung,Weihnachtsstimmung,MISC,,,de,1
-Tages,Tages,MISC,,,de,1
-99 Jahre,99 Jahre,MISC,,,de,1
-engl.,engl.,MISC,,,de,1
-AI,AI,MISC,,,de,1
-Etatkrise der Ampel-Koalition,Etatkrise der Ampel-Koalition,MISC,,,de,1
-"Harry und Sally""-Star","Harry und Sally""-Star",MISC,,,de,1
-Value-Investing-Ansatz,Value-Investing-Ansatz,MISC,,,de,1
-Prime Video,Prime Video,MISC,,,de,1
-OpenAI-Verwaltungsrat,OpenAI-Verwaltungsrat,MISC,,,de,1
-Champions Kansas City,Champions Kansas City,MISC,,,de,1
-Champions Kansas Cit,Champions Kansas Cit,MISC,,,de,1
-Kennedy-Preise an Stars,Kennedy-Preise an Stars,MISC,,,de,1
-Warum Paris,Warum Paris,MISC,,,de,1
-Macs,Macs,MISC,,,de,1
-Börsensprüche,Börsensprüche,MISC,,,de,1
-Dez…,Dez…,MISC,,,de,1
-US-D,US-D,MISC,,,de,1
-Killers of…,Killers of…,MISC,,,de,1
-Bürgergeldsatzes,Bürgergeldsatzes,MISC,,,de,1
-Künstlicher Intelligenz,Künstlicher Intelligenz,MISC,,,de,1
-Z,Z,MISC,0.0,0.0,de,1
-Massakern der Hamas,Massakern der Hamas,MISC,,,de,1
-Value-In,Value-In,MISC,,,de,1
-DWDL.de streamt,DWDL.de streamt,MISC,,,de,1
-Entlassungs-Krimi,Entlassungs-Krimi,MISC,,,de,1
-TV+,TV+,MISC,,,de,1
-weiterlesen a…,weiterlesen a…,MISC,,,de,1
-Waffenruhe,Waffenruhe,MISC,,,de,1
-Tag</li><li,Tag</li><li,MISC,,,de,1
-Ost-Jerusalem</li><li,Ost-Jerusalem</li><li,MISC,,,de,1
-deutsch-niederländische,deutsch-niederländische,MISC,,,de,1
-EU-Militärpolitik,EU-Militärpolitik,MISC,,,de,1
-strategische Zi… Die WELT,strategische Zi… Die WELT,MISC,,,de,1
-Part One,Part One,MISC,,,de,1
-Drei große Kostenblöcke,Drei große Kostenblöcke,MISC,,,de,1
-YouTube,YouTube,MISC,,,de,1
-österreichischen,österreichischen,MISC,,,de,1
-Guten Morgen,Guten Morgen,MISC,,,de,1
-Vier Jahre nach der Vorstellung seines,Vier Jahre nach der Vorstellung seines,MISC,,,de,1
-SWIFTologie,SWIFTologie,MISC,,,de,1
-Millionen,Millionen,MISC,,,de,1
-Binance,Binance,MISC,,,de,1
-Wetten auf den Weltuntergang,Wetten auf den Weltuntergang,MISC,,,de,1
-AfD-Spitzenvertreter,AfD-Spitzenvertreter,MISC,,,de,1
-TV,TV,MISC,,,de,1
-Der wilde Vollbart,Der wilde Vollbart,MISC,,,de,1
-Hamas-Führung,Hamas-Führung,MISC,,,de,1
-türkischen,türkischen,MISC,,,de,1
-The Queen Is Dead,The Queen Is Dead,MISC,,,de,1
-Sisi-Story,Sisi-Story,MISC,,,de,1
-Landtagswahl 2026.,Landtagswahl 2026.,MISC,,,de,1
-Europawahl,Europawahl,MISC,,,de,1
-Europawahl 2024,Europawahl 2024,MISC,,,de,1
-"Mehr Schlagzeilen
-","Mehr Schlagzeilen
+Weltraum-Spiel,Weltraum-Spiel,MISC,,,de,2
+VW Golf,VW Golf,MISC,,,de,2
+Wiedereinstieg,Wiedereinstieg,MISC,,,de,2
+WIndsor,WIndsor,MISC,,,de,2
+kommunistischen,kommunistischen,MISC,,,de,2
+Sohn X,Sohn X,MISC,,,de,2
+K…,K…,MISC,,,de,2
+Frieden zwischen Russland,Frieden zwischen Russland,MISC,,,de,2
+chinesische,chinesische,MISC,,,de,2
+Attentat auf Robert F. Kennedy,Attentat auf Robert F. Kennedy,MISC,,,de,2
+Germany's Next Topmodel“,Germany's Next Topmodel“,MISC,,,de,2
+Handelsbehörde FTC,Handelsbehörde FTC,MISC,,,de,2
+Making-of-Video,Making-of-Video,MISC,,,de,2
+Zirkus-Marionetten,Zirkus-Marionetten,MISC,,,de,2
+BILD weiß,BILD weiß,MISC,,,de,2
+Windows 11,Windows 11,MISC,,,de,2
+GNTM-Models,GNTM-Models,MISC,,,de,2
+Israel-Iran-Krieg,Israel-Iran-Krieg,MISC,,,de,2
+APO-Tretboot,APO-Tretboot,MISC,,,de,2
+Ampel-Dampfer,Ampel-Dampfer,MISC,,,de,2
+iPhones,iPhones,MISC,,,de,2
+Windows 10,Windows 10,MISC,,,de,2
+R…,R…,MISC,,,de,2
+iPads,iPads,MISC,,,de,2
+Regierungsbildung,Regierungsbildung,MISC,,,de,2
+Trump-Smartphone,Trump-Smartphone,MISC,,,de,2
+American Party“,American Party“,MISC,,,de,2
+v…,v…,MISC,0.0,1.0,de,2
+Alles Gute,Alles Gute,MISC,,,de,2
+Vatikan-Angestellten,Vatikan-Angestellten,MISC,,,de,1
+Plä…,Plä…,MISC,,,de,1
+US-Haushaltsgesetz,US-Haushaltsgesetz,MISC,-0.7,0.0,de,1
+irrsinnig“,irrsinnig“,MISC,,,de,1
+Konklave-Bonus“,Konklave-Bonus“,MISC,,,de,1
+"Buch
+","Buch
 ",MISC,,,de,1
-Versöhnun,Versöhnun,MISC,,,de,1
-Wirtschaftsminister,Wirtschaftsminister,MISC,,,de,1
-KI,KI,MISC,,,de,1
-Chat-GPT,Chat-GPT,MISC,,,de,1
-Produkterscheinungen,Produkterscheinungen,MISC,,,de,1
-Altman-Rauswurf,Altman-Rauswurf,MISC,,,de,1
-Deutsches Turn-Talent,Deutsches Turn-Talent,MISC,,,de,1
-DIE Lovestory des Jahres,DIE Lovestory des Jahres,MISC,,,de,1
-The Crown“-Spoiler,The Crown“-Spoiler,MISC,,,de,1
-katalanischen,katalanischen,MISC,,,de,1
-Gymnastin Mia Sophie Lietke,Gymnastin Mia Sophie Lietke,MISC,,,de,1
-Shutdown-Gefahr,Shutdown-Gefahr,MISC,,,de,1
-Der Herr der Ring,Der Herr der Ring,MISC,,,de,1
-Der König von England,Der König von England,MISC,,,de,1
-Lateinamerika-Tournee,Lateinamerika-Tournee,MISC,,,de,1
-Die Romanze,Die Romanze,MISC,,,de,1
-Brief an deutsche Minister - Verfassungsschutz,Brief an deutsche Minister - Verfassungsschutz,MISC,,,de,1
-Internet-Komikern,Internet-Komikern,MISC,,,de,1
-Jüdische,Jüdische,MISC,,,de,1
-US-Wahl,US-Wahl,MISC,,,de,1
-Roter Teppich,Roter Teppich,MISC,,,de,1
-Karlsruhe,Karlsruhe,MISC,,,de,1
-The National Alben,The National Alben,MISC,,,de,1
-Absolute Marvel-Sensation,Absolute Marvel-Sensation,MISC,,,de,1
-Last of Us“-Star,Last of Us“-Star,MISC,,,de,1
-Repräs,Repräs,MISC,,,de,1
-Superheld,Superheld,MISC,,,de,1
-Marvel Cinematic Universe,Marvel Cinematic Universe,MISC,,,de,1
-Turn-Talent,Turn-Talent,MISC,,,de,1
-deutsches Turn-Talent,deutsches Turn-Talent,MISC,,,de,1
-AfD-Parteiverbot,AfD-Parteiverbot,MISC,,,de,1
-Überall in Europa,Überall in Europa,MISC,,,de,1
-James-Bond-Gerücht,James-Bond-Gerücht,MISC,,,de,1
-Krieg Russlands gegen die,Krieg Russlands gegen die,MISC,,,de,1
-SIE sind Spielerfrauen,SIE sind Spielerfrauen,MISC,,,de,1
-Fußball-WAGs,Fußball-WAGs,MISC,,,de,1
-Football-Platz,Football-Platz,MISC,,,de,1
-SIND,SIND,MISC,,,de,1
-Never Back Down,Never Back Down,MISC,,,de,1
-Angriff,Angriff,MISC,,,de,1
-Hollywood,Hollywood,MISC,0.0,0.0,de,1
-Kriegsbeginn,Kriegsbeginn,MISC,,,de,1
-Route & Zeitplan,Route & Zeitplan,MISC,,,de,1
-Streik der Autoren- und Schauspielergewerkschaft,Streik der Autoren- und Schauspielergewerkschaft,MISC,,,de,1
-Bombardierung von Gaza,Bombardierung von Gaza,MISC,,,de,1
-Holocaust,Holocaust,MISC,,,de,1
-Friedensdemonstration am Brandenburger Tor,Friedensdemonstration am Brandenburger Tor,MISC,,,de,1
-Eskalation des… Die ehemalige,Eskalation des… Die ehemalige,MISC,,,de,1
-Bekenntnisse eines Therapierten,Bekenntnisse eines Therapierten,MISC,,,de,1
-Bosch,Bosch,MISC,,,de,1
-Urteil zu Klimafonds,Urteil zu Klimafonds,MISC,,,de,1
-Der Wind des Wan…,Der Wind des Wan…,MISC,,,de,1
-Wahl in den Niederlanden,Wahl in den Niederlanden,MISC,,,de,1
-Wilders-Sieg,Wilders-Sieg,MISC,,,de,1
-Wilders sucht Koalition,Wilders sucht Koalition,MISC,,,de,1
-Wilders’ PVV,Wilders’ PVV,MISC,,,de,1
-Neue Soziale Vertrag,Neue Soziale Vertrag,MISC,,,de,1
-Brandenburger Reg,Brandenburger Reg,MISC,,,de,1
-Wilders Wahlsieg,Wilders Wahlsieg,MISC,,,de,1
-Nachrichtenwebsite The Messenger,Nachrichtenwebsite The Messenger,MISC,,,de,1
-TV-Serie,TV-Serie,MISC,,,de,1
-Baby Girl,Baby Girl,MISC,,,de,1
-Baby Nummer zwei ist da!,Baby Nummer zwei ist da!,MISC,,,de,1
-amfAR,amfAR,MISC,,,de,1
-Die süßen Baby-News,Die süßen Baby-News,MISC,,,de,1
-Jahr 1993,Jahr 1993,MISC,,,de,1
-Tanz in Unterwäsche,Tanz in Unterwäsche,MISC,,,de,1
-Die Bergretter,Die Bergretter,MISC,,,de,1
-Scheidungs-Königin,Scheidungs-Königin,MISC,,,de,1
-Politik - Merz,Politik - Merz,MISC,,,de,1
-KI-Gerät,KI-Gerät,MISC,,,de,1
-Mein Kampf,Mein Kampf,MISC,,,de,1
-Fußball-Weltmeister,Fußball-Weltmeister,MISC,,,de,1
-Prominenz,Prominenz,MISC,,,de,1
-F1.,F1.,MISC,,,de,1
-McLaren F1,McLaren F1,MISC,,,de,1
-Soziale,Soziale,MISC,,,de,1
-Die romantische Komödie,Die romantische Komödie,MISC,,,de,1
-Harry und Sally»-Drehort,Harry und Sally»-Drehort,MISC,,,de,1
-Heiratsantrag,Heiratsantrag,MISC,,,de,1
-O Bu,O Bu,MISC,,,de,1
-Fußball-Podcasts,Fußball-Podcasts,MISC,,,de,1
-BBC-Serie,BBC-Serie,MISC,,,de,1
-BBS-Dokuserie,BBS-Dokuserie,MISC,,,de,1
-Überraschungsbesuch - Prinzessin Kate,Überraschungsbesuch - Prinzessin Kate,MISC,,,de,1
-BBC-Dokuserie,BBC-Dokuserie,MISC,,,de,1
-News z… Die Fronten,News z… Die Fronten,MISC,,,de,1
-Batman-Rückkehr,Batman-Rückkehr,MISC,,,de,1
-"Notting Hill""-Verlobung","Notting Hill""-Verlobung",MISC,,,de,1
-Ein alter Chinese,Ein alter Chinese,MISC,,,de,1
-Hollywood-Größen,Hollywood-Größen,MISC,,,de,1
-Fünf Jahre später erhi,Fünf Jahre später erhi,MISC,,,de,1
-Tight End,Tight End,MISC,,,de,1
-bayerischer,bayerischer,MISC,,,de,1
-Afrika-Korrespondent,Afrika-Korrespondent,MISC,,,de,1
-Leviten,Leviten,MISC,,,de,1
-Promi-Gästen,Promi-Gästen,MISC,,,de,1
-NFL-Spiel,NFL-Spiel,MISC,,,de,1
-Kelce-Spiel,Kelce-Spiel,MISC,,,de,1
-Apollo-Gedicht,Apollo-Gedicht,MISC,,,de,1
-Zu-)Gewinner,Zu-)Gewinner,MISC,,,de,1
-X freien Lauf,X freien Lauf,MISC,,,de,1
-deutschsprachigen,deutschsprachigen,MISC,,,de,1
-Umjubelter,Umjubelter,MISC,,,de,1
-CDU-Vorstoß,CDU-Vorstoß,MISC,,,de,1
-Hollywoodstar Brad Pitt,Hollywoodstar Brad Pitt,MISC,,,de,1
-Der liebe Gott,Der liebe Gott,MISC,,,de,1
-katholische,katholische,MISC,,,de,1
-Kurzzeitentlassung,Kurzzeitentlassung,MISC,,,de,1
-SAMUEL,SAMUEL,MISC,,,de,1
-Girl Squad,Girl Squad,MISC,,,de,1
-Disney+,Disney+,MISC,,,de,1
-Lektüre |,Lektüre |,MISC,,,de,1
-Anti-Nord Stream2 -Diktat,Anti-Nord Stream2 -Diktat,MISC,,,de,1
-Album-Release,Album-Release,MISC,,,de,1
-Kanye West,Kanye West,MISC,0.25,0.0,de,1
-Judenhass,Judenhass,MISC,,,de,1
-Social-Media-Kanälen,Social-Media-Kanälen,MISC,,,de,1
-Hitler-Fan,Hitler-Fan,MISC,,,de,1
-300-Millionen-Dollar-Film,300-Millionen-Dollar-Film,MISC,,,de,1
-Von Liebe und Besinnlichkeit,Von Liebe und Besinnlichkeit,MISC,,,de,1
-Erk,Erk,MISC,,,de,1
-Tennis-Superstar,Tennis-Superstar,MISC,,,de,1
-Weltranglisten-Erste Novak Djokovic,Weltranglisten-Erste Novak Djokovic,MISC,,,de,1
-US-Football-Star,US-Football-Star,MISC,,,de,1
-Globetrotter,Globetrotter,MISC,,,de,1
-Abenteuern à la Indiana Jones,Abenteuern à la Indiana Jones,MISC,,,de,1
-Serbe,Serbe,MISC,0.175,0.0,de,1
-Europas Sportler des Jahres,Europas Sportler des Jahres,MISC,,,de,1
-Acht Jahre nach,Acht Jahre nach,MISC,,,de,1
-TIKTOK,TIKTOK,MISC,,,de,1
-Mitfahr-Raumschiffe,Mitfahr-Raumschiffe,MISC,,,de,1
+Wohnst du,Wohnst du,MISC,,,de,1
+indischen,indischen,MISC,,,de,1
+Mein Haus,Mein Haus,MISC,,,de,1
+Pol…,Pol…,MISC,,,de,1
+Babys p,Babys p,MISC,,,de,1
+Wir brauchen jetzt keine weiteren Provokationen,Wir brauchen jetzt keine weiteren Provokationen,MISC,,,de,1
+Lob a…,Lob a…,MISC,,,de,1
+EU-Poli…,EU-Poli…,MISC,,,de,1
+sozialer,sozialer,MISC,,,de,1
+ne…,ne…,MISC,,,de,1
+America Party,America Party,MISC,,,de,1
+Bundesdelegiertentag der Frauen Union,Bundesdelegiertentag der Frauen Union,MISC,,,de,1
+Vorwahlsieg Mamdanis,Vorwahlsieg Mamdanis,MISC,,,de,1
+Zeit“,Zeit“,MISC,,,de,1
+Partei-Pläne,Partei-Pläne,MISC,,,de,1
+F…,F…,MISC,,,de,1
+AfD-Verbot,AfD-Verbot,MISC,,,de,1
+very British,very British,MISC,,,de,1
 Anschluss,Anschluss,MISC,,,de,1
-One Pint Wil,One Pint Wil,MISC,,,de,1
-TV-Ansprache,TV-Ansprache,MISC,,,de,1
-argentinischen,argentinischen,MISC,,,de,1
-Des Quatsche,Des Quatsche,MISC,,,de,1
-Harry und Meghan,Harry und Meghan,MISC,,,de,1
-Startup Privateer,Startup Privateer,MISC,,,de,1
-Jüdischer Historiker Wolffsohn,Jüdischer Historiker Wolffsohn,MISC,,,de,1
-Landesleuten Mut,Landesleuten Mut,MISC,,,de,1
-Comedian cancelt,Comedian cancelt,MISC,,,de,1
-Star,Star,MISC,,,de,1
-Weihnachtsbescherung,Weihnachtsbescherung,MISC,,,de,1
-Tränen-Abschied,Tränen-Abschied,MISC,,,de,1
-Hunderte Millionen Euro,Hunderte Millionen Euro,MISC,,,de,1
-Knallhart-Entscheidungen,Knallhart-Entscheidungen,MISC,,,de,1
-Weihnachtspredigt an Heiligabend,Weihnachtspredigt an Heiligabend,MISC,,,de,1
-Putin-Patriarch,Putin-Patriarch,MISC,,,de,1
-Neuen Osnabrücker Zeitung,Neuen Osnabrücker Zeitung,MISC,,,de,1
-Uncredited,Uncredited,MISC,,,de,1
-SERIE - Man,SERIE - Man,MISC,,,de,1
-Genie-Spielzug,Genie-Spielzug,MISC,,,de,1
-Sam,Sam,MISC,,,de,1
-südamerikanischen,südamerikanischen,MISC,,,de,1
-Auszeichnungen,Auszeichnungen,MISC,,,de,1
-Frankreich,Frankreich,MISC,0.0,0.0,de,1
-GRAFT Architekten“-Büro,GRAFT Architekten“-Büro,MISC,,,de,1
-GRAFT Architek,GRAFT Architek,MISC,,,de,1
-Krieges,Krieges,MISC,,,de,1
-Tesla-Chef,Tesla-Chef,MISC,,,de,1
-ukrainischer,ukrainischer,MISC,,,de,1
-Better Place,Better Place,MISC,,,de,1
-Apple TV,Apple TV,MISC,,,de,1
-Rotten Tomatoes,Rotten Tomatoes,MISC,,,de,1
-Porträt über den ehemaligen Gesundheitsminister,Porträt über den ehemaligen Gesundheitsminister,MISC,,,de,1
-EU-Blockade,EU-Blockade,MISC,,,de,1
-Milei,Milei,MISC,0.0,0.0,de,1
-Niederlage,Niederlage,MISC,,,de,1
-X-Chef,X-Chef,MISC,,,de,1
-weihnachtliche,weihnachtliche,MISC,,,de,1
-Oscar-Preisträgerin,Oscar-Preisträgerin,MISC,,,de,1
-län,län,MISC,,,de,1
-Time“-Magazin,Time“-Magazin,MISC,,,de,1
-Time“-Titel,Time“-Titel,MISC,,,de,1
-Liebe!,Liebe!,MISC,,,de,1
-Musik-Superstar,Musik-Superstar,MISC,,,de,1
-Awesome Foursome,Awesome Foursome,MISC,,,de,1
-Terrorunterstützer,Terrorunterstützer,MISC,,,de,1
-Wall Street Journal,Wall Street Journal,MISC,0.0,0.0,de,1
-FDP-Verteidigungspolitikerin,FDP-Verteidigungspolitikerin,MISC,,,de,1
-Hollywoodstar Bradley Cooper,Hollywoodstar Bradley Cooper,MISC,,,de,1
-The Weeknd,The Weeknd,MISC,,,de,1
-Amazon Prime Video,Amazon Prime Video,MISC,,,de,1
-Der Sohn,Der Sohn,MISC,,,de,1
-Trophäen-Buzz Golden Globes,Trophäen-Buzz Golden Globes,MISC,,,de,1
-Trophäensaison,Trophäensaison,MISC,,,de,1
-Weihnachtspost,Weihnachtspost,MISC,,,de,1
-Vorschau,Vorschau,MISC,,,de,1
-Corona-Welle,Corona-Welle,MISC,,,de,1
-Unionsfraktionsvize,Unionsfraktionsvize,MISC,,,de,1
-Woke Grok,Woke Grok,MISC,,,de,1
-Süddeutschen Zeitung,Süddeutschen Zeitung,MISC,,,de,1
-Telefon-Hacking,Telefon-Hacking,MISC,,,de,1
-Präsidentschaftswahl +++,Präsidentschaftswahl +++,MISC,,,de,1
-Präsidentschaftswahl im kommenden Jahr,Präsidentschaftswahl im kommenden Jahr,MISC,,,de,1
-Aufregung um Doktorarbeiten,Aufregung um Doktorarbeiten,MISC,,,de,1
-Süddeutsche Zeitung,Süddeutsche Zeitung,MISC,,,de,1
-Epic,Epic,MISC,,,de,1
-"BILD
-","BILD
+Putin-Telefonat,Putin-Telefonat,MISC,,,de,1
+sozialdemokratischer,sozialdemokratischer,MISC,,,de,1
+indischer,indischer,MISC,,,de,1
+Frauen-Union,Frauen-Union,MISC,,,de,1
+Harvard rei,Harvard rei,MISC,,,de,1
+Startup Awards,Startup Awards,MISC,,,de,1
+German Startup Awards,German Startup Awards,MISC,,,de,1
+BILD17.05.2025,BILD17.05.2025,MISC,,,de,1
+forschu…,forschu…,MISC,,,de,1
+Kostensteigerungen,Kostensteigerungen,MISC,,,de,1
+Der rechtsradikale,Der rechtsradikale,MISC,,,de,1
+The Director erschi…,The Director erschi…,MISC,,,de,1
+WSJ,WSJ,MISC,,,de,1
+Laut Wall Street Journal,Laut Wall Street Journal,MISC,,,de,1
+Castel Gandolfo,Castel Gandolfo,MISC,,,de,1
+Nachwuchs im Hause des Ex-Briten Premier,Nachwuchs im Hause des Ex-Briten Premier,MISC,,,de,1
+Bild am Sonntag,Bild am Sonntag,MISC,,,de,1
+Israel-Politik,Israel-Politik,MISC,,,de,1
+All…,All…,MISC,,,de,1
+Gesellschaft“,Gesellschaft“,MISC,,,de,1
+DSL-Kupfernetzes,DSL-Kupfernetzes,MISC,,,de,1
+… Foto,… Foto,MISC,,,de,1
+DSL-Abschaltung ge…,DSL-Abschaltung ge…,MISC,,,de,1
+Ex-)Rapper per se,Ex-)Rapper per se,MISC,,,de,1
+Oma,Oma,MISC,,,de,1
+Digitalministerium,Digitalministerium,MISC,,,de,1
+Bä…,Bä…,MISC,,,de,1
+R… Ex-Grünen-Chefin,R… Ex-Grünen-Chefin,MISC,,,de,1
+Interviews ihr…,Interviews ihr…,MISC,,,de,1
+Debatten,Debatten,MISC,,,de,1
+Northvolt,Northvolt,MISC,,,de,1
+Netzgemeinde,Netzgemeinde,MISC,,,de,1
+"Pixabay Licence
+","Pixabay Licence
 ",MISC,,,de,1
-AfD-Bundess,AfD-Bundess,MISC,,,de,1
-LNP,LNP,MISC,,,de,1
-Epic AI Act e-Rezept,Epic AI Act e-Rezept,MISC,,,de,1
-Bürgergeld-Empfängern,Bürgergeld-Empfängern,MISC,,,de,1
-CDU-Fraktionsvize,CDU-Fraktionsvize,MISC,,,de,1
-Cry Me a River,Cry Me a River,MISC,,,de,1
-Z…,Z…,MISC,,,de,1
-CDU-Politiker über Migration,CDU-Politiker über Migration,MISC,,,de,1
-Plagiatsverdacht,Plagiatsverdacht,MISC,,,de,1
-Böser Bube,Böser Bube,MISC,,,de,1
-Corona-Lage,Corona-Lage,MISC,,,de,1
-Swift,Swift,MISC,,,de,1
-polnischer,polnischer,MISC,,,de,1
-Das kann Ihr Abo,Das kann Ihr Abo,MISC,,,de,1
-Reddit,Reddit,MISC,,,de,1
-Redit,Redit,MISC,,,de,1
-World ID,World ID,MISC,,,de,1
-Digital-Ausweis World ID,Digital-Ausweis World ID,MISC,,,de,1
-US-Republikaner,US-Republikaner,MISC,,,de,1
-Abnehm-Medikament,Abnehm-Medikament,MISC,,,de,1
-Britischer,Britischer,MISC,,,de,1
-Islamischen,Islamischen,MISC,,,de,1
-Queen Elizabeth II,Queen Elizabeth II,MISC,,,de,1
-Liebe in der Luft - Neues,Liebe in der Luft - Neues,MISC,,,de,1
-Liebe in einem Schnappschuss,Liebe in einem Schnappschuss,MISC,,,de,1
-Liebe in der Luft!,Liebe in der Luft!,MISC,,,de,1
-Im Jahr 2000,Im Jahr 2000,MISC,,,de,1
-britisches,britisches,MISC,,,de,1
-Lesen Sie jetzt „Empfänge und Veranstaltungen,Lesen Sie jetzt „Empfänge und Veranstaltungen,MISC,,,de,1
+Tag zwei der Digitalkonferenz,Tag zwei der Digitalkonferenz,MISC,,,de,1
+Un…,Un…,MISC,,,de,1
+Diplomatie“,Diplomatie“,MISC,,,de,1
+Musks Parteigründungspläne,Musks Parteigründungspläne,MISC,,,de,1
+Regierungss…,Regierungss…,MISC,,,de,1
+russisches,russisches,MISC,,,de,1
+Bewohner Albertas,Bewohner Albertas,MISC,,,de,1
+Wir brauchen …,Wir brauchen …,MISC,,,de,1
+Lachgas,Lachgas,MISC,,,de,1
+Bundesdigitalministerium,Bundesdigitalministerium,MISC,,,de,1
+Kupferabschaltung im Jahr 2030,Kupferabschaltung im Jahr 2030,MISC,,,de,1
+Rumänisches,Rumänisches,MISC,,,de,1
+Das Herz der Stadt,Das Herz der Stadt,MISC,,,de,1
+Putin,Putin,MISC,,,de,1
+Dis…,Dis…,MISC,,,de,1
+Videodreh,Videodreh,MISC,,,de,1
+Walk of Fame…,Walk of Fame…,MISC,,,de,1
+Zeit für uns…,Zeit für uns…,MISC,,,de,1
+Spice,Spice,MISC,,,de,1
+Karin Prien,Karin Prien,MISC,,,de,1
+Mi…,Mi…,MISC,,,de,1
+flockig-lustigen Track,flockig-lustigen Track,MISC,,,de,1
+StackIT,StackIT,MISC,,,de,1
+SAP,SAP,MISC,,,de,1
+Korridorbeirat“,Korridorbeirat“,MISC,,,de,1
+ICE-Strecke,ICE-Strecke,MISC,,,de,1
+Bring the flavor to the rice“,Bring the flavor to the rice“,MISC,,,de,1
+Bring the flavor to the fish,Bring the flavor to the fish,MISC,,,de,1
+russische Invasion,russische Invasion,MISC,,,de,1
+Ministerin,Ministerin,MISC,,,de,1
+Rumänien-Wahl,Rumänien-Wahl,MISC,-1.0,0.0,de,1
+Kanzler…,Kanzler…,MISC,,,de,1
+Symptom,Symptom,MISC,,,de,1
+BILD-Schlagzeile,BILD-Schlagzeile,MISC,,,de,1
+First Buddy“,First Buddy“,MISC,,,de,1
+Böses Erwachen,Böses Erwachen,MISC,,,de,1
+SPD-Politikerin bring…,SPD-Politikerin bring…,MISC,,,de,1
+Ru…,Ru…,MISC,,,de,1
+Big Beautiful Bill“,Big Beautiful Bill“,MISC,,,de,1
+Einigkeit,Einigkeit,MISC,,,de,1
+Pennsylvania,Pennsylvania,MISC,,,de,1
+Elisab…,Elisab…,MISC,,,de,1
+Ko…,Ko…,MISC,,,de,1
+Präsidenten-Stichwahl,Präsidenten-Stichwahl,MISC,,,de,1
+Vollzeit-für-Frauen-Forderung,Vollzeit-für-Frauen-Forderung,MISC,,,de,1
+Kollegen-Speeddating,Kollegen-Speeddating,MISC,,,de,1
+Präsidentschaftswahl,Präsidentschaftswahl,MISC,,,de,1
+Gas setze…,Gas setze…,MISC,,,de,1
+Tesla-Werk,Tesla-Werk,MISC,,,de,1
+Frieden und Zusammenhalt,Frieden und Zusammenhalt,MISC,,,de,1
+CDU-Arbeitnehmerflügel,CDU-Arbeitnehmerflügel,MISC,,,de,1
+Euro“,Euro“,MISC,,,de,1
+Big Beautifu…,Big Beautifu…,MISC,,,de,1
+Gross und schön,Gross und schön,MISC,,,de,1
+The One Big ­Beautiful Bill,The One Big ­Beautiful Bill,MISC,,,de,1
+Das sagen die Linke,Das sagen die Linke,MISC,,,de,1
+BILD-Bericht,BILD-Bericht,MISC,,,de,1
+Sudhof-Berichts,Sudhof-Berichts,MISC,,,de,1
+ultra…,ultra…,MISC,,,de,1
+Wahlen“,Wahlen“,MISC,,,de,1
+Rumänien-Stichwahl,Rumänien-Stichwahl,MISC,,,de,1
+Tag v…,Tag v…,MISC,,,de,1
+Er wollt…,Er wollt…,MISC,,,de,1
+Richtungswahl“,Richtungswahl“,MISC,,,de,1
+Underdog…,Underdog…,MISC,,,de,1
+Mann von Rührung,Mann von Rührung,MISC,,,de,1
+mac…,mac…,MISC,,,de,1
+Masken-Bericht,Masken-Bericht,MISC,,,de,1
+Finanzminis…,Finanzminis…,MISC,,,de,1
+GKV-Spitzenverband,GKV-Spitzenverband,MISC,,,de,1
+Tagesspiegel-Ap…,Tagesspiegel-Ap…,MISC,,,de,1
+Kandid…,Kandid…,MISC,,,de,1
+Alte Hetze,Alte Hetze,MISC,,,de,1
+Bukarester,Bukarester,MISC,-0.01666666666666667,0.0,de,1
+GKV-Spi…,GKV-Spi…,MISC,,,de,1
+05.07.2025,05.07.2025,MISC,,,de,1
+sa…,sa…,MISC,,,de,1
+Sozialisten“ Zohran Mamdani,Sozialisten“ Zohran Mamdani,MISC,,,de,1
+Mai d…,Mai d…,MISC,,,de,1
+Top Ten,Top Ten,MISC,,,de,1
+Kanzler-Kader,Kanzler-Kader,MISC,,,de,1
+Trumps Gesetz,Trumps Gesetz,MISC,,,de,1
+Die deutsche Wirtschaft,Die deutsche Wirtschaft,MISC,,,de,1
+So techt …,So techt …,MISC,,,de,1
+Hause in Berlin,Hause in Berlin,MISC,,,de,1
+Smalltalk-Marathon,Smalltalk-Marathon,MISC,,,de,1
+Anschläge auf Flüchtlinge,Anschläge auf Flüchtlinge,MISC,,,de,1
+Unabhängigkeitstag der USA,Unabhängigkeitstag der USA,MISC,,,de,1
+Mecklenbur…,Mecklenbur…,MISC,,,de,1
+Lachender Dritter,Lachender Dritter,MISC,,,de,1
+Musks Partei-Vorstoß,Musks Partei-Vorstoß,MISC,,,de,1
+Sachverständigenrat für Wirtschaft,Sachverständigenrat für Wirtschaft,MISC,,,de,1
+nächsten Jahr,nächsten Jahr,MISC,,,de,1
+Friede…,Friede…,MISC,,,de,1
+BBB,BBB,MISC,,,de,1
+BILD22.05.2025,BILD22.05.2025,MISC,,,de,1
+Sagt der Mann,Sagt der Mann,MISC,,,de,1
+Pflegebeiträgen,Pflegebeiträgen,MISC,,,de,1
+EU-naher,EU-naher,MISC,,,de,1
+Milliarden-Finanzloch,Milliarden-Finanzloch,MISC,,,de,1
+Im Jahr 2025,Im Jahr 2025,MISC,,,de,1
+Ministerium“,Ministerium“,MISC,,,de,1
+Bü...,Bü...,MISC,,,de,1
+So techt Deutschland,So techt Deutschland,MISC,,,de,1
+Alkoholisches,Alkoholisches,MISC,,,de,1
+Countdown,Countdown,MISC,-0.175,0.25,de,1
+Teil de…,Teil de…,MISC,,,de,1
+MMA-Organisation,MMA-Organisation,MISC,,,de,1
+Mega-Gesetz,Mega-Gesetz,MISC,,,de,1
+CDU-Fraktion,CDU-Fraktion,MISC,,,de,1
+Unionsfraktion,Unionsfraktion,MISC,,,de,1
+Tages“,Tages“,MISC,,,de,1
+Independence Day,Independence Day,MISC,,,de,1
+katholischer,katholischer,MISC,,,de,1
+Elektroautob…,Elektroautob…,MISC,,,de,1
+Personaltrainer,Personaltrainer,MISC,,,de,1
+Globales Abkommen,Globales Abkommen,MISC,,,de,1
+CDU-Politikers,CDU-Politikers,MISC,,,de,1
+Präsidentschaftswahl am Sonntag,Präsidentschaftswahl am Sonntag,MISC,,,de,1
+Der schwarze Metzger,Der schwarze Metzger,MISC,,,de,1
+Zeit des Kalten Krieges,Zeit des Kalten Krieges,MISC,,,de,1
+Markus Lanz“,Markus Lanz“,MISC,,,de,1
+04.07.2025,04.07.2025,MISC,,,de,1
+AfD-V,AfD-V,MISC,,,de,1
+Heizungsgesetz,Heizungsgesetz,MISC,,,de,1
+u…,u…,MISC,,,de,1
+Tesla-Boss,Tesla-Boss,MISC,,,de,1
+Tesla,Tesla,MISC,0.0,0.0,de,1
+kl…,kl…,MISC,,,de,1
+Gartenlokal“,Gartenlokal“,MISC,,,de,1
+Nacht auf Sonntag…,Nacht auf Sonntag…,MISC,,,de,1
+Skull Islan…,Skull Islan…,MISC,,,de,1
+Iran fo,Iran fo,MISC,,,de,1
+FM4,FM4,MISC,,,de,1
+21.06.2025,21.06.2025,MISC,,,de,1
+ZDF-Spartensender,ZDF-Spartensender,MISC,,,de,1
+Die Bundespolizei,Die Bundespolizei,MISC,,,de,1
+Luftangriffen der israelischen Luftwaffe,Luftangriffen der israelischen Luftwaffe,MISC,,,de,1
+"Saul Loeb/AFP/Getty Images
+","Saul Loeb/AFP/Getty Images
+",MISC,,,de,1
+Jungle World,Jungle World,MISC,,,de,1
+"Drecksarbeit""-Aussage","Drecksarbeit""-Aussage",MISC,,,de,1
+Erin…,Erin…,MISC,,,de,1
+Isr…,Isr…,MISC,,,de,1
+bester Gesellschaft,bester Gesellschaft,MISC,,,de,1
+Iran six days ago,Iran six days ago,MISC,,,de,1
+Der neue Papst Leo XIV,Der neue Papst Leo XIV,MISC,,,de,1
+Armee,Armee,MISC,,,de,1
+And Ted Cruz Fighting To The Death Over Bombing Iran,And Ted Cruz Fighting To The Death Over Bombing Iran,MISC,,,de,1
+Israelische,Israelische,MISC,,,de,1
+Das Abkommen,Das Abkommen,MISC,,,de,1
+Verw…,Verw…,MISC,,,de,1
+Co,Co,MISC,,,de,1
+Internetkonzerne,Internetkonzerne,MISC,0.0,0.0,de,1
+Bundesbürger un,Bundesbürger un,MISC,,,de,1
+Skull Island,Skull Island,MISC,,,de,1
+TV-Tipps am Sonntag,TV-Tipps am Sonntag,MISC,,,de,1
+Lana Del Rey,Lana Del Rey,MISC,0.0,0.0,de,1
+Großes Paket“,Großes Paket“,MISC,,,de,1
+Rund f…,Rund f…,MISC,,,de,1
+Kriegseintritt,Kriegseintritt,MISC,,,de,1
+Trump-Premiere,Trump-Premiere,MISC,,,de,1
+Punk…,Punk…,MISC,,,de,1
+Tesla-Aktie,Tesla-Aktie,MISC,,,de,1
+Die Trump-Regierung,Die Trump-Regierung,MISC,,,de,1
+Samstagnachmit…,Samstagnachmit…,MISC,,,de,1
+The French Dispatch,The French Dispatch,MISC,,,de,1
+Der phönizianisc…,Der phönizianisc…,MISC,,,de,1
+Seine Zeit,Seine Zeit,MISC,,,de,1
+Digitales,Digitales,MISC,,,de,1
+Ich bin da…,Ich bin da…,MISC,,,de,1
+CC-BY-SA 4.0 Screenshot,CC-BY-SA 4.0 Screenshot,MISC,,,de,1
+Jüngster unter zahlreich…,Jüngster unter zahlreich…,MISC,,,de,1
+Schmutzige Scheidung,Schmutzige Scheidung,MISC,,,de,1
+Männerfreundschaft…,Männerfreundschaft…,MISC,,,de,1
+republikanische,republikanische,MISC,,,de,1
+… ...,… ...,MISC,,,de,1
+AfD-Verbotsverfahren,AfD-Verbotsverfahren,MISC,,,de,1
+Lana D…,Lana D…,MISC,,,de,1
+Du Dir,Du Dir,MISC,,,de,1
+Eins… Kopiere,Eins… Kopiere,MISC,,,de,1
+Gaza-Soli-Segelboots,Gaza-Soli-Segelboots,MISC,,,de,1
+Akv…,Akv…,MISC,,,de,1
+Iran Krieg,Iran Krieg,MISC,,,de,1
+Trump-Familie,Trump-Familie,MISC,,,de,1
+Sie de,Sie de,MISC,,,de,1
+auferstandene Stadtschloss,auferstandene Stadtschloss,MISC,,,de,1
+sowjetische,sowjetische,MISC,,,de,1
+Smartphone-Markt,Smartphone-Markt,MISC,,,de,1
+wutbebendes Echo,wutbebendes Echo,MISC,,,de,1
+Oberpfaffenhofen,Oberpfaffenhofen,MISC,,,de,1
+Ihr Buch,Ihr Buch,MISC,,,de,1
+Chemie,Chemie,MISC,,,de,1
+Fingerspitzeng…,Fingerspitzeng…,MISC,,,de,1
+Die Tage der Fichten,Die Tage der Fichten,MISC,,,de,1
+Ozeankonferenz der Vereinten Nationen,Ozeankonferenz der Vereinten Nationen,MISC,,,de,1
+Mobilfunkge…,Mobilfunkge…,MISC,,,de,1
+internationales For…,internationales For…,MISC,,,de,1
+israelischen Luftangriff,israelischen Luftangriff,MISC,,,de,1
+gutgehen,gutgehen,MISC,,,de,1
+Israelischer Angriff auf Raffinerie,Israelischer Angriff auf Raffinerie,MISC,,,de,1
+Mills/The N…,Mills/The N…,MISC,,,de,1
+America first,America first,MISC,,,de,1
+Flugzeugabsturzes in Indien,Flugzeugabsturzes in Indien,MISC,,,de,1
+Handys mit goldener Hülle,Handys mit goldener Hülle,MISC,,,de,1
+Hitler-Deutschland auf Polen,Hitler-Deutschland auf Polen,MISC,,,de,1
+Berliner Politikzirkus,Berliner Politikzirkus,MISC,,,de,1
+Der andere Blick am Abend,Der andere Blick am Abend,MISC,,,de,1
+Termine,Termine,MISC,,,de,1
+UN-Ozeankonferenz i…,UN-Ozeankonferenz i…,MISC,,,de,1
+Ihr Buch Lichtspiel,Ihr Buch Lichtspiel,MISC,,,de,1
+Jüdische,Jüdische,MISC,,,de,1
+CDU-Parteibuch,CDU-Parteibuch,MISC,,,de,1
+Geschichtsbüchern,Geschichtsbüchern,MISC,,,de,1
+Palestine“,Palestine“,MISC,,,de,1
+Linke-Abgeordnete,Linke-Abgeordnete,MISC,,,de,1
+weltwei…,weltwei…,MISC,,,de,1
+Wohnungsbaus i,Wohnungsbaus i,MISC,,,de,1
+Wohnraums,Wohnraums,MISC,,,de,1
+Das halbe Bild,Das halbe Bild,MISC,,,de,1
+Lichtspiel“,Lichtspiel“,MISC,,,de,1
+The Director,The Director,MISC,,,de,1
+unterfränkische,unterfränkische,MISC,,,de,1
+österreichischen,österreichischen,MISC,,,de,1
+Aufstand“,Aufstand“,MISC,,,de,1
+Lanz“,Lanz“,MISC,,,de,1
+Iran-Krieg,Iran-Krieg,MISC,,,de,1
+Die Ansagen,Die Ansagen,MISC,,,de,1
+Krankheit der Kreativen,Krankheit der Kreativen,MISC,,,de,1
+AfD-Chefin,AfD-Chefin,MISC,,,de,1
+Einstein-Saal,Einstein-Saal,MISC,,,de,1
+Jobcenter,Jobcenter,MISC,,,de,1
+Kronen,Kronen,MISC,,,de,1
+Familiennachzugs,Familiennachzugs,MISC,,,de,1
+demokratisches,demokratisches,MISC,,,de,1
+Schlimme Neuig,Schlimme Neuig,MISC,,,de,1
+SPD-Parteitag,SPD-Parteitag,MISC,,,de,1
+Iran“,Iran“,MISC,,,de,1
+IMAGO/Jens,IMAGO/Jens,MISC,,,de,1
+Angriff auf Atomanlagen,Angriff auf Atomanlagen,MISC,,,de,1
+Sozialist“,Sozialist“,MISC,,,de,1
+Plattform-Soli“,Plattform-Soli“,MISC,,,de,1
+Teenager-Mädchen,Teenager-Mädchen,MISC,,,de,1
+Gazakrieg,Gazakrieg,MISC,,,de,1
+"Frieden
+</li><li","Frieden
+</li><li",MISC,,,de,1
+De…,De…,MISC,,,de,1
+Regierung</li></ol,Regierung</li></ol,MISC,,,de,1
+Demokraten i…,Demokraten i…,MISC,,,de,1
+Kultur und Wissenschaft,Kultur und Wissenschaft,MISC,,,de,1
+Apple Original Film F1,Apple Original Film F1,MISC,,,de,1
+Denkmal der DDR,Denkmal der DDR,MISC,,,de,1
+Der Countdown,Der Countdown,MISC,,,de,1
+Angriff auf Hilfsgüter-Verteilpunkt — Israel,Angriff auf Hilfsgüter-Verteilpunkt — Israel,MISC,,,de,1
+Deutsche YouTuberin,Deutsche YouTuberin,MISC,,,de,1
+ätherisch-melancholisches,ätherisch-melancholisches,MISC,,,de,1
+Apple Original Film,Apple Original Film,MISC,,,de,1
+DasBündnis,DasBündnis,MISC,,,de,1
+zumProtest gegendieFinanz-,zumProtest gegendieFinanz-,MISC,,,de,1
+Rennwagen-Drama F1,Rennwagen-Drama F1,MISC,,,de,1
+Formel-1-Zirkus,Formel-1-Zirkus,MISC,,,de,1
+NOOTS-Staatsvertrag,NOOTS-Staatsvertrag,MISC,,,de,1
+Angriff auf Atomanlagen“,Angriff auf Atomanlagen“,MISC,,,de,1
+Datenautobahn“,Datenautobahn“,MISC,,,de,1
+CDU-Politikerin,CDU-Politikerin,MISC,,,de,1
+Bürgermeister-Posten,Bürgermeister-Posten,MISC,-0.7,0.0,de,1
+SPD-Chefin,SPD-Chefin,MISC,,,de,1
+Guten Tag,Guten Tag,MISC,,,de,1
+"Kanzleramt
+","Kanzleramt
+",MISC,,,de,1
+Wirtschaftswelt sucht verzweifelt Wege,Wirtschaftswelt sucht verzweifelt Wege,MISC,,,de,1
+Kommunistensommer“,Kommunistensommer“,MISC,,,de,1
+Heikler Plan,Heikler Plan,MISC,,,de,1
+Luftangriff der USA,Luftangriff der USA,MISC,,,de,1
+Bayerischer,Bayerischer,MISC,,,de,1
+Priorisi…,Priorisi…,MISC,,,de,1
+SZ-Redaktion,SZ-Redaktion,MISC,,,de,1
+National-Once-Only-Technical-System,National-Once-Only-Technical-System,MISC,,,de,1
+"X
+","X
+",MISC,,,de,1
+Wohlstand und Sicherheit“,Wohlstand und Sicherheit“,MISC,,,de,1
+Ignoriert New York“,Ignoriert New York“,MISC,,,de,1
+Die Frau mit dem Kamikaze-Job,Die Frau mit dem Kamikaze-Job,MISC,,,de,1
+Gratis-Busse,Gratis-Busse,MISC,,,de,1
+CDU-Gesundheitsminister,CDU-Gesundheitsminister,MISC,,,de,1
+TikTok,TikTok,MISC,,,de,1
+Meta,Meta,MISC,,,de,1
+Wir brauchen eine bessere Absicherung,Wir brauchen eine bessere Absicherung,MISC,,,de,1
+Hochwasserkatastrophe,Hochwasserkatastrophe,MISC,-0.7,0.0,de,1
+Immobilienlobby,Immobilienlobby,MISC,,,de,1
+Ers…,Ers…,MISC,,,de,1
+Shepard“,Shepard“,MISC,,,de,1
+Ein Sozi,Ein Sozi,MISC,,,de,1
+Repu­blikaner,Repu­blikaner,MISC,,,de,1
+the one big beautiful bill,the one big beautiful bill,MISC,,,de,1
+Cancel Culture“,Cancel Culture“,MISC,,,de,1
+Empörungskultur“,Empörungskultur“,MISC,,,de,1
+wirklic…,wirklic…,MISC,,,de,1
+Tugendterror“,Tugendterror“,MISC,,,de,1
+Cancel Culture,Cancel Culture,MISC,,,de,1
+BDI,BDI,MISC,,,de,1
+Der andere Blick am Morgen,Der andere Blick am Morgen,MISC,,,de,1
+Taco-Trucks,Taco-Trucks,MISC,,,de,1
+zw…,zw…,MISC,,,de,1
+Doku One To One,Doku One To One,MISC,,,de,1
+Mittwochab…,Mittwochab…,MISC,,,de,1
+Bürgergeldbetrüger,Bürgergeldbetrüger,MISC,,,de,1
+Rund zweieinhalb Jahre,Rund zweieinhalb Jahre,MISC,,,de,1
+Wir müssen …,Wir müssen …,MISC,,,de,1
+Kriegsende,Kriegsende,MISC,,,de,1
+Südkorea-Modell,Südkorea-Modell,MISC,,,de,1
+Men…,Men…,MISC,,,de,1
+Flug-Verspätung,Flug-Verspätung,MISC,,,de,1
+Drei-Stunden-Schwelle,Drei-Stunden-Schwelle,MISC,,,de,1
+sic…,sic…,MISC,,,de,1
+Top Gun“,Top Gun“,MISC,,,de,1
+John &amp,John &amp,MISC,,,de,1
+Der Transatlantik-Koordinator der Bundesregierung,Der Transatlantik-Koordinator der Bundesregierung,MISC,,,de,1
+Du kannst alles machen,Du kannst alles machen,MISC,,,de,1
+de…,de…,MISC,,,de,1
+CC-BY-SA,CC-BY-SA,MISC,,,de,1
+Quellen-TKÜ“,Quellen-TKÜ“,MISC,,,de,1
+Das Bundesjustizministerium,Das Bundesjustizministerium,MISC,,,de,1
+schwarz-schwarz-roten Koalition,schwarz-schwarz-roten Koalition,MISC,,,de,1
+Ju…,Ju…,MISC,,,de,1
+Stern,Stern,MISC,,,de,1
+Konsequen…,Konsequen…,MISC,,,de,1
+Mafiöse Strukturen“,Mafiöse Strukturen“,MISC,,,de,1
+St…,St…,MISC,0.0,0.0,de,1
+Videothek-Nerd,Videothek-Nerd,MISC,,,de,1
+Hollywoodstar,Hollywoodstar,MISC,,,de,1
+Harry und Meghan“,Harry und Meghan“,MISC,,,de,1
+Mit der Prinzessin,Mit der Prinzessin,MISC,,,de,1
+Geburtstagsfotos,Geburtstagsfotos,MISC,,,de,1
+Schwarz-Weiß-Aufnahmen,Schwarz-Weiß-Aufnahmen,MISC,,,de,1
+Film-Gitarre,Film-Gitarre,MISC,,,de,1
+SPD-Politikerin dem Stern,SPD-Politikerin dem Stern,MISC,,,de,1
+Investitions-Booster,Investitions-Booster,MISC,,,de,1
+Maverick“,Maverick“,MISC,,,de,1
+Hollywood-Streifen F1,Hollywood-Streifen F1,MISC,,,de,1
+Sozialleistungsbetrug,Sozialleistungsbetrug,MISC,,,de,1
+Was guckst du,Was guckst du,MISC,,,de,1
+Nato-Territorium,Nato-Territorium,MISC,,,de,1
+BMDS,BMDS,MISC,,,de,1
+Papst-Beisetzung,Papst-Beisetzung,MISC,,,de,1
+australische,australische,MISC,,,de,1
+Düsseldorfer,Düsseldorfer,MISC,,,de,1
+Property-Team,Property-Team,MISC,,,de,1
+Amerikanische,Amerikanische,MISC,,,de,1
+Germany's next Topmodel,Germany's next Topmodel,MISC,,,de,1
+In bunt…,In bunt…,MISC,,,de,1
+Filmstar“,Filmstar“,MISC,,,de,1
+CDU-internen,CDU-internen,MISC,,,de,1
+italienische,italienische,MISC,,,de,1
+Papst-Bestattung,Papst-Bestattung,MISC,,,de,1
+bayerische Berliner,bayerische Berliner,MISC,,,de,1
+Rom“,Rom“,MISC,,,de,1
+Ausgestoßenen woh,Ausgestoßenen woh,MISC,,,de,1
+Papst-Abschied,Papst-Abschied,MISC,,,de,1
+IMAGO,IMAGO,MISC,,,de,1
+Frieden und geflü…,Frieden und geflü…,MISC,,,de,1
+Russischer Angriffskrieg,Russischer Angriffskrieg,MISC,,,de,1
+Masters-1000-Turniers,Masters-1000-Turniers,MISC,,,de,1
+Djoke…,Djoke…,MISC,,,de,1
+KI-generierte,KI-generierte,MISC,,,de,1
+Open AI,Open AI,MISC,,,de,1
+Schuld,Schuld,MISC,,,de,1
+königlichen Familie“,königlichen Familie“,MISC,,,de,1
+englische,englische,MISC,,,de,1
+Begin…,Begin…,MISC,,,de,1
+Cicero“,Cicero“,MISC,,,de,1
+Welt“,Welt“,MISC,,,de,1
+Berliner Morgenpost,Berliner Morgenpost,MISC,,,de,1
+Hornberger Schießen,Hornberger Schießen,MISC,,,de,1
+AfD-Kuscheln,AfD-Kuscheln,MISC,,,de,1
+Die Regierung des US-Präsidenten,Die Regierung des US-Präsidenten,MISC,,,de,1
+Newsletter,Newsletter,MISC,,,de,1
+Court,Court,MISC,,,de,1
+schottischer,schottischer,MISC,,,de,1
+The Accoun…,The Accoun…,MISC,,,de,1
+†88,†88,MISC,,,de,1
+Macht-Symbol,Macht-Symbol,MISC,,,de,1
+SZ,SZ,MISC,,,de,1
+Ex-FDP-Politiker,Ex-FDP-Politiker,MISC,,,de,1
+Sonntagszeitung Journal du Dimanche,Sonntagszeitung Journal du Dimanche,MISC,,,de,1
+Bestattungszeremonie,Bestattungszeremonie,MISC,,,de,1
+Reise in die Vergangenheit,Reise in die Vergangenheit,MISC,,,de,1
+rom…,rom…,MISC,,,de,1
+22.04.2025,22.04.2025,MISC,,,de,1
+Meisterkoch i…,Meisterkoch i…,MISC,,,de,1
+frechsten Royals,frechsten Royals,MISC,,,de,1
+Zehn Dinge,Zehn Dinge,MISC,,,de,1
+frechs…,frechs…,MISC,,,de,1
+Britische Royals,Britische Royals,MISC,,,de,1
+Wir wünschen Prinz Louis alles Gute,Wir wünschen Prinz Louis alles Gute,MISC,,,de,1
+Grimassen-König,Grimassen-König,MISC,,,de,1
+Nesthäkchen,Nesthäkchen,MISC,,,de,1
+BILD,BILD,MISC,,,de,1
+CDU-Bundesvorsitzenden,CDU-Bundesvorsitzenden,MISC,,,de,1
+jün…,jün…,MISC,,,de,1
+China-Zölle,China-Zölle,MISC,,,de,1
+Angriff in Jemen,Angriff in Jemen,MISC,,,de,1
+Eh…,Eh…,MISC,,,de,1
+Requiem für Franziskus,Requiem für Franziskus,MISC,,,de,1
+Süddeutschen Zeitung,Süddeutschen Zeitung,MISC,,,de,1
+CDU-Chef,CDU-Chef,MISC,0.0,0.0,de,1
+Die Zustimmung des kleinen Parteitags,Die Zustimmung des kleinen Parteitags,MISC,,,de,1
+Barbar“,Barbar“,MISC,,,de,1
+Minister-Wahl,Minister-Wahl,MISC,,,de,1
+Bürgerlichen gegen das …,Bürgerlichen gegen das …,MISC,,,de,1
+Bes…,Bes…,MISC,,,de,1
+An unserer Grenze,An unserer Grenze,MISC,,,de,1
+The Rock,The Rock,MISC,,,de,1
+Fleischpreise,Fleischpreise,MISC,,,de,1
+Foodwatch“,Foodwatch“,MISC,,,de,1
+Ambitionsl…,Ambitionsl…,MISC,,,de,1
+NGO Fo…,NGO Fo…,MISC,,,de,1
+Verhäl…,Verhäl…,MISC,,,de,1
+h…,h…,MISC,,,de,1
+FOCUS-online-Chefkorrespondent,FOCUS-online-Chefkorrespondent,MISC,,,de,1
+Bundeska…,Bundeska…,MISC,,,de,1
+schwiege,schwiege,MISC,,,de,1
+US-Wirtschaft,US-Wirtschaft,MISC,,,de,1
+Fauxpas-Vorhersage,Fauxpas-Vorhersage,MISC,,,de,1
+Skandale von morgen,Skandale von morgen,MISC,,,de,1
+spanische,spanische,MISC,,,de,1
+Menschliche Piñata,Menschliche Piñata,MISC,,,de,1
+Therapeu…,Therapeu…,MISC,,,de,1
+Make America Great Again“,Make America Great Again“,MISC,,,de,1
+prorussische,prorussische,MISC,,,de,1
+Mensch-KI-Unterscheidung,Mensch-KI-Unterscheidung,MISC,,,de,1
+Apple-Direkto… Mensch,Apple-Direkto… Mensch,MISC,,,de,1
+Ich liebe alle meine Kinder“,Ich liebe alle meine Kinder“,MISC,,,de,1
+trans,trans,MISC,,,de,1
+Super Idee,Super Idee,MISC,,,de,1
+Body-Shamings,Body-Shamings,MISC,,,de,1
+Rebecca Mir zu Gast,Rebecca Mir zu Gast,MISC,,,de,1
+CDU-Minister-Liste,CDU-Minister-Liste,MISC,,,de,1
+Busen-Dilemma,Busen-Dilemma,MISC,,,de,1
+Bundestagswahl 2025,Bundestagswahl 2025,MISC,,,de,1
+Neues Kabinett“,Neues Kabinett“,MISC,,,de,1
+Bundeskabinett“,Bundeskabinett“,MISC,,,de,1
+Sächsische CDU-Abgeordnete,Sächsische CDU-Abgeordnete,MISC,,,de,1
+CSU-Minister,CSU-Minister,MISC,,,de,1
+Minister-Riege,Minister-Riege,MISC,,,de,1
+CDU-Kabinettsliste,CDU-Kabinettsliste,MISC,,,de,1
+Liste der CDU-Minister,Liste der CDU-Minister,MISC,,,de,1
+CDU-Regierungsmannschaft,CDU-Regierungsmannschaft,MISC,,,de,1
+Krim-Anspruch,Krim-Anspruch,MISC,,,de,1
+Mediamarkt-Minister,Mediamarkt-Minister,MISC,,,de,1
+IMAGO/MIS,IMAGO/MIS,MISC,,,de,1
+Zweiten Weltkrieg,Zweiten Weltkrieg,MISC,,,de,1
+CDU-Parteitag,CDU-Parteitag,MISC,,,de,1
+Zweiten W…,Zweiten W…,MISC,,,de,1
+Fair“,Fair“,MISC,,,de,1
+Unsere stärkste,Unsere stärkste,MISC,,,de,1
+Trumps-Zoll-Politik,Trumps-Zoll-Politik,MISC,,,de,1
+Politik-Ökon…,Politik-Ökon…,MISC,,,de,1
+Netto-Null-Ziele,Netto-Null-Ziele,MISC,,,de,1
+Pariser Vertrags,Pariser Vertrags,MISC,,,de,1
+Bürokratie-Abbaus,Bürokratie-Abbaus,MISC,,,de,1
+Mod…,Mod…,MISC,,,de,1
+künfti…,künfti…,MISC,,,de,1
+Onlinepetition,Onlinepetition,MISC,,,de,1
+CDU-Kabinettsmitglieder,CDU-Kabinettsmitglieder,MISC,,,de,1
+Kabinettsliste,Kabinettsliste,MISC,,,de,1
+Der Alte gena…,Der Alte gena…,MISC,,,de,1
+CDU-Ikone,CDU-Ikone,MISC,,,de,1
+Das ist die Kettensäge gegen die Bürokratie…,Das ist die Kettensäge gegen die Bürokratie…,MISC,,,de,1
+Anarcho-Kapitalist,Anarcho-Kapitalist,MISC,,,de,1
+Entwick…,Entwick…,MISC,,,de,1
+Einkommensteuer-Senkung,Einkommensteuer-Senkung,MISC,,,de,1
+Wut über,Wut über,MISC,,,de,1
+Devisenkontrollen,Devisenkontrollen,MISC,,,de,1
+Exekutivrat des Internationalen Währung…,Exekutivrat des Internationalen Währung…,MISC,,,de,1
+FOCUS MONEY-Redakteurin S,FOCUS MONEY-Redakteurin S,MISC,,,de,1
+NATO-,NATO-,MISC,,,de,1
+Zentr…,Zentr…,MISC,,,de,1
+Käfig-Action,Käfig-Action,MISC,,,de,1
+Das Kinderprogramm für Mini-Musk,Das Kinderprogramm für Mini-Musk,MISC,,,de,1
+MAGA-Hüte,MAGA-Hüte,MISC,,,de,1
+MMA-Kampf,MMA-Kampf,MISC,,,de,1
+richti…,richti…,MISC,,,de,1
+Das …,Das …,MISC,,,de,1
+Caren Miosga“,Caren Miosga“,MISC,,,de,1
+Ze…,Ze…,MISC,,,de,1
+Facebook,Facebook,MISC,,,de,1
+Die Klage,Die Klage,MISC,,,de,1
+Katy Perry/Ins…,Katy Perry/Ins…,MISC,,,de,1
+p…,p…,MISC,,,de,1
+Kurss…,Kurss…,MISC,,,de,1
+Seiffener Volkskunst,Seiffener Volkskunst,MISC,,,de,1
+Med…,Med…,MISC,,,de,1
+Baby“,Baby“,MISC,,,de,1
+Babys“,Babys“,MISC,,,de,1
+Pupp…,Pupp…,MISC,,,de,1
+FDA,FDA,MISC,,,de,1
+ver…,ver…,MISC,,,de,1
+Bewährungsprobe“,Bewährungsprobe“,MISC,,,de,1
+Öf…,Öf…,MISC,,,de,1
+Accountant&laquo,Accountant&laquo,MISC,,,de,1
+König Ch…,König Ch…,MISC,,,de,1
+NBA-Geschichte,NBA-Geschichte,MISC,,,de,1
+Amerikas Gesundheit,Amerikas Gesundheit,MISC,,,de,1
+FOCUS-Briefing,FOCUS-Briefing,MISC,,,de,1
+Parlamentswahl…,Parlamentswahl…,MISC,,,de,1
+Koalitionsvertrags von Union,Koalitionsvertrags von Union,MISC,,,de,1
+US-Bask…,US-Bask…,MISC,,,de,1
+Netflix-Doku,Netflix-Doku,MISC,,,de,1
+Mein Held,Mein Held,MISC,,,de,1
+Me Too“,Me Too“,MISC,,,de,1
+Me Too,Me Too,MISC,,,de,1
+Germany’s Next Topmodel“ ,Germany’s Next Topmodel“ ,MISC,,,de,1
+Mode-Fragen,Mode-Fragen,MISC,,,de,1
+Impfgegner-Bewegung,Impfgegner-Bewegung,MISC,,,de,1
+Trumpschen Zollkriegs,Trumpschen Zollkriegs,MISC,,,de,1
+Pall-Mall“-Prozess,Pall-Mall“-Prozess,MISC,,,de,1
+Pall-Mall“-Prozesses,Pall-Mall“-Prozesses,MISC,,,de,1
+National Pet Day,National Pet Day,MISC,,,de,1
+Le-Pen-Prozess,Le-Pen-Prozess,MISC,,,de,1
+X-Konten,X-Konten,MISC,,,de,1
+Revolution,Revolution,MISC,,,de,1
+Unions-Bundestagsfraktion,Unions-Bundestagsfraktion,MISC,,,de,1
+Ic…,Ic…,MISC,,,de,1
+Meine schlimmsten Befürch,Meine schlimmsten Befürch,MISC,,,de,1
+Rosemary’s Baby,Rosemary’s Baby,MISC,,,de,1
+Annie Hall,Annie Hall,MISC,,,de,1
+Hollywood-Stars,Hollywood-Stars,MISC,,,de,1
+texanischen,texanischen,MISC,,,de,1
+Die Aktienkurse der deutschen Autohersteller,Die Aktienkurse der deutschen Autohersteller,MISC,,,de,1
+Mitarbei…,Mitarbei…,MISC,,,de,1
+Ukrainekriegs,Ukrainekriegs,MISC,,,de,1
+PeopleImages.com,PeopleImages.com,MISC,,,de,1
+Yuri A/,Yuri A/,MISC,,,de,1
+Krieg gegen die Ukraine,Krieg gegen die Ukraine,MISC,,,de,1
+Oster-Feuerpause,Oster-Feuerpause,MISC,0.0,0.0,de,1
+Karsamstag,Karsamstag,MISC,,,de,1
+Oster-Waffenruhe,Oster-Waffenruhe,MISC,,,de,1
+KI-Chef Sam Altman,KI-Chef Sam Altman,MISC,,,de,1
+Ukrainischer,Ukrainischer,MISC,,,de,1
+Play-off-Auftakt,Play-off-Auftakt,MISC,,,de,1
+… Superstar Doncic,… Superstar Doncic,MISC,,,de,1
+Dieses Jahr,Dieses Jahr,MISC,,,de,1
+Mediamarkt,Mediamarkt,MISC,1.0,0.0,de,1
+Saturn,Saturn,MISC,0.5,0.0,de,1
+US-Demokratie,US-Demokratie,MISC,,,de,1
+Wissing SPD-Beitritt,Wissing SPD-Beitritt,MISC,,,de,1
+Obama-Trennung,Obama-Trennung,MISC,,,de,1
+Trennungs-Wirbel,Trennungs-Wirbel,MISC,,,de,1
+Das Büro,Das Büro,MISC,,,de,1
+Ich ha…,Ich ha…,MISC,,,de,1
+christlichen,christlichen,MISC,,,de,1
+Der andere Papst - Franziskus,Der andere Papst - Franziskus,MISC,,,de,1
+Attentat auf den ehemaligen US-Präsidenten,Attentat auf den ehemaligen US-Präsidenten,MISC,,,de,1
+im Jahr 1968,im Jahr 1968,MISC,,,de,1
+Attentat,Attentat,MISC,,,de,1
+Wiedervereinigung,Wiedervereinigung,MISC,,,de,1
+Papabili,Papabili,MISC,,,de,1
+Weißes Haus,Weißes Haus,MISC,0.0,0.0,de,1
+"Ukrainekriegs
+","Ukrainekriegs
+",MISC,,,de,1
+zehn Jahre lang,zehn Jahre lang,MISC,,,de,1
+Tennis-Fans,Tennis-Fans,MISC,,,de,1
+Szenari…,Szenari…,MISC,,,de,1
+Maestro,Maestro,MISC,,,de,1
+The Rock“ Johnson,The Rock“ Johnson,MISC,,,de,1
+Pressesprecherin im Weißen Haus,Pressesprecherin im Weißen Haus,MISC,,,de,1
+gespi…,gespi…,MISC,,,de,1
+Der amerikanische,Der amerikanische,MISC,,,de,1
+k…,k…,MISC,,,de,1
+Endzeit-Scheiße,Endzeit-Scheiße,MISC,,,de,1
+Das Land,Das Land,MISC,,,de,1
+Ernst,Ernst,MISC,,,de,1
+Doncic-Trade,Doncic-Trade,MISC,,,de,1
+Buch über „Unmögliche Begegnungen“,Buch über „Unmögliche Begegnungen“,MISC,,,de,1
+EU-Kommissar,EU-Kommissar,MISC,,,de,1
+Hobby,Hobby,MISC,,,de,1
+Wie du auc…,Wie du auc…,MISC,,,de,1
+Wenn ich Milliardär,Wenn ich Milliardär,MISC,,,de,1
+Vaterlandsliebe“,Vaterlandsliebe“,MISC,,,de,1
+Steu…,Steu…,MISC,,,de,1
+Frisuren-Stylings,Frisuren-Stylings,MISC,,,de,1
+Abo verspr…,Abo verspr…,MISC,,,de,1
+Bezos,Bezos,MISC,,,de,1
+47 Jahre alten…,47 Jahre alten…,MISC,,,de,1
+dänische,dänische,MISC,,,de,1
+Katy Perry &,Katy Perry &,MISC,,,de,1
+un…,un…,MISC,,,de,1
+Oster-Gottesdienst,Oster-Gottesdienst,MISC,,,de,1
+Britische M…,Britische M…,MISC,,,de,1
+estnische,estnische,MISC,,,de,1
+Germanys Next Topmodel,Germanys Next Topmodel,MISC,,,de,1
+Ein wirklich gerechtes Abkommen“,Ein wirklich gerechtes Abkommen“,MISC,,,de,1
+Vom ersten Tag seiner Kanzlerschaft,Vom ersten Tag seiner Kanzlerschaft,MISC,,,de,1
+Woche i…,Woche i…,MISC,,,de,1
+Juso-Vorsitzenden,Juso-Vorsitzenden,MISC,,,de,1
+Juso-V…,Juso-V…,MISC,,,de,1
+So ganz wegignorieren,So ganz wegignorieren,MISC,,,de,1
+Das weiß auch die Union im Bund“,Das weiß auch die Union im Bund“,MISC,,,de,1
+Reichsbürger,Reichsbürger,MISC,,,de,1
+heu…,heu…,MISC,,,de,1
+Social-Media-Auftritt,Social-Media-Auftritt,MISC,,,de,1
+man d…,man d…,MISC,,,de,1
+Neue Wirtschaftsministerin Reiche,Neue Wirtschaftsministerin Reiche,MISC,,,de,1
+Die Zeit“,Die Zeit“,MISC,,,de,1
+Gegenstaat,Gegenstaat,MISC,,,de,1
+Das Vermögen des Vereins,Das Vermögen des Vereins,MISC,,,de,1
+"Prevost leben« 
+","Prevost leben« 
+",MISC,,,de,1
+mein B…,mein B…,MISC,,,de,1
+Franziskus,Franziskus,MISC,,,de,1
+na…,na…,MISC,,,de,1
+Reichsbürger-Gruppe,Reichsbürger-Gruppe,MISC,,,de,1
+Abkommen,Abkommen,MISC,,,de,1
+Boeing,Boeing,MISC,,,de,1
+Alessandra Tarantino/AP/dpa,Alessandra Tarantino/AP/dpa,MISC,,,de,1
+Moskau-Reise,Moskau-Reise,MISC,,,de,1
+Chefsache ESC,Chefsache ESC,MISC,,,de,1
+ESC-Kult-Kommentator,ESC-Kult-Kommentator,MISC,,,de,1
+60 Jahre Diplomatie,60 Jahre Diplomatie,MISC,,,de,1
+Erster Warnschuss,Erster Warnschuss,MISC,,,de,1
+Ukraine-Gesprächen,Ukraine-Gesprächen,MISC,0.037500000000000006,0.0,de,1
+Linken-Chef,Linken-Chef,MISC,,,de,1
+verfassung…,verfassung…,MISC,,,de,1
+türkischem,türkischem,MISC,,,de,1
+russischen Kriegs,russischen Kriegs,MISC,,,de,1
+Kriegsbeginn,Kriegsbeginn,MISC,,,de,1
+W…,W…,MISC,,,de,1
+Air Force One“ nut…,Air Force One“ nut…,MISC,,,de,1
+Miosga“,Miosga“,MISC,,,de,1
+Das wäre ein Schlag,Das wäre ein Schlag,MISC,,,de,1
+CSU-Politiker,CSU-Politiker,MISC,,,de,1
+SPD-Ko-Vorsitzende,SPD-Ko-Vorsitzende,MISC,,,de,1
+Renten-Vorstoß,Renten-Vorstoß,MISC,,,de,1
+GLASAUGE,GLASAUGE,MISC,,,de,1
+Wer ist dieser Mann,Wer ist dieser Mann,MISC,,,de,1
+Nein sagen zum Krieg der Wörter,Nein sagen zum Krieg der Wörter,MISC,,,de,1
+Weißer Rauch,Weißer Rauch,MISC,,,de,1
+Papst-Favoriten,Papst-Favoriten,MISC,,,de,1
+Weltweite Zölle,Weltweite Zölle,MISC,,,de,1
+Make America great again…,Make America great again…,MISC,,,de,1
+die Jahre,die Jahre,MISC,,,de,1
+US-Präsidentenmaschine,US-Präsidentenmaschine,MISC,,,de,1
+Sprache,Sprache,MISC,,,de,1
+LeoXIV,LeoXIV,MISC,,,de,1
+Medien-Vertretern,Medien-Vertretern,MISC,,,de,1
+Pop-Star,Pop-Star,MISC,,,de,1
+Audienz für die Medienvertreter,Audienz für die Medienvertreter,MISC,,,de,1
+made in Germany“,made in Germany“,MISC,,,de,1
+Der Papst,Der Papst,MISC,,,de,1
+Die Uhr,Die Uhr,MISC,,,de,1
+Die Gespräche für einen Frieden in der Ukraine,Die Gespräche für einen Frieden in der Ukraine,MISC,,,de,1
+Putins Krieg,Putins Krieg,MISC,,,de,1
+russischen Angriffskriegs,russischen Angriffskriegs,MISC,,,de,1
+En…,En…,MISC,,,de,1
+Der Frieden in der Ukraine,Der Frieden in der Ukraine,MISC,,,de,1
+ARD-Hauptstadtstudio,ARD-Hauptstadtstudio,MISC,,,de,1
+Präsidentenwahl am Sonntag,Präsidentenwahl am Sonntag,MISC,,,de,1
+Weimers Antrittsrede,Weimers Antrittsrede,MISC,,,de,1
+Nato-Beitrag,Nato-Beitrag,MISC,,,de,1
+Prozentz…,Prozentz…,MISC,,,de,1
+LOsservatore Romano,LOsservatore Romano,MISC,,,de,1
+Hubig,Hubig,MISC,0.2333333333333333,0.0,de,1
+Toll,Toll,MISC,,,de,1
+BDI-Hauptgeschäftsführerin,BDI-Hauptgeschäftsführerin,MISC,,,de,1
+Ein unvergesslicher Abend,Ein unvergesslicher Abend,MISC,,,de,1
+Junggesellinne…,Junggesellinne…,MISC,,,de,1
+Schwarzer Metzger“,Schwarzer Metzger“,MISC,,,de,1
+Liebeserklärung an Frau und Kind,Liebeserklärung an Frau und Kind,MISC,,,de,1
+Promi-Freundinnen,Promi-Freundinnen,MISC,,,de,1
+bayerischen Wissenschaftsministeriums,bayerischen Wissenschaftsministeriums,MISC,,,de,1
+Mein liberales Herz,Mein liberales Herz,MISC,,,de,1
+Lindner-Vermächtnis,Lindner-Vermächtnis,MISC,,,de,1
+Person b,Person b,MISC,,,de,1
+FDP-Vorsitzende,FDP-Vorsitzende,MISC,,,de,1
+FDP-Vorsitz,FDP-Vorsitz,MISC,,,de,1
+höchste Zeit,höchste Zeit,MISC,,,de,1
+Sc…,Sc…,MISC,,,de,1
+Wirtschaftsmini…,Wirtschaftsmini…,MISC,,,de,1
+Liebe und Zuneigung,Liebe und Zuneigung,MISC,,,de,1
+Zeit der Inka,Zeit der Inka,MISC,,,de,1
+Die Brechstange,Die Brechstange,MISC,,,de,1
+Ampel-Projekte,Ampel-Projekte,MISC,,,de,1
+Abschied an der Seitenlinie,Abschied an der Seitenlinie,MISC,,,de,1
+Next Germany,Next Germany,MISC,,,de,1
+Wohnungsbau-Turbo,Wohnungsbau-Turbo,MISC,,,de,1
+Prozent-Fetischismus“,Prozent-Fetischismus“,MISC,,,de,1
+Mir…,Mir…,MISC,,,de,1
+Twitter-Account,Twitter-Account,MISC,,,de,1
+MAGA-Anhänger,MAGA-Anhänger,MISC,,,de,1
+US-chinesische,US-chinesische,MISC,,,de,1
+US-amerikanisches,US-amerikanisches,MISC,,,de,1
+X,X,MISC,,,de,1
+Nahost-Reise,Nahost-Reise,MISC,,,de,1
+Demokratie von rechts,Demokratie von rechts,MISC,,,de,1
+US-Präsident T…,US-Präsident T…,MISC,,,de,1
+Lasst die Waffen schweigen!,Lasst die Waffen schweigen!,MISC,,,de,1
+Bürger,Bürger,MISC,,,de,1
+Kalten Kriegs,Kalten Kriegs,MISC,,,de,1
+Holocaust,Holocaust,MISC,,,de,1
+prorussisch,prorussisch,MISC,,,de,1
+… Die Wähler in Polen,… Die Wähler in Polen,MISC,,,de,1
+Chefkritikers,Chefkritikers,MISC,,,de,1
+Merz-Alternative,Merz-Alternative,MISC,,,de,1
+CDU-Ministerin,CDU-Ministerin,MISC,,,de,1
+Zwei Welten treffe…,Zwei Welten treffe…,MISC,,,de,1
+Die neue deutsche Regierung,Die neue deutsche Regierung,MISC,,,de,1
+Krankenkassen,Krankenkassen,MISC,,,de,1
+"Rettungsaktion
+","Rettungsaktion
+",MISC,,,de,1
+AfD-Gutachtens,AfD-Gutachtens,MISC,,,de,1
+Livet…,Livet…,MISC,,,de,1
+Entwicklungen i…,Entwicklungen i…,MISC,,,de,1
+Der neue Finanzminister,Der neue Finanzminister,MISC,,,de,1
+Zweidrittelmehrheit i…,Zweidrittelmehrheit i…,MISC,,,de,1
+EU-Handelskommissar Maros…,EU-Handelskommissar Maros…,MISC,,,de,1
+Mens…,Mens…,MISC,,,de,1
+Ges…,Ges…,MISC,,,de,1
+SPD-Politikerin am Sonntagabend,SPD-Politikerin am Sonntagabend,MISC,,,de,1
+b…,b…,MISC,,,de,1
+Dienstagv…,Dienstagv…,MISC,,,de,1
+Huch,Huch,MISC,,,de,1
+Cr…,Cr…,MISC,,,de,1
+Der Wahlreigen in Rumänien,Der Wahlreigen in Rumänien,MISC,,,de,1
+Wichtigeres,Wichtigeres,MISC,,,de,1
+Start-ups Kitchen Stories,Start-ups Kitchen Stories,MISC,,,de,1
+I…,I…,MISC,,,de,1
+Franc…,Franc…,MISC,,,de,1
+KI-Firma,KI-Firma,MISC,,,de,1
+Umwandlungs­pläne,Umwandlungs­pläne,MISC,,,de,1
+Kohleausstieg,Kohleausstieg,MISC,,,de,1
+Ausgerechnet an dem Tag,Ausgerechnet an dem Tag,MISC,,,de,1
+WELT TV,WELT TV,MISC,,,de,1
+Übereinstimmung sie,Übereinstimmung sie,MISC,,,de,1
+Buchs l…,Buchs l…,MISC,,,de,1
+"STARTUPLAND
+","STARTUPLAND
+",MISC,,,de,1
+Kabinett sorge ja,Kabinett sorge ja,MISC,,,de,1
+Herzlichen Glückwunsch,Herzlichen Glückwunsch,MISC,,,de,1
+Redaktionsleiter,Redaktionsleiter,MISC,,,de,1
+CDU-Außenminister,CDU-Außenminister,MISC,,,de,1
+CDU-Abgeordneten,CDU-Abgeordneten,MISC,,,de,1
+Kabinett Merz,Kabinett Merz,MISC,,,de,1
+Üb…,Üb…,MISC,,,de,1
+Kanzlerwahl,Kanzlerwahl,MISC,,,de,1
+afotostock /Shutterstock.com,afotostock /Shutterstock.com,MISC,,,de,1
+VIDEO,VIDEO,MISC,,,de,1
+Das neue deutsche Kabinett,Das neue deutsche Kabinett,MISC,,,de,1
+Jahr 2015,Jahr 2015,MISC,,,de,1
+Rechtsaussenpolitikers,Rechtsaussenpolitikers,MISC,,,de,1
+Re... Jetzt,Re... Jetzt,MISC,,,de,1
+F.A.Z.-Frankreich-Korrespondentin Michaela Wiegel,F.A.Z.-Frankreich-Korrespondentin Michaela Wiegel,MISC,,,de,1
+great“,great“,MISC,,,de,1
+Augen-Scan-Projekt World,Augen-Scan-Projekt World,MISC,,,de,1
+Star Trek“-Verwirrung,Star Trek“-Verwirrung,MISC,,,de,1
+Star Trek,Star Trek,MISC,,,de,1
+Star Trek“,Star Trek“,MISC,,,de,1
+Brandmauer-Debatte,Brandmauer-Debatte,MISC,,,de,1
+kommende Jahr,kommende Jahr,MISC,,,de,1
+Dol…,Dol…,MISC,,,de,1
+USA-Reise,USA-Reise,MISC,,,de,1
+Rumänisch,Rumänisch,MISC,,,de,1
+JD Vance,JD Vance,MISC,,,de,1
+Xi,Xi,MISC,,,de,1
+Krieg gegen sein Land,Krieg gegen sein Land,MISC,,,de,1
+pro-westlichen,pro-westlichen,MISC,,,de,1
+Sechs Frauen,Sechs Frauen,MISC,,,de,1
+Saski…,Saski…,MISC,,,de,1
+SPD-Ministerposten“,SPD-Ministerposten“,MISC,,,de,1
+Bundesregierung ü…,Bundesregierung ü…,MISC,,,de,1
+Mini,Mini,MISC,,,de,1
+Bundesregierung“,Bundesregierung“,MISC,,,de,1
+Georgescu-Effekt,Georgescu-Effekt,MISC,,,de,1
+Reem Alabali-Radovan,Reem Alabali-Radovan,MISC,0.0,0.0,de,1
+Entwicklungsministerin,Entwicklungsministerin,MISC,,,de,1
+Neue Bundesministerin“,Neue Bundesministerin“,MISC,,,de,1
+CSU-Chef Markus Söder,CSU-Chef Markus Söder,MISC,,,de,1
+Das neue Bundeskabinett,Das neue Bundeskabinett,MISC,,,de,1
+machiavellistisches,machiavellistisches,MISC,,,de,1
+Schwarz-rotes Kabinett,Schwarz-rotes Kabinett,MISC,,,de,1
+PDF,PDF,MISC,,,de,1
+Balko…,Balko…,MISC,,,de,1
+Rentenfrage,Rentenfrage,MISC,,,de,1
+Jüdische Allgemeine“,Jüdische Allgemeine“,MISC,,,de,1
+nordkoreanischen,nordkoreanischen,MISC,,,de,1
+Unterwegs im heiligen Rom,Unterwegs im heiligen Rom,MISC,,,de,1
+neofaschistische,neofaschistische,MISC,,,de,1
+Jahr 2045,Jahr 2045,MISC,,,de,1
+nordkoreanische,nordkoreanische,MISC,,,de,1
+Ein Wort von Putin und die Sache,Ein Wort von Putin und die Sache,MISC,,,de,1
+Waffenruhe-Angebot,Waffenruhe-Angebot,MISC,,,de,1
+Satz Ich bin,Satz Ich bin,MISC,,,de,1
+Entwicklungsministerium auf Bewährung,Entwicklungsministerium auf Bewährung,MISC,,,de,1
+Hauses in den Koalitionsgesprächen,Hauses in den Koalitionsgesprächen,MISC,,,de,1
+Ex-Minister Özdemir,Ex-Minister Özdemir,MISC,,,de,1
+Lego-Raumschiff,Lego-Raumschiff,MISC,,,de,1
+angekü…,angekü…,MISC,,,de,1
+Juden,Juden,MISC,,,de,1
+"Yad Vashem
+","Yad Vashem
+",MISC,,,de,1
+Sonntagsgebet,Sonntagsgebet,MISC,,,de,1
+In der Sache,In der Sache,MISC,,,de,1
+Baerbock-Politik,Baerbock-Politik,MISC,,,de,1
+Nie wieder Krieg!“,Nie wieder Krieg!“,MISC,,,de,1
+Großen der Welt,Großen der Welt,MISC,,,de,1
+Große…,Große…,MISC,,,de,1
+Dobrindt Auskunft,Dobrindt Auskunft,MISC,,,de,1
+Emily in Paris“,Emily in Paris“,MISC,,,de,1
+Videos,Videos,MISC,,,de,1
+His Bobness Leo XIV,His Bobness Leo XIV,MISC,,,de,1
+U… Ob,U… Ob,MISC,,,de,1
+Vance-Verachtung,Vance-Verachtung,MISC,,,de,1
+Erfurts Bischof,Erfurts Bischof,MISC,,,de,1
+Wald-Video,Wald-Video,MISC,0.0,0.0,de,1
+Spanisch,Spanisch,MISC,,,de,1
+Baby-News,Baby-News,MISC,,,de,1
+Das Böse,Das Böse,MISC,,,de,1
+Vieles spricht da…,Vieles spricht da…,MISC,,,de,1
+Franziskus-Nachfolger,Franziskus-Nachfolger,MISC,,,de,1
+gr…,gr…,MISC,,,de,1
+Kassel/Schmalkalden,Kassel/Schmalkalden,MISC,,,de,1
+Die Bischöfin der Evangelischen Kirche von Kurhessen-Waldeck,Die Bischöfin der Evangelischen Kirche von Kurhessen-Waldeck,MISC,,,de,1
+EKKW,EKKW,MISC,,,de,1
+Bischöfin der …,Bischöfin der …,MISC,,,de,1
+Friedenspapst,Friedenspapst,MISC,,,de,1
+Liste der Papabili,Liste der Papabili,MISC,,,de,1
+Neuer Pontifex“,Neuer Pontifex“,MISC,,,de,1
+Trump dr…,Trump dr…,MISC,,,de,1
+Katholische,Katholische,MISC,,,de,1
+JavaScript,JavaScript,MISC,,,de,1
+Browser,Browser,MISC,,,de,1
+Media-Saturn-Holding,Media-Saturn-Holding,MISC,,,de,1
+nordrhein-westfälische,nordrhein-westfälische,MISC,,,de,1
+i…,i…,MISC,,,de,1
+Die Debatte über Zurückweisungen,Die Debatte über Zurückweisungen,MISC,,,,1
+EU-Kommission mahnt Deutschland,EU-Kommission mahnt Deutschland,MISC,,,,1
+Der neue Papst und die Trump-Regierung,Der neue Papst und die Trump-Regierung,MISC,,,de,1
+Bügelbrett Altar,Bügelbrett Altar,MISC,,,de,1
+Friede,Friede,MISC,,,de,1
+Meme-Messias,Meme-Messias,MISC,,,de,1
+Deep Dish Daddy,Deep Dish Daddy,MISC,,,de,1
+peruanische,peruanische,MISC,,,de,1
+rechtskonserva…,rechtskonserva…,MISC,,,de,1
+Reuters07,Reuters07,MISC,,,de,1
