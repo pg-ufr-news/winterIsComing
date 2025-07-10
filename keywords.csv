@@ -1,5 +1,4 @@
 keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
-'Jonathan Roumie',de,unknown,#111111,#111111,2,0.5330715017508718
 'Andrew Cuomo',de,unknown,#111111,#111111,2,0.507558120824209
 'Anant Ambani',de,unknown,#111111,#111111,2,0.5063191646269466
 'Léon XIV',de,unknown,#111111,#111111,2,0.504288595413688
@@ -23,6 +22,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Alexander Dobrindt',de,Deutschland,#111111,#111111,3,0.4566802443953408
 'Maria Kolesnikowa',de,Belarus,#e81858,#e81858,2,0.4548845039503069
 'Reem Alabali-Radovan',de,Deutschland,#111111,#111111,2,0.4534713316275681
+'Jonathan Roumie',de,unknown,#111111,#111111,1,0.45311082148824106
 'Maja Göpel',de,Deutschland,#1818e8,#1818e8,1,0.4517633454689082
 'Theodor Herzl',de,Ungarn,#111111,#111111,1,0.4505901651875
 'Selenskyj',de,Ukraine,#e818e8,#e818e8,3,0.4491163969278398
@@ -468,12 +468,12 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Anya Taylor-Joy',de,unknown,#111111,#111111,1,0.3074427229074222
 'Hailey Van Lith',de,unknown,#111111,#111111,1,0.3073428164403671
 'Pedro Sánchez Pérez-Castejón',de,Spanien,#111111,#111111,1,0.3070624999999999
-'Gilbert Plass',de,Kanada,#111111,#111111,1,0.3070624999999999
+'Camille Etienne',de,Frankreich,#e8e808,#e8e808,1,0.3070624999999999
 'Patti LaBelle',de,USA,#18e8e8,#18e8e8,1,0.3070624999999999
 'Uwe Neumärker',de,Deutschland,#1818e8,#1818e8,1,0.3070624999999999
 'Dorothée Pacaud',de,Frankreich,#e8e808,#e8e808,1,0.3070624999999999
-'Camille Etienne',de,Frankreich,#e8e808,#e8e808,1,0.3070624999999999
 'Sergei Surovikin',de,Russland,#e81818,#e81818,1,0.3070624999999999
+'Gilbert Plass',de,Kanada,#111111,#111111,1,0.3070624999999999
 'Leon Botstein',de,USA,#18e8e8,#18e8e8,1,0.3070624999999999
 'Evgueni Prigojine',de,Russland,#e81818,#e81818,1,0.3070624999999999
 'Kemal Kiliçdaroglu',de,Türkei,#111111,#111111,1,0.3070624999999999
