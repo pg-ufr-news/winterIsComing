@@ -118,7 +118,6 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Alyssa Farah Griffin',de,unknown,#111111,#111111,2,0.3737753478245912
 'Jeffrey Epstein',de,USA,#18e8e8,#18e8e8,2,0.373226895118188
 'Prinz George',de,UK,#e838e8,#e838e8,2,0.3726043434247972
-'George Simion',de,unknown,#111111,#111111,2,0.3722515540364077
 'Prinzessin Diana',de,UK,#e838e8,#e838e8,2,0.3711355387704091
 'Brad Pitt',de,unknown,#111111,#111111,3,0.3710453943357749
 'Jennifer Morgan',de,unknown,#111111,#111111,1,0.37016866935
@@ -376,6 +375,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Laurent Berger',de,Frankreich,#e8e808,#e8e808,1,0.3178259788125
 'Justin Timberlake',de,unknown,#111111,#111111,1,0.3177061871398802
 'Carter Reum',de,unknown,#111111,#111111,1,0.3176653497836528
+'George Simion',de,unknown,#111111,#111111,2,0.3173139109309466
 'Alvin Bragg',de,USA,#18e8e8,#18e8e8,1,0.317279410125554
 'Robin Roberts',de,unknown,#111111,#111111,1,0.3170682669304454
 'Leandro De Niro-Rodriguez',de,unknown,#111111,#111111,1,0.3170204482801581
@@ -468,12 +468,12 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Anya Taylor-Joy',de,unknown,#111111,#111111,1,0.3074427229074222
 'Hailey Van Lith',de,unknown,#111111,#111111,1,0.3073428164403671
 'Pedro Sánchez Pérez-Castejón',de,Spanien,#111111,#111111,1,0.3070624999999999
-'Gilbert Plass',de,Kanada,#111111,#111111,1,0.3070624999999999
+'Camille Etienne',de,Frankreich,#e8e808,#e8e808,1,0.3070624999999999
 'Patti LaBelle',de,USA,#18e8e8,#18e8e8,1,0.3070624999999999
 'Uwe Neumärker',de,Deutschland,#1818e8,#1818e8,1,0.3070624999999999
 'Dorothée Pacaud',de,Frankreich,#e8e808,#e8e808,1,0.3070624999999999
-'Camille Etienne',de,Frankreich,#e8e808,#e8e808,1,0.3070624999999999
 'Sergei Surovikin',de,Russland,#e81818,#e81818,1,0.3070624999999999
+'Gilbert Plass',de,Kanada,#111111,#111111,1,0.3070624999999999
 'Leon Botstein',de,USA,#18e8e8,#18e8e8,1,0.3070624999999999
 'Evgueni Prigojine',de,Russland,#e81818,#e81818,1,0.3070624999999999
 'Kemal Kiliçdaroglu',de,Türkei,#111111,#111111,1,0.3070624999999999
@@ -771,7 +771,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Mike Pence',de,USA,#18e8e8,#18e8e8,1,0.157813015642873
 'Horst Seehofer',de,Deutschland,#1818e8,#1818e8,1,0.1541542295658092
 'Erik Marquardt',de,EU,#111111,#111111,1,0.1537946238575888
-'Macky Sall',de,Senegal,#111111,#111111,1,0.15178820631247233
+'Macky Sall',de,Senegal,#111111,#111111,1,0.1517882063124723
 'Volker Wissing',de,Deutschland,#1818e8,#1818e8,3,0.1509181475313735
 'David Malpass',de,USA,#18e8e8,#18e8e8,1,0.1496457276356005
 'Hans Joachim Schellnhuber',de,Deutschland,#1818e8,#1818e8,2,0.1495056237685449
