@@ -30,7 +30,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'König Charles III',de,UK,#e838e8,#e838e8,3,0.4482049493218082
 'Mark Carney',de,unknown,#111111,#111111,3,0.4481207063577898
 'Thorsten Frei',de,Deutschland,#111111,#111111,3,0.4468648397176973
-'Bernie Sanders',de,USA,#18e8e8,#18e8e8,2,0.44678611633789433
+'Bernie Sanders',de,USA,#18e8e8,#18e8e8,2,0.4467861163378943
 'Sam Asghari',de,unknown,#111111,#111111,2,0.4464178239888609
 'Lauren Sanchez',de,USA,#18e8e8,#18e8e8,2,0.4455365136968925
 'Robert Prevost',de,unknown,#111111,#111111,1,0.4444412963519
@@ -114,7 +114,6 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Dua Lipa',de,unknown,#111111,#111111,2,0.3796181705299721
 'Miley Cyrus',de,unknown,#111111,#111111,2,0.3779504942055202
 'Merrick Garland',de,unknown,#111111,#111111,2,0.3778570797571271
-'Oliver Blume',de,Deutschland,#1818e8,#1818e8,3,0.3760930205667044
 'Hubert Aiwanger',de,unknown,#111111,#111111,3,0.3760331320196722
 'Chris Wright',de,USA,#18e8e8,#18e8e8,2,0.3755664261304646
 'Andrei Sacharow',de,Russland,#e81818,#e81818,1,0.374766265
@@ -209,6 +208,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Howard Stern',de,unknown,#111111,#111111,1,0.3480072931347571
 'Prinz Archie',de,UK,#e838e8,#e838e8,2,0.3479940878340194
 'Papst Benedikt XVI',de,Vatikan,#58b8e8,#58b8e8,3,0.3477727142280949
+'Oliver Blume',de,Deutschland,#1818e8,#1818e8,3,0.34735731520897145
 'David Beckham',de,unknown,#111111,#111111,2,0.3472728331036501
 'Willem Dafoe',de,unknown,#111111,#111111,1,0.3472071854747675
 'Kim Reynolds',de,unknown,#111111,#111111,1,0.3471747287524587
