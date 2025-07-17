@@ -51,8 +51,8 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Hunter Biden',de,USA,#18e8e8,#18e8e8,3,0.4316146975151727
 'Zohran Mamdani',de,USA,#18e8e8,#18e8e8,2,0.431521233377355
 'Anant Ambani',de,unknown,#111111,#111111,1,0.4303713349329046
-'Steffen Kotre',de,unknown,#111111,#111111,1,0.4298874999999999
 'Gwede Mantashe',de,unknown,#111111,#111111,1,0.4298874999999999
+'Steffen Kotre',de,unknown,#111111,#111111,1,0.4298874999999999
 'Mahmud Abbas',de,Palistina,#111111,#111111,1,0.4296216237249999
 'Léon XIV',de,unknown,#111111,#111111,1,0.4286453061016347
 'Laura Maria Rypa',de,unknown,#111111,#111111,2,0.4264934014097468
@@ -72,6 +72,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Prinz Harry',de,UK,#e838e8,#e838e8,3,0.4116109951494503
 'Jeanne du Barry',de,Frankreich,#e8e808,#e8e808,1,0.4090589406541182
 'Lionel Messi',de,Argentinien,#111111,#111111,3,0.4075366693924618
+'Kamala Harris',de,USA,#18e8e8,#18e8e8,3,0.4073365533700824
 'Curtis Yarvin',de,USA,#111111,#111111,2,0.4070610808663015
 'JD Vance',de,unknown,#111111,#111111,3,0.4065390643124064
 'Jens Spahn',de,Deutschland,#1818e8,#1818e8,3,0.4056898021593912
@@ -188,7 +189,6 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Martin Luther King',de,USA,#18e8e8,#18e8e8,2,0.3509285271388473
 'Britney Spears',de,unknown,#111111,#111111,2,0.3505582170572889
 'John Fetterman',de,unknown,#111111,#111111,1,0.3505328355409118
-'Kamala Harris',de,USA,#18e8e8,#18e8e8,2,0.3504006574407386
 'Andreas Ellermann',de,Deutschland,#1818e8,#1818e8,1,0.3503496174459869
 'James Comer',de,unknown,#111111,#111111,1,0.3501487167842142
 'Isaac Newton',de,UK,#e838e8,#e838e8,1,0.3496628526339375
@@ -208,7 +208,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Howard Stern',de,unknown,#111111,#111111,1,0.3480072931347571
 'Prinz Archie',de,UK,#e838e8,#e838e8,2,0.3479940878340194
 'Papst Benedikt XVI',de,Vatikan,#58b8e8,#58b8e8,3,0.3477727142280949
-'Oliver Blume',de,Deutschland,#1818e8,#1818e8,3,0.34735731520897145
+'Oliver Blume',de,Deutschland,#1818e8,#1818e8,3,0.3473573152089714
 'David Beckham',de,unknown,#111111,#111111,2,0.3472728331036501
 'Willem Dafoe',de,unknown,#111111,#111111,1,0.3472071854747675
 'Kim Reynolds',de,unknown,#111111,#111111,1,0.3471747287524587
