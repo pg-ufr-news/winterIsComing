@@ -469,17 +469,17 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Jacques Doriot',de,unknown,#111111,#111111,1,0.3074774501230968
 'Anya Taylor-Joy',de,unknown,#111111,#111111,1,0.3074427229074222
 'Hailey Van Lith',de,unknown,#111111,#111111,1,0.3073428164403671
-'Evgueni Prigojine',de,Russland,#e81818,#e81818,1,0.3070624999999999
-'Patti LaBelle',de,USA,#18e8e8,#18e8e8,1,0.3070624999999999
-'Kemal Kiliçdaroglu',de,Türkei,#111111,#111111,1,0.3070624999999999
-'Moon Hyung-jin',de,USA,#18e8e8,#18e8e8,1,0.3070624999999999
-'Dorothée Pacaud',de,Frankreich,#e8e808,#e8e808,1,0.3070624999999999
-'Gilbert Plass',de,Kanada,#111111,#111111,1,0.3070624999999999
 'Camille Etienne',de,Frankreich,#e8e808,#e8e808,1,0.3070624999999999
-'Pedro Sánchez Pérez-Castejón',de,Spanien,#111111,#111111,1,0.3070624999999999
-'Leon Botstein',de,USA,#18e8e8,#18e8e8,1,0.3070624999999999
-'Sergei Surovikin',de,Russland,#e81818,#e81818,1,0.3070624999999999
 'Uwe Neumärker',de,Deutschland,#1818e8,#1818e8,1,0.3070624999999999
+'Sergei Surovikin',de,Russland,#e81818,#e81818,1,0.3070624999999999
+'Leon Botstein',de,USA,#18e8e8,#18e8e8,1,0.3070624999999999
+'Pedro Sánchez Pérez-Castejón',de,Spanien,#111111,#111111,1,0.3070624999999999
+'Evgueni Prigojine',de,Russland,#e81818,#e81818,1,0.3070624999999999
+'Gilbert Plass',de,Kanada,#111111,#111111,1,0.3070624999999999
+'Dorothée Pacaud',de,Frankreich,#e8e808,#e8e808,1,0.3070624999999999
+'Moon Hyung-jin',de,USA,#18e8e8,#18e8e8,1,0.3070624999999999
+'Kemal Kiliçdaroglu',de,Türkei,#111111,#111111,1,0.3070624999999999
+'Patti LaBelle',de,USA,#18e8e8,#18e8e8,1,0.3070624999999999
 'Alberto Núñez Feijóo',de,unknown,#111111,#111111,1,0.3068759318382417
 'James Biden',de,unknown,#111111,#111111,1,0.3066660486555579
 'Hugh Grant',de,unknown,#111111,#111111,1,0.3065820265437723
@@ -549,8 +549,8 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Wolfgang Benz',de,Deutschland,#1818e8,#1818e8,2,0.2886971390918749
 'Kyle Pope',de,unknown,#111111,#111111,1,0.2873809652499999
 'Autumn Peltier',de,unknown,#111111,#111111,1,0.2871034374999999
-'Elizabeth Mpofu',de,unknown,#111111,#111111,1,0.2871034374999999
 'Tasneem Essop',de,unknown,#111111,#111111,1,0.2871034374999999
+'Elizabeth Mpofu',de,unknown,#111111,#111111,1,0.2871034374999999
 'King Charles III',de,UK,#e838e8,#e838e8,2,0.2866234463454403
 'Kemal Klçdarolu',de,Türkei,#111111,#111111,3,0.2862786906655112
 'Irina Shayk',de,unknown,#111111,#111111,1,0.2862041984387367
@@ -614,9 +614,9 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Joy Behar',de,unknown,#111111,#111111,1,0.2613835210494998
 'Yannick Morez',de,Frankreich,#e8e808,#e8e808,1,0.2613727915493749
 'Michael Sandel',de,USA,#18e8e8,#18e8e8,1,0.2613727915493749
-'Andrei Nikolajewitsch Kolmogorow',de,Russland,#e81818,#e81818,1,0.2610031249999999
 'Aurélien Pradié',de,Frankreich,#e8e808,#e8e808,1,0.2610031249999999
 'Thomas Bayes',de,UK,#e838e8,#e838e8,1,0.2610031249999999
+'Andrei Nikolajewitsch Kolmogorow',de,Russland,#e81818,#e81818,1,0.2610031249999999
 'Drena De Niro',de,USA,#18e8e8,#18e8e8,1,0.2589841040928874
 'Olli Schulz',de,Deutschland,#1818e8,#1818e8,1,0.2581620659183204
 'Kemal Kilicdaroglu',de,Türkei,#111111,#111111,1,0.2574383858305537
@@ -735,8 +735,8 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'John Paul II',de,Vatikan,#58b8e8,#58b8e8,1,0.1909779816132217
 'Viktor Orbán',de,Ungarn,#111111,#111111,3,0.1906656388016203
 'Richard Ferrand',de,Frankreich,#e8e808,#e8e808,1,0.1886831436499999
-'Robert Nozick',de,USA,#18e8e8,#18e8e8,1,0.1885747578124999
 'Detlef Garbe',de,Deutschland,#1818e8,#1818e8,1,0.1885747578124999
+'Robert Nozick',de,USA,#18e8e8,#18e8e8,1,0.1885747578124999
 'Lukaschenko',de,Belarus,#e81858,#e81858,3,0.1883763872446562
 'Paul Kagame',de,Ruanda,#111111,#111111,1,0.1878978150731675
 'Bruno Kahl',de,Deutschland,#1818e8,#1818e8,1,0.1874586810087321
@@ -856,4 +856,3 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Lula sa Silva',de,Brasilien,#58e838,#58e838,1,0.0607292614810694
 'Steven Milloy',de,USA,#18e8e8,#18e8e8,1,0.060452746782873
 'Jitzchak Herzog',de,Israel,#111111,#111111,1,0.0551207325813899
-'Klaus Hasselmann',de,Deutschland,#1818e8,#1818e8,1,0.0539116549344726
