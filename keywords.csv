@@ -118,6 +118,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Dua Lipa',de,unknown,#111111,#111111,2,0.3796181705299721
 'Miley Cyrus',de,unknown,#111111,#111111,2,0.3779504942055202
 'Merrick Garland',de,unknown,#111111,#111111,2,0.3778570797571271
+'Prinz Archie',de,UK,#e838e8,#e838e8,2,0.37775699436479887
 'Hubert Aiwanger',de,unknown,#111111,#111111,3,0.3760331320196722
 'Chris Wright',de,USA,#18e8e8,#18e8e8,2,0.3755664261304646
 'Andrei Sacharow',de,Russland,#e81818,#e81818,1,0.374766265
@@ -206,7 +207,6 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Lauren Boebert',de,USA,#18e8e8,#18e8e8,1,0.3480996556689374
 'Sergio Mattarella',de,Italien,#111111,#111111,1,0.348064632851364
 'Howard Stern',de,unknown,#111111,#111111,1,0.3480072931347571
-'Prinz Archie',de,UK,#e838e8,#e838e8,2,0.3479940878340194
 'Papst Benedikt XVI',de,Vatikan,#58b8e8,#58b8e8,3,0.3477727142280949
 'Oliver Blume',de,Deutschland,#1818e8,#1818e8,3,0.3473573152089714
 'David Beckham',de,unknown,#111111,#111111,2,0.3472728331036501
@@ -548,9 +548,9 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Johan Rockström',de,unknown,#111111,#111111,1,0.2888178464237499
 'Wolfgang Benz',de,Deutschland,#1818e8,#1818e8,2,0.2886971390918749
 'Kyle Pope',de,unknown,#111111,#111111,1,0.2873809652499999
+'Tasneem Essop',de,unknown,#111111,#111111,1,0.2871034374999999
 'Elizabeth Mpofu',de,unknown,#111111,#111111,1,0.2871034374999999
 'Autumn Peltier',de,unknown,#111111,#111111,1,0.2871034374999999
-'Tasneem Essop',de,unknown,#111111,#111111,1,0.2871034374999999
 'King Charles III',de,UK,#e838e8,#e838e8,2,0.2866234463454403
 'Kemal Klçdarolu',de,Türkei,#111111,#111111,3,0.2862786906655112
 'Irina Shayk',de,unknown,#111111,#111111,1,0.2862041984387367
@@ -830,7 +830,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Sergej Lavrov',de,Russland,#e81818,#e81818,1,0.0922427569981809
 'Volodymyr Zelenskiy',de,Ukraine,#e818e8,#e818e8,1,0.0920387840292876
 'Schellnhuber',de,Deutschland,#1818e8,#1818e8,2,0.0888831888990715
-'Andrew Forrest',de,Australien,#111111,#111111,1,0.08692260477120643
+'Andrew Forrest',de,Australien,#111111,#111111,1,0.0869226047712064
 'Millie Mackintosh',de,UK,#e838e8,#e838e8,1,0.085870735393038
 'Jair Lapid',de,Israel,#111111,#111111,2,0.0844764238559419
 'Julia Koch',de,USA,#18e8e8,#18e8e8,1,0.0809323051175894
