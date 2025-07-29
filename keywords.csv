@@ -131,9 +131,9 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Brad Pitt',de,unknown,#111111,#111111,3,0.3710453943357749
 'Jennifer Morgan',de,unknown,#111111,#111111,1,0.37016866935
 'Kanye West',de,USA,#18e8e8,#18e8e8,2,0.3699310048162996
+'Tulsin Gabbard',de,USA,#18e8e8,#18e8e8,1,0.368475
 'Melanie Guttmann',de,unknown,#111111,#111111,1,0.368475
 'Kara Hurst',de,unknown,#111111,#111111,1,0.368475
-'Tulsin Gabbard',de,USA,#18e8e8,#18e8e8,1,0.368475
 'Gisele Bündchen',de,unknown,#111111,#111111,1,0.3681667345911786
 'Mark Cuban',de,unknown,#111111,#111111,1,0.3680325601765618
 'Matt Gaetz',de,USA,#18e8e8,#18e8e8,1,0.3677511801014491
@@ -550,8 +550,8 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Wolfgang Benz',de,Deutschland,#1818e8,#1818e8,2,0.2886971390918749
 'Kyle Pope',de,unknown,#111111,#111111,1,0.2873809652499999
 'Tasneem Essop',de,unknown,#111111,#111111,1,0.2871034374999999
-'Autumn Peltier',de,unknown,#111111,#111111,1,0.2871034374999999
 'Elizabeth Mpofu',de,unknown,#111111,#111111,1,0.2871034374999999
+'Autumn Peltier',de,unknown,#111111,#111111,1,0.2871034374999999
 'King Charles III',de,UK,#e838e8,#e838e8,2,0.2866234463454403
 'Kemal Klçdarolu',de,Türkei,#111111,#111111,3,0.2862786906655112
 'Irina Shayk',de,unknown,#111111,#111111,1,0.2862041984387367
@@ -589,7 +589,6 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Leonard Bernstein',de,unknown,#111111,#111111,1,0.2686635300096801
 'Tiffany Chen',de,USA,#18e8e8,#18e8e8,1,0.2686473692574801
 'Chuck Todd',de,USA,#18e8e8,#18e8e8,1,0.2682463178339374
-'Cassidy Hutchinson',de,unknown,#111111,#111111,1,0.2675000540999462
 'John Rawls',de,USA,#18e8e8,#18e8e8,1,0.2670624057850483
 'Missy Motown',de,Deutschland,#1818e8,#1818e8,1,0.2665211478169687
 'Sophia Chikirou',de,unknown,#111111,#111111,1,0.2657529431474223
@@ -617,9 +616,9 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Joy Behar',de,unknown,#111111,#111111,1,0.2613835210494998
 'Michael Sandel',de,USA,#18e8e8,#18e8e8,1,0.2613727915493749
 'Yannick Morez',de,Frankreich,#e8e808,#e8e808,1,0.2613727915493749
+'Andrei Nikolajewitsch Kolmogorow',de,Russland,#e81818,#e81818,1,0.2610031249999999
 'Thomas Bayes',de,UK,#e838e8,#e838e8,1,0.2610031249999999
 'Aurélien Pradié',de,Frankreich,#e8e808,#e8e808,1,0.2610031249999999
-'Andrei Nikolajewitsch Kolmogorow',de,Russland,#e81818,#e81818,1,0.2610031249999999
 'Drena De Niro',de,USA,#18e8e8,#18e8e8,1,0.2589841040928874
 'Olli Schulz',de,Deutschland,#1818e8,#1818e8,1,0.2581620659183204
 'Kemal Kilicdaroglu',de,Türkei,#111111,#111111,1,0.2574383858305537
@@ -637,9 +636,9 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Aleksandar Vučić',de,Serbien,#111111,#111111,1,0.2475641918843009
 'Bodo Ramelow',de,Deutschland,#1818e8,#1818e8,3,0.2453353013898
 'Warren Buffett',de,USA,#18e8e8,#18e8e8,3,0.2452349491296017
-'Sophia Kianni',de,unknown,#111111,#111111,1,0.2440379218749999
 'Mark Hertsgaard',de,unknown,#111111,#111111,1,0.2440379218749999
 'Helena Gualinga',de,unknown,#111111,#111111,1,0.2440379218749999
+'Sophia Kianni',de,unknown,#111111,#111111,1,0.2440379218749999
 'Michael Ballweg',de,Deutschland,#1818e8,#1818e8,2,0.243835655473395
 'Jordan Bardella',de,Frankreich,#e8e808,#e8e808,2,0.24314759164691
 'Antony Blinken',de,USA,#18e8e8,#18e8e8,3,0.2429984226351256
@@ -668,6 +667,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Alfred Nobel',de,Schweden,#111111,#111111,2,0.2289984865447472
 'Edward Snowden',de,USA,#18e8e8,#18e8e8,2,0.2285994919847821
 'Giorgia Meloni',de,Italien,#111111,#111111,3,0.2276149926050359
+'Cassidy Hutchinson',de,unknown,#111111,#111111,1,0.22737504598495425
 'Anthony Fauci',de,USA,#18e8e8,#18e8e8,2,0.2269620774905906
 'Alexander Lukaschenko',de,Belarus,#e81858,#e81858,3,0.2268541715039604
 'Mohammed bin Salman',de,SaudiArabien,#111111,#111111,3,0.2258793669860262
@@ -738,8 +738,8 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'John Paul II',de,Vatikan,#58b8e8,#58b8e8,1,0.1909779816132217
 'Viktor Orbán',de,Ungarn,#111111,#111111,3,0.1906656388016203
 'Richard Ferrand',de,Frankreich,#e8e808,#e8e808,1,0.1886831436499999
-'Detlef Garbe',de,Deutschland,#1818e8,#1818e8,1,0.1885747578124999
 'Robert Nozick',de,USA,#18e8e8,#18e8e8,1,0.1885747578124999
+'Detlef Garbe',de,Deutschland,#1818e8,#1818e8,1,0.1885747578124999
 'Lukaschenko',de,Belarus,#e81858,#e81858,3,0.1883763872446562
 'Paul Kagame',de,Ruanda,#111111,#111111,1,0.1878978150731675
 'Bruno Kahl',de,Deutschland,#1818e8,#1818e8,1,0.1874586810087321
