@@ -149,7 +149,6 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Tim Malone',de,unknown,#111111,#111111,1,0.3637004088810685
 'Dmitri Medwedew',de,Russland,#e81818,#e81818,3,0.3629447742282953
 'Al Pacino',de,USA,#18e8e8,#18e8e8,2,0.3623532874881727
-'Gavin Newsom',de,unknown,#111111,#111111,2,0.3618673609089829
 'Richard David Precht',de,Deutschland,#1818e8,#1818e8,2,0.3610551881034481
 'Hillary Clinton',de,USA,#18e8e8,#18e8e8,2,0.3605505871415456
 'Mathias Döpfner',de,Deutschland,#1818e8,#1818e8,2,0.3602330955687252
@@ -175,6 +174,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Papst Franziskus',de,Vatikan,#58b8e8,#58b8e8,3,0.3533304227524075
 'Henry Ford',de,USA,#18e8e8,#18e8e8,2,0.3532526445074856
 'Pietro Lombardi',de,Deutschland,#1818e8,#1818e8,2,0.3528292534756288
+'Gavin Newsom',de,unknown,#111111,#111111,2,0.35254510462977834
 'Christine Lambrecht',de,Deutschland,#1818e8,#1818e8,1,0.3525324410470851
 'Markus Söder',de,Deutschland,#1818e8,#1818e8,3,0.3521576488101917
 'Mareike Fallwickl',de,unknown,#111111,#111111,1,0.3516692847968271
@@ -469,13 +469,13 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Anya Taylor-Joy',de,unknown,#111111,#111111,1,0.3074427229074222
 'Hailey Van Lith',de,unknown,#111111,#111111,1,0.3073428164403671
 'Tina Turner',de,USA,#18e8e8,#18e8e8,2,0.3071313274660581
-'Patti LaBelle',de,USA,#18e8e8,#18e8e8,1,0.3070624999999999
+'Moon Hyung-jin',de,USA,#18e8e8,#18e8e8,1,0.3070624999999999
 'Gilbert Plass',de,Kanada,#111111,#111111,1,0.3070624999999999
 'Uwe Neumärker',de,Deutschland,#1818e8,#1818e8,1,0.3070624999999999
 'Camille Etienne',de,Frankreich,#e8e808,#e8e808,1,0.3070624999999999
 'Evgueni Prigojine',de,Russland,#e81818,#e81818,1,0.3070624999999999
-'Moon Hyung-jin',de,USA,#18e8e8,#18e8e8,1,0.3070624999999999
 'Kemal Kiliçdaroglu',de,Türkei,#111111,#111111,1,0.3070624999999999
+'Patti LaBelle',de,USA,#18e8e8,#18e8e8,1,0.3070624999999999
 'Pedro Sánchez Pérez-Castejón',de,Spanien,#111111,#111111,1,0.3070624999999999
 'Leon Botstein',de,USA,#18e8e8,#18e8e8,1,0.3070624999999999
 'Sergei Surovikin',de,Russland,#e81818,#e81818,1,0.3070624999999999
@@ -548,9 +548,9 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Johan Rockström',de,unknown,#111111,#111111,1,0.2888178464237499
 'Wolfgang Benz',de,Deutschland,#1818e8,#1818e8,2,0.2886971390918749
 'Kyle Pope',de,unknown,#111111,#111111,1,0.2873809652499999
+'Autumn Peltier',de,unknown,#111111,#111111,1,0.2871034374999999
 'Elizabeth Mpofu',de,unknown,#111111,#111111,1,0.2871034374999999
 'Tasneem Essop',de,unknown,#111111,#111111,1,0.2871034374999999
-'Autumn Peltier',de,unknown,#111111,#111111,1,0.2871034374999999
 'King Charles III',de,UK,#e838e8,#e838e8,2,0.2866234463454403
 'Kemal Klçdarolu',de,Türkei,#111111,#111111,3,0.2862786906655112
 'Irina Shayk',de,unknown,#111111,#111111,1,0.2862041984387367
