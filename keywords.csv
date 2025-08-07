@@ -9,7 +9,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Francesca Albanese',de,Italien,#111111,#111111,1,0.472618009072446
 'Carsten Schneider',de,Deutschland,#111111,#111111,3,0.4717788604505681
 'Nicusor Dan',de,unknown,#111111,#111111,3,0.4705515108835679
-'Nina Warken',de,Deutschland,#111111,#111111,3,0.46537581769070874
+'Nina Warken',de,Deutschland,#111111,#111111,3,0.4653758176907087
 'Katherina Reiche',de,unknown,#111111,#111111,3,0.4651402408443607
 'Justin Bieber',de,unknown,#111111,#111111,2,0.4633886732629012
 'Wolfram Weimer',de,Deutschland,#111111,#111111,3,0.4621591894043551
@@ -34,7 +34,6 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Verena Hubertz',de,Deutschland,#111111,#111111,3,0.444407288782105
 'Bärbel Bas',de,Deutschland,#111111,#111111,3,0.4424166505450732
 'Taylor Swift',de,unknown,#111111,#111111,3,0.4420385531340839
-'Maria Sacharowa',de,unknown,#111111,#111111,3,0.441716799010909
 'Patrick Schnieder',de,Deutschland,#111111,#111111,3,0.4413514040156818
 'Stefanie Hubig',de,Deutschland,#111111,#111111,3,0.4408121774368011
 'König Charles III',de,UK,#e838e8,#e838e8,3,0.4389822411658918
@@ -78,6 +77,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Jamie Dimon',de,USA,#18e8e8,#18e8e8,3,0.410007532532687
 'Prinz Harry',de,UK,#e838e8,#e838e8,3,0.4097206958770327
 'Jeanne du Barry',de,Frankreich,#e8e808,#e8e808,1,0.4090589406541182
+'Maria Sacharowa',de,unknown,#111111,#111111,3,0.4076832964319999
 'Lionel Messi',de,Argentinien,#111111,#111111,3,0.4075366693924618
 'Hans-Werner Sinn',de,unknown,#111111,#111111,1,0.4071663319978811
 'Curtis Yarvin',de,USA,#111111,#111111,2,0.4070610808663015
@@ -470,13 +470,13 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Anya Taylor-Joy',de,unknown,#111111,#111111,1,0.3074427229074222
 'Hailey Van Lith',de,unknown,#111111,#111111,1,0.3073428164403671
 'Tina Turner',de,USA,#18e8e8,#18e8e8,2,0.3071313274660581
-'Uwe Neumärker',de,Deutschland,#1818e8,#1818e8,1,0.3070624999999999
+'Kemal Kiliçdaroglu',de,Türkei,#111111,#111111,1,0.3070624999999999
 'Sergei Surovikin',de,Russland,#e81818,#e81818,1,0.3070624999999999
 'Dorothée Pacaud',de,Frankreich,#e8e808,#e8e808,1,0.3070624999999999
 'Moon Hyung-jin',de,USA,#18e8e8,#18e8e8,1,0.3070624999999999
 'Pedro Sánchez Pérez-Castejón',de,Spanien,#111111,#111111,1,0.3070624999999999
-'Kemal Kiliçdaroglu',de,Türkei,#111111,#111111,1,0.3070624999999999
 'Camille Etienne',de,Frankreich,#e8e808,#e8e808,1,0.3070624999999999
+'Uwe Neumärker',de,Deutschland,#1818e8,#1818e8,1,0.3070624999999999
 'Evgueni Prigojine',de,Russland,#e81818,#e81818,1,0.3070624999999999
 'Gilbert Plass',de,Kanada,#111111,#111111,1,0.3070624999999999
 'Patti LaBelle',de,USA,#18e8e8,#18e8e8,1,0.3070624999999999
@@ -551,9 +551,9 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Johan Rockström',de,unknown,#111111,#111111,1,0.2888178464237499
 'Wolfgang Benz',de,Deutschland,#1818e8,#1818e8,2,0.2886971390918749
 'Kyle Pope',de,unknown,#111111,#111111,1,0.2873809652499999
-'Autumn Peltier',de,unknown,#111111,#111111,1,0.2871034374999999
 'Elizabeth Mpofu',de,unknown,#111111,#111111,1,0.2871034374999999
 'Tasneem Essop',de,unknown,#111111,#111111,1,0.2871034374999999
+'Autumn Peltier',de,unknown,#111111,#111111,1,0.2871034374999999
 'King Charles III',de,UK,#e838e8,#e838e8,2,0.2866234463454403
 'Kemal Klçdarolu',de,Türkei,#111111,#111111,3,0.2862786906655112
 'Irina Shayk',de,unknown,#111111,#111111,1,0.2862041984387367
@@ -618,9 +618,9 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Joy Behar',de,unknown,#111111,#111111,1,0.2613835210494998
 'Michael Sandel',de,USA,#18e8e8,#18e8e8,1,0.2613727915493749
 'Yannick Morez',de,Frankreich,#e8e808,#e8e808,1,0.2613727915493749
-'Thomas Bayes',de,UK,#e838e8,#e838e8,1,0.2610031249999999
 'Aurélien Pradié',de,Frankreich,#e8e808,#e8e808,1,0.2610031249999999
 'Andrei Nikolajewitsch Kolmogorow',de,Russland,#e81818,#e81818,1,0.2610031249999999
+'Thomas Bayes',de,UK,#e838e8,#e838e8,1,0.2610031249999999
 'Drena De Niro',de,USA,#18e8e8,#18e8e8,1,0.2589841040928874
 'Olli Schulz',de,Deutschland,#1818e8,#1818e8,1,0.2581620659183204
 'Kemal Kilicdaroglu',de,Türkei,#111111,#111111,1,0.2574383858305537
