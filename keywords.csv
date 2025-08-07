@@ -484,7 +484,6 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'James Biden',de,unknown,#111111,#111111,1,0.3066660486555579
 'Hugh Grant',de,unknown,#111111,#111111,1,0.3065820265437723
 'Phoebe Bridgers',de,unknown,#111111,#111111,1,0.3061582359684123
-'Robert De Niro',de,USA,#18e8e8,#18e8e8,2,0.3060695941168784
 'Fani Willis',de,unknown,#111111,#111111,1,0.3057556741101219
 'Ottmar Edenhofer',de,Deutschland,#1818e8,#1818e8,1,0.3055938899032187
 'Chris Christie',de,USA,#18e8e8,#18e8e8,1,0.3054563079162981
@@ -514,6 +513,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Wagner-Chef Prigoschin',de,unknown,#111111,#111111,1,0.3005826903416531
 'Billionaire Bunker',de,unknown,#111111,#111111,1,0.3004110100554322
 'Charlie Munger',de,unknown,#111111,#111111,2,0.3000078607467918
+'Robert De Niro',de,USA,#18e8e8,#18e8e8,2,0.2999095299993466
 'Marine Le Pen',de,Frankreich,#e8e808,#e8e808,2,0.2998011284948891
 'Lindsey Graham',de,USA,#18e8e8,#18e8e8,2,0.2996537847853618
 'Noor Alfallah',de,USA,#18e8e8,#18e8e8,1,0.2995170758189093
@@ -617,10 +617,10 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Joy Behar',de,unknown,#111111,#111111,1,0.2613835210494998
 'Yannick Morez',de,Frankreich,#e8e808,#e8e808,1,0.2613727915493749
 'Michael Sandel',de,USA,#18e8e8,#18e8e8,1,0.2613727915493749
-'Andrei Nikolajewitsch Kolmogorow',de,Russland,#e81818,#e81818,1,0.2610031249999999
 'Thomas Bayes',de,UK,#e838e8,#e838e8,1,0.2610031249999999
-'Leon Botstein',de,USA,#18e8e8,#18e8e8,1,0.2610031249999999
+'Andrei Nikolajewitsch Kolmogorow',de,Russland,#e81818,#e81818,1,0.2610031249999999
 'Aurélien Pradié',de,Frankreich,#e8e808,#e8e808,1,0.2610031249999999
+'Leon Botstein',de,USA,#18e8e8,#18e8e8,1,0.2610031249999999
 'Drena De Niro',de,USA,#18e8e8,#18e8e8,1,0.2589841040928874
 'Olli Schulz',de,Deutschland,#1818e8,#1818e8,1,0.2581620659183204
 'Kemal Kilicdaroglu',de,Türkei,#111111,#111111,1,0.2574383858305537
