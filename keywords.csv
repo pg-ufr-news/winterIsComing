@@ -197,7 +197,6 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Roger Federer',de,unknown,#111111,#111111,2,0.3495687619473051
 'Jennifer Lopez',de,unknown,#111111,#111111,2,0.3494722141628607
 'Le Pen',de,Frankreich,#e8e808,#e8e808,2,0.3494652522939771
-"'Dwayne ""The Rock"" Johnson'",de,unknown,#111111,#111111,1,0.3493194144580334
 'Jon Hamm',de,unknown,#111111,#111111,2,0.349304769445755
 'Jane Fonda',de,unknown,#111111,#111111,2,0.348890543617778
 'Mick Jagger',de,unknown,#111111,#111111,2,0.3487741528373718
@@ -259,6 +258,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Jessica Biel',de,unknown,#111111,#111111,1,0.3398714946319249
 'Edouard Philippe',de,unknown,#111111,#111111,1,0.3398353973977896
 'Adam Driver',de,unknown,#111111,#111111,2,0.3396566918350179
+"'Dwayne ""The Rock"" Johnson'",de,unknown,#111111,#111111,1,0.3394807581984193
 'Demi Moore',de,unknown,#111111,#111111,1,0.3392251437226538
 'Peter Breuer',de,unknown,#111111,#111111,1,0.3391905284743749
 'Jimmy Kimmel',de,unknown,#111111,#111111,2,0.33901308035491
@@ -617,10 +617,10 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Joy Behar',de,unknown,#111111,#111111,1,0.2613835210494998
 'Yannick Morez',de,Frankreich,#e8e808,#e8e808,1,0.2613727915493749
 'Michael Sandel',de,USA,#18e8e8,#18e8e8,1,0.2613727915493749
-'Thomas Bayes',de,UK,#e838e8,#e838e8,1,0.2610031249999999
 'Andrei Nikolajewitsch Kolmogorow',de,Russland,#e81818,#e81818,1,0.2610031249999999
-'Aurélien Pradié',de,Frankreich,#e8e808,#e8e808,1,0.2610031249999999
+'Thomas Bayes',de,UK,#e838e8,#e838e8,1,0.2610031249999999
 'Leon Botstein',de,USA,#18e8e8,#18e8e8,1,0.2610031249999999
+'Aurélien Pradié',de,Frankreich,#e8e808,#e8e808,1,0.2610031249999999
 'Drena De Niro',de,USA,#18e8e8,#18e8e8,1,0.2589841040928874
 'Olli Schulz',de,Deutschland,#1818e8,#1818e8,1,0.2581620659183204
 'Kemal Kilicdaroglu',de,Türkei,#111111,#111111,1,0.2574383858305537
