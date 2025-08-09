@@ -531,7 +531,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Paul-Henry Nargeolet',de,Frankreich,#e8e808,#e8e808,1,0.2971865992805472
 'Matt Winkelmeyer',de,unknown,#111111,#111111,1,0.2955809847228575
 'Finnegan Biden',de,USA,#18e8e8,#18e8e8,1,0.2952764855582953
-'Kim Reynolds',de,unknown,#111111,#111111,1,0.29509851943958987
+'Kim Reynolds',de,unknown,#111111,#111111,1,0.2950985194395898
 'King Charles',de,UK,#e838e8,#e838e8,3,0.294948075164018
 'Holger Friedrich',de,Deutschland,#1818e8,#1818e8,2,0.294764753538385
 'George Santos',de,USA,#18e8e8,#18e8e8,1,0.2946880317394295
@@ -617,10 +617,10 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Joy Behar',de,unknown,#111111,#111111,1,0.2613835210494998
 'Yannick Morez',de,Frankreich,#e8e808,#e8e808,1,0.2613727915493749
 'Michael Sandel',de,USA,#18e8e8,#18e8e8,1,0.2613727915493749
-'Thomas Bayes',de,UK,#e838e8,#e838e8,1,0.2610031249999999
 'Andrei Nikolajewitsch Kolmogorow',de,Russland,#e81818,#e81818,1,0.2610031249999999
-'Leon Botstein',de,USA,#18e8e8,#18e8e8,1,0.2610031249999999
+'Thomas Bayes',de,UK,#e838e8,#e838e8,1,0.2610031249999999
 'Aurélien Pradié',de,Frankreich,#e8e808,#e8e808,1,0.2610031249999999
+'Leon Botstein',de,USA,#18e8e8,#18e8e8,1,0.2610031249999999
 'Drena De Niro',de,USA,#18e8e8,#18e8e8,1,0.2589841040928874
 'Olli Schulz',de,Deutschland,#1818e8,#1818e8,1,0.2581620659183204
 'Kemal Kilicdaroglu',de,Türkei,#111111,#111111,1,0.2574383858305537
@@ -674,7 +674,6 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Anthony Fauci',de,USA,#18e8e8,#18e8e8,2,0.2269620774905906
 'Alexander Lukaschenko',de,Belarus,#e81858,#e81858,3,0.2268541715039604
 'Mohammed bin Salman',de,SaudiArabien,#111111,#111111,3,0.2258793669860262
-'Maybritt Illner',de,Deutschland,#1818e8,#1818e8,2,0.2257631777887987
 'Suleika Jaouad',de,unknown,#111111,#111111,1,0.2254884024661918
 'Kamilla Cardoso',de,unknown,#111111,#111111,1,0.2248101359123532
 'Wolfgang Schäuble',de,Deutschland,#1818e8,#1818e8,2,0.223148145735664
@@ -734,6 +733,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Frank-Walter Steinmeier',de,Deutschland,#1818e8,#1818e8,3,0.1937903750239842
 'Jacinda Ardern',de,Neuseeland,#1818e8,#1818e8,1,0.1936528852271206
 'Stefan Rahmstorf',de,Deutschland,#1818e8,#1818e8,2,0.193634442976254
+'Maybritt Illner',de,Deutschland,#1818e8,#1818e8,2,0.19204871612047889
 'Greta Thunberg',de,Schweden,#111111,#111111,3,0.192022202079363
 'Justin Trudeau',de,Kanada,#111111,#111111,3,0.1917123561759453
 'Franziska Giffey',de,Deutschland,#1818e8,#1818e8,3,0.1916232707710685
