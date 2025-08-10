@@ -92,7 +92,6 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Markus Lanz',de,Deutschland,#1818e8,#1818e8,3,0.4009753206816529
 'Angelina Jolie',de,unknown,#111111,#111111,3,0.3982170079077149
 'Matty Healy',de,unknown,#111111,#111111,2,0.3974760845937911
-'Jake Gyllenhaal',de,unknown,#111111,#111111,1,0.397228093949968
 'Cara Delevingne',de,unknown,#111111,#111111,2,0.3971482495449504
 'Novak Djokovic',de,unknown,#111111,#111111,3,0.3944042700580656
 'Bruce Springsteen',de,USA,#18e8e8,#18e8e8,3,0.3928694685110422
@@ -131,9 +130,9 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Brad Pitt',de,unknown,#111111,#111111,3,0.3710453943357749
 'Jennifer Morgan',de,unknown,#111111,#111111,1,0.37016866935
 'Kanye West',de,USA,#18e8e8,#18e8e8,2,0.3699310048162996
+'Tulsin Gabbard',de,USA,#18e8e8,#18e8e8,1,0.368475
 'Melanie Guttmann',de,unknown,#111111,#111111,1,0.368475
 'Kara Hurst',de,unknown,#111111,#111111,1,0.368475
-'Tulsin Gabbard',de,USA,#18e8e8,#18e8e8,1,0.368475
 'Gisele Bündchen',de,unknown,#111111,#111111,1,0.3681667345911786
 'Mark Cuban',de,unknown,#111111,#111111,1,0.3680325601765618
 'Matt Gaetz',de,USA,#18e8e8,#18e8e8,1,0.3677511801014491
@@ -154,6 +153,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Richard David Precht',de,Deutschland,#1818e8,#1818e8,2,0.3610551881034481
 'Hillary Clinton',de,USA,#18e8e8,#18e8e8,2,0.3605505871415456
 'Mathias Döpfner',de,Deutschland,#1818e8,#1818e8,2,0.3602330955687252
+'Jake Gyllenhaal',de,unknown,#111111,#111111,2,0.3599942398574728
 'Charles III',de,UK,#e838e8,#e838e8,3,0.3593281816899613
 'Charlize Theron',de,unknown,#111111,#111111,2,0.3593243451170425
 'Maybrit Illner',de,Deutschland,#1818e8,#1818e8,3,0.3584663357772553
@@ -375,7 +375,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Gabriel Attal',de,unknown,#111111,#111111,1,0.3178812386928707
 'Sabrina Carpenter',de,unknown,#111111,#111111,2,0.3178563078950366
 'Laurent Berger',de,Frankreich,#e8e808,#e8e808,1,0.3178259788125
-'Alyssa Farah Griffin',de,unknown,#111111,#111111,1,0.31770906065090254
+'Alyssa Farah Griffin',de,unknown,#111111,#111111,1,0.3177090606509025
 'Justin Timberlake',de,unknown,#111111,#111111,1,0.3177061871398802
 'Carter Reum',de,unknown,#111111,#111111,1,0.3176653497836528
 'George Simion',de,unknown,#111111,#111111,2,0.3173139109309466
@@ -617,10 +617,10 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Joy Behar',de,unknown,#111111,#111111,1,0.2613835210494998
 'Yannick Morez',de,Frankreich,#e8e808,#e8e808,1,0.2613727915493749
 'Michael Sandel',de,USA,#18e8e8,#18e8e8,1,0.2613727915493749
-'Andrei Nikolajewitsch Kolmogorow',de,Russland,#e81818,#e81818,1,0.2610031249999999
 'Thomas Bayes',de,UK,#e838e8,#e838e8,1,0.2610031249999999
-'Aurélien Pradié',de,Frankreich,#e8e808,#e8e808,1,0.2610031249999999
+'Andrei Nikolajewitsch Kolmogorow',de,Russland,#e81818,#e81818,1,0.2610031249999999
 'Leon Botstein',de,USA,#18e8e8,#18e8e8,1,0.2610031249999999
+'Aurélien Pradié',de,Frankreich,#e8e808,#e8e808,1,0.2610031249999999
 'Drena De Niro',de,USA,#18e8e8,#18e8e8,1,0.2589841040928874
 'Olli Schulz',de,Deutschland,#1818e8,#1818e8,1,0.2581620659183204
 'Kemal Kilicdaroglu',de,Türkei,#111111,#111111,1,0.2574383858305537
