@@ -1,5 +1,4 @@
 keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
-'Hailey Bieber',de,unknown,#111111,#111111,3,0.4882224558817521
 'Pete Hegseth',de,USA,#18e8e8,#18e8e8,3,0.477311181857682
 'Karsten Wildberger',de,Deutschland,#111111,#111111,3,0.4763195421735227
 'Heidi Klum',de,unknown,#111111,#111111,3,0.4744143082529407
@@ -48,8 +47,8 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Hunter Biden',de,USA,#18e8e8,#18e8e8,3,0.4316146975151727
 'Zohran Mamdani',de,USA,#18e8e8,#18e8e8,2,0.431521233377355
 'Anant Ambani',de,unknown,#111111,#111111,1,0.4303713349329046
-'Gwede Mantashe',de,unknown,#111111,#111111,1,0.4298874999999999
 'Steffen Kotre',de,unknown,#111111,#111111,1,0.4298874999999999
+'Gwede Mantashe',de,unknown,#111111,#111111,1,0.4298874999999999
 'Mahmud Abbas',de,Palistina,#111111,#111111,1,0.4296216237249999
 'Lyna Khoudri',de,unknown,#111111,#111111,1,0.428765424897154
 'Léon XIV',de,unknown,#111111,#111111,1,0.4286453061016347
@@ -71,6 +70,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Marco Rubio',de,USA,#18e8e8,#18e8e8,3,0.4172785428762759
 'Keith Kellogg',de,unknown,#111111,#111111,3,0.4168075239863454
 'Ayatollah Khomeini',de,Iran,#111111,#111111,1,0.4164227810925
+'Hailey Bieber',de,unknown,#111111,#111111,2,0.41498962749948926
 'Andrew Cuomo',de,unknown,#111111,#111111,1,0.413879254795491
 'Lauren Sanchez',de,USA,#18e8e8,#18e8e8,2,0.4119096022496929
 'Prinzessin Diana',de,UK,#e838e8,#e838e8,3,0.4113250188639386
@@ -617,10 +617,10 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Joy Behar',de,unknown,#111111,#111111,1,0.2613835210494998
 'Yannick Morez',de,Frankreich,#e8e808,#e8e808,1,0.2613727915493749
 'Michael Sandel',de,USA,#18e8e8,#18e8e8,1,0.2613727915493749
-'Thomas Bayes',de,UK,#e838e8,#e838e8,1,0.2610031249999999
 'Andrei Nikolajewitsch Kolmogorow',de,Russland,#e81818,#e81818,1,0.2610031249999999
-'Leon Botstein',de,USA,#18e8e8,#18e8e8,1,0.2610031249999999
+'Thomas Bayes',de,UK,#e838e8,#e838e8,1,0.2610031249999999
 'Aurélien Pradié',de,Frankreich,#e8e808,#e8e808,1,0.2610031249999999
+'Leon Botstein',de,USA,#18e8e8,#18e8e8,1,0.2610031249999999
 'Drena De Niro',de,USA,#18e8e8,#18e8e8,1,0.2589841040928874
 'Olli Schulz',de,Deutschland,#1818e8,#1818e8,1,0.2581620659183204
 'Kemal Kilicdaroglu',de,Türkei,#111111,#111111,1,0.2574383858305537
