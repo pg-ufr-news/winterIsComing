@@ -55,6 +55,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Reem Alabali-Radovan',de,Deutschland,#111111,#111111,2,0.4267650632470692
 'Laura Maria Rypa',de,unknown,#111111,#111111,2,0.4264934014097468
 'Benjamin Hasselhorn',de,unknown,#111111,#111111,1,0.4264189719098435
+'Marine Le Pen',de,Frankreich,#e8e808,#e8e808,3,0.42598804939878787
 'Tom Kaulitz',de,unknown,#111111,#111111,3,0.4250693804255765
 'Alexander Dobrindt',de,Deutschland,#111111,#111111,3,0.4249562895542215
 'Christian Lindner',de,Deutschland,#1818e8,#1818e8,3,0.4221742693116409
@@ -65,7 +66,6 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Prinz William',de,UK,#e838e8,#e838e8,3,0.4181851286922151
 'Mohammad Mustafa',de,Palistina,#111111,#111111,1,0.4178634135875
 'Benny Blanco',de,unknown,#111111,#111111,2,0.417700357465754
-'Marine Le Pen',de,Frankreich,#e8e808,#e8e808,3,0.4174195178447278
 'Friedrich Merz',de,Deutschland,#1818e8,#1818e8,3,0.4173554604549946
 'Marco Rubio',de,USA,#18e8e8,#18e8e8,3,0.4172785428762759
 'Keith Kellogg',de,unknown,#111111,#111111,3,0.4168075239863454
@@ -617,10 +617,10 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Joy Behar',de,unknown,#111111,#111111,1,0.2613835210494998
 'Yannick Morez',de,Frankreich,#e8e808,#e8e808,1,0.2613727915493749
 'Michael Sandel',de,USA,#18e8e8,#18e8e8,1,0.2613727915493749
-'Thomas Bayes',de,UK,#e838e8,#e838e8,1,0.2610031249999999
 'Andrei Nikolajewitsch Kolmogorow',de,Russland,#e81818,#e81818,1,0.2610031249999999
-'Leon Botstein',de,USA,#18e8e8,#18e8e8,1,0.2610031249999999
+'Thomas Bayes',de,UK,#e838e8,#e838e8,1,0.2610031249999999
 'Aurélien Pradié',de,Frankreich,#e8e808,#e8e808,1,0.2610031249999999
+'Leon Botstein',de,USA,#18e8e8,#18e8e8,1,0.2610031249999999
 'Drena De Niro',de,USA,#18e8e8,#18e8e8,1,0.2589841040928874
 'Olli Schulz',de,Deutschland,#1818e8,#1818e8,1,0.2581620659183204
 'Kemal Kilicdaroglu',de,Türkei,#111111,#111111,1,0.2574383858305537
