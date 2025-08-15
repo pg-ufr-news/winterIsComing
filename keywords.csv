@@ -1,5 +1,4 @@
 keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
-'Heidi Klum',de,unknown,#111111,#111111,3,0.4854764342877268
 'Elon Musk',de,USA,#18e8e8,#18e8e8,3,0.47437108494852
 'Francesca Albanese',de,Italien,#111111,#111111,1,0.472618009072446
 'Nicusor Dan',de,unknown,#111111,#111111,3,0.4705515108835679
@@ -12,6 +11,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Dorothee Bär',de,Deutschland,#111111,#111111,3,0.4575806565087384
 'Olaf Scholz',de,Deutschland,#1818e8,#1818e8,3,0.4552597466956932
 'Maria Kolesnikowa',de,Belarus,#e81858,#e81858,2,0.4548845039503069
+'Heidi Klum',de,unknown,#111111,#111111,3,0.45397025550820413
 'Jonathan Roumie',de,unknown,#111111,#111111,1,0.453110821488241
 'Henry Samuel',de,unknown,#111111,#111111,1,0.4516510993418303
 'Theodor Herzl',de,Ungarn,#111111,#111111,1,0.4505901651875
@@ -88,7 +88,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Queen Elizabeth II',de,UK,#e838e8,#e838e8,3,0.4042501247784115
 'Boris Rhein',de,unknown,#111111,#111111,3,0.4021595062179146
 'Nina Gummich',de,Deutschland,#1818e8,#1818e8,1,0.4018190275418192
-'Carsten Schneider',de,Deutschland,#111111,#111111,2,0.40101296138298287
+'Carsten Schneider',de,Deutschland,#111111,#111111,2,0.4010129613829828
 'Markus Lanz',de,Deutschland,#1818e8,#1818e8,3,0.4009753206816529
 'Angelina Jolie',de,unknown,#111111,#111111,3,0.3982170079077149
 'Matty Healy',de,unknown,#111111,#111111,2,0.3974760845937911
@@ -131,9 +131,9 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Brad Pitt',de,unknown,#111111,#111111,3,0.3710453943357749
 'Jennifer Morgan',de,unknown,#111111,#111111,1,0.37016866935
 'Kanye West',de,USA,#18e8e8,#18e8e8,2,0.3699310048162996
+'Melanie Guttmann',de,unknown,#111111,#111111,1,0.368475
 'Tulsin Gabbard',de,USA,#18e8e8,#18e8e8,1,0.368475
 'Kara Hurst',de,unknown,#111111,#111111,1,0.368475
-'Melanie Guttmann',de,unknown,#111111,#111111,1,0.368475
 'Gisele Bündchen',de,unknown,#111111,#111111,1,0.3681667345911786
 'Mark Cuban',de,unknown,#111111,#111111,1,0.3680325601765618
 'Matt Gaetz',de,USA,#18e8e8,#18e8e8,1,0.3677511801014491
@@ -551,9 +551,9 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Johan Rockström',de,unknown,#111111,#111111,1,0.2888178464237499
 'Wolfgang Benz',de,Deutschland,#1818e8,#1818e8,2,0.2886971390918749
 'Kyle Pope',de,unknown,#111111,#111111,1,0.2873809652499999
-'Tasneem Essop',de,unknown,#111111,#111111,1,0.2871034374999999
 'Elizabeth Mpofu',de,unknown,#111111,#111111,1,0.2871034374999999
 'Autumn Peltier',de,unknown,#111111,#111111,1,0.2871034374999999
+'Tasneem Essop',de,unknown,#111111,#111111,1,0.2871034374999999
 'King Charles III',de,UK,#e838e8,#e838e8,2,0.2866234463454403
 'Kemal Klçdarolu',de,Türkei,#111111,#111111,3,0.2862786906655112
 'Irina Shayk',de,unknown,#111111,#111111,1,0.2862041984387367
