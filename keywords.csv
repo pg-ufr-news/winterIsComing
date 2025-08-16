@@ -78,7 +78,6 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Jeanne du Barry',de,Frankreich,#e8e808,#e8e808,1,0.4090589406541182
 'Maria Sacharowa',de,unknown,#111111,#111111,3,0.4076832964319999
 'Lionel Messi',de,Argentinien,#111111,#111111,3,0.4075366693924618
-'Hans-Werner Sinn',de,unknown,#111111,#111111,1,0.4071663319978811
 'Curtis Yarvin',de,USA,#111111,#111111,2,0.4070610808663015
 'JD Vance',de,unknown,#111111,#111111,3,0.4065390643124064
 'Jens Spahn',de,Deutschland,#1818e8,#1818e8,3,0.4056898021593912
@@ -92,6 +91,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Markus Lanz',de,Deutschland,#1818e8,#1818e8,3,0.4009753206816529
 'Matty Healy',de,unknown,#111111,#111111,2,0.3974760845937911
 'Cara Delevingne',de,unknown,#111111,#111111,2,0.3971482495449504
+'Hans-Werner Sinn',de,unknown,#111111,#111111,1,0.3965414271981989
 'Novak Djokovic',de,unknown,#111111,#111111,3,0.3944042700580656
 'Bruce Springsteen',de,USA,#18e8e8,#18e8e8,3,0.3928694685110422
 'Le Pen',de,Frankreich,#e8e808,#e8e808,3,0.3913973412427983
@@ -131,9 +131,9 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Angelina Jolie',de,unknown,#111111,#111111,3,0.370707678994285
 'Jennifer Morgan',de,unknown,#111111,#111111,1,0.37016866935
 'Kanye West',de,USA,#18e8e8,#18e8e8,2,0.3699310048162996
+'Kara Hurst',de,unknown,#111111,#111111,1,0.368475
 'Melanie Guttmann',de,unknown,#111111,#111111,1,0.368475
 'Tulsin Gabbard',de,USA,#18e8e8,#18e8e8,1,0.368475
-'Kara Hurst',de,unknown,#111111,#111111,1,0.368475
 'Gisele Bündchen',de,unknown,#111111,#111111,1,0.3681667345911786
 'Mark Cuban',de,unknown,#111111,#111111,1,0.3680325601765618
 'Matt Gaetz',de,USA,#18e8e8,#18e8e8,1,0.3677511801014491
@@ -551,9 +551,9 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Johan Rockström',de,unknown,#111111,#111111,1,0.2888178464237499
 'Wolfgang Benz',de,Deutschland,#1818e8,#1818e8,2,0.2886971390918749
 'Kyle Pope',de,unknown,#111111,#111111,1,0.2873809652499999
-'Elizabeth Mpofu',de,unknown,#111111,#111111,1,0.2871034374999999
 'Tasneem Essop',de,unknown,#111111,#111111,1,0.2871034374999999
 'Autumn Peltier',de,unknown,#111111,#111111,1,0.2871034374999999
+'Elizabeth Mpofu',de,unknown,#111111,#111111,1,0.2871034374999999
 'King Charles III',de,UK,#e838e8,#e838e8,2,0.2866234463454403
 'Kemal Klçdarolu',de,Türkei,#111111,#111111,3,0.2862786906655112
 'Irina Shayk',de,unknown,#111111,#111111,1,0.2862041984387367
