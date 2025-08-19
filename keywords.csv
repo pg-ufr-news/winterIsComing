@@ -309,7 +309,6 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Robert Sesselmann',de,Deutschland,#1818e8,#1818e8,1,0.3309552288355772
 'Rainer Maria Woelki',de,Deutschland,#1818e8,#1818e8,2,0.3307132463053499
 'Mukesh Ambani',de,Indien,#111112,#111112,1,0.3306875477457702
-'Pap Ndiaye',de,unknown,#111111,#111111,1,0.3306442422760613
 'Pedro Sánchez',de,Spanien,#111111,#111111,2,0.33056958898218
 'Cem Özdemir',de,Deutschland,#1818e8,#1818e8,3,0.3305644685980167
 'Elizabeth Warren',de,unknown,#111111,#111111,1,0.3304496129445739
@@ -371,8 +370,8 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Malu Dreyer',de,Deutschland,#1818e8,#1818e8,2,0.3196283932160477
 'Radical Optimism',de,unknown,#111111,#111111,1,0.3189596208493618
 'Rosa Parks',de,unknown,#111111,#111111,1,0.3188364661349349
-'Chad Frischmann',de,USA,#18e8e8,#18e8e8,1,0.3184238124999999
 'Lea Bonasera',de,Deutschland,#1818e8,#1818e8,1,0.3184238124999999
+'Chad Frischmann',de,USA,#18e8e8,#18e8e8,1,0.3184238124999999
 'Brittany Mahomes',de,unknown,#111111,#111111,1,0.318209565574466
 'Michelle O\'Neill',de,Irland,#111111,#111111,1,0.3179549730821428
 'Gabriel Attal',de,unknown,#111111,#111111,1,0.3178812386928707
@@ -473,16 +472,16 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Anya Taylor-Joy',de,unknown,#111111,#111111,1,0.3074427229074222
 'Hailey Van Lith',de,unknown,#111111,#111111,1,0.3073428164403671
 'Tina Turner',de,USA,#18e8e8,#18e8e8,2,0.3071313274660581
-'Gilbert Plass',de,Kanada,#111111,#111111,1,0.3070624999999999
-'Camille Etienne',de,Frankreich,#e8e808,#e8e808,1,0.3070624999999999
-'Pedro Sánchez Pérez-Castejón',de,Spanien,#111111,#111111,1,0.3070624999999999
-'Dorothée Pacaud',de,Frankreich,#e8e808,#e8e808,1,0.3070624999999999
 'Moon Hyung-jin',de,USA,#18e8e8,#18e8e8,1,0.3070624999999999
-'Sergei Surovikin',de,Russland,#e81818,#e81818,1,0.3070624999999999
-'Kemal Kiliçdaroglu',de,Türkei,#111111,#111111,1,0.3070624999999999
 'Uwe Neumärker',de,Deutschland,#1818e8,#1818e8,1,0.3070624999999999
-'Evgueni Prigojine',de,Russland,#e81818,#e81818,1,0.3070624999999999
+'Kemal Kiliçdaroglu',de,Türkei,#111111,#111111,1,0.3070624999999999
+'Sergei Surovikin',de,Russland,#e81818,#e81818,1,0.3070624999999999
 'Patti LaBelle',de,USA,#18e8e8,#18e8e8,1,0.3070624999999999
+'Dorothée Pacaud',de,Frankreich,#e8e808,#e8e808,1,0.3070624999999999
+'Pedro Sánchez Pérez-Castejón',de,Spanien,#111111,#111111,1,0.3070624999999999
+'Camille Etienne',de,Frankreich,#e8e808,#e8e808,1,0.3070624999999999
+'Gilbert Plass',de,Kanada,#111111,#111111,1,0.3070624999999999
+'Evgueni Prigojine',de,Russland,#e81818,#e81818,1,0.3070624999999999
 'James Biden',de,unknown,#111111,#111111,1,0.3066660486555579
 'Hugh Grant',de,unknown,#111111,#111111,1,0.3065820265437723
 'Phoebe Bridgers',de,unknown,#111111,#111111,1,0.3061582359684123
@@ -565,6 +564,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Martin Scorsese',de,USA,#18e8e8,#18e8e8,2,0.2822470944260392
 'Robert Oppenheimer',de,USA,#18e8e8,#18e8e8,1,0.281926723587563
 'Gisele Bundchen',de,unknown,#111111,#111111,1,0.2813851824511786
+'Pap Ndiaye',de,unknown,#111111,#111111,1,0.2810476059346521
 'Nicolas Sarkozy',de,unknown,#111111,#111111,1,0.2807440192665528
 'Leandro De Niro Rodriguez',de,USA,#18e8e8,#18e8e8,1,0.2798875148093749
 'Katarina Barley',de,EU,#111111,#111111,2,0.2793682831797998
@@ -685,9 +685,9 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Dieter Salomon',de,Deutschland,#1818e8,#1818e8,1,0.2227647010481206
 'Sergej Lawrow',de,Russland,#e81818,#e81818,3,0.2227381039416028
 'Jean-Jacques Rousseau',de,Schweiz,#111111,#111111,1,0.2223234995640312
+'Pierre-Yves Dermagne',de,Belgien,#111111,#111111,1,0.2218526562499999
 'Yevgeny Prigozhin',de,Russland,#e81818,#e81818,1,0.2218526562499999
 'Megyn Kell',de,USA,#18e8e8,#18e8e8,1,0.2218526562499999
-'Pierre-Yves Dermagne',de,Belgien,#111111,#111111,1,0.2218526562499999
 'Sergej Schoigu',de,Russland,#e81818,#e81818,3,0.2218285882839788
 'Éric Ciotti',de,Frankreich,#e8e808,#e8e808,1,0.2218174972575968
 'Jens Stoltenberg',de,Norwegen,#e818e8,#e818e8,2,0.2205491245117761
