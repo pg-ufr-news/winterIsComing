@@ -131,7 +131,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Angelina Jolie',de,unknown,#111111,#111111,3,0.370707678994285
 'Jennifer Morgan',de,unknown,#111111,#111111,1,0.37016866935
 'Kanye West',de,USA,#18e8e8,#18e8e8,2,0.3699310048162996
-'Lionel Messi',de,Argentinien,#111111,#111111,3,0.36953959216541066
+'Lionel Messi',de,Argentinien,#111111,#111111,3,0.3695395921654106
 'Melanie Guttmann',de,unknown,#111111,#111111,1,0.368475
 'Kara Hurst',de,unknown,#111111,#111111,1,0.368475
 'Tulsin Gabbard',de,USA,#18e8e8,#18e8e8,1,0.368475
@@ -350,6 +350,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Nawaz Sharif',de,unknown,#111111,#111111,1,0.3246164786377746
 'Jan Böhmermann',de,Deutschland,#1818e8,#1818e8,3,0.3245781169422155
 'Ryan Gosling',de,unknown,#111111,#111111,1,0.3244904345271958
+'Alex Jones',de,unknown,#111111,#111111,1,0.3242601977398925
 'Dieter Bohlen',de,Deutschland,#1818e8,#1818e8,3,0.3238343098698971
 'Stanislaw Petrow',de,unknown,#111111,#111111,1,0.3235533595407186
 'Barry Keoghan',de,unknown,#111111,#111111,1,0.3234203642916845
@@ -362,7 +363,6 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Peter Tschentscher',de,Deutschland,#1818e8,#1818e8,2,0.3210594086783664
 'George Miller',de,unknown,#111111,#111111,1,0.3209242798708933
 'Emma Stone',de,unknown,#111111,#111111,1,0.3206859583737348
-'Alex Jones',de,unknown,#111111,#111111,1,0.3205411973410501
 'Margot Robbie',de,unknown,#111111,#111111,2,0.3204927062061609
 'Friederike Otto',de,Deutschland,#1818e8,#1818e8,1,0.320213960246875
 'Chez Krömer',de,Deutschland,#1818e8,#1818e8,1,0.3198003061974999
@@ -685,9 +685,9 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Dieter Salomon',de,Deutschland,#1818e8,#1818e8,1,0.2227647010481206
 'Sergej Lawrow',de,Russland,#e81818,#e81818,3,0.2227381039416028
 'Jean-Jacques Rousseau',de,Schweiz,#111111,#111111,1,0.2223234995640312
+'Pierre-Yves Dermagne',de,Belgien,#111111,#111111,1,0.2218526562499999
 'Yevgeny Prigozhin',de,Russland,#e81818,#e81818,1,0.2218526562499999
 'Megyn Kell',de,USA,#18e8e8,#18e8e8,1,0.2218526562499999
-'Pierre-Yves Dermagne',de,Belgien,#111111,#111111,1,0.2218526562499999
 'Sergej Schoigu',de,Russland,#e81818,#e81818,3,0.2218285882839788
 'Éric Ciotti',de,Frankreich,#e8e808,#e8e808,1,0.2218174972575968
 'Jens Stoltenberg',de,Norwegen,#e818e8,#e818e8,2,0.2205491245117761
