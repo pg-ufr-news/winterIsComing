@@ -86,7 +86,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Francesca Albanese',de,Italien,#111111,#111111,1,0.4042755627115791
 'Queen Elizabeth II',de,UK,#e838e8,#e838e8,3,0.4042501247784115
 'Boris Rhein',de,unknown,#111111,#111111,3,0.4021595062179146
-'Pietro Lombardi',de,Deutschland,#1818e8,#1818e8,3,0.40215558545428454
+'Pietro Lombardi',de,Deutschland,#1818e8,#1818e8,3,0.4021555854542845
 'Nina Gummich',de,Deutschland,#1818e8,#1818e8,1,0.4018190275418192
 'Carsten Schneider',de,Deutschland,#111111,#111111,2,0.4010129613829828
 'Markus Lanz',de,Deutschland,#1818e8,#1818e8,3,0.4009753206816529
@@ -144,7 +144,6 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Sam Altman',de,USA,#18e8e8,#18e8e8,3,0.3664301474160609
 'Oleksandr Usyk',de,unknown,#111111,#111111,2,0.3662361979805291
 'Boris Johnson',de,UK,#e838e8,#e838e8,3,0.3656255744195417
-'Robert Downey Jr',de,unknown,#111111,#111111,3,0.3655244413460067
 'Steffen Kotre',de,unknown,#111111,#111111,1,0.3654043749999999
 'Melania Trump',de,unknown,#111111,#111111,3,0.3650553432734293
 'Ayo Edebiri',de,unknown,#111111,#111111,1,0.3648048847216515
@@ -268,12 +267,12 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Papst Benedikt XVI',de,Vatikan,#58b8e8,#58b8e8,3,0.3381875868764893
 'Alexander Smirnov',de,unknown,#111111,#111111,1,0.3381332651080311
 'Tucker Carlson',de,USA,#18e8e8,#18e8e8,1,0.338091972310273
-'Steven Donziger',de,unknown,#111111,#111111,1,0.3377687499999999
-'Minka Indigena',de,unknown,#111111,#111111,1,0.3377687499999999
-'Eriberto Gualinga',de,unknown,#111111,#111111,1,0.3377687499999999
 'Claudia Kempfert',de,unknown,#111111,#111111,1,0.3377687499999999
-'Marjan Minnesma',de,unknown,#111111,#111111,1,0.3377687499999999
 'Haitham A-Ghais',de,unknown,#111111,#111111,1,0.3377687499999999
+'Marjan Minnesma',de,unknown,#111111,#111111,1,0.3377687499999999
+'Steven Donziger',de,unknown,#111111,#111111,1,0.3377687499999999
+'Eriberto Gualinga',de,unknown,#111111,#111111,1,0.3377687499999999
+'Minka Indigena',de,unknown,#111111,#111111,1,0.3377687499999999
 'Axel Springer',de,Deutschland,#1818e8,#1818e8,3,0.3377581246605246
 'Patrick Mahomes',de,unknown,#111111,#111111,2,0.3377016517429165
 'Pete Davidson',de,USA,#18e8e8,#18e8e8,1,0.3376129924385236
@@ -368,8 +367,8 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Malu Dreyer',de,Deutschland,#1818e8,#1818e8,2,0.3196283932160477
 'Radical Optimism',de,unknown,#111111,#111111,1,0.3189596208493618
 'Rosa Parks',de,unknown,#111111,#111111,1,0.3188364661349349
-'Chad Frischmann',de,USA,#18e8e8,#18e8e8,1,0.3184238124999999
 'Lea Bonasera',de,Deutschland,#1818e8,#1818e8,1,0.3184238124999999
+'Chad Frischmann',de,USA,#18e8e8,#18e8e8,1,0.3184238124999999
 'Brittany Mahomes',de,unknown,#111111,#111111,1,0.318209565574466
 'Michelle O\'Neill',de,Irland,#111111,#111111,1,0.3179549730821428
 'Gabriel Attal',de,unknown,#111111,#111111,1,0.3178812386928707
@@ -438,6 +437,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Joe Alwyn',de,unknown,#111111,#111111,1,0.3111072430104396
 'Sarah Stier',de,unknown,#111111,#111111,1,0.3108668916749586
 'Robert de Niro',de,USA,#18e8e8,#18e8e8,3,0.3107937548022127
+'Robert Downey Jr',de,unknown,#111111,#111111,2,0.3106962851441057
 'Andrew Schulz',de,unknown,#111111,#111111,1,0.3105187412703659
 'Robert Badinter',de,unknown,#111111,#111111,1,0.310318554363595
 'Linda Yaccarino',de,USA,#18e8e8,#18e8e8,2,0.3101265896708606
@@ -685,9 +685,9 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Dieter Salomon',de,Deutschland,#1818e8,#1818e8,1,0.2227647010481206
 'Sergej Lawrow',de,Russland,#e81818,#e81818,3,0.2227381039416028
 'Jean-Jacques Rousseau',de,Schweiz,#111111,#111111,1,0.2223234995640312
+'Megyn Kell',de,USA,#18e8e8,#18e8e8,1,0.2218526562499999
 'Pierre-Yves Dermagne',de,Belgien,#111111,#111111,1,0.2218526562499999
 'Yevgeny Prigozhin',de,Russland,#e81818,#e81818,1,0.2218526562499999
-'Megyn Kell',de,USA,#18e8e8,#18e8e8,1,0.2218526562499999
 'Sergej Schoigu',de,Russland,#e81818,#e81818,3,0.2218285882839788
 'Éric Ciotti',de,Frankreich,#e8e808,#e8e808,1,0.2218174972575968
 'Jens Stoltenberg',de,Norwegen,#e818e8,#e818e8,2,0.2205491245117761
