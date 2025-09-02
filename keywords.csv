@@ -83,6 +83,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Anne Hathaway',de,unknown,#111111,#111111,2,0.402162513049595
 'Boris Rhein',de,unknown,#111111,#111111,3,0.4021595062179146
 'Pietro Lombardi',de,Deutschland,#1818e8,#1818e8,3,0.4021555854542845
+'Theodor Herzl',de,Ungarn,#111111,#111111,2,0.40183402259796874
 'Nina Gummich',de,Deutschland,#1818e8,#1818e8,1,0.4018190275418192
 'Dorothee Bär',de,Deutschland,#111111,#111111,3,0.4017590437467133
 'Carsten Schneider',de,Deutschland,#111111,#111111,2,0.4010129613829828
@@ -104,7 +105,6 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Maria Kolesnikowa',de,Belarus,#e81858,#e81858,1,0.3866518583577608
 'Andrew Tate',de,USA,#18e8e8,#18e8e8,2,0.3860538648023625
 'Jonathan Roumie',de,unknown,#111111,#111111,1,0.3852942132650048
-'Theodor Herzl',de,Ungarn,#111111,#111111,1,0.383451685409375
 'François Bayrou',de,unknown,#111111,#111111,2,0.3833005222051222
 'Javier Milei',de,unknown,#111111,#111111,2,0.3831332825134274
 'Bill Clinton',de,USA,#18e8e8,#18e8e8,2,0.3827057448234605
@@ -263,12 +263,12 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Papst Benedikt XVI',de,Vatikan,#58b8e8,#58b8e8,3,0.3381875868764893
 'Alexander Smirnov',de,unknown,#111111,#111111,1,0.3381332651080311
 'Tucker Carlson',de,USA,#18e8e8,#18e8e8,1,0.338091972310273
-'Claudia Kempfert',de,unknown,#111111,#111111,1,0.3377687499999999
-'Minka Indigena',de,unknown,#111111,#111111,1,0.3377687499999999
 'Eriberto Gualinga',de,unknown,#111111,#111111,1,0.3377687499999999
-'Marjan Minnesma',de,unknown,#111111,#111111,1,0.3377687499999999
-'Steven Donziger',de,unknown,#111111,#111111,1,0.3377687499999999
+'Minka Indigena',de,unknown,#111111,#111111,1,0.3377687499999999
+'Claudia Kempfert',de,unknown,#111111,#111111,1,0.3377687499999999
 'Haitham A-Ghais',de,unknown,#111111,#111111,1,0.3377687499999999
+'Steven Donziger',de,unknown,#111111,#111111,1,0.3377687499999999
+'Marjan Minnesma',de,unknown,#111111,#111111,1,0.3377687499999999
 'Axel Springer',de,Deutschland,#1818e8,#1818e8,3,0.3377581246605246
 'Patrick Mahomes',de,unknown,#111111,#111111,2,0.3377016517429165
 'Pete Davidson',de,USA,#18e8e8,#18e8e8,1,0.3376129924385236
@@ -402,10 +402,10 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Mark Kerr',de,unknown,#111111,#111111,1,0.3132704693498173
 'Franca Lehfeldt',de,Deutschland,#1818e8,#1818e8,1,0.3132693446544596
 'Yaël Braun-Pivet',de,unknown,#111111,#111111,1,0.3132508628870632
-'Kara Hurst',de,unknown,#111111,#111111,1,0.31320375
 'Henning Jeschke',de,unknown,#111111,#111111,1,0.31320375
-'Merrill McCollum',de,USA,#18e8e8,#18e8e8,1,0.31320375
+'Kara Hurst',de,unknown,#111111,#111111,1,0.31320375
 'Brian Kozlowski',de,USA,#18e8e8,#18e8e8,1,0.31320375
+'Merrill McCollum',de,USA,#18e8e8,#18e8e8,1,0.31320375
 'Teresa Giudice',de,unknown,#111111,#111111,1,0.3131738870007802
 'Jason Whitlock',de,unknown,#111111,#111111,1,0.3131636440986311
 'Eliot Wolf',de,unknown,#111111,#111111,1,0.3130672027595249
@@ -644,9 +644,9 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Aleksandar Vučić',de,Serbien,#111111,#111111,1,0.2475641918843009
 'Bodo Ramelow',de,Deutschland,#1818e8,#1818e8,3,0.2453353013898
 'Warren Buffett',de,USA,#18e8e8,#18e8e8,3,0.2452349491296017
+'Sophia Kianni',de,unknown,#111111,#111111,1,0.2440379218749999
 'Helena Gualinga',de,unknown,#111111,#111111,1,0.2440379218749999
 'Mark Hertsgaard',de,unknown,#111111,#111111,1,0.2440379218749999
-'Sophia Kianni',de,unknown,#111111,#111111,1,0.2440379218749999
 'Michael Ballweg',de,Deutschland,#1818e8,#1818e8,2,0.243835655473395
 'Jordan Bardella',de,Frankreich,#e8e808,#e8e808,2,0.24314759164691
 'Antony Blinken',de,USA,#18e8e8,#18e8e8,3,0.2429984226351256
