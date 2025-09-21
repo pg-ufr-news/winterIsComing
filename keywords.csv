@@ -464,16 +464,16 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Anya Taylor-Joy',de,unknown,#111111,#111111,1,0.3074427229074222
 'Hailey Van Lith',de,unknown,#111111,#111111,1,0.3073428164403671
 'Tina Turner',de,USA,#18e8e8,#18e8e8,2,0.3071313274660581
+'Dorothée Pacaud',de,Frankreich,#e8e808,#e8e808,1,0.3070624999999999
 'Sergei Surovikin',de,Russland,#e81818,#e81818,1,0.3070624999999999
-'Camille Etienne',de,Frankreich,#e8e808,#e8e808,1,0.3070624999999999
 'Kemal Kiliçdaroglu',de,Türkei,#111111,#111111,1,0.3070624999999999
 'Gilbert Plass',de,Kanada,#111111,#111111,1,0.3070624999999999
-'Dorothée Pacaud',de,Frankreich,#e8e808,#e8e808,1,0.3070624999999999
-'Pedro Sánchez Pérez-Castejón',de,Spanien,#111111,#111111,1,0.3070624999999999
+'Camille Etienne',de,Frankreich,#e8e808,#e8e808,1,0.3070624999999999
+'Uwe Neumärker',de,Deutschland,#1818e8,#1818e8,1,0.3070624999999999
 'Patti LaBelle',de,USA,#18e8e8,#18e8e8,1,0.3070624999999999
 'Evgueni Prigojine',de,Russland,#e81818,#e81818,1,0.3070624999999999
 'Moon Hyung-jin',de,USA,#18e8e8,#18e8e8,1,0.3070624999999999
-'Uwe Neumärker',de,Deutschland,#1818e8,#1818e8,1,0.3070624999999999
+'Pedro Sánchez Pérez-Castejón',de,Spanien,#111111,#111111,1,0.3070624999999999
 'James Biden',de,unknown,#111111,#111111,1,0.3066660486555579
 'Hugh Grant',de,unknown,#111111,#111111,1,0.3065820265437723
 'Mathias Döpfner',de,Deutschland,#1818e8,#1818e8,1,0.3061984162334163
@@ -596,7 +596,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'John Rawls',de,USA,#18e8e8,#18e8e8,1,0.2670624057850483
 'Missy Motown',de,Deutschland,#1818e8,#1818e8,1,0.2665211478169687
 'Sultan al-Jaber',de,VAE,#111111,#111111,1,0.266507939508125
-'Nathalie Emmanuel',de,unknown,#111111,#111111,1,0.26606683291509226
+'Nathalie Emmanuel',de,unknown,#111111,#111111,1,0.2660668329150922
 'Sophia Chikirou',de,unknown,#111111,#111111,1,0.2657529431474223
 'Brian Kilmeade',de,unknown,#111111,#111111,1,0.2656981201475458
 'Drew Bledsoe',de,unknown,#111111,#111111,1,0.2654822726187917
@@ -618,7 +618,6 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Stephen Hawking',de,UK,#e838e8,#e838e8,1,0.263312458854793
 'Dawn Staley',de,unknown,#111111,#111111,1,0.2626416750787224
 'Péter Szijjártó',de,Ungarn,#111111,#111111,1,0.2619467561974999
-'Hazel Monét',de,unknown,#111111,#111111,1,0.2614288714170977
 'Joy Behar',de,unknown,#111111,#111111,1,0.2613835210494998
 'Michael Sandel',de,USA,#18e8e8,#18e8e8,1,0.2613727915493749
 'Yannick Morez',de,Frankreich,#e8e808,#e8e808,1,0.2613727915493749
@@ -645,10 +644,10 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Aleksandar Vučić',de,Serbien,#111111,#111111,1,0.2475641918843009
 'Bodo Ramelow',de,Deutschland,#1818e8,#1818e8,3,0.2453353013898
 'Warren Buffett',de,USA,#18e8e8,#18e8e8,3,0.2452349491296017
-'Helena Gualinga',de,unknown,#111111,#111111,1,0.2440379218749999
-'Sophia Kianni',de,unknown,#111111,#111111,1,0.2440379218749999
-'Mark Hertsgaard',de,unknown,#111111,#111111,1,0.2440379218749999
 'Tasneem Essop',de,unknown,#111111,#111111,1,0.2440379218749999
+'Sophia Kianni',de,unknown,#111111,#111111,1,0.2440379218749999
+'Helena Gualinga',de,unknown,#111111,#111111,1,0.2440379218749999
+'Mark Hertsgaard',de,unknown,#111111,#111111,1,0.2440379218749999
 'Michael Ballweg',de,Deutschland,#1818e8,#1818e8,2,0.243835655473395
 'Jordan Bardella',de,Frankreich,#e8e808,#e8e808,2,0.24314759164691
 'Antony Blinken',de,USA,#18e8e8,#18e8e8,3,0.2429984226351256
@@ -692,6 +691,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Dieter Salomon',de,Deutschland,#1818e8,#1818e8,1,0.2227647010481206
 'Sergej Lawrow',de,Russland,#e81818,#e81818,3,0.2227381039416028
 'Jean-Jacques Rousseau',de,Schweiz,#111111,#111111,1,0.2223234995640312
+'Hazel Monét',de,unknown,#111111,#111111,1,0.22221454070453303
 'Yevgeny Prigozhin',de,Russland,#e81818,#e81818,1,0.2218526562499999
 'Megyn Kell',de,USA,#18e8e8,#18e8e8,1,0.2218526562499999
 'Pierre-Yves Dermagne',de,Belgien,#111111,#111111,1,0.2218526562499999
