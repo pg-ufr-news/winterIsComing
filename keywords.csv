@@ -1,5 +1,4 @@
 keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
-'Mo Lewis',de,unknown,#111111,#111111,2,0.5099715681756712
 'Charlie Kirk',de,unknown,#111111,#111111,2,0.5030883449197281
 'Gervonta Davis',de,unknown,#111111,#111111,2,0.5016086549498714
 'Gisele Bündchen',de,unknown,#111111,#111111,2,0.4630917394025018
@@ -19,6 +18,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'König Charles III',de,UK,#e838e8,#e838e8,3,0.4389822411658918
 'Karsten Wildberger',de,Deutschland,#111111,#111111,3,0.4370956881202216
 'Kim Kardashian',de,USA,#18e8e8,#18e8e8,3,0.4336024207652549
+'Mo Lewis',de,unknown,#111111,#111111,1,0.4334758329493205
 'Paul Konerko',de,unknown,#111111,#111111,1,0.4331483282169205
 'Nicola Peltz',de,unknown,#111111,#111111,1,0.4322979724619161
 'Michel Barnier',de,unknown,#111111,#111111,1,0.4322272399237663
@@ -332,7 +332,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Al Nassr',de,unknown,#111111,#111111,2,0.3261099504697003
 'Jesse Watters',de,USA,#18e8e8,#18e8e8,1,0.3260580946783734
 'Lewis Kaplan',de,unknown,#111111,#111111,2,0.3259716851292989
-'Brad Pitt',de,unknown,#111111,#111111,3,0.32588987518540863
+'Brad Pitt',de,unknown,#111111,#111111,3,0.3258898751854086
 'Rosalynn Carter',de,USA,#18e8e8,#18e8e8,1,0.3251557657740984
 'Nadja Abd el Farrag',de,Deutschland,#1818e8,#1818e8,2,0.3251345518212706
 'Tim Scott',de,USA,#18e8e8,#18e8e8,2,0.325087414098276
@@ -466,16 +466,16 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Anya Taylor-Joy',de,unknown,#111111,#111111,1,0.3074427229074222
 'Hailey Van Lith',de,unknown,#111111,#111111,1,0.3073428164403671
 'Tina Turner',de,USA,#18e8e8,#18e8e8,2,0.3071313274660581
-'Uwe Neumärker',de,Deutschland,#1818e8,#1818e8,1,0.3070624999999999
+'Gilbert Plass',de,Kanada,#111111,#111111,1,0.3070624999999999
 'Moon Hyung-jin',de,USA,#18e8e8,#18e8e8,1,0.3070624999999999
 'Evgueni Prigojine',de,Russland,#e81818,#e81818,1,0.3070624999999999
 'Patti LaBelle',de,USA,#18e8e8,#18e8e8,1,0.3070624999999999
-'Gilbert Plass',de,Kanada,#111111,#111111,1,0.3070624999999999
-'Camille Etienne',de,Frankreich,#e8e808,#e8e808,1,0.3070624999999999
+'Uwe Neumärker',de,Deutschland,#1818e8,#1818e8,1,0.3070624999999999
+'Sergei Surovikin',de,Russland,#e81818,#e81818,1,0.3070624999999999
 'Dorothée Pacaud',de,Frankreich,#e8e808,#e8e808,1,0.3070624999999999
 'Pedro Sánchez Pérez-Castejón',de,Spanien,#111111,#111111,1,0.3070624999999999
 'Kemal Kiliçdaroglu',de,Türkei,#111111,#111111,1,0.3070624999999999
-'Sergei Surovikin',de,Russland,#e81818,#e81818,1,0.3070624999999999
+'Camille Etienne',de,Frankreich,#e8e808,#e8e808,1,0.3070624999999999
 'James Biden',de,unknown,#111111,#111111,1,0.3066660486555579
 'Hugh Grant',de,unknown,#111111,#111111,1,0.3065820265437723
 'Mathias Döpfner',de,Deutschland,#1818e8,#1818e8,1,0.3061984162334163
