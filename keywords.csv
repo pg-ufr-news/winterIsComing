@@ -1,7 +1,6 @@
 keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
-'Gervonta Davis',de,unknown,#111111,#111111,2,0.5016086549498714
 'Gisele Bündchen',de,unknown,#111111,#111111,2,0.4630917394025018
-'Charlie Kirk',de,unknown,#111111,#111111,3,0.45986592545449617
+'Charlie Kirk',de,unknown,#111111,#111111,3,0.4598659254544961
 'Ehud Olmert',de,Israel,#111111,#111111,2,0.4489934911452685
 'Lauren Sánchez',de,USA,#18e8e8,#18e8e8,2,0.4487805558343584
 'Julia Roberts',de,unknown,#111111,#111111,3,0.4486688675990932
@@ -38,6 +37,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Heidi Klum',de,unknown,#111111,#111111,3,0.4271910385456098
 'Reem Alabali-Radovan',de,Deutschland,#111111,#111111,2,0.4267650632470692
 'Johann Wadephul',de,Deutschland,#111111,#111111,3,0.4265504058367224
+'Gervonta Davis',de,unknown,#111111,#111111,1,0.4263673567073907
 'Brooklyn Beckham',de,unknown,#111111,#111111,2,0.4262252243702434
 'Thorsten Frei',de,Deutschland,#111111,#111111,3,0.4256969946691336
 'Eddie Hearn',de,unknown,#111111,#111111,2,0.4255872913388104
@@ -466,16 +466,16 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Anya Taylor-Joy',de,unknown,#111111,#111111,1,0.3074427229074222
 'Hailey Van Lith',de,unknown,#111111,#111111,1,0.3073428164403671
 'Tina Turner',de,USA,#18e8e8,#18e8e8,2,0.3071313274660581
-'Uwe Neumärker',de,Deutschland,#1818e8,#1818e8,1,0.3070624999999999
+'Gilbert Plass',de,Kanada,#111111,#111111,1,0.3070624999999999
 'Moon Hyung-jin',de,USA,#18e8e8,#18e8e8,1,0.3070624999999999
 'Evgueni Prigojine',de,Russland,#e81818,#e81818,1,0.3070624999999999
 'Patti LaBelle',de,USA,#18e8e8,#18e8e8,1,0.3070624999999999
-'Gilbert Plass',de,Kanada,#111111,#111111,1,0.3070624999999999
-'Camille Etienne',de,Frankreich,#e8e808,#e8e808,1,0.3070624999999999
+'Uwe Neumärker',de,Deutschland,#1818e8,#1818e8,1,0.3070624999999999
+'Sergei Surovikin',de,Russland,#e81818,#e81818,1,0.3070624999999999
 'Dorothée Pacaud',de,Frankreich,#e8e808,#e8e808,1,0.3070624999999999
 'Pedro Sánchez Pérez-Castejón',de,Spanien,#111111,#111111,1,0.3070624999999999
 'Kemal Kiliçdaroglu',de,Türkei,#111111,#111111,1,0.3070624999999999
-'Sergei Surovikin',de,Russland,#e81818,#e81818,1,0.3070624999999999
+'Camille Etienne',de,Frankreich,#e8e808,#e8e808,1,0.3070624999999999
 'James Biden',de,unknown,#111111,#111111,1,0.3066660486555579
 'Hugh Grant',de,unknown,#111111,#111111,1,0.3065820265437723
 'Mathias Döpfner',de,Deutschland,#1818e8,#1818e8,1,0.3061984162334163
