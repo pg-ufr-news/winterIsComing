@@ -41,7 +41,6 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Tom Kaulitz',de,unknown,#111111,#111111,3,0.4250693804255765
 'Lara Trump',de,unknown,#111111,#111111,2,0.4246731970047427
 'Verena Hubertz',de,Deutschland,#111111,#111111,3,0.4236062763738801
-'Jeanne du Barry',de,Frankreich,#e8e808,#e8e808,1,0.4233001401226003
 'Papst Leo',de,USA,#111111,#111111,3,0.4216077603174771
 'Sam Asghari',de,unknown,#111111,#111111,2,0.4213391019196591
 'Lady Gaga',de,USA,#18e8e8,#18e8e8,3,0.4213177893596669
@@ -133,8 +132,8 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Jennifer Morgan',de,unknown,#111111,#111111,1,0.37016866935
 'Kanye West',de,USA,#18e8e8,#18e8e8,2,0.3699310048162996
 'Mario Czaja',de,Deutschland,#1818e8,#1818e8,2,0.3695750321278941
-'Tulsin Gabbard',de,USA,#18e8e8,#18e8e8,1,0.368475
 'Melanie Guttmann',de,unknown,#111111,#111111,1,0.368475
+'Tulsin Gabbard',de,USA,#18e8e8,#18e8e8,1,0.368475
 'Mark Cuban',de,unknown,#111111,#111111,1,0.3680325601765618
 'Matt Gaetz',de,USA,#18e8e8,#18e8e8,1,0.3677511801014491
 'Jack Antonoff',de,unknown,#111111,#111111,1,0.3676220838167647
@@ -154,6 +153,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Richard David Precht',de,Deutschland,#1818e8,#1818e8,2,0.3610551881034481
 'Greg Abbott',de,USA,#18e8e8,#18e8e8,2,0.3600536035355254
 'Jake Gyllenhaal',de,unknown,#111111,#111111,2,0.3599942398574728
+'Jeanne du Barry',de,Frankreich,#e8e808,#e8e808,1,0.35980511910421026
 'Charles III',de,UK,#e838e8,#e838e8,3,0.3593281816899613
 'Charlize Theron',de,unknown,#111111,#111111,2,0.3593243451170425
 'Maybrit Illner',de,Deutschland,#1818e8,#1818e8,3,0.3584663357772553
@@ -465,16 +465,16 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Anya Taylor-Joy',de,unknown,#111111,#111111,1,0.3074427229074222
 'Hailey Van Lith',de,unknown,#111111,#111111,1,0.3073428164403671
 'Tina Turner',de,USA,#18e8e8,#18e8e8,2,0.3071313274660581
-'Evgueni Prigojine',de,Russland,#e81818,#e81818,1,0.3070624999999999
+'Patti LaBelle',de,USA,#18e8e8,#18e8e8,1,0.3070624999999999
 'Gilbert Plass',de,Kanada,#111111,#111111,1,0.3070624999999999
 'Uwe Neumärker',de,Deutschland,#1818e8,#1818e8,1,0.3070624999999999
 'Moon Hyung-jin',de,USA,#18e8e8,#18e8e8,1,0.3070624999999999
-'Patti LaBelle',de,USA,#18e8e8,#18e8e8,1,0.3070624999999999
-'Sergei Surovikin',de,Russland,#e81818,#e81818,1,0.3070624999999999
+'Evgueni Prigojine',de,Russland,#e81818,#e81818,1,0.3070624999999999
+'Kemal Kiliçdaroglu',de,Türkei,#111111,#111111,1,0.3070624999999999
 'Dorothée Pacaud',de,Frankreich,#e8e808,#e8e808,1,0.3070624999999999
 'Pedro Sánchez Pérez-Castejón',de,Spanien,#111111,#111111,1,0.3070624999999999
 'Camille Etienne',de,Frankreich,#e8e808,#e8e808,1,0.3070624999999999
-'Kemal Kiliçdaroglu',de,Türkei,#111111,#111111,1,0.3070624999999999
+'Sergei Surovikin',de,Russland,#e81818,#e81818,1,0.3070624999999999
 'James Biden',de,unknown,#111111,#111111,1,0.3066660486555579
 'Hugh Grant',de,unknown,#111111,#111111,1,0.3065820265437723
 'Mathias Döpfner',de,Deutschland,#1818e8,#1818e8,1,0.3061984162334163
