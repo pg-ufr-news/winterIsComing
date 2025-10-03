@@ -107,7 +107,6 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Greta Gerwig',de,unknown,#111111,#111111,2,0.3809796757156711
 'Herbert Diess',de,Deutschland,#1818e8,#1818e8,1,0.3809769180816962
 'Mark Carney',de,unknown,#111111,#111111,2,0.3809033654041213
-'Wladimir Putin',de,Russland,#e81818,#e81818,3,0.3804714763886117
 'Karim Benzema',de,Frankreich,#e8e808,#e8e808,3,0.38030212052698
 'Queen Camilla',de,UK,#e838e8,#e838e8,3,0.3800513991667908
 'Bernie Sanders',de,USA,#18e8e8,#18e8e8,1,0.3797684688872101
@@ -181,6 +180,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Prinz Andrew',de,UK,#e838e8,#e838e8,3,0.3514093522420453
 'George Floyd',de,USA,#18e8e8,#18e8e8,2,0.3512483837249999
 'Wolodimir Selenski',de,Ukraine,#e818e8,#e818e8,2,0.3512118860620435
+'Wladimir Putin',de,Russland,#e81818,#e81818,3,0.3511113126575926
 'Bettina Stark-Watzinger',de,Deutschland,#1818e8,#1818e8,3,0.3509582119657462
 'Martin Luther King',de,USA,#18e8e8,#18e8e8,2,0.3509285271388473
 'Britney Spears',de,unknown,#111111,#111111,2,0.3505582170572889
@@ -621,10 +621,10 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Péter Szijjártó',de,Ungarn,#111111,#111111,1,0.2619467561974999
 'Joy Behar',de,unknown,#111111,#111111,1,0.2613835210494998
 'Yannick Morez',de,Frankreich,#e8e808,#e8e808,1,0.2613727915493749
-'Andrei Nikolajewitsch Kolmogorow',de,Russland,#e81818,#e81818,1,0.2610031249999999
 'Aurélien Pradié',de,Frankreich,#e8e808,#e8e808,1,0.2610031249999999
-'Leon Botstein',de,USA,#18e8e8,#18e8e8,1,0.2610031249999999
+'Andrei Nikolajewitsch Kolmogorow',de,Russland,#e81818,#e81818,1,0.2610031249999999
 'Thomas Bayes',de,UK,#e838e8,#e838e8,1,0.2610031249999999
+'Leon Botstein',de,USA,#18e8e8,#18e8e8,1,0.2610031249999999
 'Olli Schulz',de,Deutschland,#1818e8,#1818e8,1,0.2581620659183204
 'Kemal Kilicdaroglu',de,Türkei,#111111,#111111,1,0.2574383858305537
 'Ted Cruz',de,USA,#18e8e8,#18e8e8,1,0.2570009851967187
