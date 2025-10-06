@@ -570,7 +570,6 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Robert Kraft',de,unknown,#111111,#111111,2,0.2780299046141598
 'Francis Ford Coppola',de,unknown,#111111,#111111,1,0.278015799394941
 'Billy Crystal',de,unknown,#111111,#111111,1,0.277435920819806
-'Tino Chrupalla',de,Deutschland,#1818e8,#1818e8,3,0.277237997342856
 'Larry Ellison',de,USA,#18e8e8,#18e8e8,2,0.2767811027692829
 'Königsgemahlin Camilla',de,UK,#e838e8,#e838e8,1,0.2765951109213069
 'Erich Honecker',de,Deutschland,#1818e8,#1818e8,1,0.275128434181917
@@ -614,6 +613,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'nan Si',de,unknown,#111111,#111111,1,0.2635298943550567
 'Sherri Shepherd',de,unknown,#111111,#111111,1,0.2633837459611096
 'Sergei Shoigu',de,unknown,#111111,#111111,1,0.2633760693871526
+'Tino Chrupalla',de,Deutschland,#1818e8,#1818e8,3,0.2633316854687003
 'Stephen Hawking',de,UK,#e838e8,#e838e8,1,0.263312458854793
 'Elisabeth Borne',de,Frankreich,#e8e808,#e8e808,2,0.2627092508238609
 'Dawn Staley',de,unknown,#111111,#111111,1,0.2626416750787224
@@ -818,7 +818,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Gérard Biard',de,Frankreich,#e8e808,#e8e808,1,0.1273893204557615
 'Lula sa Silva',de,Brasilien,#58e838,#58e838,2,0.1269199022589089
 'Katalin Novak',de,Ungarn,#111111,#111111,2,0.1263801094100121
-'Subrahmanyam Jaishankar',de,Indien,#111111,#111111,1,0.12458240794113132
+'Subrahmanyam Jaishankar',de,Indien,#111111,#111111,1,0.1245824079411313
 'John Kerry',de,USA,#18e8e8,#18e8e8,1,0.1236069912483804
 'Michael Walzer',de,USA,#18e8e8,#18e8e8,1,0.123310077810179
 'Daniel Zhang',de,China,#e88818,#e88818,1,0.1209549621422326
