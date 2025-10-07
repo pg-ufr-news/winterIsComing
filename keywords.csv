@@ -1,6 +1,5 @@
 keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'James Comey',de,unknown,#111111,#111111,2,0.4581097682253667
-'Christian Dürr',de,unknown,#111111,#111111,2,0.4447795989539359
 'Stephen Colbert',de,unknown,#111111,#111111,3,0.4440712689440001
 'Nina Warken',de,Deutschland,#111111,#111111,3,0.4426279978942452
 'Bärbel Bas',de,Deutschland,#111111,#111111,3,0.4424166505450732
@@ -62,6 +61,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Olaf Scholz',de,Deutschland,#1818e8,#1818e8,3,0.4101066228731574
 'Jamie Dimon',de,USA,#18e8e8,#18e8e8,3,0.410007532532687
 'Lauren Boebert',de,USA,#18e8e8,#18e8e8,2,0.4089847673185968
+'Christian Dürr',de,unknown,#111111,#111111,3,0.40827565807636274
 'Maria Sacharowa',de,unknown,#111111,#111111,3,0.4076832964319999
 'JD Vance',de,unknown,#111111,#111111,3,0.4065390643124064
 'Ulrich Reitz',de,Deutschland,#1818e8,#1818e8,2,0.4050310560361791
@@ -620,10 +620,10 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Péter Szijjártó',de,Ungarn,#111111,#111111,1,0.2619467561974999
 'Joy Behar',de,unknown,#111111,#111111,1,0.2613835210494998
 'Yannick Morez',de,Frankreich,#e8e808,#e8e808,1,0.2613727915493749
-'Leon Botstein',de,USA,#18e8e8,#18e8e8,1,0.2610031249999999
 'Thomas Bayes',de,UK,#e838e8,#e838e8,1,0.2610031249999999
-'Aurélien Pradié',de,Frankreich,#e8e808,#e8e808,1,0.2610031249999999
+'Leon Botstein',de,USA,#18e8e8,#18e8e8,1,0.2610031249999999
 'Andrei Nikolajewitsch Kolmogorow',de,Russland,#e81818,#e81818,1,0.2610031249999999
+'Aurélien Pradié',de,Frankreich,#e8e808,#e8e808,1,0.2610031249999999
 'Olli Schulz',de,Deutschland,#1818e8,#1818e8,1,0.2581620659183204
 'Kemal Kilicdaroglu',de,Türkei,#111111,#111111,1,0.2574383858305537
 'Ted Cruz',de,USA,#18e8e8,#18e8e8,1,0.2570009851967187
@@ -678,7 +678,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Alfred Nobel',de,Schweden,#111111,#111111,2,0.2289984865447472
 'Edward Snowden',de,USA,#18e8e8,#18e8e8,2,0.2285994919847821
 'Tiffany Chen',de,USA,#18e8e8,#18e8e8,1,0.2283502638688581
-'Chuck Todd',de,USA,#18e8e8,#18e8e8,1,0.22800937015884676
+'Chuck Todd',de,USA,#18e8e8,#18e8e8,1,0.2280093701588467
 'Giorgia Meloni',de,Italien,#111111,#111111,3,0.2276149926050359
 'Cassidy Hutchinson',de,unknown,#111111,#111111,1,0.2273750459849542
 'Anthony Fauci',de,USA,#18e8e8,#18e8e8,2,0.2269620774905906
