@@ -58,7 +58,6 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Victoria Beckham',de,unknown,#111111,#111111,2,0.4126169623563927
 'Wolfram Weimer',de,Deutschland,#111111,#111111,3,0.411027602299192
 'Olaf Scholz',de,Deutschland,#1818e8,#1818e8,3,0.4101066228731574
-'Jamie Dimon',de,USA,#18e8e8,#18e8e8,3,0.410007532532687
 'Lauren Boebert',de,USA,#18e8e8,#18e8e8,2,0.4089847673185968
 'Christian Dürr',de,unknown,#111111,#111111,3,0.4082756580763627
 'Maria Sacharowa',de,unknown,#111111,#111111,3,0.4076832964319999
@@ -128,8 +127,8 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Jennifer Morgan',de,unknown,#111111,#111111,1,0.37016866935
 'Kanye West',de,USA,#18e8e8,#18e8e8,2,0.3699310048162996
 'Mario Czaja',de,Deutschland,#1818e8,#1818e8,2,0.3695750321278941
-'Melanie Guttmann',de,unknown,#111111,#111111,1,0.368475
 'Tulsin Gabbard',de,USA,#18e8e8,#18e8e8,1,0.368475
+'Melanie Guttmann',de,unknown,#111111,#111111,1,0.368475
 'Paul Konerko',de,unknown,#111111,#111111,1,0.3681760789843824
 'Mark Cuban',de,unknown,#111111,#111111,1,0.3680325601765618
 'Matt Gaetz',de,USA,#18e8e8,#18e8e8,1,0.3677511801014491
@@ -187,7 +186,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Maja Göpel',de,Deutschland,#1818e8,#1818e8,1,0.3504644052985932
 'Andreas Ellermann',de,Deutschland,#1818e8,#1818e8,1,0.3503496174459869
 'James Comer',de,unknown,#111111,#111111,1,0.3501487167842142
-'Lauren Sanchez',de,USA,#18e8e8,#18e8e8,1,0.35012319191223895
+'Lauren Sanchez',de,USA,#18e8e8,#18e8e8,1,0.3501231919122389
 'Roger Federer',de,unknown,#111111,#111111,2,0.3495687619473051
 'Jennifer Lopez',de,unknown,#111111,#111111,2,0.3494722141628607
 'Le Pen',de,Frankreich,#e8e808,#e8e808,2,0.3494652522939771
@@ -195,6 +194,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Jane Fonda',de,unknown,#111111,#111111,2,0.348890543617778
 'Mick Jagger',de,unknown,#111111,#111111,2,0.3487741528373718
 'Jessy Wellmer',de,unknown,#111111,#111111,1,0.3485906127305774
+'Jamie Dimon',de,USA,#18e8e8,#18e8e8,2,0.3485065676527839
 'Jason Kelce',de,unknown,#111111,#111111,1,0.348445920973752
 'Bastian Schweinsteiger',de,unknown,#111111,#111111,2,0.3483726542474064
 'Helmut Kohl',de,Deutschland,#1818e8,#1818e8,3,0.3483039426411286
