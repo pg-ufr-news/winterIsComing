@@ -8,22 +8,22 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Itamar Ben-Gvir',de,Israel,#111111,#111111,2,0.47995165
 'Justus Haucap',de,Deutschland,#111111,#111111,2,0.4710074578571428
 'Bezalel Smotrich',de,Israel,#111111,#111111,2,0.4617700718181818
-'James Comey',de,unknown,#111111,#111111,2,0.4581097682253667
+'James Comey',de,USA,#18e8e8,#18e8e8,2,0.4581097682253667
 'Veronika Grimm',de,Deutschland,#111111,#111111,2,0.4481323731818181
-'Stephen Colbert',de,unknown,#111111,#111111,3,0.4440712689440001
+'Stephen Colbert',de,USA,#18e8e8,#18e8e8,3,0.4440712689440001
 'Nina Warken',de,Deutschland,#111111,#111111,3,0.4426279978942452
 'Bärbel Bas',de,Deutschland,#111111,#111111,3,0.4424166505450732
-'Taylor Swift',de,unknown,#111111,#111111,3,0.4420385531340839
+'Taylor Swift',de,USA,#18e8e8,#18e8e8,3,0.4420385531340839
 'Patrick Schnieder',de,Deutschland,#111111,#111111,3,0.4413514040156818
 'Stefanie Hubig',de,Deutschland,#111111,#111111,3,0.4408121774368011
 'Stefan Aust',de,Deutschland,#1818e8,#1818e8,2,0.4403786373536249
-'Leo XIV',de,unknown,#111111,#111111,2,0.4402453141762297
+'Leo XIV',de,Vatikan,#111111,#111111,2,0.4402453141762297
 'Karsten Wildberger',de,Deutschland,#111111,#111111,3,0.4370956881202216
 'Stefan Kolev',de,Deutschland,#111111,#111111,2,0.4349720841304347
 'Kim Kardashian',de,USA,#18e8e8,#18e8e8,3,0.4336024207652549
 'Mo Lewis',de,unknown,#111111,#111111,1,0.4334758329493205
 'Nicola Peltz',de,unknown,#111111,#111111,1,0.4322979724619161
-'Michel Barnier',de,unknown,#111111,#111111,1,0.4322272399237663
+'Michel Barnier',de,Frankreich,#e8e808,#e8e808,1,0.4322272399237663
 'Katherina Reiche',de,unknown,#111111,#111111,3,0.4321452915358884
 'Prinzessin Kate',de,UK,#e838e8,#e838e8,3,0.4320542288057297
 'Gigi Hadid',de,unknown,#111111,#111111,2,0.4317623424676235
@@ -32,7 +32,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Cruz Beckham',de,unknown,#111111,#111111,1,0.4311083522946119
 'Lil Yachty',de,unknown,#111111,#111111,1,0.4309593766724059
 'Anant Ambani',de,unknown,#111111,#111111,1,0.4303713349329046
-'Gwede Mantashe',de,unknown,#111111,#111111,1,0.4298874999999999
+'Gwede Mantashe',de,Südafrika,#111111,#111111,1,0.4298874999999999
 'Pete Hegseth',de,USA,#18e8e8,#18e8e8,3,0.4288500127608479
 'Lyna Khoudri',de,unknown,#111111,#111111,1,0.428765424897154
 'Léon XIV',de,unknown,#111111,#111111,1,0.4286453061016347
@@ -109,7 +109,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Javier Milei',de,unknown,#111111,#111111,2,0.3831332825134274
 'Bill Clinton',de,USA,#18e8e8,#18e8e8,2,0.3827057448234605
 'Lachlan Murdoch',de,UK,#e838e8,#e838e8,2,0.3825673753474484
-'Jennifer Garner',de,unknown,#111111,#111111,1,0.3817679866963696
+'Jennifer Garner',de,USA,#18e8e8,#18e8e8,1,0.3817679866963696
 'Lauren Sánchez',de,USA,#18e8e8,#18e8e8,1,0.3814636224592046
 'Julia Roberts',de,unknown,#111111,#111111,2,0.3813691374592292
 'Le Pen',de,Frankreich,#e8e808,#e8e808,3,0.3812629076161035
@@ -300,7 +300,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Leonardo DiCaprio',de,USA,#18e8e8,#18e8e8,3,0.3321949033313778
 'Eric Trump',de,unknown,#111111,#111111,2,0.3321656369786243
 'Kate Hudson',de,unknown,#111111,#111111,1,0.332116349308543
-'Joe Jonas',de,unknown,#111111,#111111,1,0.331805695327498
+'Joe Jonas',de,USA,#18e8e8,#18e8e8,1,0.331805695327498
 'Chris Hipkins',de,Neuseeland,#1818e8,#1818e8,1,0.3316295824936413
 'Joe Biden',de,USA,#18e8e8,#18e8e8,3,0.3313125839343794
 'Adolf Hitler',de,Deutschland,#1818e8,#1818e8,3,0.3312480048610208
@@ -379,7 +379,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Lea Bonasera',de,Deutschland,#1818e8,#1818e8,1,0.3184238124999999
 'Brittany Mahomes',de,unknown,#111111,#111111,1,0.318209565574466
 'Michelle O\'Neill',de,Irland,#111111,#111111,1,0.3179549730821428
-'Gabriel Attal',de,unknown,#111111,#111111,1,0.3178812386928707
+'Gabriel Attal',de,Frankreich,#e8e808,#e8e808,1,0.3178812386928707
 'Sabrina Carpenter',de,unknown,#111111,#111111,2,0.3178563078950366
 'Laurent Berger',de,Frankreich,#e8e808,#e8e808,1,0.3178259788125
 'Alyssa Farah Griffin',de,unknown,#111111,#111111,1,0.3177090606509025
@@ -496,7 +496,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Kevin Kühnert',de,Deutschland,#1818e8,#1818e8,3,0.3052661568897969
 'Vivek Ramaswamy',de,USA,#18e8e8,#18e8e8,1,0.3051556332845981
 'Steve Scalise',de,unknown,#111111,#111111,1,0.3051369748940797
-'Pat McAfee',de,unknown,#111111,#111111,1,0.3044307220083783
+'Pat McAfee',de,USA,#18e8e8,#18e8e8,1,0.3044307220083783
 'Roger Corman',de,unknown,#111111,#111111,1,0.304414701171539
 'Joey Fatone',de,unknown,#111111,#111111,1,0.3042740745936092
 'Chris Stapleton',de,unknown,#111111,#111111,1,0.304191702977601
