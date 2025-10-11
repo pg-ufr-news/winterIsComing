@@ -4,10 +4,9 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Justus Haucap',de,Deutschland,#111111,#111111,2,0.4710074578571428
 'Bezalel Smotrich',de,Israel,#111111,#111111,2,0.4617700718181818
 'James Comey',de,USA,#18e8e8,#18e8e8,2,0.4581097682253667
-'Volker Wieland',de,Deutschland,#111111,#111111,2,0.45197731307692307
+'Volker Wieland',de,Deutschland,#111111,#111111,2,0.451977313076923
 'Veronika Grimm',de,Deutschland,#111111,#111111,2,0.4481323731818181
 'Stephen Colbert',de,USA,#18e8e8,#18e8e8,3,0.4440712689440001
-'Nina Warken',de,Deutschland,#111111,#111111,3,0.4426279978942452
 'Bärbel Bas',de,Deutschland,#111111,#111111,3,0.4424166505450732
 'Taylor Swift',de,USA,#18e8e8,#18e8e8,3,0.4420385531340839
 'Patrick Schnieder',de,Deutschland,#111111,#111111,3,0.4413514040156818
@@ -98,6 +97,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Keith Kellogg',de,unknown,#111111,#111111,3,0.3910569622065754
 'Donald Trump',de,USA,#18e8e8,#18e8e8,3,0.3904407402840615
 'Marie Trintignant',de,unknown,#111111,#111111,1,0.3904257915877691
+'Nina Warken',de,Deutschland,#111111,#111111,3,0.3902783673010175
 'LeBron James',de,unknown,#111111,#111111,3,0.3878594017152464
 'Robert Prevost',de,unknown,#111111,#111111,2,0.3876341141142477
 'Johnny Depp',de,USA,#18e8e8,#18e8e8,2,0.3870989779375738
@@ -656,9 +656,9 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Bodo Ramelow',de,Deutschland,#1818e8,#1818e8,3,0.2453353013898
 'Warren Buffett',de,USA,#18e8e8,#18e8e8,3,0.2452349491296017
 'Helena Gualinga',de,unknown,#111111,#111111,1,0.2440379218749999
+'Tasneem Essop',de,unknown,#111111,#111111,1,0.2440379218749999
 'Sophia Kianni',de,unknown,#111111,#111111,1,0.2440379218749999
 'Autumn Peltier',de,unknown,#111111,#111111,1,0.2440379218749999
-'Tasneem Essop',de,unknown,#111111,#111111,1,0.2440379218749999
 'Mark Hertsgaard',de,unknown,#111111,#111111,1,0.2440379218749999
 'Michael Ballweg',de,Deutschland,#1818e8,#1818e8,2,0.243835655473395
 'Jordan Bardella',de,Frankreich,#e8e808,#e8e808,2,0.24314759164691
