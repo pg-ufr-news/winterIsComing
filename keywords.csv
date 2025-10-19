@@ -111,11 +111,11 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Lachlan Murdoch',de,UK,#e838e8,#e838e8,2,0.3825673753474484
 'Jennifer Garner',de,USA,#18e8e8,#18e8e8,1,0.3817679866963696
 'Lauren Sánchez',de,USA,#18e8e8,#18e8e8,1,0.3814636224592046
-'Julia Roberts',de,unknown,#111111,#111111,2,0.3813691374592292
+'Julia Roberts',de,USA,#18e8e8,#18e8e8,2,0.3813691374592292
 'Le Pen',de,Frankreich,#e8e808,#e8e808,3,0.3812629076161035
-'Greta Gerwig',de,unknown,#111111,#111111,2,0.3809796757156711
+'Greta Gerwig',de,USA,#18e8e8,#18e8e8,2,0.3809796757156711
 'Herbert Diess',de,Deutschland,#11dd44,#11dd44,1,0.3809769180816962
-'Mark Carney',de,unknown,#111111,#111111,2,0.3809033654041213
+'Mark Carney',de,Kanada,#ffaabb,#ffaabb,2,0.3809033654041213
 'Karim Benzema',de,Frankreich,#e8e808,#e8e808,3,0.38030212052698
 'Queen Camilla',de,UK,#e838e8,#e838e8,3,0.3800513991667908
 'Bernie Sanders',de,USA,#18e8e8,#18e8e8,1,0.3797684688872101
@@ -473,7 +473,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Hailey Van Lith',de,unknown,#111111,#111111,1,0.3073428164403671
 'Tina Turner',de,USA,#18e8e8,#18e8e8,2,0.3071313274660581
 'Dorothée Pacaud',de,Frankreich,#e8e808,#e8e808,1,0.3070624999999999
-'Gilbert Plass',de,Kanada,#111111,#111111,1,0.3070624999999999
+'Gilbert Plass',de,Kanada,#ffaabb,#ffaabb,1,0.3070624999999999
 'Patti LaBelle',de,USA,#18e8e8,#18e8e8,1,0.3070624999999999
 'Kemal Kiliçdaroglu',de,Türkei,#111111,#111111,1,0.3070624999999999
 'Evgueni Prigojine',de,Russland,#e81818,#e81818,1,0.3070624999999999
@@ -761,7 +761,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Jacinda Ardern',de,Neuseeland,#1818e8,#1818e8,1,0.1936528852271206
 'Stefan Rahmstorf',de,Deutschland,#11dd44,#11dd44,2,0.193634442976254
 'Maybritt Illner',de,Deutschland,#11dd44,#11dd44,2,0.1920487161204788
-'Justin Trudeau',de,Kanada,#111111,#111111,3,0.1917123561759453
+'Justin Trudeau',de,Kanada,#ffaabb,#ffaabb,3,0.1917123561759453
 'Franziska Giffey',de,Deutschland,#11dd44,#11dd44,3,0.1916232707710685
 'Louis Klamroth',de,Deutschland,#11dd44,#11dd44,2,0.1911774805741061
 'John Paul II',de,Vatikan,#58b8e8,#58b8e8,1,0.1909779816132217
