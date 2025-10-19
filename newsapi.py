@@ -28,10 +28,12 @@ import datetime
 from dateutil import parser
 from datetime import date, timedelta, datetime, timezone
 
+import nltk
+import spacy
 import de_core_news_md
 from textblob_de import TextBlobDE
 nlp = de_core_news_md.load()
-
+nltk.download('punkt')
 
 DATA_PATH = Path.cwd()
 
