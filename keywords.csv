@@ -1,5 +1,5 @@
 keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
-'Olivier Faure',de,unknown,#111111,#111111,2,0.5087649539977533
+'Olivier Faure',de,Frankreich,#e8e808,#e8e808,2,0.5087649539977533
 'Sébastien Lecornu',de,Frankreich,#e8e808,#e8e808,3,0.4647130382997549
 'Bezalel Smotrich',de,Israel,#8822dd,#8822dd,2,0.4617700718181818
 'James Comey',de,USA,#18e8e8,#18e8e8,2,0.4581097682253667
@@ -26,11 +26,11 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Lyna Khoudri',de,unknown,#111111,#111111,1,0.428765424897154
 'Léon XIV',de,unknown,#111111,#111111,1,0.4286453061016347
 'Heidi Klum',de,Deutschland,#11dd44,#11dd44,3,0.4271910385456098
-'Andrew Cuomo',de,unknown,#111111,#111111,2,0.4270973965761673
+'Andrew Cuomo',de,USA,#18e8e8,#18e8e8,2,0.4270973965761673
 'Friedrich Merz',de,Deutschland,#11dd44,#11dd44,3,0.4268453837937257
 'Reem Alabali-Radovan',de,Deutschland,#11dd44,#11dd44,2,0.4267650632470692
 'Johann Wadephul',de,Deutschland,#11dd44,#11dd44,3,0.4265504058367224
-'Gervonta Davis',de,unknown,#111111,#111111,1,0.4263673567073907
+'Gervonta Davis',de,USA,#18e8e8,#18e8e8,1,0.4263673567073907
 'Brooklyn Beckham',de,unknown,#111111,#111111,2,0.4262252243702434
 'Thorsten Frei',de,Deutschland,#11dd44,#11dd44,3,0.4256969946691336
 'Eddie Hearn',de,unknown,#111111,#111111,2,0.4255872913388104
@@ -133,7 +133,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Kamala Harris',de,USA,#18e8e8,#18e8e8,3,0.3739152030918428
 'Jeffrey Epstein',de,USA,#18e8e8,#18e8e8,2,0.373226895118188
 'Prinz George',de,UK,#e838e8,#e838e8,2,0.3726043434247972
-'Francesca Albanese',de,Italien,#111111,#111111,2,0.3713121760321149
+'Francesca Albanese',de,Italien,#7722cc,#7722cc,2,0.3713121760321149
 'Thierry Breton',de,Frankreich,#e8e808,#e8e808,1,0.371160838308974
 'Jennifer Morgan',de,unknown,#111111,#111111,1,0.37016866935
 'Kanye West',de,USA,#18e8e8,#18e8e8,2,0.3699310048162996
@@ -211,7 +211,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Jason Kelce',de,unknown,#111111,#111111,1,0.348445920973752
 'Bastian Schweinsteiger',de,unknown,#111111,#111111,2,0.3483726542474064
 'Helmut Kohl',de,Deutschland,#11dd44,#11dd44,3,0.3483039426411286
-'Sergio Mattarella',de,Italien,#111111,#111111,1,0.348064632851364
+'Sergio Mattarella',de,Italien,#7722cc,#7722cc,1,0.348064632851364
 'Oliver Blume',de,Deutschland,#11dd44,#11dd44,3,0.3473573152089714
 'David Beckham',de,unknown,#111111,#111111,2,0.3472728331036501
 'Willem Dafoe',de,unknown,#111111,#111111,1,0.3472071854747675
@@ -235,7 +235,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Pete Davidson',de,USA,#18e8e8,#18e8e8,1,0.344421163572745
 'Eva Green',de,unknown,#111111,#111111,1,0.3442416772397128
 'Tom Hanks',de,unknown,#111111,#111111,3,0.344173681914125
-'Matteo Salvini',de,Italien,#111111,#111111,2,0.3439573199571955
+'Matteo Salvini',de,Italien,#7722cc,#7722cc,2,0.3439573199571955
 'Helge Schneider',de,Deutschland,#11dd44,#11dd44,1,0.3439259496110415
 'Lana Del Rey',de,unknown,#111111,#111111,1,0.3436511466302768
 'Bill Belichick',de,unknown,#111111,#111111,1,0.3430487754076733
@@ -468,7 +468,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Petro Poroshenko',de,unknown,#111111,#111111,1,0.3079326591938838
 'Drake Maye',de,unknown,#111111,#111111,1,0.3078992739291365
 'Ayatollah Chamenei',de,Iran,#111111,#111111,1,0.3077702407625
-'Leonardo da Vinci',de,Italien,#111111,#111111,2,0.3075233612413247
+'Leonardo da Vinci',de,Italien,#7722cc,#7722cc,2,0.3075233612413247
 'Salvador Dali',de,Spanien,#111111,#111111,1,0.3075125449999999
 'Jacques Doriot',de,unknown,#111111,#111111,1,0.3074774501230968
 'Anya Taylor-Joy',de,unknown,#111111,#111111,1,0.3074427229074222
@@ -597,7 +597,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Ursula von der Leyen',de,EU,#111111,#111111,3,0.2713794116029875
 'Frank Plasberg',de,Deutschland,#11dd44,#11dd44,2,0.271311355898125
 'Christian Kroll',de,Deutschland,#11dd44,#11dd44,1,0.2712165909419687
-'Silvio Berlusconi',de,Italien,#111111,#111111,2,0.2706486023684718
+'Silvio Berlusconi',de,Italien,#7722cc,#7722cc,2,0.2706486023684718
 'Maya Rudolph',de,unknown,#111111,#111111,1,0.2704689495333539
 'Recep Tayyip Erdoan',de,Türkei,#111111,#111111,2,0.2704067569087848
 'Élisabeth Borne',de,Frankreich,#e8e808,#e8e808,1,0.2695941365971816
@@ -694,7 +694,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Edward Snowden',de,USA,#18e8e8,#18e8e8,2,0.2285994919847821
 'Tiffany Chen',de,USA,#18e8e8,#18e8e8,1,0.2283502638688581
 'Chuck Todd',de,USA,#18e8e8,#18e8e8,1,0.2280093701588467
-'Giorgia Meloni',de,Italien,#111111,#111111,3,0.2276149926050359
+'Giorgia Meloni',de,Italien,#7722cc,#7722cc,3,0.2276149926050359
 'Cassidy Hutchinson',de,unknown,#111111,#111111,1,0.2273750459849542
 'Anthony Fauci',de,USA,#18e8e8,#18e8e8,2,0.2269620774905906
 'Alexander Lukaschenko',de,Belarus,#e81858,#e81858,3,0.2268541715039604
