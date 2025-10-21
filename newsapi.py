@@ -663,7 +663,7 @@ keywordsDF = addNewNames('https://raw.githubusercontent.com/pg-ufr-news/personWh
 #keywordsDF = keywordsDF.sort_values(by=['topic','keyword'])
 keywordsDF = keywordsDF[(keywordsDF.ratioNew > 0.05)]
 keywordsDF = keywordsDF.sort_values(by=['ratioNew'], ascending=False)
-keywordsDF.to_csv(DATA_PATH / 'keywords.csv', columns=keywordsFields,index=False)  
+keywordsDF.to_csv(DATA_PATH / 'keywords.csv', columns=keywordsFields,index=False, float_format='%.12f')  
 
 '''
 i=1
