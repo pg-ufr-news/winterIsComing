@@ -190,7 +190,7 @@ def incrementPersonsInKeywords(data):
                if(not personText in namesDone):
                 crc = personInSearchCrc(personText)
                 if(crc):
-                  oldRatio = float(keywordsDF.loc[keywordsDF['crc'] == crc, 'ratioNew'])
+                  oldRatio = float(keywordsDF.loc[keywordsDF['crc'] == crc, 'ratioNew'].iloc[0])
                   newRatio = math.atan(math.tan(oldRatio*math.pi/2) + 1/500)*2/math.pi
                   print(['incrementPersonsInKeywords ratio',personText,oldRatio,newRatio])
                   keywordsDF.loc[keywordsDF['crc'] == crc, 'ratioNew'] = newRatio  
