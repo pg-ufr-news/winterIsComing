@@ -41,8 +41,8 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Lara Trump',de,unknown,#111111,#111111,2,0.424673197005
 'Verena Hubertz',de,Deutschland,#11dd44,#11dd44,3,0.423606276374
 'Maria Kolesnikowa',de,Belarus,#e81858,#e81858,2,0.423604199604
-'Papst Leo',de,USA,#111111,#111111,3,0.421607760317
-'Sam Asghari',de,unknown,#111111,#111111,2,0.421339101920
+'Papst Leo',de,USA,#18e8e8,#18e8e8,3,0.421607760317
+'Sam Asghari',de,Iran,#11bb99,#11bb99,2,0.421339101920
 'Lady Gaga',de,USA,#18e8e8,#18e8e8,3,0.421317789360
 'Elon Musk',de,USA,#18e8e8,#18e8e8,3,0.420999902716
 'David Cameron',de,unknown,#111111,#111111,1,0.420358909934
@@ -54,7 +54,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Mohammad Mustafa',de,Palistina,#111111,#111111,1,0.417863413588
 'Benny Blanco',de,unknown,#111111,#111111,2,0.417700357466
 'Marco Rubio',de,USA,#18e8e8,#18e8e8,3,0.417278542876
-'Ayatollah Khomeini',de,Iran,#111111,#111111,1,0.416422781093
+'Ayatollah Khomeini',de,Iran,#11bb99,#11bb99,1,0.416422781093
 'Bärbel Bas',de,Deutschland,#11dd44,#11dd44,3,0.416052315021
 'Nicola Peltz',de,USA,#18e8e8,#18e8e8,2,0.415722923854
 'Hailey Bieber',de,unknown,#111111,#111111,2,0.414989627499
@@ -466,7 +466,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Sean Hannity',de,unknown,#111111,#111111,1,0.308027555114
 'Petro Poroshenko',de,unknown,#111111,#111111,1,0.307932659194
 'Drake Maye',de,unknown,#111111,#111111,1,0.307899273929
-'Ayatollah Chamenei',de,Iran,#111111,#111111,1,0.307770240762
+'Ayatollah Chamenei',de,Iran,#11bb99,#11bb99,1,0.307770240762
 'Leonardo da Vinci',de,Italien,#7722cc,#7722cc,2,0.307523361241
 'Salvador Dali',de,Spanien,#1144aa,#1144aa,1,0.307512545000
 'Jacques Doriot',de,unknown,#111111,#111111,1,0.307477450123
@@ -852,7 +852,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Larry Page',de,USA,#18e8e8,#18e8e8,1,0.106146893879
 'Nicola Beer',de,EU,#111111,#111111,1,0.104797676214
 'Paul Gosar',de,USA,#18e8e8,#18e8e8,1,0.100405946214
-'Ali Chamenei',de,Iran,#111111,#111111,2,0.100085109947
+'Ali Chamenei',de,Iran,#11bb99,#11bb99,2,0.100085109947
 'Joana Cotar',de,Deutschland,#11dd44,#11dd44,1,0.099983010455
 'Jewgenij Roisman',de,Russland,#e81818,#e81818,1,0.099604967164
 'Barbara Walters',de,USA,#18e8e8,#18e8e8,1,0.098914793765
@@ -866,13 +866,13 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Andrew Forrest',de,Australien,#111111,#111111,1,0.086922604771
 'Millie Mackintosh',de,UK,#e838e8,#e838e8,1,0.085870735393
 'Jair Lapid',de,Israel,#8822dd,#8822dd,2,0.084476423856
-'Ebrahim Raisi',de,Iran,#111111,#111111,1,0.083165018922
+'Ebrahim Raisi',de,Iran,#11bb99,#11bb99,1,0.083165018922
 'Julia Koch',de,USA,#18e8e8,#18e8e8,1,0.080932305118
 'Milo Yiannopoulos',de,UK,#e838e8,#e838e8,1,0.078232966425
 'Tamim bin Hamad Al-Thani',de,Katar,#111111,#111111,1,0.077003040273
 'Lael Brainard',de,USA,#18e8e8,#18e8e8,1,0.076661861107
 'Susanne Klatten',de,Deutschland,#11dd44,#11dd44,1,0.075476496228
-'Ayatollah Ali Chamenei',de,Iran,#111111,#111111,1,0.073398542930
+'Ayatollah Ali Chamenei',de,Iran,#11bb99,#11bb99,1,0.073398542930
 'Patrick Pouyanné',de,Frankreich,#e8e808,#e8e808,1,0.073319438072
 'Alberto Ángel Fernández',de,Argentinien,#3355bb,#3355bb,1,0.070966430374
 'Lee Hsien Loong',de,Singapur,#111111,#111111,1,0.070940815155
