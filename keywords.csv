@@ -1,8 +1,7 @@
 keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
-'Mary E. Brunkow',de,USA,#18e8e8,#18e8e8,2,0.500000000000
+'Fred Ramsdel',de,USA,#18e8e8,#18e8e8,2,0.509407489154
+'Shimon Sakaguchi',de,Japan,#aa9933,#aa9933,2,0.503796891992
 'John Clarke',de,USA,#18e8e8,#18e8e8,2,0.500000000000
-'Shimon Sakaguchi',de,Japan,#aa9933,#aa9933,2,0.500000000000
-'Fred Ramsdel',de,USA,#18e8e8,#18e8e8,2,0.500000000000
 'Omar M. Yaghi',de,USA,#18e8e8,#18e8e8,2,0.500000000000
 'Philipp Aghion',de,Frankreich,#e8e808,#e8e808,2,0.500000000000
 'Maria Corina Machado',de,Venezuela,#aa3399,#aa3399,2,0.500000000000
@@ -11,6 +10,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Joel Mokyr',de,USA,#18e8e8,#18e8e8,2,0.489022875069
 'László Krasznahorkai',de,Ungarn,#33aa99,#33aa99,2,0.485037480586
 'Sanae Takaichi',de,Japan,#aa9933,#aa9933,3,0.484496459545
+'Mary E. Brunkow',de,USA,#18e8e8,#18e8e8,2,0.484496159545
 'Richard Robson',de,Australien,#99aa33,#99aa33,2,0.480231838404
 'Bezalel Smotrich',de,Israel,#8822dd,#8822dd,2,0.461770071818
 'James Comey',de,USA,#18e8e8,#18e8e8,2,0.458109768225
@@ -724,9 +724,9 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Jean-Jacques Rousseau',de,Schweiz,#111111,#111111,1,0.222323499564
 'Hazel Monét',de,unknown,#111111,#111111,1,0.222214540705
 'Michael Sandel',de,USA,#18e8e8,#18e8e8,1,0.222166872817
-'Megyn Kell',de,USA,#18e8e8,#18e8e8,1,0.221852656250
 'Pierre-Yves Dermagne',de,Belgien,#111111,#111111,1,0.221852656250
 'Yevgeny Prigozhin',de,Russland,#e81818,#e81818,1,0.221852656250
+'Megyn Kell',de,USA,#18e8e8,#18e8e8,1,0.221852656250
 'Sergej Schoigu',de,Russland,#e81818,#e81818,3,0.221828588284
 'Éric Ciotti',de,Frankreich,#e8e808,#e8e808,1,0.221817497258
 'Jens Stoltenberg',de,Norwegen,#e818e8,#e818e8,2,0.220549124512
