@@ -1,10 +1,9 @@
 keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
-'John Clarke',de,USA,#18e8e8,#18e8e8,2,0.501270696461
-'Omar M. Yaghi',de,USA,#18e8e8,#18e8e8,2,0.500000000000
 'Philipp Aghion',de,Frankreich,#e8e808,#e8e808,2,0.500000000000
 'Maria Corina Machado',de,Venezuela,#aa3399,#aa3399,2,0.500000000000
 'John M. Martinis',de,USA,#18e8e8,#18e8e8,2,0.500000000000
 'Michel H. Devoret',de,USA,#18e8e8,#18e8e8,2,0.500000000000
+'Omar M. Yaghi',de,USA,#18e8e8,#18e8e8,2,0.500000000000
 'Joel Mokyr',de,USA,#18e8e8,#18e8e8,2,0.489022875069
 'László Krasznahorkai',de,Ungarn,#33aa99,#33aa99,2,0.485037480586
 'Sanae Takaichi',de,Japan,#aa9933,#aa9933,3,0.484496459545
@@ -20,6 +19,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Stefan Aust',de,Deutschland,#11dd44,#11dd44,2,0.440378637354
 'Leo XIV',de,Vatikan,#58b8e8,#58b8e8,2,0.440245314176
 'Itamar Ben-Gvir',de,Israel,#8822dd,#8822dd,3,0.440183444773
+'John Clarke',de,USA,#18e8e8,#18e8e8,2,0.440122291083
 'Fred Ramsdel',de,USA,#18e8e8,#18e8e8,1,0.438347087808
 'Greta Thunberg',de,Schweden,#77dd11,#77dd11,3,0.436807540003
 'Susumu Kitagawa',de,Japan,#aa9933,#aa9933,3,0.436504547313
@@ -106,9 +106,9 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Hans-Werner Sinn',de,unknown,#111111,#111111,1,0.396541427198
 'Carsten Schneider',de,Deutschland,#11dd44,#11dd44,3,0.395812727176
 'Prinzessin Kate',de,UK,#e838e8,#e838e8,3,0.395182898176
+'Donald Trump',de,USA,#18e8e8,#18e8e8,3,0.394677921370
 'Novak Djokovic',de,unknown,#111111,#111111,3,0.394404270058
 'Justin Bieber',de,unknown,#111111,#111111,1,0.393880777273
-'Donald Trump',de,USA,#18e8e8,#18e8e8,3,0.393833682092
 'Gisele Bündchen',de,unknown,#111111,#111111,1,0.393627978492
 'Hillary Clinton',de,USA,#18e8e8,#18e8e8,3,0.393237320888
 'Marie Trintignant',de,unknown,#111111,#111111,1,0.390425791588
@@ -672,21 +672,21 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Vanessa Nakate',de,unknown,#111111,#111111,1,0.246829436568
 'Bodo Ramelow',de,Deutschland,#11dd44,#11dd44,3,0.245335301390
 'Warren Buffett',de,USA,#18e8e8,#18e8e8,3,0.245234949130
-'Helena Gualinga',de,unknown,#111111,#111111,1,0.244037921875
 'Mark Hertsgaard',de,unknown,#111111,#111111,1,0.244037921875
 'Tasneem Essop',de,unknown,#111111,#111111,1,0.244037921875
 'Sophia Kianni',de,unknown,#111111,#111111,1,0.244037921875
 'Elizabeth Mpofu',de,unknown,#111111,#111111,1,0.244037921875
 'Autumn Peltier',de,unknown,#111111,#111111,1,0.244037921875
+'Helena Gualinga',de,unknown,#111111,#111111,1,0.244037921875
 'Michael Ballweg',de,Deutschland,#11dd44,#11dd44,2,0.243835655473
 'Jordan Bardella',de,Frankreich,#e8e808,#e8e808,2,0.243147591647
 'Antony Blinken',de,USA,#18e8e8,#18e8e8,3,0.242998422635
 'Lance Bass',de,unknown,#111111,#111111,1,0.242573035360
 'Marco Buschmann',de,Deutschland,#11dd44,#11dd44,3,0.242330180960
 'Fabien Roussel',de,unknown,#111111,#111111,1,0.240729742413
+'Bill Gates',de,USA,#18e8e8,#18e8e8,3,0.240611029876
 'Caroline Ellison',de,unknown,#111111,#111111,1,0.240451797857
 'Jair Bolsonaro',de,Brasilien,#58e838,#58e848,3,0.239815844353
-'Bill Gates',de,USA,#18e8e8,#18e8e8,3,0.239510417810
 'Gregor Gysi',de,Deutschland,#11dd44,#11dd44,2,0.239215475841
 'Pap Ndiaye',de,unknown,#111111,#111111,1,0.238890465044
 'Zach Bryan',de,unknown,#111111,#111111,1,0.238857212211
@@ -724,9 +724,9 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Jean-Jacques Rousseau',de,Schweiz,#111111,#111111,1,0.222323499564
 'Hazel Monét',de,unknown,#111111,#111111,1,0.222214540705
 'Michael Sandel',de,USA,#18e8e8,#18e8e8,1,0.222166872817
-'Megyn Kell',de,USA,#18e8e8,#18e8e8,1,0.221852656250
 'Pierre-Yves Dermagne',de,Belgien,#111111,#111111,1,0.221852656250
 'Yevgeny Prigozhin',de,Russland,#e81818,#e81818,1,0.221852656250
+'Megyn Kell',de,USA,#18e8e8,#18e8e8,1,0.221852656250
 'Sergej Schoigu',de,Russland,#e81818,#e81818,3,0.221828588284
 'Éric Ciotti',de,Frankreich,#e8e808,#e8e808,1,0.221817497258
 'Jens Stoltenberg',de,Norwegen,#e818e8,#e818e8,2,0.220549124512
