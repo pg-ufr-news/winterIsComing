@@ -86,7 +86,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Christian Dürr',de,unknown,#111111,#111111,3,0.408275658076
 'JD Vance',de,unknown,#111111,#111111,3,0.406539064312
 'Ulrich Reitz',de,Deutschland,#11dd44,#11dd44,2,0.405031056036
-'Recep Tayyip Erdogan',de,Türkei,#111111,#111111,3,0.404503977790
+'Recep Tayyip Erdogan',de,Türkei,#4411ee,#4411ee,3,0.404503977790
 'Benjamin Netanjahu',de,Israel,#8822dd,#8822dd,3,0.404024577483
 'Jake Paul',de,unknown,#111111,#111111,1,0.403801314837
 'Justus Haucap',de,Deutschland,#11dd44,#11dd44,2,0.403056609179
@@ -135,12 +135,12 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Karim Benzema',de,Frankreich,#e8e808,#e8e808,3,0.380302120527
 'Queen Camilla',de,UK,#e838e8,#e838e8,3,0.380051399167
 'Bernie Sanders',de,USA,#18e8e8,#18e8e8,1,0.379768468887
-'Dua Lipa',de,unknown,#111111,#111111,2,0.379618170530
-'Anne Hathaway',de,unknown,#111111,#111111,2,0.378606857910
-'Merrick Garland',de,unknown,#111111,#111111,2,0.377857079757
+'Dua Lipa',de,UK,#e838e8,#e838e8,2,0.379618170530
+'Anne Hathaway',de,USA,#18e8e8,#18e8e8,2,0.378606857910
+'Merrick Garland',de,USA,#18e8e8,#18e8e8,2,0.377857079757
 'Prinz Archie',de,UK,#e838e8,#e838e8,2,0.377756994365
-'Miley Cyrus',de,unknown,#111111,#111111,2,0.376929558646
-'Hubert Aiwanger',de,unknown,#111111,#111111,3,0.376033132020
+'Miley Cyrus',de,USA,#18e8e8,#18e8e8,2,0.376929558646
+'Hubert Aiwanger',de,Deutschland,#11dd44,#11dd44,3,0.376033132020
 'Queen Elizabeth II',de,UK,#e838e8,#e838e8,3,0.375836653334
 'Chris Wright',de,USA,#18e8e8,#18e8e8,2,0.375566426130
 'Andrei Sacharow',de,Russland,#e81818,#e81818,1,0.374766265000
@@ -164,7 +164,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Zohran Mamdani',de,USA,#18e8e8,#18e8e8,1,0.366793378371
 'Marguerite Cazeneuve',de,unknown,#111111,#111111,1,0.366468865001
 'Sam Altman',de,USA,#18e8e8,#18e8e8,3,0.366430147416
-'Gwede Mantashe',de,Südafrika,#111111,#111111,1,0.365704405000
+'Gwede Mantashe',de,Südafrika,#1144ee,#1144ee,1,0.365704405000
 'Boris Johnson',de,UK,#e838e8,#e838e8,3,0.365625574420
 'Melania Trump',de,unknown,#111111,#111111,3,0.365055343273
 'Ayo Edebiri',de,unknown,#111111,#111111,1,0.364804884722
@@ -235,7 +235,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Peter Thiel',de,USA,#18e8e8,#18e8e8,2,0.346673972859
 'Pippa Middleton',de,UK,#e838e8,#e838e8,2,0.346453328909
 'Mohammed Bin Salman',de,SaudiArabien,#111111,#111111,2,0.346424112751
-'Kemal Kılıçdaroğlu',de,Türkei,#111111,#111111,2,0.346400852550
+'Kemal Kılıçdaroğlu',de,Türkei,#4411ee,#4411ee,2,0.346400852550
 'Omar Sy',de,unknown,#111111,#111111,1,0.346119661797
 'Marjorie Taylor Greene',de,USA,#18e8e8,#18e8e8,2,0.346081937335
 'Curtis Yarvin',de,USA,#111111,#111111,1,0.346001948736
@@ -489,7 +489,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Hailey Van Lith',de,unknown,#111111,#111111,1,0.307342816440
 'Tina Turner',de,USA,#18e8e8,#18e8e8,2,0.307131327466
 'Evgueni Prigojine',de,Russland,#e81818,#e81818,1,0.307062500000
-'Kemal Kiliçdaroglu',de,Türkei,#111111,#111111,1,0.307062500000
+'Kemal Kiliçdaroglu',de,Türkei,#4411ee,#4411ee,1,0.307062500000
 'Uwe Neumärker',de,Deutschland,#11dd44,#11dd44,1,0.307062500000
 'Patti LaBelle',de,USA,#18e8e8,#18e8e8,1,0.307062500000
 'Dorothée Pacaud',de,Frankreich,#e8e808,#e8e808,1,0.307062500000
@@ -580,7 +580,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Marjan Minnesma',de,unknown,#111111,#111111,1,0.287103437500
 'Eriberto Gualinga',de,unknown,#111111,#111111,1,0.287103437500
 'King Charles III',de,UK,#e838e8,#e838e8,2,0.286623446345
-'Kemal Klçdarolu',de,Türkei,#111111,#111111,3,0.286278690666
+'Kemal Klçdarolu',de,Türkei,#4411ee,#4411ee,3,0.286278690666
 'Irina Shayk',de,unknown,#111111,#111111,1,0.286204198439
 'Jean-Luc Mélenchon',de,unknown,#111111,#111111,1,0.285550853097
 'Julia Louis-Dreyfus',de,unknown,#111111,#111111,1,0.285241155776
@@ -613,7 +613,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Christian Kroll',de,Deutschland,#11dd44,#11dd44,1,0.271216590942
 'Silvio Berlusconi',de,Italien,#7722cc,#7722cc,2,0.270648602368
 'Maya Rudolph',de,unknown,#111111,#111111,1,0.270468949533
-'Recep Tayyip Erdoan',de,Türkei,#111111,#111111,2,0.270406756909
+'Recep Tayyip Erdoan',de,Türkei,#4411ee,#4411ee,2,0.270406756909
 'Élisabeth Borne',de,Frankreich,#e8e808,#e8e808,1,0.269594136597
 'Arno Antlitz',de,Deutschland,#11dd44,#11dd44,1,0.269381724922
 'Leonard Bernstein',de,unknown,#111111,#111111,1,0.268663530010
@@ -653,7 +653,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Aurélien Pradié',de,Frankreich,#e8e808,#e8e808,1,0.261003125000
 'Georg Bätzing',de,Deutschland,#11dd44,#11dd44,2,0.258823823119
 'Olli Schulz',de,Deutschland,#11dd44,#11dd44,1,0.258162065918
-'Kemal Kilicdaroglu',de,Türkei,#111111,#111111,1,0.257438385831
+'Kemal Kilicdaroglu',de,Türkei,#4411ee,#4411ee,1,0.257438385831
 'Ted Cruz',de,USA,#18e8e8,#18e8e8,1,0.257000985197
 'Margaret Thatcher',de,UK,#e838e8,#e838e8,1,0.256869997446
 'Michael Kahle',de,Deutschland,#11dd44,#11dd44,1,0.256585755261
@@ -738,7 +738,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Michael Cohen',de,USA,#18e8e8,#18e8e8,3,0.218792872905
 'Michael Mann',de,USA,#18e8e8,#18e8e8,3,0.217596622844
 'Jewgeni Prigoschin',de,Russland,#e81818,#e81818,2,0.217292238389
-'Recep Tayyip Erdoğan',de,Türkei,#111111,#111111,2,0.216266069377
+'Recep Tayyip Erdoğan',de,Türkei,#4411ee,#4411ee,2,0.216266069377
 'Alice Weidel',de,Deutschland,#11dd44,#11dd44,2,0.215523742528
 'Winfried Kretschmann',de,Deutschland,#11dd44,#11dd44,3,0.215520805967
 'Lothar Wieler',de,Deutschland,#11dd44,#11dd44,1,0.214475643039
@@ -818,7 +818,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Steve Milloy',de,USA,#18e8e8,#18e8e8,1,0.160288544141
 'Chip Somodevilla',de,USA,#18e8e8,#18e8e8,1,0.159593612487
 'Meg Bellamy',de,UK,#e838e8,#e838e8,1,0.159128394767
-'Cyril Ramaphosa',de,Südafrika,#111111,#111111,2,0.158659382185
+'Cyril Ramaphosa',de,Südafrika,#1144ee,#1144ee,2,0.158659382185
 'Andreas Baum',de,Deutschland,#11dd44,#11dd44,1,0.158450287556
 'Mike Pence',de,USA,#18e8e8,#18e8e8,1,0.157813015643
 'Andrea Lindholz',de,Deutschland,#11dd44,#11dd44,2,0.155234411900
@@ -873,7 +873,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Barbara Walters',de,USA,#18e8e8,#18e8e8,1,0.098914793765
 'Raphael Warnock',de,USA,#18e8e8,#18e8e8,1,0.098437202170
 'Gautam Adani',de,Indien,#dd3344,#dd3344,1,0.098015236202
-'Bartholomäus',de,Türkei,#111111,#111111,1,0.093890554752
+'Bartholomäus',de,Türkei,#4411ee,#4411ee,1,0.093890554752
 'Sergej Lavrov',de,Russland,#e81818,#e81818,1,0.092242756998
 'Volodymyr Zelenskiy',de,Ukraine,#e818e8,#e818e8,1,0.092038784029
 'Carl Friedrich Gauß',de,Deutschland,#11dd44,#11dd44,1,0.091310268622
