@@ -31,10 +31,10 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Cruz Beckham',de,Spanien,#1144aa,#1144aa,1,0.431108352295
 'Lil Yachty',de,USA,#18e8e8,#18e8e8,1,0.430959376672
 'Anant Ambani',de,Indien,#dd3344,#dd3344,1,0.430371334933
+'Friedrich Merz',de,Deutschland,#11dd44,#11dd44,3,0.429183476713
 'Pete Hegseth',de,USA,#18e8e8,#18e8e8,3,0.428850012761
 'Lyna Khoudri',de,Algerien,#22cc99,#22cc99,1,0.428765424897
 'Léon XIV',de,Vatikan,#58b8e8,#58b8e8,1,0.428645306102
-'Friedrich Merz',de,Deutschland,#11dd44,#11dd44,3,0.428405631093
 'Michel H. Devoret',de,USA,#18e8e8,#18e8e8,2,0.427700270000
 'Heidi Klum',de,Deutschland,#11dd44,#11dd44,3,0.427191038546
 'Andrew Cuomo',de,USA,#18e8e8,#18e8e8,2,0.427097396576
@@ -91,7 +91,6 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Jake Paul',de,unknown,#111111,#111111,1,0.403801314837
 'Justus Haucap',de,Deutschland,#11dd44,#11dd44,2,0.403056609179
 'Patrick Schnieder',de,Deutschland,#11dd44,#11dd44,3,0.402832896141
-'Boris Rhein',de,unknown,#111111,#111111,3,0.402159506218
 'Pietro Lombardi',de,Deutschland,#11dd44,#11dd44,3,0.402155585454
 'Theodor Herzl',de,Ungarn,#33aa99,#33aa99,2,0.401834022598
 'Nina Gummich',de,Deutschland,#11dd44,#11dd44,1,0.401819027542
@@ -111,6 +110,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Justin Bieber',de,unknown,#111111,#111111,1,0.393880777273
 'Gisele Bündchen',de,unknown,#111111,#111111,1,0.393627978492
 'Hillary Clinton',de,USA,#18e8e8,#18e8e8,3,0.393237320888
+'Boris Rhein',de,unknown,#111111,#111111,3,0.392241115740
 'Marie Trintignant',de,unknown,#111111,#111111,1,0.390425791588
 'Nina Warken',de,Deutschland,#11dd44,#11dd44,3,0.390278367301
 'LeBron James',de,unknown,#111111,#111111,3,0.387859401715
@@ -724,9 +724,9 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Jean-Jacques Rousseau',de,Schweiz,#111111,#111111,1,0.222323499564
 'Hazel Monét',de,unknown,#111111,#111111,1,0.222214540705
 'Michael Sandel',de,USA,#18e8e8,#18e8e8,1,0.222166872817
-'Megyn Kell',de,USA,#18e8e8,#18e8e8,1,0.221852656250
 'Pierre-Yves Dermagne',de,Belgien,#111111,#111111,1,0.221852656250
 'Yevgeny Prigozhin',de,Russland,#e81818,#e81818,1,0.221852656250
+'Megyn Kell',de,USA,#18e8e8,#18e8e8,1,0.221852656250
 'Sergej Schoigu',de,Russland,#e81818,#e81818,3,0.221828588284
 'Éric Ciotti',de,Frankreich,#e8e808,#e8e808,1,0.221817497258
 'Jens Stoltenberg',de,Norwegen,#e818e8,#e818e8,2,0.220549124512
