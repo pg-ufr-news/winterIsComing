@@ -42,7 +42,6 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Prinz William',de,UK,#e838e8,#e838e8,3,0.426875125053
 'Reem Alabali-Radovan',de,Deutschland,#11dd44,#11dd44,2,0.426765063247
 'Johann Wadephul',de,Deutschland,#11dd44,#11dd44,3,0.426550405837
-'Gervonta Davis',de,USA,#18e8e8,#18e8e8,1,0.426367356707
 'Brooklyn Beckham',de,UK,#e838e8,#e838e8,2,0.426225224370
 'Thorsten Frei',de,Deutschland,#11dd44,#11dd44,3,0.425696994669
 'Eddie Hearn',de,UK,#e838e8,#e838e8,2,0.425587291339
@@ -170,6 +169,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Ayo Edebiri',de,unknown,#111111,#111111,1,0.364804884722
 'Tim Malone',de,unknown,#111111,#111111,1,0.363700408881
 'Dmitri Medwedew',de,Russland,#e81818,#e81818,3,0.362944774228
+'Gervonta Davis',de,USA,#18e8e8,#18e8e8,1,0.362562268201
 'König Felipe VI',de,Spanien,#1144aa,#1144aa,1,0.362154228557
 'Marine Le Pen',de,Frankreich,#e8e808,#e8e808,2,0.362090291989
 'Ferdinand Dudenhöffer',de,Deutschland,#11dd44,#11dd44,3,0.361712987269
@@ -724,9 +724,9 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Jean-Jacques Rousseau',de,Schweiz,#111111,#111111,1,0.222323499564
 'Hazel Monét',de,unknown,#111111,#111111,1,0.222214540705
 'Michael Sandel',de,USA,#18e8e8,#18e8e8,1,0.222166872817
-'Megyn Kell',de,USA,#18e8e8,#18e8e8,1,0.221852656250
 'Pierre-Yves Dermagne',de,Belgien,#111111,#111111,1,0.221852656250
 'Yevgeny Prigozhin',de,Russland,#e81818,#e81818,1,0.221852656250
+'Megyn Kell',de,USA,#18e8e8,#18e8e8,1,0.221852656250
 'Sergej Schoigu',de,Russland,#e81818,#e81818,3,0.221828588284
 'Éric Ciotti',de,Frankreich,#e8e808,#e8e808,1,0.221817497258
 'Jens Stoltenberg',de,Norwegen,#e818e8,#e818e8,2,0.220549124512
