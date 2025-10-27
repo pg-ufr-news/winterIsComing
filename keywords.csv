@@ -1,12 +1,12 @@
 keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
-'Philippe Aghion',de,unknown,#111111,#111111,2,0.609381707442
-'Omar Yaghi',de,unknown,#111111,#111111,2,0.609359296299
-'Michel Devoret',de,unknown,#111111,#111111,2,0.504542737358
-'John Martinis',de,unknown,#111111,#111111,2,0.503334497409
-'Callum Turner',de,unknown,#111111,#111111,2,0.501929998219
-'Cheryl Hines',de,unknown,#111111,#111111,2,0.500813870597
-'Sebastien Lecornu',de,unknown,#111111,#111111,2,0.500588278069
-'Mary Brunkow',de,unknown,#111111,#111111,2,0.500298265790
+'Philippe Aghion',de,Frankreich,#e8e808,#e8e808,2,0.609381707442
+'Omar Yaghi',de,Jordanien,#335588,#335588,2,0.609359296299
+'Michel Devoret',de,Frankreich,#e8e808,#e8e808,2,0.504542737358
+'John Martinis',de,USA,#18e8e8,#18e8e8,2,0.503334497409
+'Callum Turner',de,UK,#e838e8,#e838e8,2,0.501929998219
+'Cheryl Hines',de,USA,#18e8e8,#18e8e8,2,0.500813870597
+'Sebastien Lecornu',de,Frankreich,#e8e808,#e8e808,2,0.500588278069
+'Mary Brunkow',de,USA,#18e8e8,#18e8e8,2,0.500298265790
 'Joel Mokyr',de,USA,#18e8e8,#18e8e8,2,0.489022875069
 'Maria Corina Machado',de,Venezuela,#aa3399,#aa3399,2,0.486500645000
 'László Krasznahorkai',de,Ungarn,#33aa99,#33aa99,2,0.485037480586
@@ -676,7 +676,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Harrison Ford',de,unknown,#111111,#111111,1,0.248675424859
 'Kurt Krömer',de,Deutschland,#11dd44,#11dd44,2,0.248464234503
 'Selenski',de,Ukraine,#e818e8,#e818e8,1,0.247733636848
-'Aleksandar Vučić',de,Serbien,#111111,#111111,1,0.247564191884
+'Aleksandar Vučić',de,Serbien,#4488cc,#4488cc,1,0.247564191884
 'Péter Szijjártó',de,Ungarn,#33aa99,#33aa99,2,0.247233629196
 'Vanessa Nakate',de,unknown,#111111,#111111,1,0.246829436568
 'Bodo Ramelow',de,Deutschland,#11dd44,#11dd44,3,0.245335301390
@@ -692,7 +692,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Antony Blinken',de,USA,#18e8e8,#18e8e8,3,0.242998422635
 'Lance Bass',de,unknown,#111111,#111111,1,0.242573035360
 'Marco Buschmann',de,Deutschland,#11dd44,#11dd44,3,0.242330180960
-'Mateusz Morawiecki',de,Polen,#111111,#111111,2,0.241238631256
+'Mateusz Morawiecki',de,Polen,#8844cc,#8844cc,2,0.241238631256
 'Fabien Roussel',de,unknown,#111111,#111111,1,0.240729742413
 'Bill Gates',de,USA,#18e8e8,#18e8e8,3,0.240611029876
 'Caroline Ellison',de,unknown,#111111,#111111,1,0.240451797857
@@ -713,7 +713,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Chelsea Manning',de,USA,#18e8e8,#18e8e8,2,0.231330931094
 'Don Lemon',de,USA,#18e8e8,#18e8e8,1,0.230446312969
 'Alfred Nobel',de,Schweden,#77dd11,#77dd11,2,0.230113228418
-'Hilda Nakabuye',de,Uganda,#111111,#111111,1,0.230061204531
+'Hilda Nakabuye',de,Uganda,#44cc88,#44cc88,1,0.230061204531
 'Peter Urban',de,Deutschland,#11dd44,#11dd44,1,0.229686881609
 'Peregrine Pearson',de,unknown,#111111,#111111,1,0.229336351629
 'Edward Snowden',de,USA,#18e8e8,#18e8e8,2,0.228599491985
@@ -731,7 +731,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Wolfgang Schäuble',de,Deutschland,#11dd44,#11dd44,2,0.223148145736
 'Jean-Denis Combrexelle',de,unknown,#111111,#111111,1,0.222772504283
 'Dieter Salomon',de,Deutschland,#11dd44,#11dd44,1,0.222764701048
-'Jean-Jacques Rousseau',de,Schweiz,#111111,#111111,1,0.222323499564
+'Jean-Jacques Rousseau',de,Schweiz,#88cc44,#88cc44,1,0.222323499564
 'Hazel Monét',de,unknown,#111111,#111111,1,0.222214540705
 'Michael Sandel',de,USA,#18e8e8,#18e8e8,1,0.222166872817
 'Yevgeny Prigozhin',de,Russland,#e81818,#e81818,1,0.221852656250
@@ -755,7 +755,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Charles Koch',de,USA,#18e8e8,#18e8e8,2,0.213101432961
 'Katalin Novák',de,Ungarn,#33aa99,#33aa99,1,0.212432244683
 'Thomas Haldenwang',de,Deutschland,#11dd44,#11dd44,2,0.212210223330
-'Fidel Castro',de,Kuba,#111111,#111111,2,0.211661539921
+'Fidel Castro',de,Kuba,#cc4488,#cc4488,2,0.211661539921
 'Rishi Sunak',de,UK,#e838e8,#e838e8,3,0.211621018046
 'Sandra Maischberger',de,Deutschland,#11dd44,#11dd44,2,0.211607136192
 'Xi Jinping',de,China,#e88818,#e88818,3,0.210990918516
@@ -766,10 +766,10 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Ola Källenius',de,Deutschland,#11dd44,#11dd44,2,0.207968429447
 'Robin Wall Kimmerer',de,unknown,#111111,#111111,1,0.207697236966
 'Cillian Murphy',de,Irland,#33bbff,#33bbff,3,0.207266170663
-'Andrzej Duda',de,Polen,#111111,#111111,3,0.207231072552
+'Andrzej Duda',de,Polen,#8844cc,#8844cc,3,0.207231072552
 'Bernard Arnault',de,Frankreich,#e8e808,#e8e808,2,0.206923530123
 'Julian Assange',de,Australien,#99aa33,#99aa33,3,0.206780390813
-'Jan Lipavský',de,Tschechien,#111111,#111111,1,0.205191517846
+'Jan Lipavský',de,Tschechien,#cc8844,#cc8844,1,0.205191517846
 'Jerome Powell',de,USA,#18e8e8,#18e8e8,3,0.205118435031
 'Rafael Grossi',de,UN,#e888e8,#e888e8,3,0.205078210417
 'Roberta Metsola',de,EU,#bbff33,#bbff33,2,0.204886523584
@@ -783,7 +783,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Björn Höcke',de,Deutschland,#11dd44,#11dd44,2,0.196452937374
 'Frank-Walter Steinmeier',de,Deutschland,#11dd44,#11dd44,3,0.194948568760
 'Christian Drosten',de,Deutschland,#11dd44,#11dd44,2,0.194786454223
-'Aleksandar Vucic',de,Serbien,#111111,#111111,3,0.194264146212
+'Aleksandar Vucic',de,Serbien,#4488cc,#4488cc,3,0.194264146212
 'Liz Truss',de,UK,#e838e8,#e838e8,2,0.194025794077
 'Stefan Rahmstorf',de,Deutschland,#11dd44,#11dd44,2,0.193634442976
 'Maybritt Illner',de,Deutschland,#11dd44,#11dd44,2,0.192048716120
@@ -871,7 +871,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Robin Li',de,China,#e88818,#e88818,2,0.114759712483
 'Andrés Manuel López Obrador',de,Mexiko,#111111,#111111,2,0.112993645620
 'Alexej Kudrin',de,Russland,#e81818,#e81818,1,0.111888838708
-'Miguel Díaz-Canel',de,Kuba,#111111,#111111,1,0.107136147776
+'Miguel Díaz-Canel',de,Kuba,#cc4488,#cc4488,1,0.107136147776
 'Larry Page',de,USA,#18e8e8,#18e8e8,1,0.106146893879
 'Nicola Beer',de,EU,#bbff33,#bbff33,1,0.104797676214
 'Paul Gosar',de,USA,#18e8e8,#18e8e8,1,0.100405946214
