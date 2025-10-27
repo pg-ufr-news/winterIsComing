@@ -1,13 +1,13 @@
 keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
-'Philippe Aghion',de,Frankreich,#e8e808,#e8e808,2,0.609381707442
 'Omar Yaghi',de,Jordanien,#335588,#335588,2,0.609359296299
+'Philippe Aghion',de,Frankreich,#e8e808,#e8e808,2,0.577470700871
 'Michel Devoret',de,Frankreich,#e8e808,#e8e808,2,0.504542737358
 'John Martinis',de,USA,#18e8e8,#18e8e8,2,0.503334497409
 'Callum Turner',de,UK,#e838e8,#e838e8,2,0.501929998219
 'Cheryl Hines',de,USA,#18e8e8,#18e8e8,2,0.500813870597
 'Sebastien Lecornu',de,Frankreich,#e8e808,#e8e808,2,0.500588278069
 'Mary Brunkow',de,USA,#18e8e8,#18e8e8,2,0.500298265790
-'Joel Mokyr',de,USA,#18e8e8,#18e8e8,2,0.489022875069
+'Joel Mokyr',de,USA,#18e8e8,#18e8e8,2,0.491646649978
 'Maria Corina Machado',de,Venezuela,#aa3399,#aa3399,2,0.486500645000
 'László Krasznahorkai',de,Ungarn,#33aa99,#33aa99,2,0.485037480586
 'Sanae Takaichi',de,Japan,#aa9933,#aa9933,3,0.484496459545
@@ -20,9 +20,9 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Bezalel Smotrich',de,Israel,#8822dd,#8822dd,2,0.461770071818
 'James Comey',de,USA,#18e8e8,#18e8e8,2,0.458109768225
 'Volker Wieland',de,Deutschland,#11dd44,#11dd44,2,0.451977313077
+'Peter Howitt',de,USA,#18e8e8,#18e8e8,2,0.449599297583
+'Sébastien Lecornu',de,Frankreich,#e8e808,#e8e808,3,0.448760571910
 'Veronika Grimm',de,Deutschland,#11dd44,#11dd44,2,0.448132373182
-'Peter Howitt',de,USA,#18e8e8,#18e8e8,2,0.445151010669
-'Sébastien Lecornu',de,Frankreich,#e8e808,#e8e808,3,0.445049012769
 'John Clarke',de,USA,#18e8e8,#18e8e8,2,0.444629669117
 'Leo XIV',de,Vatikan,#58b8e8,#58b8e8,2,0.441000000843
 'Stefan Aust',de,Deutschland,#11dd44,#11dd44,2,0.440378637354
@@ -39,7 +39,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Cruz Beckham',de,Spanien,#1144aa,#1144aa,1,0.431108352295
 'Lil Yachty',de,USA,#18e8e8,#18e8e8,1,0.430959376672
 'Anant Ambani',de,Indien,#dd3344,#dd3344,1,0.430371334933
-'Friedrich Merz',de,Deutschland,#11dd44,#11dd44,3,0.429183476713
+'Friedrich Merz',de,Deutschland,#11dd44,#11dd44,3,0.429959806463
 'Pete Hegseth',de,USA,#18e8e8,#18e8e8,3,0.428850012761
 'Lyna Khoudri',de,Algerien,#22cc99,#22cc99,1,0.428765424897
 'Léon XIV',de,Vatikan,#58b8e8,#58b8e8,1,0.428645306102
@@ -55,9 +55,9 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Eddie Hearn',de,UK,#e838e8,#e838e8,2,0.425587291339
 'Tom Kaulitz',de,Deutschland,#11dd44,#11dd44,3,0.425069380426
 'Philipp Aghion',de,Frankreich,#e8e808,#e8e808,1,0.425000000000
-'Iyad al-Rantisi',de,Palestina,#bb6633,#bb6633,1,0.425000000000
 'Khaled al Serr',de,Palestina,#bb6633,#bb6633,1,0.425000000000
 'Munther Amira',de,Palestina,#bb6633,#bb6633,1,0.425000000000
+'Iyad al-Rantisi',de,Palestina,#bb6633,#bb6633,1,0.425000000000
 'Adnan al-Burj',de,Palestina,#bb6633,#bb6633,1,0.425000000000
 'Lara Trump',de,USA,#18e8e8,#18e8e8,2,0.424673197005
 'Verena Hubertz',de,Deutschland,#11dd44,#11dd44,3,0.423606276374
@@ -330,10 +330,10 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Cem Özdemir',de,Deutschland,#11dd44,#11dd44,3,0.330564468598
 'Elizabeth Warren',de,unknown,#111111,#111111,1,0.330449612945
 'Albert Einstein',de,Deutschland,#11dd44,#11dd44,3,0.330391176214
+'Emmanuel Macron',de,Frankreich,#e8e808,#e8e808,3,0.330179346964
 'Aaron Rodgers',de,unknown,#111111,#111111,1,0.329932646100
 'Sam H',de,unknown,#111111,#111111,1,0.329385495992
 'Ben Affleck',de,unknown,#111111,#111111,1,0.329313382900
-'Emmanuel Macron',de,Frankreich,#e8e808,#e8e808,3,0.329218143262
 'Christiane Schenderlein',de,Deutschland,#11dd44,#11dd44,2,0.329039506920
 'Tony Bennett',de,USA,#18e8e8,#18e8e8,1,0.328920793139
 'Kai Wegner',de,Deutschland,#11dd44,#11dd44,3,0.328844959904
@@ -432,10 +432,10 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Mark Kerr',de,unknown,#111111,#111111,1,0.313270469350
 'Franca Lehfeldt',de,Deutschland,#11dd44,#11dd44,1,0.313269344654
 'Yaël Braun-Pivet',de,unknown,#111111,#111111,1,0.313250862887
-'Kara Hurst',de,unknown,#111111,#111111,1,0.313203750000
 'Henning Jeschke',de,unknown,#111111,#111111,1,0.313203750000
-'Brian Kozlowski',de,USA,#18e8e8,#18e8e8,1,0.313203750000
+'Kara Hurst',de,unknown,#111111,#111111,1,0.313203750000
 'Merrill McCollum',de,USA,#18e8e8,#18e8e8,1,0.313203750000
+'Brian Kozlowski',de,USA,#18e8e8,#18e8e8,1,0.313203750000
 'Teresa Giudice',de,unknown,#111111,#111111,1,0.313173887001
 'Jason Whitlock',de,unknown,#111111,#111111,1,0.313163644099
 'Eliot Wolf',de,unknown,#111111,#111111,1,0.313067202760
