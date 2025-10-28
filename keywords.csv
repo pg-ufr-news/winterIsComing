@@ -1,5 +1,4 @@
 keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
-'Philippe Aghion',de,Frankreich,#e8e808,#e8e808,2,0.527619072559
 'Omar Yaghi',de,Jordanien,#335588,#335588,2,0.527451591400
 'Michel Devoret',de,Frankreich,#e8e808,#e8e808,2,0.504542737358
 'John Martinis',de,USA,#18e8e8,#18e8e8,2,0.503334497409
@@ -19,6 +18,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Laura Loomer',de,USA,#18e8e8,#18e8e8,2,0.462150421500
 'Bezalel Smotrich',de,Israel,#8822dd,#8822dd,2,0.461770071818
 'James Comey',de,USA,#18e8e8,#18e8e8,2,0.458109768225
+'Philippe Aghion',de,Frankreich,#e8e808,#e8e808,2,0.453427006675
 'Peter Howitt',de,USA,#18e8e8,#18e8e8,2,0.453266154422
 'Volker Wieland',de,Deutschland,#11dd44,#11dd44,2,0.451977313077
 'Sébastien Lecornu',de,Frankreich,#e8e808,#e8e808,3,0.448760571910
@@ -54,10 +54,10 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Thorsten Frei',de,Deutschland,#11dd44,#11dd44,3,0.425696994669
 'Eddie Hearn',de,UK,#e838e8,#e838e8,2,0.425587291339
 'Tom Kaulitz',de,Deutschland,#11dd44,#11dd44,3,0.425069380426
-'Philipp Aghion',de,Frankreich,#e8e808,#e8e808,1,0.425000000000
-'Iyad al-Rantisi',de,Palestina,#bb6633,#bb6633,1,0.425000000000
 'Khaled al Serr',de,Palestina,#bb6633,#bb6633,1,0.425000000000
+'Philipp Aghion',de,Frankreich,#e8e808,#e8e808,1,0.425000000000
 'Munther Amira',de,Palestina,#bb6633,#bb6633,1,0.425000000000
+'Iyad al-Rantisi',de,Palestina,#bb6633,#bb6633,1,0.425000000000
 'Adnan al-Burj',de,Palestina,#bb6633,#bb6633,1,0.425000000000
 'Lara Trump',de,USA,#18e8e8,#18e8e8,2,0.424673197005
 'Verena Hubertz',de,Deutschland,#11dd44,#11dd44,3,0.423606276374
@@ -432,10 +432,10 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Mark Kerr',de,unknown,#111111,#111111,1,0.313270469350
 'Franca Lehfeldt',de,Deutschland,#11dd44,#11dd44,1,0.313269344654
 'Yaël Braun-Pivet',de,unknown,#111111,#111111,1,0.313250862887
-'Henning Jeschke',de,unknown,#111111,#111111,1,0.313203750000
 'Kara Hurst',de,unknown,#111111,#111111,1,0.313203750000
-'Merrill McCollum',de,USA,#18e8e8,#18e8e8,1,0.313203750000
+'Henning Jeschke',de,unknown,#111111,#111111,1,0.313203750000
 'Brian Kozlowski',de,USA,#18e8e8,#18e8e8,1,0.313203750000
+'Merrill McCollum',de,USA,#18e8e8,#18e8e8,1,0.313203750000
 'Teresa Giudice',de,unknown,#111111,#111111,1,0.313173887001
 'Jason Whitlock',de,unknown,#111111,#111111,1,0.313163644099
 'Eliot Wolf',de,unknown,#111111,#111111,1,0.313067202760
