@@ -1,6 +1,5 @@
 keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
-'Michel Devoret',de,Frankreich,#e8e808,#e8e808,2,0.504542737358
-'John Martinis',de,USA,#18e8e8,#18e8e8,2,0.503334497409
+'John Martinis',de,USA,#18e8e8,#18e8e8,2,0.507713433292
 'Callum Turner',de,UK,#e838e8,#e838e8,2,0.501929998219
 'Cheryl Hines',de,USA,#18e8e8,#18e8e8,2,0.500813870597
 'Sebastien Lecornu',de,Frankreich,#e8e808,#e8e808,2,0.500588278069
@@ -12,6 +11,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Mary E. Brunkow',de,USA,#18e8e8,#18e8e8,2,0.484496159545
 'Richard Robson',de,Australien,#99aa33,#99aa33,2,0.480231838404
 'Shimon Sakaguchi',de,Japan,#aa9933,#aa9933,2,0.478633643648
+'Michel Devoret',de,Frankreich,#e8e808,#e8e808,3,0.474721752663
 'John M. Martinis',de,USA,#18e8e8,#18e8e8,2,0.471007457857
 'Dua Lipa',de,UK,#e838e8,#e838e8,2,0.463771877957
 'Laura Loomer',de,USA,#18e8e8,#18e8e8,2,0.462150421500
@@ -21,9 +21,9 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Omar Yaghi',de,Jordanien,#335588,#335588,2,0.453284587690
 'Peter Howitt',de,USA,#18e8e8,#18e8e8,2,0.453266154422
 'Volker Wieland',de,Deutschland,#11dd44,#11dd44,2,0.451977313077
+'John Clarke',de,USA,#18e8e8,#18e8e8,2,0.451291596429
 'Sébastien Lecornu',de,Frankreich,#e8e808,#e8e808,3,0.448760571910
 'Veronika Grimm',de,Deutschland,#11dd44,#11dd44,2,0.448132373182
-'John Clarke',de,USA,#18e8e8,#18e8e8,2,0.444629669117
 'Leo XIV',de,Vatikan,#58b8e8,#58b8e8,2,0.441000000843
 'Stefan Aust',de,Deutschland,#11dd44,#11dd44,2,0.440378637354
 'Itamar Ben-Gvir',de,Israel,#8822dd,#8822dd,3,0.440183444773
@@ -54,10 +54,10 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Thorsten Frei',de,Deutschland,#11dd44,#11dd44,3,0.425696994669
 'Eddie Hearn',de,UK,#e838e8,#e838e8,2,0.425587291339
 'Tom Kaulitz',de,Deutschland,#11dd44,#11dd44,3,0.425069380426
-'Munther Amira',de,Palestina,#bb6633,#bb6633,1,0.425000000000
-'Khaled al Serr',de,Palestina,#bb6633,#bb6633,1,0.425000000000
 'Iyad al-Rantisi',de,Palestina,#bb6633,#bb6633,1,0.425000000000
+'Munther Amira',de,Palestina,#bb6633,#bb6633,1,0.425000000000
 'Philipp Aghion',de,Frankreich,#e8e808,#e8e808,1,0.425000000000
+'Khaled al Serr',de,Palestina,#bb6633,#bb6633,1,0.425000000000
 'Adnan al-Burj',de,Palestina,#bb6633,#bb6633,1,0.425000000000
 'Lara Trump',de,USA,#18e8e8,#18e8e8,2,0.424673197005
 'Verena Hubertz',de,Deutschland,#11dd44,#11dd44,3,0.423606276374
@@ -90,9 +90,9 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Lauren Boebert',de,USA,#18e8e8,#18e8e8,2,0.408984767319
 'Karsten Wildberger',de,Deutschland,#11dd44,#11dd44,3,0.408301256720
 'Christian Dürr',de,Deutschland,#11dd44,#11dd44,3,0.408275658076
+'Donald Trump',de,USA,#18e8e8,#18e8e8,3,0.407150975184
 'JD Vance',de,USA,#18e8e8,#18e8e8,3,0.406539064312
 'Benjamin Netanjahu',de,Israel,#8822dd,#8822dd,3,0.405672776863
-'Donald Trump',de,USA,#18e8e8,#18e8e8,3,0.405508441240
 'Ulrich Reitz',de,Deutschland,#11dd44,#11dd44,2,0.405031056036
 'Recep Tayyip Erdogan',de,Türkei,#4411ee,#4411ee,3,0.404503977790
 'Jake Paul',de,USA,#18e8e8,#18e8e8,1,0.403801314837
@@ -432,10 +432,10 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Mark Kerr',de,unknown,#111111,#111111,1,0.313270469350
 'Franca Lehfeldt',de,Deutschland,#11dd44,#11dd44,1,0.313269344654
 'Yaël Braun-Pivet',de,unknown,#111111,#111111,1,0.313250862887
-'Henning Jeschke',de,unknown,#111111,#111111,1,0.313203750000
 'Kara Hurst',de,unknown,#111111,#111111,1,0.313203750000
-'Merrill McCollum',de,USA,#18e8e8,#18e8e8,1,0.313203750000
+'Henning Jeschke',de,unknown,#111111,#111111,1,0.313203750000
 'Brian Kozlowski',de,USA,#18e8e8,#18e8e8,1,0.313203750000
+'Merrill McCollum',de,USA,#18e8e8,#18e8e8,1,0.313203750000
 'Teresa Giudice',de,unknown,#111111,#111111,1,0.313173887001
 'Jason Whitlock',de,unknown,#111111,#111111,1,0.313163644099
 'Eliot Wolf',de,unknown,#111111,#111111,1,0.313067202760
@@ -711,8 +711,8 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Saskia Esken',de,Deutschland,#11dd44,#11dd44,3,0.231988335502
 'Karl Nehammer',de,Oesterreich,#6622bb,#6622bb,3,0.231631221730
 'Chelsea Manning',de,USA,#18e8e8,#18e8e8,2,0.231330931094
+'Alfred Nobel',de,Schweden,#77dd11,#77dd11,2,0.231226496290
 'Don Lemon',de,USA,#18e8e8,#18e8e8,1,0.230446312969
-'Alfred Nobel',de,Schweden,#77dd11,#77dd11,2,0.230113228418
 'Hilda Nakabuye',de,Uganda,#44cc88,#44cc88,1,0.230061204531
 'Peter Urban',de,Deutschland,#11dd44,#11dd44,1,0.229686881609
 'Peregrine Pearson',de,unknown,#111111,#111111,1,0.229336351629
