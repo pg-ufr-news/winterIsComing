@@ -1,5 +1,4 @@
 keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
-'Cheryl Hines',de,USA,#18e8e8,#18e8e8,2,0.500813870597
 'Sebastien Lecornu',de,Frankreich,#e8e808,#e8e808,2,0.500588278069
 'Mary Brunkow',de,USA,#18e8e8,#18e8e8,2,0.500298265790
 'Joel Mokyr',de,USA,#18e8e8,#18e8e8,2,0.495543177243
@@ -52,12 +51,13 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Johann Wadephul',de,Deutschland,#11dd44,#11dd44,3,0.426550405837
 'Brooklyn Beckham',de,UK,#e838e8,#e838e8,2,0.426225224370
 'Thorsten Frei',de,Deutschland,#11dd44,#11dd44,3,0.425696994669
+'Cheryl Hines',de,USA,#18e8e8,#18e8e8,1,0.425691805007
 'Eddie Hearn',de,UK,#e838e8,#e838e8,2,0.425587291339
 'Tom Kaulitz',de,Deutschland,#11dd44,#11dd44,3,0.425069380426
 'Philipp Aghion',de,Frankreich,#e8e808,#e8e808,1,0.425000000000
-'Khaled al Serr',de,Palestina,#bb6633,#bb6633,1,0.425000000000
 'Munther Amira',de,Palestina,#bb6633,#bb6633,1,0.425000000000
 'Iyad al-Rantisi',de,Palestina,#bb6633,#bb6633,1,0.425000000000
+'Khaled al Serr',de,Palestina,#bb6633,#bb6633,1,0.425000000000
 'Adnan al-Burj',de,Palestina,#bb6633,#bb6633,1,0.425000000000
 'Lara Trump',de,USA,#18e8e8,#18e8e8,2,0.424673197005
 'Verena Hubertz',de,Deutschland,#11dd44,#11dd44,3,0.423606276374
@@ -432,10 +432,10 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Mark Kerr',de,unknown,#111111,#111111,1,0.313270469350
 'Franca Lehfeldt',de,Deutschland,#11dd44,#11dd44,1,0.313269344654
 'Yaël Braun-Pivet',de,unknown,#111111,#111111,1,0.313250862887
-'Kara Hurst',de,unknown,#111111,#111111,1,0.313203750000
 'Henning Jeschke',de,unknown,#111111,#111111,1,0.313203750000
-'Brian Kozlowski',de,USA,#18e8e8,#18e8e8,1,0.313203750000
+'Kara Hurst',de,unknown,#111111,#111111,1,0.313203750000
 'Merrill McCollum',de,USA,#18e8e8,#18e8e8,1,0.313203750000
+'Brian Kozlowski',de,USA,#18e8e8,#18e8e8,1,0.313203750000
 'Teresa Giudice',de,unknown,#111111,#111111,1,0.313173887001
 'Jason Whitlock',de,unknown,#111111,#111111,1,0.313163644099
 'Eliot Wolf',de,unknown,#111111,#111111,1,0.313067202760
