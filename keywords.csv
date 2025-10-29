@@ -1,5 +1,4 @@
 keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
-'Joel Mokyr',de,USA,#18e8e8,#18e8e8,2,0.495543177243
 'Maria Corina Machado',de,Venezuela,#aa3399,#aa3399,2,0.486500645000
 'László Krasznahorkai',de,Ungarn,#33aa99,#33aa99,2,0.485037480586
 'Sanae Takaichi',de,Japan,#aa9933,#aa9933,3,0.484496459545
@@ -15,9 +14,9 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'James Comey',de,USA,#18e8e8,#18e8e8,2,0.458109768225
 'John Clarke',de,USA,#18e8e8,#18e8e8,2,0.455667519422
 'John Martinis',de,USA,#18e8e8,#18e8e8,2,0.454689421480
-'Philippe Aghion',de,Frankreich,#e8e808,#e8e808,2,0.453427006675
+'Philippe Aghion',de,Frankreich,#e8e808,#e8e808,2,0.454155719206
+'Peter Howitt',de,USA,#18e8e8,#18e8e8,2,0.453995184947
 'Omar Yaghi',de,Jordanien,#335588,#335588,2,0.453284587690
-'Peter Howitt',de,USA,#18e8e8,#18e8e8,2,0.453266154422
 'Volker Wieland',de,Deutschland,#11dd44,#11dd44,2,0.451977313077
 'Sébastien Lecornu',de,Frankreich,#e8e808,#e8e808,3,0.448760571910
 'Veronika Grimm',de,Deutschland,#11dd44,#11dd44,2,0.448132373182
@@ -27,6 +26,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Fred Ramsdel',de,USA,#18e8e8,#18e8e8,1,0.439105499287
 'Greta Thunberg',de,Schweden,#77dd11,#77dd11,3,0.436807540003
 'Susumu Kitagawa',de,Japan,#aa9933,#aa9933,3,0.436504547313
+'Joel Mokyr',de,USA,#18e8e8,#18e8e8,2,0.436498724293
 'Stefan Kolev',de,Deutschland,#11dd44,#11dd44,2,0.434972084130
 'Mary Brunkow',de,USA,#18e8e8,#18e8e8,2,0.434750780467
 'Mo Lewis',de,USA,#18e8e8,#18e8e8,1,0.433475832949
@@ -55,9 +55,9 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Eddie Hearn',de,UK,#e838e8,#e838e8,2,0.425587291339
 'Tom Kaulitz',de,Deutschland,#11dd44,#11dd44,3,0.425069380426
 'Iyad al-Rantisi',de,Palestina,#bb6633,#bb6633,1,0.425000000000
-'Khaled al Serr',de,Palestina,#bb6633,#bb6633,1,0.425000000000
 'Munther Amira',de,Palestina,#bb6633,#bb6633,1,0.425000000000
 'Philipp Aghion',de,Frankreich,#e8e808,#e8e808,1,0.425000000000
+'Khaled al Serr',de,Palestina,#bb6633,#bb6633,1,0.425000000000
 'Adnan al-Burj',de,Palestina,#bb6633,#bb6633,1,0.425000000000
 'Lara Trump',de,USA,#18e8e8,#18e8e8,2,0.424673197005
 'Verena Hubertz',de,Deutschland,#11dd44,#11dd44,3,0.423606276374
@@ -432,10 +432,10 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Mark Kerr',de,unknown,#111111,#111111,1,0.313270469350
 'Franca Lehfeldt',de,Deutschland,#11dd44,#11dd44,1,0.313269344654
 'Yaël Braun-Pivet',de,unknown,#111111,#111111,1,0.313250862887
-'Henning Jeschke',de,unknown,#111111,#111111,1,0.313203750000
 'Kara Hurst',de,unknown,#111111,#111111,1,0.313203750000
-'Merrill McCollum',de,USA,#18e8e8,#18e8e8,1,0.313203750000
+'Henning Jeschke',de,unknown,#111111,#111111,1,0.313203750000
 'Brian Kozlowski',de,USA,#18e8e8,#18e8e8,1,0.313203750000
+'Merrill McCollum',de,USA,#18e8e8,#18e8e8,1,0.313203750000
 'Teresa Giudice',de,unknown,#111111,#111111,1,0.313173887001
 'Jason Whitlock',de,unknown,#111111,#111111,1,0.313163644099
 'Eliot Wolf',de,unknown,#111111,#111111,1,0.313067202760
