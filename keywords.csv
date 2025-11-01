@@ -35,8 +35,8 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Mukesh Ambani',de,Indien,#dd3344,#dd3344,2,0.431534460584
 'Cruz Beckham',de,Spanien,#1144aa,#1144aa,1,0.431108352295
 'Lil Yachty',de,USA,#18e8e8,#18e8e8,1,0.430959376672
+'Friedrich Merz',de,Deutschland,#11dd44,#11dd44,3,0.430734622469
 'Anant Ambani',de,Indien,#dd3344,#dd3344,1,0.430371334933
-'Friedrich Merz',de,Deutschland,#11dd44,#11dd44,3,0.429959806463
 'Pete Hegseth',de,USA,#18e8e8,#18e8e8,3,0.428850012761
 'Lyna Khoudri',de,Algerien,#22cc99,#22cc99,1,0.428765424897
 'Léon XIV',de,Vatikan,#58b8e8,#58b8e8,1,0.428645306102
@@ -55,10 +55,10 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Eddie Hearn',de,UK,#e838e8,#e838e8,2,0.425587291339
 'Melania Trump',de,USA,#18e8e8,#18e8e8,3,0.425197776782
 'Tom Kaulitz',de,Deutschland,#11dd44,#11dd44,3,0.425069380426
-'Khaled al Serr',de,Palestina,#bb6633,#bb6633,1,0.425000000000
-'Iyad al-Rantisi',de,Palestina,#bb6633,#bb6633,1,0.425000000000
 'Philipp Aghion',de,Frankreich,#e8e808,#e8e808,1,0.425000000000
+'Iyad al-Rantisi',de,Palestina,#bb6633,#bb6633,1,0.425000000000
 'Munther Amira',de,Palestina,#bb6633,#bb6633,1,0.425000000000
+'Khaled al Serr',de,Palestina,#bb6633,#bb6633,1,0.425000000000
 'Adnan al-Burj',de,Palestina,#bb6633,#bb6633,1,0.425000000000
 'Lara Trump',de,USA,#18e8e8,#18e8e8,2,0.424673197005
 'Verena Hubertz',de,Deutschland,#11dd44,#11dd44,3,0.423606276374
@@ -100,13 +100,13 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Jake Paul',de,USA,#18e8e8,#18e8e8,1,0.403801314837
 'Justus Haucap',de,Deutschland,#11dd44,#11dd44,2,0.403056609179
 'Patrick Schnieder',de,Deutschland,#11dd44,#11dd44,3,0.402832896141
+'Markus Lanz',de,Deutschland,#11dd44,#11dd44,3,0.402635136648
 'Pietro Lombardi',de,Deutschland,#11dd44,#11dd44,3,0.402155585454
 'Theodor Herzl',de,Ungarn,#33aa99,#33aa99,2,0.401834022598
 'Nina Gummich',de,Deutschland,#11dd44,#11dd44,1,0.401819027542
 'Dorothee Bär',de,Deutschland,#11dd44,#11dd44,3,0.401759043747
 'König Charles III',de,UK,#e838e8,#e838e8,3,0.401647693274
 'Alois Rainer',de,Deutschland,#11dd44,#11dd44,2,0.401320947138
-'Markus Lanz',de,Deutschland,#11dd44,#11dd44,3,0.400975320682
 'Nicusor Dan',de,Rumänien,#3311aa,#3311aa,1,0.399968889251
 'Ehud Olmert',de,Israel,#8822dd,#8822dd,2,0.399661269140
 'Stefanie Hubig',de,Deutschland,#11dd44,#11dd44,3,0.397823669003
@@ -150,10 +150,10 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Hubert Aiwanger',de,Deutschland,#11dd44,#11dd44,3,0.376033132020
 'Queen Elizabeth II',de,UK,#e838e8,#e838e8,3,0.375836653334
 'Chris Wright',de,USA,#18e8e8,#18e8e8,2,0.375566426130
+'Robert Habeck',de,Deutschland,#11dd44,#11dd44,3,0.374866063044
 'Andrei Sacharow',de,Russland,#e81818,#e81818,1,0.374766265000
 'Al Pacino',de,USA,#18e8e8,#18e8e8,2,0.374386218651
 'Jeffrey Epstein',de,USA,#18e8e8,#18e8e8,2,0.374109597022
-'Robert Habeck',de,Deutschland,#11dd44,#11dd44,3,0.373984758456
 'Kamala Harris',de,USA,#18e8e8,#18e8e8,3,0.373915203092
 'Prinz George',de,UK,#e838e8,#e838e8,2,0.372604343425
 'Francesca Albanese',de,Italien,#7722cc,#7722cc,2,0.371312176032
@@ -433,10 +433,10 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Mark Kerr',de,unknown,#111111,#111111,1,0.313270469350
 'Franca Lehfeldt',de,Deutschland,#11dd44,#11dd44,1,0.313269344654
 'Yaël Braun-Pivet',de,unknown,#111111,#111111,1,0.313250862887
-'Kara Hurst',de,unknown,#111111,#111111,1,0.313203750000
 'Henning Jeschke',de,unknown,#111111,#111111,1,0.313203750000
-'Merrill McCollum',de,USA,#18e8e8,#18e8e8,1,0.313203750000
+'Kara Hurst',de,unknown,#111111,#111111,1,0.313203750000
 'Brian Kozlowski',de,USA,#18e8e8,#18e8e8,1,0.313203750000
+'Merrill McCollum',de,USA,#18e8e8,#18e8e8,1,0.313203750000
 'Teresa Giudice',de,unknown,#111111,#111111,1,0.313173887001
 'Jason Whitlock',de,unknown,#111111,#111111,1,0.313163644099
 'Eliot Wolf',de,unknown,#111111,#111111,1,0.313067202760
@@ -497,15 +497,15 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Anya Taylor-Joy',de,unknown,#111111,#111111,1,0.307442722907
 'Hailey Van Lith',de,unknown,#111111,#111111,1,0.307342816440
 'Tina Turner',de,USA,#18e8e8,#18e8e8,2,0.307131327466
-'Dorothée Pacaud',de,Frankreich,#e8e808,#e8e808,1,0.307062500000
+'Pedro Sánchez Pérez-Castejón',de,Spanien,#1144aa,#1144aa,1,0.307062500000
 'Patti LaBelle',de,USA,#18e8e8,#18e8e8,1,0.307062500000
 'Camille Etienne',de,Frankreich,#e8e808,#e8e808,1,0.307062500000
 'Kemal Kiliçdaroglu',de,Türkei,#4411ee,#4411ee,1,0.307062500000
-'Pedro Sánchez Pérez-Castejón',de,Spanien,#1144aa,#1144aa,1,0.307062500000
-'Gilbert Plass',de,Kanada,#ffaabb,#ffaabb,1,0.307062500000
+'Dorothée Pacaud',de,Frankreich,#e8e808,#e8e808,1,0.307062500000
+'Moon Hyung-jin',de,USA,#18e8e8,#18e8e8,1,0.307062500000
 'Uwe Neumärker',de,Deutschland,#11dd44,#11dd44,1,0.307062500000
 'Sergei Surovikin',de,Russland,#e81818,#e81818,1,0.307062500000
-'Moon Hyung-jin',de,USA,#18e8e8,#18e8e8,1,0.307062500000
+'Gilbert Plass',de,Kanada,#ffaabb,#ffaabb,1,0.307062500000
 'Evgueni Prigojine',de,Russland,#e81818,#e81818,1,0.307062500000
 'James Biden',de,unknown,#111111,#111111,1,0.306666048656
 'Hugh Grant',de,unknown,#111111,#111111,1,0.306582026544
@@ -638,6 +638,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Sara Haines',de,unknown,#111111,#111111,1,0.265434004987
 'Tony Bobulinski',de,unknown,#111111,#111111,1,0.265259610270
 'Harry Belafonte',de,USA,#18e8e8,#18e8e8,1,0.265230324335
+'Ricarda Lang',de,Deutschland,#11dd44,#11dd44,3,0.264920546298
 'Martha MacCallum',de,unknown,#111111,#111111,1,0.264803014688
 'Carey Mulligan',de,unknown,#111111,#111111,1,0.264741633283
 'Narendra Modi',de,Indien,#dd3344,#dd3344,3,0.264593220252
@@ -657,8 +658,8 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Joy Behar',de,unknown,#111111,#111111,1,0.261383521049
 'Yannick Morez',de,Frankreich,#e8e808,#e8e808,1,0.261372791549
 'Leon Botstein',de,USA,#18e8e8,#18e8e8,1,0.261003125000
-'Thomas Bayes',de,UK,#e838e8,#e838e8,1,0.261003125000
 'Aurélien Pradié',de,Frankreich,#e8e808,#e8e808,1,0.261003125000
+'Thomas Bayes',de,UK,#e838e8,#e838e8,1,0.261003125000
 'Andrei Nikolajewitsch Kolmogorow',de,Russland,#e81818,#e81818,1,0.261003125000
 'Georg Bätzing',de,Deutschland,#11dd44,#11dd44,2,0.258823823119
 'Olli Schulz',de,Deutschland,#11dd44,#11dd44,1,0.258162065918
@@ -701,7 +702,6 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Pap Ndiaye',de,unknown,#111111,#111111,1,0.238890465044
 'Zach Bryan',de,unknown,#111111,#111111,1,0.238857212211
 'Nancy Faeser',de,Deutschland,#11dd44,#11dd44,3,0.238342388363
-'Ricarda Lang',de,Deutschland,#11dd44,#11dd44,3,0.236326514361
 'Gabor Steingart',de,Deutschland,#11dd44,#11dd44,2,0.235430208717
 'Stephan Harbarth',de,Deutschland,#11dd44,#11dd44,1,0.234611867592
 'Karl Lauterbach',de,Deutschland,#11dd44,#11dd44,3,0.233363913320
@@ -774,10 +774,10 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Rafael Grossi',de,UN,#e888e8,#e888e8,3,0.205078210417
 'Roberta Metsola',de,EU,#bbff33,#bbff33,2,0.204886523584
 'Mark Zuckerberg',de,USA,#18e8e8,#18e8e8,3,0.202991931794
+'Luisa Neubauer',de,Deutschland,#11dd44,#11dd44,2,0.202787148103
 'Karine Jean-Pierre',de,USA,#18e8e8,#18e8e8,3,0.201606851602
 'Igor Setschin',de,Russland,#e81818,#e81818,2,0.200535646194
 'Faisal Kawusi',de,Deutschland,#11dd44,#11dd44,1,0.199949052960
-'Luisa Neubauer',de,Deutschland,#11dd44,#11dd44,2,0.199335943653
 'Warren Buffet',de,USA,#18e8e8,#18e8e8,2,0.198812136611
 'Shahzada Dawood',de,Pakistan,#bb3355,#bb3355,1,0.198103507082
 'Björn Höcke',de,Deutschland,#11dd44,#11dd44,2,0.196452937374
@@ -797,9 +797,9 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Robert Nozick',de,USA,#18e8e8,#18e8e8,1,0.188574757812
 'Lukaschenko',de,Belarus,#e81858,#e81858,3,0.188376387245
 'Paul Kagame',de,Ruanda,#33ddaa,#33ddaa,1,0.187897815073
+'Michael Kretschmer',de,Deutschland,#11dd44,#11dd44,3,0.187538004884
 'Bruno Kahl',de,Deutschland,#11dd44,#11dd44,1,0.187458681009
 'Fumio Kishida',de,Japan,#aa9933,#aa9933,3,0.187035135023
-'Michael Kretschmer',de,Deutschland,#11dd44,#11dd44,3,0.186371450435
 'Napoleon Bonaparte',de,Frankreich,#e8e808,#e8e808,2,0.183532816274
 'Steffi Lemke',de,Deutschland,#11dd44,#11dd44,3,0.182995565350
 'Carola Rackete',de,Deutschland,#11dd44,#11dd44,2,0.181811642726
