@@ -1,5 +1,4 @@
 keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
-'László Krasznahorkai',de,Ungarn,#33aa99,#33aa99,2,0.485037480586
 'Sanae Takaichi',de,Japan,#aa9933,#aa9933,3,0.484496459545
 'Mary E. Brunkow',de,USA,#18e8e8,#18e8e8,2,0.484496159545
 'Richard Robson',de,Australien,#99aa33,#99aa33,2,0.480231838404
@@ -7,6 +6,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Michel Devoret',de,Frankreich,#e8e808,#e8e808,3,0.476093262450
 'Maria Corina Machado',de,Venezuela,#aa3399,#aa3399,2,0.473021662795
 'Sebastien Lecornu',de,Frankreich,#e8e808,#e8e808,3,0.472053278891
+'László Krasznahorkai',de,Ungarn,#33aa99,#33aa99,2,0.471778828044
 'John M. Martinis',de,USA,#18e8e8,#18e8e8,2,0.471007457857
 'Dana White',de,USA,#18e8e8,#18e8e8,2,0.470956789331
 'Dua Lipa',de,UK,#e838e8,#e838e8,2,0.463771877957
@@ -796,8 +796,8 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Aleksandar Vucic',de,Serbien,#4488cc,#4488cc,3,0.194264146212
 'Liz Truss',de,UK,#e838e8,#e838e8,2,0.194025794077
 'Stefan Rahmstorf',de,Deutschland,#11dd44,#11dd44,2,0.193634442976
+'Viktor Orbán',de,Ungarn,#33aa99,#33aa99,3,0.192987822302
 'Maybritt Illner',de,Deutschland,#11dd44,#11dd44,2,0.192048716120
-'Viktor Orbán',de,Ungarn,#33aa99,#33aa99,3,0.191827388683
 'Justin Trudeau',de,Kanada,#ffaabb,#ffaabb,3,0.191712356176
 'Franziska Giffey',de,Deutschland,#11dd44,#11dd44,3,0.191623270771
 'Louis Klamroth',de,Deutschland,#11dd44,#11dd44,2,0.191177480574
