@@ -33,7 +33,6 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Mary Brunkow',de,USA,#18e8e8,#18e8e8,2,0.434750780467
 'Friedrich Merz',de,Deutschland,#11dd44,#11dd44,3,0.433050009407
 'Katherina Reiche',de,Deutschland,#11dd44,#11dd44,3,0.432915841749
-'Mukesh Ambani',de,Indien,#dd3344,#dd3344,2,0.431534460584
 'Yves Bournazel',de,Frankreich,#e8e808,#e8e808,1,0.431395648904
 'Olivia Nuzzi',de,USA,#18e8e8,#18e8e8,1,0.431116437795
 'Cruz Beckham',de,Spanien,#1144aa,#1144aa,1,0.431108352295
@@ -175,6 +174,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Jack Antonoff',de,USA,#18e8e8,#18e8e8,1,0.367622083817
 'Gigi Hadid',de,USA,#18e8e8,#18e8e8,1,0.366998126098
 'Hunter Biden',de,USA,#18e8e8,#18e8e8,2,0.366872657888
+'Mukesh Ambani',de,Indien,#dd3344,#dd3344,1,0.366804351496
 'Zohran Mamdani',de,USA,#18e8e8,#18e8e8,1,0.366793378371
 'Marguerite Cazeneuve',de,unknown,#111111,#111111,1,0.366468865001
 'Laura Maria Rypa',de,Deutschland,#11dd44,#11dd44,2,0.366464083648
@@ -692,12 +692,12 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Vanessa Nakate',de,unknown,#111111,#111111,1,0.246829436568
 'Bodo Ramelow',de,Deutschland,#11dd44,#11dd44,3,0.245335301390
 'Warren Buffett',de,USA,#18e8e8,#18e8e8,3,0.245234949130
+'Sophia Kianni',de,unknown,#111111,#111111,1,0.244037921875
 'Helena Gualinga',de,unknown,#111111,#111111,1,0.244037921875
 'Tasneem Essop',de,unknown,#111111,#111111,1,0.244037921875
-'Sophia Kianni',de,unknown,#111111,#111111,1,0.244037921875
-'Autumn Peltier',de,unknown,#111111,#111111,1,0.244037921875
 'Elizabeth Mpofu',de,unknown,#111111,#111111,1,0.244037921875
 'Mark Hertsgaard',de,unknown,#111111,#111111,1,0.244037921875
+'Autumn Peltier',de,unknown,#111111,#111111,1,0.244037921875
 'Michael Ballweg',de,Deutschland,#11dd44,#11dd44,2,0.243835655473
 'Jordan Bardella',de,Frankreich,#e8e808,#e8e808,2,0.243147591647
 'Antony Blinken',de,USA,#18e8e8,#18e8e8,3,0.242998422635
