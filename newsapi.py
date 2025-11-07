@@ -426,7 +426,7 @@ def checkArticlesForKeywords(articles, keywordsDF, seldomDF, language, keyWord):
     foundArticles = []
     for article in articles:
       data = extractData(article, language, keyWord)
-      searchQuote = str(data['title']) + " " + str(data['description'])
+      searchQuote = str(data['title']) + " " + str(data['description']) + " " + str(data['content'])
       foundKeywords = []
       found = False
       for index2, column2 in keywordsLangDF.iterrows(): 
