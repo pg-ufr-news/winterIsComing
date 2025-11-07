@@ -105,7 +105,6 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Recep Tayyip Erdogan',de,Türkei,#4411ee,#4411ee,3,0.404503977790
 'Jake Paul',de,USA,#18e8e8,#18e8e8,1,0.403801314837
 'Justus Haucap',de,Deutschland,#11dd44,#11dd44,2,0.403056609179
-'Patrick Schnieder',de,Deutschland,#11dd44,#11dd44,3,0.402832896141
 'Markus Lanz',de,Deutschland,#11dd44,#11dd44,3,0.402635136648
 'Dorothee Bär',de,Deutschland,#11dd44,#11dd44,3,0.402588250465
 'Pietro Lombardi',de,Deutschland,#11dd44,#11dd44,3,0.402155585454
@@ -134,6 +133,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Oleksandr Usyk',de,Ukraine,#e818e8,#e818e8,2,0.386600798283
 'Mahmud Abbas',de,Palestina,#bb6633,#bb6633,3,0.385698723028
 'Maria Sacharowa',de,Russland,#e81818,#e81818,3,0.384375669614
+'Patrick Schnieder',de,Deutschland,#11dd44,#11dd44,3,0.383724748083
 'François Bayrou',de,Frankreich,#e8e808,#e8e808,2,0.383300522205
 'Lachlan Murdoch',de,UK,#e838e8,#e838e8,2,0.382567375347
 'Whoopi Goldberg',de,USA,#18e8e8,#18e8e8,1,0.382386934890
@@ -202,8 +202,8 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Guy Ritchie',de,unknown,#111111,#111111,1,0.357772922372
 'Bill Clinton',de,USA,#18e8e8,#18e8e8,2,0.357523315373
 'Robert Kennedy',de,USA,#18e8e8,#18e8e8,3,0.357271204561
+'Lars Klingbeil',de,Deutschland,#11dd44,#11dd44,3,0.357090460453
 'Selena Gomez',de,unknown,#111111,#111111,2,0.356521787838
-'Lars Klingbeil',de,Deutschland,#11dd44,#11dd44,3,0.356176704728
 'Bill Barr',de,unknown,#111111,#111111,1,0.355909868943
 'Sophie Turner',de,unknown,#111111,#111111,1,0.355882292699
 'Lionel Messi',de,Argentinien,#3355bb,#3355bb,3,0.355810063341
