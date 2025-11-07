@@ -179,6 +179,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Marguerite Cazeneuve',de,Frankreich,#e8e808,#e8e808,1,0.366468865001
 'Laura Maria Rypa',de,Deutschland,#11dd44,#11dd44,2,0.366464083648
 'Sam Altman',de,USA,#18e8e8,#18e8e8,3,0.366430147416
+'Yorgos Lanthimos',de,Griechenland,#448722,#448722,1,0.365898397103
 'Gwede Mantashe',de,Südafrika,#1144ee,#1144ee,1,0.365704405000
 'Boris Johnson',de,UK,#e838e8,#e838e8,3,0.365625574420
 'Ayo Edebiri',de,USA,#18e8e8,#18e8e8,1,0.364804884722
@@ -192,7 +193,6 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Ferdinand Dudenhöffer',de,Deutschland,#11dd44,#11dd44,3,0.361712987269
 'Wladimir Putin',de,Russland,#e81818,#e81818,3,0.361171914025
 'Richard David Precht',de,Deutschland,#11dd44,#11dd44,2,0.361055188103
-'Yorgos Lanthimos',de,Griechenland,#448722,#448722,1,0.360487142284
 'Keith Kellogg',de,USA,#18e8e8,#18e8e8,3,0.360077520603
 'Greg Abbott',de,USA,#18e8e8,#18e8e8,2,0.360053603536
 'Jake Gyllenhaal',de,USA,#18e8e8,#18e8e8,2,0.359994239857
@@ -210,6 +210,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Lionel Messi',de,Argentinien,#3355bb,#3355bb,3,0.355810063341
 'Willy Brandt',de,Deutschland,#11dd44,#11dd44,3,0.355555234139
 'Gorbatschow',de,unknown,#111111,#111111,3,0.355464229287
+'Emma Stone',de,unknown,#111111,#111111,3,0.354806451891
 'Jens Spahn',de,Deutschland,#11dd44,#11dd44,3,0.354519478185
 'Olivia Rodrigo',de,unknown,#111111,#111111,2,0.354170415226
 'Mark Meadows',de,unknown,#111111,#111111,2,0.353836787281
@@ -270,11 +271,11 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Lana Del Rey',de,unknown,#111111,#111111,1,0.343651146630
 'Bill Belichick',de,unknown,#111111,#111111,1,0.343048775408
 'Juliette Binoche',de,unknown,#111111,#111111,1,0.343019905498
+'Meryl Streep',de,unknown,#111111,#111111,1,0.342816442944
 'Chuck Schumer',de,unknown,#111111,#111111,3,0.342575597250
 'Rand Paul',de,unknown,#111111,#111111,2,0.342339802847
 'David Weiss',de,unknown,#111111,#111111,2,0.342117073411
 'Helmut Kohl',de,Deutschland,#11dd44,#11dd44,3,0.341918987154
-'Meryl Streep',de,unknown,#111111,#111111,1,0.341877251023
 'Sarah Ferguson',de,unknown,#111111,#111111,1,0.341704358348
 'Emmanuel Macron',de,Frankreich,#e8e808,#e8e808,3,0.341584790656
 'Joachim Gauck',de,Deutschland,#11dd44,#11dd44,1,0.341559116541
@@ -294,10 +295,10 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Charles Barkley',de,unknown,#111111,#111111,1,0.338271583625
 'Papst Benedikt XVI',de,Vatikan,#58b8e8,#58b8e8,3,0.338187586876
 'Alexander Smirnov',de,unknown,#111111,#111111,1,0.338133265108
-'Minka Indigena',de,unknown,#111111,#111111,1,0.337768750000
-'Steven Donziger',de,unknown,#111111,#111111,1,0.337768750000
 'Claudia Kempfert',de,unknown,#111111,#111111,1,0.337768750000
 'Haitham A-Ghais',de,unknown,#111111,#111111,1,0.337768750000
+'Steven Donziger',de,unknown,#111111,#111111,1,0.337768750000
+'Minka Indigena',de,unknown,#111111,#111111,1,0.337768750000
 'Patrick Mahomes',de,unknown,#111111,#111111,2,0.337701651743
 'Cara Delevingne',de,unknown,#111111,#111111,1,0.337576117113
 'Berkshire Hathaway',de,USA,#18e8e8,#18e8e8,1,0.337548872749
@@ -395,7 +396,6 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Steven Spielberg',de,USA,#18e8e8,#18e8e8,3,0.321155089779
 'Peter Tschentscher',de,Deutschland,#11dd44,#11dd44,2,0.321059408678
 'George Miller',de,unknown,#111111,#111111,1,0.320924279871
-'Emma Stone',de,unknown,#111111,#111111,1,0.320685958374
 'Steve Wozniak',de,USA,#18e8e8,#18e8e8,1,0.320653174005
 'Margot Robbie',de,unknown,#111111,#111111,2,0.320492706206
 'Chez Krömer',de,Deutschland,#11dd44,#11dd44,1,0.319800306197
@@ -613,8 +613,8 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Antonio Brown',de,unknown,#111111,#111111,1,0.279341470103
 'Hun Sen',de,Kambodscha,#ff33bb,#ff33bb,2,0.279292806147
 'Marlène Schiappa',de,unknown,#111111,#111111,1,0.279097874741
+'Francis Ford Coppola',de,unknown,#111111,#111111,1,0.279060463985
 'Robert Kraft',de,unknown,#111111,#111111,2,0.278029904614
-'Francis Ford Coppola',de,unknown,#111111,#111111,1,0.278015799395
 'Larry Ellison',de,USA,#18e8e8,#18e8e8,2,0.276781102769
 'Königsgemahlin Camilla',de,UK,#e838e8,#e838e8,1,0.276595110921
 'Mark Rutte',de,Niederlande,#33ffbb,#33ffbb,3,0.275916834236
