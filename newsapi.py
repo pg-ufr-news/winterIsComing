@@ -421,12 +421,14 @@ def extractData(article, language, keyWord):
             'image':image, 'content':content, 'quote':'', 'language': language, 'keyword':keyWord}
     return data  
 
-def checkArticlesForKeywords(articles, keywordsDF, seldomDF, language, keyWord):
+def checkArticlesForKeywords(articles, keywordsDF, seldomDF, language, keyWord, inclContent=False):
     keywordsLangDF = keywordsDF[keywordsDF['language']==language]
     foundArticles = []
     for article in articles:
       data = extractData(article, language, keyWord)
-      searchQuote = str(data['title']) + " " + str(data['description']) + " " + str(data['content'])
+      searchQuote = str(data['title']) + " " + str(data['description']) 
+      if (inclContent):
+         searchQuote += " " + str(data['content'])
       foundKeywords = []
       found = False
       for index2, column2 in keywordsLangDF.iterrows(): 
@@ -593,6 +595,9 @@ def inqRandomNews():
                 print('#checked Articles: '+str(len(checkedArticles)))
                 print("archive first")
                 newArticles = filterNewAndArchive(checkedArticles, language, keyWord)
+                if(len(newArticles)<1):
+                    checkedArticles = checkArticlesForKeywords(jsonData['articles'], keywordsDF, keywordsNewsDF2,language, keyWord, True)
+                    newArticles = filterNewAndArchive(checkedArticles, language, keyWord)  
                 print('#new Articles: '+str(len(newArticles)))
                  
                 if(len(newArticles) in [1,2]):     
