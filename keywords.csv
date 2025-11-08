@@ -11,7 +11,6 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Bezalel Smotrich',de,Israel,#8822dd,#8822dd,2,0.461770071818
 'Tom Kaulitz',de,Deutschland,#11dd44,#11dd44,3,0.460004319290
 'James Comey',de,USA,#18e8e8,#18e8e8,2,0.458109768225
-'Heidi Klum',de,Deutschland,#11dd44,#11dd44,3,0.457957362552
 'John Clarke',de,USA,#18e8e8,#18e8e8,2,0.456391800208
 'John Martinis',de,USA,#18e8e8,#18e8e8,2,0.455415637494
 'Philippe Aghion',de,Frankreich,#e8e808,#e8e808,2,0.454155719206
@@ -32,8 +31,9 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Greta Thunberg',de,Schweden,#77dd11,#77dd11,3,0.436807540003
 'Susumu Kitagawa',de,Japan,#aa9933,#aa9933,3,0.436504547313
 'Joel Mokyr',de,USA,#18e8e8,#18e8e8,2,0.436498724293
+'Donald Trump',de,USA,#18e8e8,#18e8e8,3,0.435657411439
+'Heidi Klum',de,Deutschland,#11dd44,#11dd44,3,0.435125519078
 'Stefan Kolev',de,Deutschland,#11dd44,#11dd44,2,0.434972084130
-'Donald Trump',de,USA,#18e8e8,#18e8e8,3,0.434892231812
 'Mary Brunkow',de,USA,#18e8e8,#18e8e8,2,0.434750780467
 'Katherina Reiche',de,Deutschland,#11dd44,#11dd44,3,0.432915841749
 'Sanae Takaichi',de,Japan,#aa9933,#aa9933,3,0.432681651266
@@ -220,11 +220,11 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Papst Franziskus',de,Vatikan,#58b8e8,#58b8e8,3,0.353330422752
 'Gavin Newsom',de,unknown,#111111,#111111,2,0.352545104630
 'Britney Spears',de,unknown,#111111,#111111,2,0.352404207175
+'Prinz Andrew',de,UK,#e838e8,#e838e8,3,0.352331652767
 'Jimmy Kimmel',de,unknown,#111111,#111111,2,0.352202732393
 'Prinz Harry',de,UK,#e838e8,#e838e8,3,0.351776702862
 'Mareike Fallwickl',de,unknown,#111111,#111111,1,0.351669284797
 'David Koch',de,unknown,#111111,#111111,2,0.351497980293
-'Prinz Andrew',de,UK,#e838e8,#e838e8,3,0.351409352242
 'George Floyd',de,USA,#18e8e8,#18e8e8,2,0.351248383725
 'Wolodimir Selenski',de,Ukraine,#e818e8,#e818e8,2,0.351211886062
 'Axel Springer',de,Deutschland,#11dd44,#11dd44,3,0.351153780053
@@ -295,6 +295,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Charles Barkley',de,unknown,#111111,#111111,1,0.338271583625
 'Papst Benedikt XVI',de,Vatikan,#58b8e8,#58b8e8,3,0.338187586876
 'Alexander Smirnov',de,unknown,#111111,#111111,1,0.338133265108
+'Billie Eilish',de,unknown,#111111,#111111,2,0.338085246620
 'Claudia Kempfert',de,unknown,#111111,#111111,1,0.337768750000
 'Haitham A-Ghais',de,unknown,#111111,#111111,1,0.337768750000
 'Steven Donziger',de,unknown,#111111,#111111,1,0.337768750000
@@ -304,7 +305,6 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Berkshire Hathaway',de,USA,#18e8e8,#18e8e8,1,0.337548872749
 'Rudolf Steiner',de,Oesterreich,#6622bb,#6622bb,1,0.337337795599
 'Sergej Surowikin',de,Russland,#e81818,#e81818,1,0.337261748741
-'Billie Eilish',de,unknown,#111111,#111111,2,0.337137755847
 'Alberto Núñez Feijóo',de,unknown,#111111,#111111,2,0.336144572063
 'Derek Chauvin',de,unknown,#111111,#111111,1,0.336063797151
 'Ron DeSantis',de,USA,#18e8e8,#18e8e8,3,0.335952659678
