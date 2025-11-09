@@ -130,7 +130,6 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'LeBron James',de,USA,#18e8e8,#18e8e8,3,0.389568769276
 'Julia Roberts',de,USA,#18e8e8,#18e8e8,2,0.389060398054
 'Robert Prevost',de,Vatikan,#58b8e8,#58b8e8,2,0.387634114114
-'Johnny Depp',de,USA,#18e8e8,#18e8e8,2,0.387098977938
 'Oleksandr Usyk',de,Ukraine,#e818e8,#e818e8,2,0.386600798283
 'Mahmud Abbas',de,Palestina,#bb6633,#bb6633,3,0.385698723028
 'Maria Sacharowa',de,Russland,#e81818,#e81818,3,0.384375669614
@@ -166,8 +165,8 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Jennifer Morgan',de,Deutschland,#11dd44,#11dd44,1,0.370168669350
 'Mario Czaja',de,Deutschland,#11dd44,#11dd44,2,0.369575032128
 'Mo Lewis',de,USA,#18e8e8,#18e8e8,1,0.368604473007
-'Melanie Guttmann',de,Deutschland,#11dd44,#11dd44,1,0.368475000000
 'Tulsin Gabbard',de,USA,#18e8e8,#18e8e8,1,0.368475000000
+'Melanie Guttmann',de,Deutschland,#11dd44,#11dd44,1,0.368475000000
 'Paul Konerko',de,USA,#18e8e8,#18e8e8,1,0.368176078984
 'Mark Cuban',de,USA,#18e8e8,#18e8e8,1,0.368032560177
 'Matt Gaetz',de,USA,#18e8e8,#18e8e8,1,0.367751180101
@@ -193,10 +192,10 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Ferdinand Dudenhöffer',de,Deutschland,#11dd44,#11dd44,3,0.361712987269
 'Wladimir Putin',de,Russland,#e81818,#e81818,3,0.361171914025
 'Richard David Precht',de,Deutschland,#11dd44,#11dd44,2,0.361055188103
+'Jeanne du Barry',de,Frankreich,#e8e808,#e8e808,1,0.360712329761
 'Keith Kellogg',de,USA,#18e8e8,#18e8e8,3,0.360077520603
 'Greg Abbott',de,USA,#18e8e8,#18e8e8,2,0.360053603536
 'Jake Gyllenhaal',de,USA,#18e8e8,#18e8e8,2,0.359994239857
-'Jeanne du Barry',de,Frankreich,#e8e808,#e8e808,1,0.359805119104
 'Charles III',de,UK,#e838e8,#e838e8,3,0.359328181690
 'Charlize Theron',de,Südafrika,#1144ee,#1144ee,2,0.359324345117
 'Jared Kushner',de,USA,#18e8e8,#18e8e8,1,0.358571526827
@@ -248,6 +247,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'David Beckham',de,unknown,#111111,#111111,2,0.347272833104
 'Willem Dafoe',de,unknown,#111111,#111111,1,0.347207185475
 'Billy Graham',de,USA,#18e8e8,#18e8e8,1,0.347065249546
+'Johnny Depp',de,USA,#18e8e8,#18e8e8,2,0.347051427914
 'Hendrik Wüst',de,Deutschland,#11dd44,#11dd44,3,0.346774976595
 'Peter Thiel',de,USA,#18e8e8,#18e8e8,2,0.346673972859
 'Pippa Middleton',de,UK,#e838e8,#e838e8,2,0.346453328909
@@ -296,8 +296,8 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Charles Barkley',de,unknown,#111111,#111111,1,0.338271583625
 'Papst Benedikt XVI',de,Vatikan,#58b8e8,#58b8e8,3,0.338187586876
 'Alexander Smirnov',de,unknown,#111111,#111111,1,0.338133265108
-'Haitham A-Ghais',de,unknown,#111111,#111111,1,0.337768750000
 'Claudia Kempfert',de,unknown,#111111,#111111,1,0.337768750000
+'Haitham A-Ghais',de,unknown,#111111,#111111,1,0.337768750000
 'Minka Indigena',de,unknown,#111111,#111111,1,0.337768750000
 'Steven Donziger',de,unknown,#111111,#111111,1,0.337768750000
 'Patrick Mahomes',de,unknown,#111111,#111111,2,0.337701651743
