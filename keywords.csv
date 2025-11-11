@@ -219,13 +219,13 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Ron Johnson',de,USA,#18e8e8,#18e8e8,1,0.353755646644
 'James Cleverly',de,UK,#e838e8,#e838e8,3,0.353336520045
 'Papst Franziskus',de,Vatikan,#58b8e8,#58b8e8,3,0.353330422752
-'Gavin Newsom',de,unknown,#111111,#111111,2,0.352545104630
-'Britney Spears',de,unknown,#111111,#111111,2,0.352404207175
+'Gavin Newsom',de,USA,#18e8e8,#18e8e8,2,0.352545104630
+'Britney Spears',de,USA,#18e8e8,#18e8e8,2,0.352404207175
 'Prinz Andrew',de,UK,#e838e8,#e838e8,3,0.352331652767
-'Jimmy Kimmel',de,unknown,#111111,#111111,2,0.352202732393
+'Jimmy Kimmel',de,USA,#18e8e8,#18e8e8,2,0.352202732393
 'Prinz Harry',de,UK,#e838e8,#e838e8,3,0.351776702862
-'Mareike Fallwickl',de,unknown,#111111,#111111,1,0.351669284797
-'David Koch',de,unknown,#111111,#111111,2,0.351497980293
+'Mareike Fallwickl',de,Österreich,#6622bb,#6622bb,1,0.351669284797
+'David Koch',de,USA,#18e8e8,#18e8e8,2,0.351497980293
 'George Floyd',de,USA,#18e8e8,#18e8e8,2,0.351248383725
 'Wolodimir Selenski',de,Ukraine,#e818e8,#e818e8,2,0.351211886062
 'Axel Springer',de,Deutschland,#11dd44,#11dd44,3,0.351153780053
@@ -305,7 +305,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Patrick Mahomes',de,unknown,#111111,#111111,2,0.337701651743
 'Cara Delevingne',de,unknown,#111111,#111111,1,0.337576117113
 'Berkshire Hathaway',de,USA,#18e8e8,#18e8e8,1,0.337548872749
-'Rudolf Steiner',de,Oesterreich,#6622bb,#6622bb,1,0.337337795599
+'Rudolf Steiner',de,Österreich,#6622bb,#6622bb,1,0.337337795599
 'Sergej Surowikin',de,Russland,#e81818,#e81818,1,0.337261748741
 'Alberto Núñez Feijóo',de,unknown,#111111,#111111,2,0.336144572063
 'Derek Chauvin',de,unknown,#111111,#111111,1,0.336063797151
@@ -721,7 +721,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Martin Schirdewan',de,Deutschland,#11dd44,#11dd44,3,0.232780733585
 'Joschka Fischer',de,Deutschland,#11dd44,#11dd44,1,0.232448751378
 'Saskia Esken',de,Deutschland,#11dd44,#11dd44,3,0.231988335502
-'Karl Nehammer',de,Oesterreich,#6622bb,#6622bb,3,0.231631221730
+'Karl Nehammer',de,Österreich,#6622bb,#6622bb,3,0.231631221730
 'Chelsea Manning',de,USA,#18e8e8,#18e8e8,2,0.231330931094
 'Alfred Nobel',de,Schweden,#77dd11,#77dd11,2,0.231226496290
 'Don Lemon',de,USA,#18e8e8,#18e8e8,1,0.230446312969
