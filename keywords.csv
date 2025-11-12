@@ -15,7 +15,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Volker Wieland',de,Deutschland,#11dd44,#11dd44,2,0.451977313077
 'Richard Robson',de,Australien,#99aa33,#99aa33,2,0.450447782643
 'Fred Ramsdel',de,USA,#18e8e8,#18e8e8,1,0.450304416691
-'Donald Trump',de,USA,#18e8e8,#18e8e8,3,0.448438133708
+'Donald Trump',de,USA,#18e8e8,#18e8e8,3,0.449176697590
 'Veronika Grimm',de,Deutschland,#11dd44,#11dd44,2,0.448132373182
 'Shimon Sakaguchi',de,Japan,#aa9933,#aa9933,3,0.445908368118
 'Javier Milei',de,Argentinien,#3355bb,#3355bb,3,0.444987109373
@@ -297,10 +297,10 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Charles Barkley',de,unknown,#111111,#111111,1,0.338271583625
 'Papst Benedikt XVI',de,Vatikan,#58b8e8,#58b8e8,3,0.338187586876
 'Alexander Smirnov',de,unknown,#111111,#111111,1,0.338133265108
-'Minka Indigena',de,unknown,#111111,#111111,1,0.337768750000
 'Claudia Kempfert',de,unknown,#111111,#111111,1,0.337768750000
-'Haitham A-Ghais',de,unknown,#111111,#111111,1,0.337768750000
+'Minka Indigena',de,unknown,#111111,#111111,1,0.337768750000
 'Steven Donziger',de,unknown,#111111,#111111,1,0.337768750000
+'Haitham A-Ghais',de,unknown,#111111,#111111,1,0.337768750000
 'Patrick Mahomes',de,unknown,#111111,#111111,2,0.337701651743
 'Cara Delevingne',de,unknown,#111111,#111111,1,0.337576117113
 'Berkshire Hathaway',de,USA,#18e8e8,#18e8e8,1,0.337548872749
@@ -507,10 +507,10 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Camille Etienne',de,Frankreich,#e8e808,#e8e808,1,0.307062500000
 'Gilbert Plass',de,Kanada,#ffaabb,#ffaabb,1,0.307062500000
 'Patti LaBelle',de,USA,#18e8e8,#18e8e8,1,0.307062500000
-'Pedro Sánchez Pérez-Castejón',de,Spanien,#1144aa,#1144aa,1,0.307062500000
 'Kemal Kiliçdaroglu',de,Türkei,#4411ee,#4411ee,1,0.307062500000
-'Moon Hyung-jin',de,USA,#18e8e8,#18e8e8,1,0.307062500000
+'Pedro Sánchez Pérez-Castejón',de,Spanien,#1144aa,#1144aa,1,0.307062500000
 'Sergei Surovikin',de,Russland,#e81818,#e81818,1,0.307062500000
+'Moon Hyung-jin',de,USA,#18e8e8,#18e8e8,1,0.307062500000
 'Dorothée Pacaud',de,Frankreich,#e8e808,#e8e808,1,0.307062500000
 'Evgueni Prigojine',de,Russland,#e81818,#e81818,1,0.307062500000
 'Uwe Neumärker',de,Deutschland,#11dd44,#11dd44,1,0.307062500000
@@ -693,12 +693,12 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Vanessa Nakate',de,unknown,#111111,#111111,1,0.246829436568
 'Bodo Ramelow',de,Deutschland,#11dd44,#11dd44,3,0.245335301390
 'Warren Buffett',de,USA,#18e8e8,#18e8e8,3,0.245234949130
+'Sophia Kianni',de,unknown,#111111,#111111,1,0.244037921875
 'Tasneem Essop',de,unknown,#111111,#111111,1,0.244037921875
 'Autumn Peltier',de,unknown,#111111,#111111,1,0.244037921875
-'Sophia Kianni',de,unknown,#111111,#111111,1,0.244037921875
-'Helena Gualinga',de,unknown,#111111,#111111,1,0.244037921875
 'Elizabeth Mpofu',de,unknown,#111111,#111111,1,0.244037921875
 'Mark Hertsgaard',de,unknown,#111111,#111111,1,0.244037921875
+'Helena Gualinga',de,unknown,#111111,#111111,1,0.244037921875
 'Michael Ballweg',de,Deutschland,#11dd44,#11dd44,2,0.243835655473
 'Jordan Bardella',de,Frankreich,#e8e808,#e8e808,2,0.243147591647
 'Antony Blinken',de,USA,#18e8e8,#18e8e8,3,0.242998422635
@@ -880,12 +880,13 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Edir Macedo',de,Brasilien,#58e838,#58e848,1,0.115808473142
 'Robin Li',de,China,#e88818,#e88818,2,0.114759712483
 'Andrés Manuel López Obrador',de,Mexiko,#aadd33,#aadd33,2,0.112993645620
+'Ayatollah Ali Chamenei',de,Iran,#11bb99,#11bb99,1,0.112838806491
 'Alexej Kudrin',de,Russland,#e81818,#e81818,1,0.111888838708
 'Miguel Díaz-Canel',de,Kuba,#cc4488,#cc4488,1,0.107136147776
 'Larry Page',de,USA,#18e8e8,#18e8e8,1,0.106146893879
 'Nicola Beer',de,EU,#bbff33,#bbff33,1,0.104797676214
+'Ali Chamenei',de,Iran,#11bb99,#11bb99,2,0.101326752900
 'Paul Gosar',de,USA,#18e8e8,#18e8e8,1,0.100405946214
-'Ali Chamenei',de,Iran,#11bb99,#11bb99,2,0.100085109947
 'Jewgenij Roisman',de,Russland,#e81818,#e81818,1,0.099604967164
 'Barbara Walters',de,USA,#18e8e8,#18e8e8,1,0.098914793765
 'Benjamin Nethanaju',de,Israel,#8822dd,#8822dd,1,0.098437202171
@@ -906,4 +907,3 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Tamim bin Hamad Al-Thani',de,Katar,#33aadd,#33aadd,1,0.077003040273
 'Lael Brainard',de,USA,#18e8e8,#18e8e8,1,0.076661861107
 'Susanne Klatten',de,Deutschland,#11dd44,#11dd44,1,0.075476496228
-'Ayatollah Ali Chamenei',de,Iran,#11bb99,#11bb99,1,0.073398542930
