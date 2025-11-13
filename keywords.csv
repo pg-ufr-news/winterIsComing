@@ -7,10 +7,10 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Tom Kaulitz',de,Deutschland,#11dd44,#11dd44,3,0.460004319290
 'Peter Howitt',de,USA,#18e8e8,#18e8e8,2,0.458339181374
 'James Comey',de,USA,#18e8e8,#18e8e8,2,0.458109768225
+'Donald Trump',de,USA,#18e8e8,#18e8e8,3,0.457926498504
 'John Clarke',de,USA,#18e8e8,#18e8e8,2,0.457114647426
 'Omar Yaghi',de,Jordanien,#335588,#335588,2,0.456191925308
 'John Martinis',de,USA,#18e8e8,#18e8e8,2,0.455415637494
-'Donald Trump',de,USA,#18e8e8,#18e8e8,3,0.455032957274
 'Volker Wieland',de,Deutschland,#11dd44,#11dd44,2,0.451977313077
 'Richard Robson',de,Australien,#99aa33,#99aa33,2,0.450447782643
 'Fred Ramsdel',de,USA,#18e8e8,#18e8e8,1,0.450304416691
@@ -160,7 +160,6 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Robert Habeck',de,Deutschland,#11dd44,#11dd44,3,0.374866063044
 'Andrei Sacharow',de,Russland,#e81818,#e81818,1,0.374766265000
 'Al Pacino',de,USA,#18e8e8,#18e8e8,2,0.374386218651
-'Kamala Harris',de,USA,#18e8e8,#18e8e8,3,0.373915203092
 'Prinz George',de,UK,#e838e8,#e838e8,2,0.372604343425
 'Francesca Albanese',de,Italien,#7722cc,#7722cc,2,0.371312176032
 'Thierry Breton',de,Frankreich,#e8e808,#e8e808,1,0.371160838309
@@ -168,8 +167,8 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Jennifer Morgan',de,Deutschland,#11dd44,#11dd44,1,0.370168669350
 'Mario Czaja',de,Deutschland,#11dd44,#11dd44,2,0.369575032128
 'Mo Lewis',de,USA,#18e8e8,#18e8e8,1,0.368604473007
-'Melanie Guttmann',de,Deutschland,#11dd44,#11dd44,1,0.368475000000
 'Tulsin Gabbard',de,USA,#18e8e8,#18e8e8,1,0.368475000000
+'Melanie Guttmann',de,Deutschland,#11dd44,#11dd44,1,0.368475000000
 'Paul Konerko',de,USA,#18e8e8,#18e8e8,1,0.368176078984
 'Mark Cuban',de,USA,#18e8e8,#18e8e8,1,0.368032560177
 'Matt Gaetz',de,USA,#18e8e8,#18e8e8,1,0.367751180101
@@ -212,6 +211,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Willy Brandt',de,Deutschland,#11dd44,#11dd44,3,0.355555234139
 'Gorbatschow',de,Russland,#e81818,#e81818,3,0.355464229287
 'Emma Stone',de,USA,#18e8e8,#18e8e8,3,0.354806451891
+'Kamala Harris',de,USA,#18e8e8,#18e8e8,3,0.354598354446
 'Jens Spahn',de,Deutschland,#11dd44,#11dd44,3,0.354519478185
 'Olivia Rodrigo',de,USA,#18e8e8,#18e8e8,2,0.354170415226
 'Markus Söder',de,Deutschland,#11dd44,#11dd44,3,0.353997928087
@@ -297,10 +297,10 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Charles Barkley',de,unknown,#111111,#111111,1,0.338271583625
 'Papst Benedikt XVI',de,Vatikan,#58b8e8,#58b8e8,3,0.338187586876
 'Alexander Smirnov',de,unknown,#111111,#111111,1,0.338133265108
-'Steven Donziger',de,unknown,#111111,#111111,1,0.337768750000
 'Haitham A-Ghais',de,unknown,#111111,#111111,1,0.337768750000
-'Minka Indigena',de,unknown,#111111,#111111,1,0.337768750000
+'Steven Donziger',de,unknown,#111111,#111111,1,0.337768750000
 'Claudia Kempfert',de,unknown,#111111,#111111,1,0.337768750000
+'Minka Indigena',de,unknown,#111111,#111111,1,0.337768750000
 'Patrick Mahomes',de,unknown,#111111,#111111,2,0.337701651743
 'Cara Delevingne',de,unknown,#111111,#111111,1,0.337576117113
 'Berkshire Hathaway',de,USA,#18e8e8,#18e8e8,1,0.337548872749
@@ -693,12 +693,12 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Vanessa Nakate',de,unknown,#111111,#111111,1,0.246829436568
 'Bodo Ramelow',de,Deutschland,#11dd44,#11dd44,3,0.245335301390
 'Warren Buffett',de,USA,#18e8e8,#18e8e8,3,0.245234949130
+'Autumn Peltier',de,unknown,#111111,#111111,1,0.244037921875
 'Sophia Kianni',de,unknown,#111111,#111111,1,0.244037921875
 'Tasneem Essop',de,unknown,#111111,#111111,1,0.244037921875
-'Autumn Peltier',de,unknown,#111111,#111111,1,0.244037921875
-'Mark Hertsgaard',de,unknown,#111111,#111111,1,0.244037921875
 'Helena Gualinga',de,unknown,#111111,#111111,1,0.244037921875
 'Elizabeth Mpofu',de,unknown,#111111,#111111,1,0.244037921875
+'Mark Hertsgaard',de,unknown,#111111,#111111,1,0.244037921875
 'Michael Ballweg',de,Deutschland,#11dd44,#11dd44,2,0.243835655473
 'Jordan Bardella',de,Frankreich,#e8e808,#e8e808,2,0.243147591647
 'Antony Blinken',de,USA,#18e8e8,#18e8e8,3,0.242998422635
