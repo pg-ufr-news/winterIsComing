@@ -86,7 +86,6 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Mohammad Mustafa',de,Palestina,#bb6633,#bb6633,1,0.417863413588
 'Benny Blanco',de,USA,#18e8e8,#18e8e8,2,0.417700357466
 'Ayatollah Khomeini',de,Iran,#11bb99,#11bb99,1,0.416422781093
-'Nicola Peltz',de,USA,#18e8e8,#18e8e8,2,0.415722923854
 'Hailey Bieber',de,USA,#18e8e8,#18e8e8,2,0.414989627499
 'Castel Gandolfo',de,Vatikan,#58b8e8,#58b8e8,1,0.414371095445
 'Jack Antonoff',de,USA,#18e8e8,#18e8e8,2,0.413828906244
@@ -218,6 +217,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Markus Söder',de,Deutschland,#11dd44,#11dd44,3,0.353997928087
 'Mark Meadows',de,USA,#18e8e8,#18e8e8,2,0.353836787281
 'Ron Johnson',de,USA,#18e8e8,#18e8e8,1,0.353755646644
+'Nicola Peltz',de,USA,#18e8e8,#18e8e8,1,0.353364530276
 'James Cleverly',de,UK,#e838e8,#e838e8,3,0.353336520045
 'Papst Franziskus',de,Vatikan,#58b8e8,#58b8e8,3,0.353330422752
 'Gavin Newsom',de,USA,#18e8e8,#18e8e8,2,0.352545104630
@@ -297,10 +297,10 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Charles Barkley',de,unknown,#111111,#111111,1,0.338271583625
 'Papst Benedikt XVI',de,Vatikan,#58b8e8,#58b8e8,3,0.338187586876
 'Alexander Smirnov',de,unknown,#111111,#111111,1,0.338133265108
-'Haitham A-Ghais',de,unknown,#111111,#111111,1,0.337768750000
 'Steven Donziger',de,unknown,#111111,#111111,1,0.337768750000
-'Claudia Kempfert',de,unknown,#111111,#111111,1,0.337768750000
+'Haitham A-Ghais',de,unknown,#111111,#111111,1,0.337768750000
 'Minka Indigena',de,unknown,#111111,#111111,1,0.337768750000
+'Claudia Kempfert',de,unknown,#111111,#111111,1,0.337768750000
 'Patrick Mahomes',de,unknown,#111111,#111111,2,0.337701651743
 'Cara Delevingne',de,unknown,#111111,#111111,1,0.337576117113
 'Berkshire Hathaway',de,USA,#18e8e8,#18e8e8,1,0.337548872749
@@ -693,12 +693,12 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Vanessa Nakate',de,unknown,#111111,#111111,1,0.246829436568
 'Bodo Ramelow',de,Deutschland,#11dd44,#11dd44,3,0.245335301390
 'Warren Buffett',de,USA,#18e8e8,#18e8e8,3,0.245234949130
+'Autumn Peltier',de,unknown,#111111,#111111,1,0.244037921875
 'Sophia Kianni',de,unknown,#111111,#111111,1,0.244037921875
 'Tasneem Essop',de,unknown,#111111,#111111,1,0.244037921875
-'Autumn Peltier',de,unknown,#111111,#111111,1,0.244037921875
-'Mark Hertsgaard',de,unknown,#111111,#111111,1,0.244037921875
 'Helena Gualinga',de,unknown,#111111,#111111,1,0.244037921875
 'Elizabeth Mpofu',de,unknown,#111111,#111111,1,0.244037921875
+'Mark Hertsgaard',de,unknown,#111111,#111111,1,0.244037921875
 'Michael Ballweg',de,Deutschland,#11dd44,#11dd44,2,0.243835655473
 'Jordan Bardella',de,Frankreich,#e8e808,#e8e808,2,0.243147591647
 'Antony Blinken',de,USA,#18e8e8,#18e8e8,3,0.242998422635
