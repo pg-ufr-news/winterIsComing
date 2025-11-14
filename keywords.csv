@@ -78,6 +78,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Marco Rubio',de,USA,#18e8e8,#18e8e8,3,0.420467017415
 'David Cameron',de,UK,#e838e8,#e838e8,1,0.420358909934
 'Christian Lindner',de,Deutschland,#11dd44,#11dd44,3,0.419937972939
+'Jeanne du Barry',de,Frankreich,#e8e808,#e8e808,2,0.419705540297
 'Kevin McCarthy',de,USA,#18e8e8,#18e8e8,2,0.418482790348
 'Karin Prien',de,Deutschland,#11dd44,#11dd44,3,0.418364531530
 'Henry Samuel',de,USA,#18e8e8,#18e8e8,2,0.418343196774
@@ -168,8 +169,8 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Jennifer Morgan',de,Deutschland,#11dd44,#11dd44,1,0.370168669350
 'Mario Czaja',de,Deutschland,#11dd44,#11dd44,2,0.369575032128
 'Mo Lewis',de,USA,#18e8e8,#18e8e8,1,0.368604473007
-'Tulsin Gabbard',de,USA,#18e8e8,#18e8e8,1,0.368475000000
 'Melanie Guttmann',de,Deutschland,#11dd44,#11dd44,1,0.368475000000
+'Tulsin Gabbard',de,USA,#18e8e8,#18e8e8,1,0.368475000000
 'Paul Konerko',de,USA,#18e8e8,#18e8e8,1,0.368176078984
 'Mark Cuban',de,USA,#18e8e8,#18e8e8,1,0.368032560177
 'Matt Gaetz',de,USA,#18e8e8,#18e8e8,1,0.367751180101
@@ -195,7 +196,6 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Verena Hubertz',de,Deutschland,#11dd44,#11dd44,3,0.361715994918
 'Ferdinand Dudenhöffer',de,Deutschland,#11dd44,#11dd44,3,0.361712987269
 'Richard David Precht',de,Deutschland,#11dd44,#11dd44,2,0.361055188103
-'Jeanne du Barry',de,Frankreich,#e8e808,#e8e808,1,0.360712329761
 'Keith Kellogg',de,USA,#18e8e8,#18e8e8,3,0.360077520603
 'Greg Abbott',de,USA,#18e8e8,#18e8e8,2,0.360053603536
 'Jake Gyllenhaal',de,USA,#18e8e8,#18e8e8,2,0.359994239857
@@ -236,6 +236,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Andreas Ellermann',de,Deutschland,#11dd44,#11dd44,1,0.350349617446
 'James Comer',de,USA,#18e8e8,#18e8e8,1,0.350148716784
 'Lauren Sanchez',de,USA,#18e8e8,#18e8e8,1,0.350123191912
+'Johnny Depp',de,USA,#18e8e8,#18e8e8,2,0.349836643678
 'Roger Federer',de,Schweiz,#88cc44,#88cc44,2,0.349568761947
 'Jennifer Lopez',de,USA,#18e8e8,#18e8e8,2,0.349472214163
 'Le Pen',de,Frankreich,#e8e808,#e8e808,2,0.349465252294
@@ -251,7 +252,6 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'David Beckham',de,UK,#e838e8,#e838e8,2,0.347272833104
 'Willem Dafoe',de,USA,#18e8e8,#18e8e8,1,0.347207185475
 'Billy Graham',de,USA,#18e8e8,#18e8e8,1,0.347065249546
-'Johnny Depp',de,USA,#18e8e8,#18e8e8,2,0.347051427914
 'Hendrik Wüst',de,Deutschland,#11dd44,#11dd44,3,0.346774976595
 'Peter Thiel',de,USA,#18e8e8,#18e8e8,2,0.346673972859
 'Alexander Dobrindt',de,Deutschland,#11dd44,#11dd44,3,0.346480414006
@@ -297,10 +297,10 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Charles Barkley',de,unknown,#111111,#111111,1,0.338271583625
 'Papst Benedikt XVI',de,Vatikan,#58b8e8,#58b8e8,3,0.338187586876
 'Alexander Smirnov',de,unknown,#111111,#111111,1,0.338133265108
-'Steven Donziger',de,unknown,#111111,#111111,1,0.337768750000
 'Haitham A-Ghais',de,unknown,#111111,#111111,1,0.337768750000
-'Minka Indigena',de,unknown,#111111,#111111,1,0.337768750000
+'Steven Donziger',de,unknown,#111111,#111111,1,0.337768750000
 'Claudia Kempfert',de,unknown,#111111,#111111,1,0.337768750000
+'Minka Indigena',de,unknown,#111111,#111111,1,0.337768750000
 'Patrick Mahomes',de,unknown,#111111,#111111,2,0.337701651743
 'Cara Delevingne',de,unknown,#111111,#111111,1,0.337576117113
 'Berkshire Hathaway',de,USA,#18e8e8,#18e8e8,1,0.337548872749
@@ -547,13 +547,13 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Wagner-Chef Prigoschin',de,unknown,#111111,#111111,1,0.300582690342
 'Billionaire Bunker',de,unknown,#111111,#111111,1,0.300411010055
 'Henry Ford',de,USA,#18e8e8,#18e8e8,1,0.300264927831
+'Amber Heard',de,USA,#18e8e8,#18e8e8,1,0.300096268300
 'Robert De Niro',de,USA,#18e8e8,#18e8e8,2,0.299909529999
 'Marine Le Pen',de,Frankreich,#e8e808,#e8e808,2,0.299801128495
 'Lindsey Graham',de,USA,#18e8e8,#18e8e8,2,0.299653784785
 'Noor Alfallah',de,USA,#18e8e8,#18e8e8,1,0.299517075819
 'Andrea Arnold',de,unknown,#111111,#111111,1,0.299422015919
 'Patrick Graichen',de,Deutschland,#11dd44,#11dd44,3,0.299151866067
-'Amber Heard',de,USA,#18e8e8,#18e8e8,1,0.299084790965
 'Jack Smith',de,USA,#18e8e8,#18e8e8,3,0.299048179469
 'Joseph Ratzinger',de,Vatikan,#58b8e8,#58b8e8,1,0.298866396965
 'Christopher Nolan',de,USA,#18e8e8,#18e8e8,2,0.298551997003
@@ -693,12 +693,12 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Vanessa Nakate',de,unknown,#111111,#111111,1,0.246829436568
 'Bodo Ramelow',de,Deutschland,#11dd44,#11dd44,3,0.245335301390
 'Warren Buffett',de,USA,#18e8e8,#18e8e8,3,0.245234949130
+'Autumn Peltier',de,unknown,#111111,#111111,1,0.244037921875
 'Sophia Kianni',de,unknown,#111111,#111111,1,0.244037921875
 'Tasneem Essop',de,unknown,#111111,#111111,1,0.244037921875
-'Autumn Peltier',de,unknown,#111111,#111111,1,0.244037921875
-'Mark Hertsgaard',de,unknown,#111111,#111111,1,0.244037921875
 'Helena Gualinga',de,unknown,#111111,#111111,1,0.244037921875
 'Elizabeth Mpofu',de,unknown,#111111,#111111,1,0.244037921875
+'Mark Hertsgaard',de,unknown,#111111,#111111,1,0.244037921875
 'Michael Ballweg',de,Deutschland,#11dd44,#11dd44,2,0.243835655473
 'Jordan Bardella',de,Frankreich,#e8e808,#e8e808,2,0.243147591647
 'Antony Blinken',de,USA,#18e8e8,#18e8e8,3,0.242998422635
