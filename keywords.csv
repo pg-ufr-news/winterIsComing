@@ -65,11 +65,11 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Iyad al-Rantisi',de,Palestina,#bb6633,#bb6633,1,0.425000000000
 'Adnan al-Burj',de,Palestina,#bb6633,#bb6633,1,0.425000000000
 'Lara Trump',de,USA,#18e8e8,#18e8e8,2,0.424673197005
+'Taylor Swift',de,USA,#18e8e8,#18e8e8,3,0.423685521539
 'Maria Kolesnikowa',de,Belarus,#e81858,#e81858,2,0.423604199604
 'Charlie Kirk',de,USA,#18e8e8,#18e8e8,3,0.423346498344
 'Elon Musk',de,USA,#18e8e8,#18e8e8,3,0.422582836415
 'Bärbel Bas',de,Deutschland,#11dd44,#11dd44,3,0.422423498471
-'Taylor Swift',de,USA,#18e8e8,#18e8e8,3,0.422106876282
 'Papst Leo',de,USA,#18e8e8,#18e8e8,3,0.421607760317
 'Sam Asghari',de,Iran,#11bb99,#11bb99,2,0.421339101920
 'Prinzessin Diana',de,UK,#e838e8,#e838e8,3,0.420642308185
@@ -137,6 +137,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Oleksandr Usyk',de,Ukraine,#e818e8,#e818e8,2,0.386600798283
 'Mahmud Abbas',de,Palestina,#bb6633,#bb6633,3,0.385698723028
 'Maria Sacharowa',de,Russland,#e81818,#e81818,3,0.384375669614
+'Olivia Rodrigo',de,USA,#18e8e8,#18e8e8,2,0.383764278711
 'Patrick Schnieder',de,Deutschland,#11dd44,#11dd44,3,0.383724748083
 'François Bayrou',de,Frankreich,#e8e808,#e8e808,2,0.383300522205
 'Lachlan Murdoch',de,UK,#e838e8,#e838e8,2,0.382567375347
@@ -213,7 +214,6 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Emma Stone',de,USA,#18e8e8,#18e8e8,3,0.354806451891
 'Kamala Harris',de,USA,#18e8e8,#18e8e8,3,0.354598354446
 'Jens Spahn',de,Deutschland,#11dd44,#11dd44,3,0.354519478185
-'Olivia Rodrigo',de,USA,#18e8e8,#18e8e8,2,0.354170415226
 'Mark Meadows',de,USA,#18e8e8,#18e8e8,2,0.353836787281
 'Ron Johnson',de,USA,#18e8e8,#18e8e8,1,0.353755646644
 'Nicola Peltz',de,USA,#18e8e8,#18e8e8,1,0.353364530276
@@ -693,12 +693,12 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Vanessa Nakate',de,unknown,#111111,#111111,1,0.246829436568
 'Bodo Ramelow',de,Deutschland,#11dd44,#11dd44,3,0.245335301390
 'Warren Buffett',de,USA,#18e8e8,#18e8e8,3,0.245234949130
+'Tasneem Essop',de,unknown,#111111,#111111,1,0.244037921875
 'Autumn Peltier',de,unknown,#111111,#111111,1,0.244037921875
 'Sophia Kianni',de,unknown,#111111,#111111,1,0.244037921875
-'Tasneem Essop',de,unknown,#111111,#111111,1,0.244037921875
-'Helena Gualinga',de,unknown,#111111,#111111,1,0.244037921875
 'Elizabeth Mpofu',de,unknown,#111111,#111111,1,0.244037921875
 'Mark Hertsgaard',de,unknown,#111111,#111111,1,0.244037921875
+'Helena Gualinga',de,unknown,#111111,#111111,1,0.244037921875
 'Michael Ballweg',de,Deutschland,#11dd44,#11dd44,2,0.243835655473
 'Jordan Bardella',de,Frankreich,#e8e808,#e8e808,2,0.243147591647
 'Antony Blinken',de,USA,#18e8e8,#18e8e8,3,0.242998422635
