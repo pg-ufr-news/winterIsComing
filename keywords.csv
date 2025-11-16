@@ -1,9 +1,9 @@
 keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
+'Donald Trump',de,USA,#18e8e8,#18e8e8,3,0.462935292482
 'Laura Loomer',de,USA,#18e8e8,#18e8e8,2,0.462150421500
 'Bezalel Smotrich',de,Israel,#8822dd,#8822dd,2,0.461770071818
 'John M. Martinis',de,USA,#18e8e8,#18e8e8,2,0.461106414178
 'Tom Kaulitz',de,Deutschland,#11dd44,#11dd44,3,0.460004319290
-'Donald Trump',de,USA,#18e8e8,#18e8e8,3,0.458646306635
 'Peter Howitt',de,USA,#18e8e8,#18e8e8,2,0.458339181374
 'James Comey',de,USA,#18e8e8,#18e8e8,2,0.458109768225
 'John Clarke',de,USA,#18e8e8,#18e8e8,2,0.457114647426
@@ -126,9 +126,9 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Hillary Clinton',de,USA,#18e8e8,#18e8e8,3,0.394082686248
 'Gisele Bündchen',de,Brasilien,#58e838,#58e838,1,0.393627978492
 'Boris Rhein',de,Deutschland,#11dd44,#11dd44,3,0.392241115740
+'Recep Tayyip Erdogan',de,Türkei,#4411ee,#4411ee,3,0.390543043526
 'Marie Trintignant',de,Frankreich,#e8e808,#e8e808,1,0.390425791588
 'Nina Warken',de,Deutschland,#11dd44,#11dd44,3,0.390278367301
-'Recep Tayyip Erdogan',de,Türkei,#4411ee,#4411ee,3,0.389690997031
 'LeBron James',de,USA,#18e8e8,#18e8e8,3,0.389568769276
 'Zohran Mamdani',de,USA,#18e8e8,#18e8e8,1,0.389521982954
 'Lionel Messi',de,Argentinien,#3355bb,#3355bb,3,0.389208565658
@@ -157,8 +157,8 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Merrick Garland',de,USA,#18e8e8,#18e8e8,2,0.377857079757
 'Prinz Archie',de,UK,#e838e8,#e838e8,2,0.377756994365
 'Miley Cyrus',de,USA,#18e8e8,#18e8e8,2,0.376929558646
+'Jeffrey Epstein',de,USA,#18e8e8,#18e8e8,2,0.376747941560
 'Hubert Aiwanger',de,Deutschland,#11dd44,#11dd44,3,0.376033132020
-'Jeffrey Epstein',de,USA,#18e8e8,#18e8e8,2,0.375870119101
 'Queen Elizabeth II',de,UK,#e838e8,#e838e8,3,0.375836653334
 'Robert Habeck',de,Deutschland,#11dd44,#11dd44,3,0.374866063044
 'Andrei Sacharow',de,Russland,#e81818,#e81818,1,0.374766265000
@@ -199,10 +199,10 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Keith Kellogg',de,USA,#18e8e8,#18e8e8,3,0.360077520603
 'Greg Abbott',de,USA,#18e8e8,#18e8e8,2,0.360053603536
 'Jake Gyllenhaal',de,USA,#18e8e8,#18e8e8,2,0.359994239857
+'Jared Kushner',de,USA,#18e8e8,#18e8e8,1,0.359480966660
 'Charles III',de,UK,#e838e8,#e838e8,3,0.359328181690
 'Charlize Theron',de,Südafrika,#1144ee,#1144ee,2,0.359324345117
 'Lars Klingbeil',de,Deutschland,#11dd44,#11dd44,3,0.358913037857
-'Jared Kushner',de,USA,#18e8e8,#18e8e8,1,0.358571526827
 'Guy Ritchie',de,UK,#e838e8,#e838e8,1,0.357772922372
 'Bill Clinton',de,USA,#18e8e8,#18e8e8,2,0.357523315373
 'Robert Kennedy',de,USA,#18e8e8,#18e8e8,3,0.357271204561
@@ -696,13 +696,14 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Sophia Kianni',de,unknown,#111111,#111111,1,0.244037921875
 'Tasneem Essop',de,unknown,#111111,#111111,1,0.244037921875
 'Autumn Peltier',de,unknown,#111111,#111111,1,0.244037921875
+'Elizabeth Mpofu',de,unknown,#111111,#111111,1,0.244037921875
 'Mark Hertsgaard',de,unknown,#111111,#111111,1,0.244037921875
 'Helena Gualinga',de,unknown,#111111,#111111,1,0.244037921875
-'Elizabeth Mpofu',de,unknown,#111111,#111111,1,0.244037921875
 'Michael Ballweg',de,Deutschland,#11dd44,#11dd44,2,0.243835655473
 'Jordan Bardella',de,Frankreich,#e8e808,#e8e808,2,0.243147591647
 'Antony Blinken',de,USA,#18e8e8,#18e8e8,3,0.242998422635
 'Lance Bass',de,unknown,#111111,#111111,1,0.242573035360
+'Mohammed bin Salman',de,SaudiArabien,#2266bb,#2266bb,3,0.242402502393
 'Marco Buschmann',de,Deutschland,#11dd44,#11dd44,3,0.242330180960
 'Mateusz Morawiecki',de,Polen,#8844cc,#8844cc,2,0.241238631256
 'Fabien Roussel',de,unknown,#111111,#111111,1,0.240729742413
@@ -728,14 +729,13 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Hilda Nakabuye',de,Uganda,#44cc88,#44cc88,1,0.230061204531
 'Peter Urban',de,Deutschland,#11dd44,#11dd44,1,0.229686881609
 'Peregrine Pearson',de,unknown,#111111,#111111,1,0.229336351629
+'Giorgia Meloni',de,Italien,#7722cc,#7722cc,3,0.228731555703
 'Edward Snowden',de,USA,#18e8e8,#18e8e8,2,0.228599491985
 'Tiffany Chen',de,USA,#18e8e8,#18e8e8,1,0.228350263869
 'Chuck Todd',de,USA,#18e8e8,#18e8e8,1,0.228009370159
-'Giorgia Meloni',de,Italien,#7722cc,#7722cc,3,0.227614992605
 'Cassidy Hutchinson',de,unknown,#111111,#111111,1,0.227375045985
 'Anthony Fauci',de,USA,#18e8e8,#18e8e8,2,0.226962077491
 'Alexander Lukaschenko',de,Belarus,#e81858,#e81858,3,0.226854171504
-'Mohammed bin Salman',de,SaudiArabien,#2266bb,#2266bb,3,0.225879366986
 'Suleika Jaouad',de,unknown,#111111,#111111,1,0.225488402466
 'Willie Nelson',de,unknown,#111111,#111111,1,0.225421861623
 'Kamilla Cardoso',de,unknown,#111111,#111111,1,0.224810135912
