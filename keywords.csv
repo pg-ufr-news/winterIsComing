@@ -1,5 +1,5 @@
 keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
-'Dick Cheney',de,unknown,#111111,#111111,2,0.604578923636
+'Dick Cheney',de,unknown,#111111,#111111,3,0.591570317818
 'Jean Castex',de,unknown,#111111,#111111,2,0.508246664522
 'James Gunn',de,unknown,#111111,#111111,2,0.508003889572
 'Laurent Nuñez',de,unknown,#111111,#111111,2,0.507508877456
@@ -8,7 +8,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Boris Vallaud',de,unknown,#111111,#111111,2,0.502424898344
 'Bad Bunny',de,unknown,#111111,#111111,2,0.502021540912
 'Kendrick Lamar',de,unknown,#111111,#111111,2,0.500330365794
-'Donald Trump',de,USA,#18e8e8,#18e8e8,3,0.469970940969
+'Donald Trump',de,USA,#18e8e8,#18e8e8,3,0.472054477229
 'Pete Hegseth',de,USA,#18e8e8,#18e8e8,3,0.469477685847
 'Laura Loomer',de,USA,#18e8e8,#18e8e8,2,0.462150421500
 'Bezalel Smotrich',de,Israel,#8822dd,#8822dd,2,0.461770071818
@@ -67,11 +67,11 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'RFK Jr',de,USA,#18e8e8,#18e8e8,1,0.425642197098
 'Eddie Hearn',de,UK,#e838e8,#e838e8,2,0.425587291339
 'Melania Trump',de,USA,#18e8e8,#18e8e8,3,0.425197776782
-'Philipp Aghion',de,Frankreich,#e8e808,#e8e808,1,0.425000000000
-'Khaled al Serr',de,Palestina,#bb6633,#bb6633,1,0.425000000000
-'Iyad al-Rantisi',de,Palestina,#bb6633,#bb6633,1,0.425000000000
-'Munther Amira',de,Palestina,#bb6633,#bb6633,1,0.425000000000
 'Adnan al-Burj',de,Palestina,#bb6633,#bb6633,1,0.425000000000
+'Khaled al Serr',de,Palestina,#bb6633,#bb6633,1,0.425000000000
+'Philipp Aghion',de,Frankreich,#e8e808,#e8e808,1,0.425000000000
+'Munther Amira',de,Palestina,#bb6633,#bb6633,1,0.425000000000
+'Iyad al-Rantisi',de,Palestina,#bb6633,#bb6633,1,0.425000000000
 'Lara Trump',de,USA,#18e8e8,#18e8e8,2,0.424673197005
 'Taylor Swift',de,USA,#18e8e8,#18e8e8,3,0.423685521539
 'Maria Kolesnikowa',de,Belarus,#e81858,#e81858,2,0.423604199604
@@ -505,6 +505,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Benjamin Hasselhorn',de,unknown,#111111,#111111,1,0.308087707205
 'Sergio Massa',de,unknown,#111111,#111111,1,0.308056569607
 'Sean Hannity',de,unknown,#111111,#111111,1,0.308027555114
+'Katy Perry',de,USA,#18e8e8,#18e8e8,1,0.308017910092
 'Petro Poroshenko',de,unknown,#111111,#111111,1,0.307932659194
 'Drake Maye',de,unknown,#111111,#111111,1,0.307899273929
 'Ayatollah Chamenei',de,Iran,#11bb99,#11bb99,1,0.307770240762
@@ -514,17 +515,16 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Anya Taylor-Joy',de,unknown,#111111,#111111,1,0.307442722907
 'Hailey Van Lith',de,unknown,#111111,#111111,1,0.307342816440
 'Tina Turner',de,USA,#18e8e8,#18e8e8,2,0.307131327466
+'Camille Etienne',de,Frankreich,#e8e808,#e8e808,1,0.307062500000
 'Moon Hyung-jin',de,USA,#18e8e8,#18e8e8,1,0.307062500000
-'Uwe Neumärker',de,Deutschland,#11dd44,#11dd44,1,0.307062500000
 'Evgueni Prigojine',de,Russland,#e81818,#e81818,1,0.307062500000
 'Dorothée Pacaud',de,Frankreich,#e8e808,#e8e808,1,0.307062500000
-'Camille Etienne',de,Frankreich,#e8e808,#e8e808,1,0.307062500000
 'Gilbert Plass',de,Kanada,#ffaabb,#ffaabb,1,0.307062500000
+'Uwe Neumärker',de,Deutschland,#11dd44,#11dd44,1,0.307062500000
 'Kemal Kiliçdaroglu',de,Türkei,#4411ee,#4411ee,1,0.307062500000
 'Pedro Sánchez Pérez-Castejón',de,Spanien,#1144aa,#1144aa,1,0.307062500000
 'Patti LaBelle',de,USA,#18e8e8,#18e8e8,1,0.307062500000
 'Sergei Surovikin',de,Russland,#e81818,#e81818,1,0.307062500000
-'Katy Perry',de,USA,#18e8e8,#18e8e8,1,0.307019363641
 'James Biden',de,unknown,#111111,#111111,1,0.306666048656
 'Hugh Grant',de,unknown,#111111,#111111,1,0.306582026544
 'Kevin Kühnert',de,Deutschland,#11dd44,#11dd44,3,0.306267580113
@@ -837,9 +837,9 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Kim Jong-un',de,NordKorea,#4811f1,#4811f1,3,0.166994682129
 'Klaus-Michael Kühne',de,Deutschland,#11dd44,#11dd44,2,0.166959320396
 'Katharina König-Press',de,Deutschland,#11dd44,#11dd44,1,0.166387043835
+'Justin Trudeau',de,Kanada,#ffaabb,#ffaabb,2,0.166117402481
 'Tamim Hamad Thani',de,Katar,#33aadd,#33aadd,1,0.166024191066
 'Immanuel Kant',de,Deutschland,#11dd44,#11dd44,2,0.165889027054
-'Justin Trudeau',de,Kanada,#ffaabb,#ffaabb,2,0.164928313986
 'Antonio Guterres',de,UN,#e888e8,#e888e8,2,0.162032699536
 'Bruno Retailleau',de,Frankreich,#e8e808,#e8e808,1,0.161214384255
 'Christoph Heusgen',de,Deutschland,#11dd44,#11dd44,2,0.161200775547
