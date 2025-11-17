@@ -114,7 +114,6 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Alois Rainer',de,Deutschland,#11dd44,#11dd44,2,0.401320947138
 'Dana White',de,USA,#18e8e8,#18e8e8,1,0.400313270931
 'Nicusor Dan',de,Rumänien,#3311aa,#3311aa,1,0.399968889251
-'Ehud Olmert',de,Israel,#8822dd,#8822dd,2,0.399661269140
 'Stefanie Hubig',de,Deutschland,#11dd44,#11dd44,3,0.397823669003
 'Matty Healy',de,UK,#e838e8,#e838e8,2,0.397476084594
 'Hans-Werner Sinn',de,Deutschland,#11dd44,#11dd44,1,0.396541427198
@@ -284,6 +283,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'nan nan',de,unknown,#dddddd,#dddddd,1,0.341027803203
 'Nikki Glaser',de,unknown,#111111,#111111,2,0.340433807466
 'Steve Jobs',de,USA,#18e8e8,#18e8e8,3,0.340345782115
+'Ehud Olmert',de,Israel,#8822dd,#8822dd,2,0.340312138769
 'Paris Hilton',de,unknown,#111111,#111111,2,0.340047785382
 'Abraham Lincoln',de,unknown,#111111,#111111,2,0.340009124124
 'Jessica Biel',de,unknown,#111111,#111111,1,0.339871494632
@@ -296,8 +296,8 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Charles Barkley',de,unknown,#111111,#111111,1,0.338271583625
 'Papst Benedikt XVI',de,Vatikan,#58b8e8,#58b8e8,3,0.338187586876
 'Alexander Smirnov',de,unknown,#111111,#111111,1,0.338133265108
-'Minka Indigena',de,unknown,#111111,#111111,1,0.337768750000
 'Claudia Kempfert',de,unknown,#111111,#111111,1,0.337768750000
+'Minka Indigena',de,unknown,#111111,#111111,1,0.337768750000
 'Haitham A-Ghais',de,unknown,#111111,#111111,1,0.337768750000
 'Steven Donziger',de,unknown,#111111,#111111,1,0.337768750000
 'Patrick Mahomes',de,unknown,#111111,#111111,2,0.337701651743
@@ -693,12 +693,12 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Vanessa Nakate',de,unknown,#111111,#111111,1,0.246829436568
 'Bodo Ramelow',de,Deutschland,#11dd44,#11dd44,3,0.245335301390
 'Warren Buffett',de,USA,#18e8e8,#18e8e8,3,0.245234949130
+'Autumn Peltier',de,unknown,#111111,#111111,1,0.244037921875
 'Sophia Kianni',de,unknown,#111111,#111111,1,0.244037921875
 'Tasneem Essop',de,unknown,#111111,#111111,1,0.244037921875
-'Autumn Peltier',de,unknown,#111111,#111111,1,0.244037921875
-'Elizabeth Mpofu',de,unknown,#111111,#111111,1,0.244037921875
 'Mark Hertsgaard',de,unknown,#111111,#111111,1,0.244037921875
 'Helena Gualinga',de,unknown,#111111,#111111,1,0.244037921875
+'Elizabeth Mpofu',de,unknown,#111111,#111111,1,0.244037921875
 'Michael Ballweg',de,Deutschland,#11dd44,#11dd44,2,0.243835655473
 'Jordan Bardella',de,Frankreich,#e8e808,#e8e808,2,0.243147591647
 'Antony Blinken',de,USA,#18e8e8,#18e8e8,3,0.242998422635
