@@ -1,5 +1,4 @@
 keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
-'Jean Castex',de,Frankreich,#e8e808,#e8e808,2,0.540202626987
 'James Gunn',de,USA,#18e8e8,#18e8e8,2,0.508003889572
 'Laurent Nuñez',de,Frankreich,#e8e808,#e8e808,2,0.507508877456
 'reine Mathilde',de,unknown,#111111,#111111,2,0.505010202347
@@ -13,6 +12,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Bezalel Smotrich',de,Israel,#8822dd,#8822dd,2,0.461770071818
 'John M. Martinis',de,USA,#18e8e8,#18e8e8,2,0.461106414178
 'Tom Kaulitz',de,Deutschland,#11dd44,#11dd44,3,0.460004319290
+'Jean Castex',de,Frankreich,#e8e808,#e8e808,1,0.459172337939
 'Peter Howitt',de,USA,#18e8e8,#18e8e8,2,0.458339181374
 'James Comey',de,USA,#18e8e8,#18e8e8,2,0.458109768225
 'John Clarke',de,USA,#18e8e8,#18e8e8,2,0.457114647426
@@ -67,11 +67,11 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'RFK Jr',de,USA,#18e8e8,#18e8e8,1,0.425642197098
 'Eddie Hearn',de,UK,#e838e8,#e838e8,2,0.425587291339
 'Melania Trump',de,USA,#18e8e8,#18e8e8,3,0.425197776782
-'Adnan al-Burj',de,Palestina,#bb6633,#bb6633,1,0.425000000000
-'Khaled al Serr',de,Palestina,#bb6633,#bb6633,1,0.425000000000
-'Philipp Aghion',de,Frankreich,#e8e808,#e8e808,1,0.425000000000
-'Munther Amira',de,Palestina,#bb6633,#bb6633,1,0.425000000000
 'Iyad al-Rantisi',de,Palestina,#bb6633,#bb6633,1,0.425000000000
+'Khaled al Serr',de,Palestina,#bb6633,#bb6633,1,0.425000000000
+'Adnan al-Burj',de,Palestina,#bb6633,#bb6633,1,0.425000000000
+'Munther Amira',de,Palestina,#bb6633,#bb6633,1,0.425000000000
+'Philipp Aghion',de,Frankreich,#e8e808,#e8e808,1,0.425000000000
 'Lara Trump',de,USA,#18e8e8,#18e8e8,2,0.424673197005
 'Taylor Swift',de,USA,#18e8e8,#18e8e8,3,0.423685521539
 'Maria Kolesnikowa',de,Belarus,#e81858,#e81858,2,0.423604199604
