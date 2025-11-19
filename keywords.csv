@@ -1,6 +1,6 @@
 keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
-'Bad Bunny',de,PuertoRico,#b5412f,#b5412f,2,0.502021540912
-'Kendrick Lamar',de,USA,#18e8e8,#18e8e8,2,0.500330365794
+'Kendrick Lamar',de,USA,#18e8e8,#18e8e8,2,0.503494315080
+'Bad Bunny',de,PuertoRico,#b5412f,#b5412f,2,0.481218759775
 'Donald Trump',de,USA,#18e8e8,#18e8e8,3,0.472054477229
 'Pete Hegseth',de,USA,#18e8e8,#18e8e8,3,0.469477685847
 'Laura Loomer',de,USA,#18e8e8,#18e8e8,2,0.462150421500
@@ -52,6 +52,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Lyna Khoudri',de,Algerien,#22cc99,#22cc99,1,0.428765424897
 'Andrew Cuomo',de,USA,#18e8e8,#18e8e8,2,0.428656663591
 'Prinz William',de,UK,#e838e8,#e838e8,3,0.428435256673
+'Lady Gaga',de,USA,#18e8e8,#18e8e8,3,0.428387283607
 'Jon Jones',de,USA,#18e8e8,#18e8e8,1,0.428268717015
 'Kim Kardashian',de,USA,#18e8e8,#18e8e8,3,0.428058622196
 'Tig Notaro',de,USA,#18e8e8,#18e8e8,1,0.427817954442
@@ -60,7 +61,6 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Callum Turner',de,UK,#e838e8,#e838e8,2,0.427240558486
 'Boris Vallaud',de,Frankreich,#e8e808,#e8e808,1,0.427061193592
 'Michel Barnier',de,Frankreich,#e8e808,#e8e808,2,0.426889133481
-'Lady Gaga',de,USA,#18e8e8,#18e8e8,3,0.426826964668
 'Reem Alabali-Radovan',de,Deutschland,#11dd44,#11dd44,2,0.426765063247
 'Pierre Farandou',de,Frankreich,#e8e808,#e8e808,1,0.426602909016
 'Brooklyn Beckham',de,UK,#e838e8,#e838e8,2,0.426225224370
@@ -68,11 +68,11 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'RFK Jr',de,USA,#18e8e8,#18e8e8,1,0.425642197098
 'Eddie Hearn',de,UK,#e838e8,#e838e8,2,0.425587291339
 'Melania Trump',de,USA,#18e8e8,#18e8e8,3,0.425197776782
+'Khaled al Serr',de,Palestina,#bb6633,#bb6633,1,0.425000000000
 'Adnan al-Burj',de,Palestina,#bb6633,#bb6633,1,0.425000000000
 'Philipp Aghion',de,Frankreich,#e8e808,#e8e808,1,0.425000000000
-'Munther Amira',de,Palestina,#bb6633,#bb6633,1,0.425000000000
-'Khaled al Serr',de,Palestina,#bb6633,#bb6633,1,0.425000000000
 'Iyad al-Rantisi',de,Palestina,#bb6633,#bb6633,1,0.425000000000
+'Munther Amira',de,Palestina,#bb6633,#bb6633,1,0.425000000000
 'Lara Trump',de,USA,#18e8e8,#18e8e8,2,0.424673197005
 'Taylor Swift',de,USA,#18e8e8,#18e8e8,3,0.423685521539
 'Maria Kolesnikowa',de,Belarus,#e81858,#e81858,2,0.423604199604
