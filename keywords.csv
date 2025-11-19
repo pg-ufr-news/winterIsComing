@@ -1,5 +1,4 @@
 keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
-'Boris Vallaud',de,Frankreich,#e8e808,#e8e808,2,0.502424898344
 'Bad Bunny',de,PuertoRico,#b5412f,#b5412f,2,0.502021540912
 'Kendrick Lamar',de,USA,#18e8e8,#18e8e8,2,0.500330365794
 'Donald Trump',de,USA,#18e8e8,#18e8e8,3,0.472054477229
@@ -59,6 +58,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Michel H. Devoret',de,USA,#18e8e8,#18e8e8,2,0.427700270000
 'Johann Wadephul',de,Deutschland,#11dd44,#11dd44,3,0.427331863518
 'Callum Turner',de,UK,#e838e8,#e838e8,2,0.427240558486
+'Boris Vallaud',de,Frankreich,#e8e808,#e8e808,1,0.427061193592
 'Michel Barnier',de,Frankreich,#e8e808,#e8e808,2,0.426889133481
 'Lady Gaga',de,USA,#18e8e8,#18e8e8,3,0.426826964668
 'Reem Alabali-Radovan',de,Deutschland,#11dd44,#11dd44,2,0.426765063247
@@ -68,11 +68,11 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'RFK Jr',de,USA,#18e8e8,#18e8e8,1,0.425642197098
 'Eddie Hearn',de,UK,#e838e8,#e838e8,2,0.425587291339
 'Melania Trump',de,USA,#18e8e8,#18e8e8,3,0.425197776782
-'Munther Amira',de,Palestina,#bb6633,#bb6633,1,0.425000000000
-'Philipp Aghion',de,Frankreich,#e8e808,#e8e808,1,0.425000000000
-'Iyad al-Rantisi',de,Palestina,#bb6633,#bb6633,1,0.425000000000
 'Adnan al-Burj',de,Palestina,#bb6633,#bb6633,1,0.425000000000
+'Philipp Aghion',de,Frankreich,#e8e808,#e8e808,1,0.425000000000
+'Munther Amira',de,Palestina,#bb6633,#bb6633,1,0.425000000000
 'Khaled al Serr',de,Palestina,#bb6633,#bb6633,1,0.425000000000
+'Iyad al-Rantisi',de,Palestina,#bb6633,#bb6633,1,0.425000000000
 'Lara Trump',de,USA,#18e8e8,#18e8e8,2,0.424673197005
 'Taylor Swift',de,USA,#18e8e8,#18e8e8,3,0.423685521539
 'Maria Kolesnikowa',de,Belarus,#e81858,#e81858,2,0.423604199604
