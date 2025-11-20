@@ -144,6 +144,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Robert Prevost',de,Vatikan,#58b8e8,#58b8e8,2,0.387634114114
 'Oleksandr Usyk',de,Ukraine,#e818e8,#e818e8,2,0.386600798283
 'Mahmud Abbas',de,Palestina,#bb6633,#bb6633,3,0.385698723028
+'Herbert Diess',de,Deutschland,#11dd44,#11dd44,1,0.384440615963
 'Maria Sacharowa',de,Russland,#e81818,#e81818,3,0.384375669614
 'Olivia Rodrigo',de,USA,#18e8e8,#18e8e8,2,0.383764278711
 'Patrick Schnieder',de,Deutschland,#11dd44,#11dd44,3,0.383724748083
@@ -155,7 +156,6 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Lauren Sánchez',de,USA,#18e8e8,#18e8e8,1,0.381463622459
 'Le Pen',de,Frankreich,#e8e808,#e8e808,3,0.381262907616
 'Greta Gerwig',de,USA,#18e8e8,#18e8e8,2,0.380979675716
-'Herbert Diess',de,Deutschland,#11dd44,#11dd44,1,0.380976918082
 'Mark Carney',de,Kanada,#ffaabb,#ffaabb,2,0.380903365404
 'Eric Adams',de,USA,#18e8e8,#18e8e8,3,0.380393879815
 'Karim Benzema',de,Frankreich,#e8e808,#e8e808,3,0.380302120527
@@ -256,7 +256,6 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Bastian Schweinsteiger',de,Deutschland,#11dd44,#11dd44,2,0.348372654247
 'Sergio Mattarella',de,Italien,#7722cc,#7722cc,1,0.348064632851
 'Lana Del Rey',de,USA,#18e8e8,#18e8e8,1,0.347385510586
-'Oliver Blume',de,Deutschland,#11dd44,#11dd44,3,0.347357315209
 'David Beckham',de,UK,#e838e8,#e838e8,2,0.347272833104
 'Willem Dafoe',de,USA,#18e8e8,#18e8e8,1,0.347207185475
 'Billy Graham',de,USA,#18e8e8,#18e8e8,1,0.347065249546
@@ -290,6 +289,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Sarah Ferguson',de,UK,#e838e8,#e838e8,1,0.341704358348
 'Emmanuel Macron',de,Frankreich,#e8e808,#e8e808,3,0.341584790656
 'Joachim Gauck',de,Deutschland,#11dd44,#11dd44,1,0.341559116541
+'Oliver Blume',de,Deutschland,#11dd44,#11dd44,3,0.341262165785
 'nan nan',de,unknown,#dddddd,#dddddd,1,0.341027803203
 'Nikki Glaser',de,USA,#18e8e8,#18e8e8,2,0.340433807466
 'Steve Jobs',de,USA,#18e8e8,#18e8e8,3,0.340345782115
@@ -703,11 +703,11 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Vanessa Nakate',de,unknown,#111111,#111111,1,0.246829436568
 'Bodo Ramelow',de,Deutschland,#11dd44,#11dd44,3,0.245335301390
 'Warren Buffett',de,USA,#18e8e8,#18e8e8,3,0.245234949130
-'Eriberto Gualinga',de,unknown,#111111,#111111,1,0.244037921875
+'Sophia Kianni',de,unknown,#111111,#111111,1,0.244037921875
 'Tasneem Essop',de,unknown,#111111,#111111,1,0.244037921875
 'Elizabeth Mpofu',de,unknown,#111111,#111111,1,0.244037921875
-'Sophia Kianni',de,unknown,#111111,#111111,1,0.244037921875
 'Helena Gualinga',de,unknown,#111111,#111111,1,0.244037921875
+'Eriberto Gualinga',de,unknown,#111111,#111111,1,0.244037921875
 'Mark Hertsgaard',de,unknown,#111111,#111111,1,0.244037921875
 'Autumn Peltier',de,unknown,#111111,#111111,1,0.244037921875
 'Michael Ballweg',de,Deutschland,#11dd44,#11dd44,2,0.243835655473
