@@ -67,11 +67,11 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'RFK Jr',de,USA,#18e8e8,#18e8e8,1,0.425642197098
 'Eddie Hearn',de,UK,#e838e8,#e838e8,2,0.425587291339
 'Melania Trump',de,USA,#18e8e8,#18e8e8,3,0.425197776782
-'Munther Amira',de,Palestina,#bb6633,#bb6633,1,0.425000000000
-'Iyad al-Rantisi',de,Palestina,#bb6633,#bb6633,1,0.425000000000
-'Khaled al Serr',de,Palestina,#bb6633,#bb6633,1,0.425000000000
-'Adnan al-Burj',de,Palestina,#bb6633,#bb6633,1,0.425000000000
 'Philipp Aghion',de,Frankreich,#e8e808,#e8e808,1,0.425000000000
+'Iyad al-Rantisi',de,Palestina,#bb6633,#bb6633,1,0.425000000000
+'Munther Amira',de,Palestina,#bb6633,#bb6633,1,0.425000000000
+'Adnan al-Burj',de,Palestina,#bb6633,#bb6633,1,0.425000000000
+'Khaled al Serr',de,Palestina,#bb6633,#bb6633,1,0.425000000000
 'Lara Trump',de,USA,#18e8e8,#18e8e8,2,0.424673197005
 'Taylor Swift',de,USA,#18e8e8,#18e8e8,3,0.423685521539
 'Maria Kolesnikowa',de,Belarus,#e81858,#e81858,2,0.423604199604
@@ -606,7 +606,6 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Daniel Penny',de,USA,#18e8e8,#18e8e8,1,0.287576688510
 'Kyle Pope',de,unknown,#111111,#111111,1,0.287380965250
 'Chris Hemsworth',de,unknown,#111111,#111111,1,0.287124473049
-'Eriberto Gualinga',de,unknown,#111111,#111111,1,0.287103437500
 'Marjan Minnesma',de,unknown,#111111,#111111,1,0.287103437500
 'Kemal Klçdarolu',de,Türkei,#4411ee,#4411ee,3,0.286278690666
 'Irina Shayk',de,unknown,#111111,#111111,1,0.286204198439
@@ -704,12 +703,13 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Vanessa Nakate',de,unknown,#111111,#111111,1,0.246829436568
 'Bodo Ramelow',de,Deutschland,#11dd44,#11dd44,3,0.245335301390
 'Warren Buffett',de,USA,#18e8e8,#18e8e8,3,0.245234949130
-'Autumn Peltier',de,unknown,#111111,#111111,1,0.244037921875
-'Mark Hertsgaard',de,unknown,#111111,#111111,1,0.244037921875
-'Sophia Kianni',de,unknown,#111111,#111111,1,0.244037921875
 'Helena Gualinga',de,unknown,#111111,#111111,1,0.244037921875
-'Elizabeth Mpofu',de,unknown,#111111,#111111,1,0.244037921875
 'Tasneem Essop',de,unknown,#111111,#111111,1,0.244037921875
+'Elizabeth Mpofu',de,unknown,#111111,#111111,1,0.244037921875
+'Eriberto Gualinga',de,unknown,#111111,#111111,1,0.244037921875
+'Sophia Kianni',de,unknown,#111111,#111111,1,0.244037921875
+'Mark Hertsgaard',de,unknown,#111111,#111111,1,0.244037921875
+'Autumn Peltier',de,unknown,#111111,#111111,1,0.244037921875
 'Michael Ballweg',de,Deutschland,#11dd44,#11dd44,2,0.243835655473
 'Jordan Bardella',de,Frankreich,#e8e808,#e8e808,2,0.243147591647
 'Antony Blinken',de,USA,#18e8e8,#18e8e8,3,0.242998422635
@@ -758,9 +758,9 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Hazel Monét',de,unknown,#111111,#111111,1,0.222214540705
 'Michael Sandel',de,USA,#18e8e8,#18e8e8,1,0.222166872817
 'Björn Höcke',de,Deutschland,#11dd44,#11dd44,2,0.221936376768
-'Pierre-Yves Dermagne',de,Belgien,#bb33ff,#bb33ff,1,0.221852656250
 'Yevgeny Prigozhin',de,Russland,#e81818,#e81818,1,0.221852656250
 'Megyn Kell',de,USA,#18e8e8,#18e8e8,1,0.221852656250
+'Pierre-Yves Dermagne',de,Belgien,#bb33ff,#bb33ff,1,0.221852656250
 'Sergej Schoigu',de,Russland,#e81818,#e81818,3,0.221828588284
 'Éric Ciotti',de,Frankreich,#e8e808,#e8e808,1,0.221817497258
 'Jens Stoltenberg',de,Norwegen,#e818e8,#e818e8,2,0.220549124512
