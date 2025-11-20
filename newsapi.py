@@ -672,7 +672,7 @@ keywordsDF = addNewNames('https://raw.githubusercontent.com/pg-ufr-news/winterIs
 keywordsDF = addNewNames('https://raw.githubusercontent.com/pg-ufr-news/personWhisperer/main/csv/sentiments_new_persons.csv', keywordsDF, 0.5, 'de', 9)
 
 #keywordsDF = keywordsDF.sort_values(by=['topic','keyword'])
-keywordsDF = keywordsDF[(keywordsDF.ratioNew > 0.05)]
+keywordsDF = keywordsDF[(keywordsDF.ratioNew > 0.07)]
 keywordsDF = keywordsDF.sort_values(by=['ratioNew'], ascending=False)
 keywordsDF.to_csv(DATA_PATH / 'keywords.csv', columns=keywordsFields,index=False, float_format='%.12f')  
 
