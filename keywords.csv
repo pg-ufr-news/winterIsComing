@@ -1,6 +1,6 @@
 keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Bad Bunny',de,PuertoRico,#b5412f,#b5412f,2,0.481218759775
-'Donald Trump',de,USA,#18e8e8,#18e8e8,3,0.475499479996
+'Donald Trump',de,USA,#18e8e8,#18e8e8,3,0.476867894044
 'Pete Hegseth',de,USA,#18e8e8,#18e8e8,3,0.469477685847
 'Laura Loomer',de,USA,#18e8e8,#18e8e8,2,0.462150421500
 'John M. Martinis',de,USA,#18e8e8,#18e8e8,2,0.461106414178
@@ -47,9 +47,9 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Lecornu II ',de,Frankreich,#e8e808,#e8e808,1,0.429980404145
 'Duke Henri',de,Luxemburg,#dd3355,#dd3355,1,0.429907696487
 'reine Mathilde',de,unknown,#111111,#111111,1,0.429258671995
+'Prinz William',de,UK,#e838e8,#e838e8,3,0.429213044574
 'Lyna Khoudri',de,Algerien,#22cc99,#22cc99,1,0.428765424897
 'Andrew Cuomo',de,USA,#18e8e8,#18e8e8,2,0.428656663591
-'Prinz William',de,UK,#e838e8,#e838e8,3,0.428435256673
 'Lady Gaga',de,USA,#18e8e8,#18e8e8,3,0.428387283607
 'Jon Jones',de,USA,#18e8e8,#18e8e8,1,0.428268717015
 'Kim Kardashian',de,USA,#18e8e8,#18e8e8,3,0.428058622196
@@ -57,6 +57,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Michel H. Devoret',de,USA,#18e8e8,#18e8e8,2,0.427700270000
 'Johann Wadephul',de,Deutschland,#11dd44,#11dd44,3,0.427331863518
 'Callum Turner',de,UK,#e838e8,#e838e8,2,0.427240558486
+'Prinz Andrew',de,UK,#e838e8,#e838e8,3,0.427164382579
 'Boris Vallaud',de,Frankreich,#e8e808,#e8e808,1,0.427061193592
 'Michel Barnier',de,Frankreich,#e8e808,#e8e808,2,0.426889133481
 'Reem Alabali-Radovan',de,Deutschland,#11dd44,#11dd44,2,0.426765063247
@@ -103,6 +104,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Benjamin Netanjahu',de,Israel,#8822dd,#8822dd,3,0.409765773082
 'Lauren Boebert',de,USA,#18e8e8,#18e8e8,2,0.408984767319
 'Karsten Wildberger',de,Deutschland,#11dd44,#11dd44,3,0.408301256720
+'König Charles III',de,UK,#e838e8,#e838e8,3,0.406600539281
 'JD Vance',de,USA,#18e8e8,#18e8e8,3,0.406539064312
 'Sandy Hook',de,USA,#18e8e8,#18e8e8,2,0.406134881562
 'Taylor Swift',de,USA,#18e8e8,#18e8e8,3,0.405994934217
@@ -118,7 +120,6 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Theodor Herzl',de,Ungarn,#33aa99,#33aa99,2,0.401834022598
 'Sebastien Lecornu',de,Frankreich,#e8e808,#e8e808,2,0.401833591320
 'Nina Gummich',de,Deutschland,#11dd44,#11dd44,1,0.401819027542
-'König Charles III',de,UK,#e838e8,#e838e8,3,0.401647693274
 'Alois Rainer',de,Deutschland,#11dd44,#11dd44,2,0.401320947138
 'Dana White',de,USA,#18e8e8,#18e8e8,1,0.400313270931
 'Nicusor Dan',de,Rumänien,#3311aa,#3311aa,1,0.399968889251
@@ -149,6 +150,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'François Bayrou',de,Frankreich,#e8e808,#e8e808,2,0.383300522205
 'Lachlan Murdoch',de,UK,#e838e8,#e838e8,2,0.382567375347
 'Whoopi Goldberg',de,USA,#18e8e8,#18e8e8,1,0.382386934890
+'Jeffrey Epstein',de,USA,#18e8e8,#18e8e8,2,0.381980811341
 'Mick Jagger',de,UK,#e838e8,#e838e8,2,0.381958329911
 'Jennifer Garner',de,USA,#18e8e8,#18e8e8,1,0.381767986696
 'Lauren Sánchez',de,USA,#18e8e8,#18e8e8,1,0.381463622459
@@ -164,7 +166,6 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Merrick Garland',de,USA,#18e8e8,#18e8e8,2,0.377857079757
 'Prinz Archie',de,UK,#e838e8,#e838e8,2,0.377756994365
 'Miley Cyrus',de,USA,#18e8e8,#18e8e8,2,0.376929558646
-'Jeffrey Epstein',de,USA,#18e8e8,#18e8e8,2,0.376747941560
 'Hubert Aiwanger',de,Deutschland,#11dd44,#11dd44,3,0.376033132020
 'Queen Elizabeth II',de,UK,#e838e8,#e838e8,3,0.375836653334
 'Robert Habeck',de,Deutschland,#11dd44,#11dd44,3,0.374866063044
@@ -228,7 +229,6 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Papst Franziskus',de,Vatikan,#58b8e8,#58b8e8,3,0.353330422752
 'Gavin Newsom',de,USA,#18e8e8,#18e8e8,2,0.352545104630
 'Britney Spears',de,USA,#18e8e8,#18e8e8,2,0.352404207175
-'Prinz Andrew',de,UK,#e838e8,#e838e8,3,0.352331652767
 'Jimmy Kimmel',de,USA,#18e8e8,#18e8e8,2,0.352202732393
 'Prinz Harry',de,UK,#e838e8,#e838e8,3,0.351776702862
 'Mareike Fallwickl',de,Österreich,#6622bb,#6622bb,1,0.351669284797
@@ -276,6 +276,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Tom Hanks',de,USA,#18e8e8,#18e8e8,3,0.344173681914
 'Matteo Salvini',de,Italien,#7722cc,#7722cc,2,0.343957319957
 'Helge Schneider',de,Deutschland,#11dd44,#11dd44,1,0.343925949611
+'Sarah Ferguson',de,UK,#e838e8,#e838e8,1,0.343581697456
 'Bill Belichick',de,USA,#18e8e8,#18e8e8,1,0.343048775408
 'Juliette Binoche',de,Frankreich,#e8e808,#e8e808,1,0.343019905498
 'Meryl Streep',de,USA,#18e8e8,#18e8e8,1,0.342816442944
@@ -284,7 +285,6 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Tim Cook',de,USA,#18e8e8,#18e8e8,3,0.342297086745
 'David Weiss',de,Schweiz,#88cc44,#88cc44,2,0.342117073411
 'Helmut Kohl',de,Deutschland,#11dd44,#11dd44,3,0.341918987154
-'Sarah Ferguson',de,UK,#e838e8,#e838e8,1,0.341704358348
 'Emmanuel Macron',de,Frankreich,#e8e808,#e8e808,3,0.341584790656
 'Joachim Gauck',de,Deutschland,#11dd44,#11dd44,1,0.341559116541
 'Oliver Blume',de,Deutschland,#11dd44,#11dd44,3,0.341262165785
