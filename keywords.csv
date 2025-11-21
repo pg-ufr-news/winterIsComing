@@ -172,7 +172,6 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Andrei Sacharow',de,Russland,#e81818,#e81818,1,0.374766265000
 'Al Pacino',de,USA,#18e8e8,#18e8e8,2,0.374386218651
 'Prinz George',de,UK,#e838e8,#e838e8,2,0.372604343425
-'Francesca Albanese',de,Italien,#7722cc,#7722cc,2,0.371312176032
 'Thierry Breton',de,Frankreich,#e8e808,#e8e808,1,0.371160838309
 'Kanye West',de,USA,#18e8e8,#18e8e8,2,0.370819767256
 'Jennifer Morgan',de,Deutschland,#11dd44,#11dd44,1,0.370168669350
@@ -305,11 +304,11 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Charles Barkley',de,USA,#18e8e8,#18e8e8,1,0.338271583625
 'Papst Benedikt XVI',de,Vatikan,#58b8e8,#58b8e8,3,0.338187586876
 'Alexander Smirnov',de,Israel,#8822dd,#8822dd,1,0.338133265108
-'Steven Donziger',de,USA,#18e8e8,#18e8e8,1,0.337768750000
-'Claudia Kempfert',de,Deutschland,#11dd44,#11dd44,1,0.337768750000
-'Claudia Kemfert',de,Deutschland,#11dd44,#11dd44,1,0.337768750000
 'Haitham A-Ghais',de,Kuwait,#3fd97a,#3fd97a,1,0.337768750000
 'Minka Indigena',de,unknown,#111111,#111111,1,0.337768750000
+'Claudia Kempfert',de,Deutschland,#11dd44,#11dd44,1,0.337768750000
+'Steven Donziger',de,USA,#18e8e8,#18e8e8,1,0.337768750000
+'Claudia Kemfert',de,Deutschland,#11dd44,#11dd44,1,0.337768750000
 'Patrick Mahomes',de,USA,#18e8e8,#18e8e8,2,0.337701651743
 'Cara Delevingne',de,UK,#e838e8,#e838e8,1,0.337576117113
 'Berkshire Hathaway',de,USA,#18e8e8,#18e8e8,1,0.337548872749
@@ -416,8 +415,8 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Prinz Louis',de,UK,#e838e8,#e838e8,2,0.319018665989
 'Radical Optimism',de,unknown,#111111,#111111,1,0.318959620849
 'Rosa Parks',de,unknown,#111111,#111111,1,0.318836466135
-'Chad Frischmann',de,USA,#18e8e8,#18e8e8,1,0.318423812500
 'Lea Bonasera',de,Deutschland,#11dd44,#11dd44,1,0.318423812500
+'Chad Frischmann',de,USA,#18e8e8,#18e8e8,1,0.318423812500
 'Brittany Mahomes',de,unknown,#111111,#111111,1,0.318209565574
 'Michelle O\'Neill',de,Irland,#33bbff,#33bbff,1,0.317954973082
 'Gabriel Attal',de,Frankreich,#e8e808,#e8e808,1,0.317881238693
@@ -429,6 +428,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Alvin Bragg',de,USA,#18e8e8,#18e8e8,1,0.317279410126
 'Robin Roberts',de,unknown,#111111,#111111,1,0.317068266930
 'Leandro De Niro-Rodriguez',de,unknown,#111111,#111111,1,0.317020448280
+'Francesca Albanese',de,Italien,#7722cc,#7722cc,2,0.316965484627
 'Bronny James',de,unknown,#111111,#111111,1,0.316940756144
 'Katja Krasavice',de,Deutschland,#11dd44,#11dd44,1,0.316837847842
 'Jill Biden',de,USA,#18e8e8,#18e8e8,2,0.316781614009
@@ -703,11 +703,11 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Vanessa Nakate',de,unknown,#111111,#111111,1,0.246829436568
 'Bodo Ramelow',de,Deutschland,#11dd44,#11dd44,3,0.245335301390
 'Warren Buffett',de,USA,#18e8e8,#18e8e8,3,0.245234949130
-'Helena Gualinga',de,unknown,#111111,#111111,1,0.244037921875
+'Eriberto Gualinga',de,unknown,#111111,#111111,1,0.244037921875
 'Autumn Peltier',de,unknown,#111111,#111111,1,0.244037921875
 'Mark Hertsgaard',de,unknown,#111111,#111111,1,0.244037921875
-'Eriberto Gualinga',de,unknown,#111111,#111111,1,0.244037921875
 'Sophia Kianni',de,unknown,#111111,#111111,1,0.244037921875
+'Helena Gualinga',de,unknown,#111111,#111111,1,0.244037921875
 'Elizabeth Mpofu',de,unknown,#111111,#111111,1,0.244037921875
 'Tasneem Essop',de,unknown,#111111,#111111,1,0.244037921875
 'Michael Ballweg',de,Deutschland,#11dd44,#11dd44,2,0.243835655473
