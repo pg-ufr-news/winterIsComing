@@ -1,6 +1,6 @@
 keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Bad Bunny',de,PuertoRico,#b5412f,#b5412f,2,0.481218759775
-'Donald Trump',de,USA,#18e8e8,#18e8e8,3,0.472746226918
+'Donald Trump',de,USA,#18e8e8,#18e8e8,3,0.475499479996
 'Pete Hegseth',de,USA,#18e8e8,#18e8e8,3,0.469477685847
 'Laura Loomer',de,USA,#18e8e8,#18e8e8,2,0.462150421500
 'John M. Martinis',de,USA,#18e8e8,#18e8e8,2,0.461106414178
@@ -16,8 +16,8 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Volker Wieland',de,Deutschland,#11dd44,#11dd44,2,0.451977313077
 'Richard Robson',de,Australien,#99aa33,#99aa33,2,0.450447782643
 'Fred Ramsdel',de,USA,#18e8e8,#18e8e8,1,0.450304416691
+'Friedrich Merz',de,Deutschland,#11dd44,#11dd44,3,0.447402012614
 'Veronika Grimm',de,Deutschland,#11dd44,#11dd44,2,0.447298441490
-'Friedrich Merz',de,Deutschland,#11dd44,#11dd44,3,0.446659943313
 'Shimon Sakaguchi',de,Japan,#aa9933,#aa9933,3,0.445908368118
 'Javier Milei',de,Argentinien,#3355bb,#3355bb,3,0.444987109373
 'Mary E. Brunkow',de,USA,#18e8e8,#18e8e8,2,0.444045167886
@@ -100,8 +100,8 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Stephen Colbert',de,USA,#18e8e8,#18e8e8,3,0.410499833351
 'Olaf Scholz',de,Deutschland,#11dd44,#11dd44,3,0.410106622873
 'Olivier Faure',de,Frankreich,#e8e808,#e8e808,3,0.409840249192
+'Benjamin Netanjahu',de,Israel,#8822dd,#8822dd,3,0.409765773082
 'Lauren Boebert',de,USA,#18e8e8,#18e8e8,2,0.408984767319
-'Benjamin Netanjahu',de,Israel,#8822dd,#8822dd,3,0.408950309779
 'Karsten Wildberger',de,Deutschland,#11dd44,#11dd44,3,0.408301256720
 'Christian Dürr',de,Deutschland,#11dd44,#11dd44,3,0.408275658076
 'JD Vance',de,USA,#18e8e8,#18e8e8,3,0.406539064312
@@ -133,7 +133,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Hillary Clinton',de,USA,#18e8e8,#18e8e8,3,0.394082686248
 'Gisele Bündchen',de,Brasilien,#58e838,#58e838,1,0.393627978492
 'Boris Rhein',de,Deutschland,#11dd44,#11dd44,3,0.392241115740
-'Recep Tayyip Erdogan',de,Türkei,#4411ee,#4411ee,3,0.390543043526
+'Recep Tayyip Erdogan',de,Türkei,#4411ee,#4411ee,3,0.391393487202
 'Marie Trintignant',de,Frankreich,#e8e808,#e8e808,1,0.390425791588
 'Nina Warken',de,Deutschland,#11dd44,#11dd44,3,0.390278367301
 'LeBron James',de,USA,#18e8e8,#18e8e8,3,0.389568769276
@@ -703,11 +703,11 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Vanessa Nakate',de,unknown,#111111,#111111,1,0.246829436568
 'Bodo Ramelow',de,Deutschland,#11dd44,#11dd44,3,0.245335301390
 'Warren Buffett',de,USA,#18e8e8,#18e8e8,3,0.245234949130
-'Eriberto Gualinga',de,unknown,#111111,#111111,1,0.244037921875
+'Sophia Kianni',de,unknown,#111111,#111111,1,0.244037921875
 'Autumn Peltier',de,unknown,#111111,#111111,1,0.244037921875
 'Mark Hertsgaard',de,unknown,#111111,#111111,1,0.244037921875
-'Sophia Kianni',de,unknown,#111111,#111111,1,0.244037921875
 'Helena Gualinga',de,unknown,#111111,#111111,1,0.244037921875
+'Eriberto Gualinga',de,unknown,#111111,#111111,1,0.244037921875
 'Elizabeth Mpofu',de,unknown,#111111,#111111,1,0.244037921875
 'Tasneem Essop',de,unknown,#111111,#111111,1,0.244037921875
 'Michael Ballweg',de,Deutschland,#11dd44,#11dd44,2,0.243835655473
@@ -770,9 +770,9 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Jeff Bezos',de,USA,#18e8e8,#18e8e8,3,0.219481305047
 'Boris Pistorius',de,Deutschland,#11dd44,#11dd44,3,0.218935011448
 'Michael Cohen',de,USA,#18e8e8,#18e8e8,3,0.218792872905
+'Recep Tayyip Erdoğan',de,Türkei,#4411ee,#4411ee,2,0.218526958784
 'Xi Jinping',de,China,#e88818,#e88818,3,0.217796118053
 'Michael Mann',de,USA,#18e8e8,#18e8e8,3,0.217596622844
-'Recep Tayyip Erdoğan',de,Türkei,#4411ee,#4411ee,2,0.217397227505
 'Jewgeni Prigoschin',de,Russland,#e81818,#e81818,2,0.217292238389
 'Alice Weidel',de,Deutschland,#11dd44,#11dd44,2,0.215523742528
 'Winfried Kretschmann',de,Deutschland,#11dd44,#11dd44,3,0.215520805967
@@ -880,6 +880,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Katalin Novak',de,Ungarn,#33aa99,#33aa99,2,0.126380109410
 'Subrahmanyam Jaishankar',de,Indien,#dd3344,#dd3344,1,0.124582407941
 'John Kerry',de,USA,#18e8e8,#18e8e8,1,0.123606991248
+'Tamim bin Hamad Al-Thani',de,Katar,#33aadd,#33aadd,1,0.123566027127
 'Daniel Zhang',de,China,#e88818,#e88818,1,0.120954962142
 'Karl Jenkins',de,UK,#e838e8,#e838e8,1,0.119771472957
 'Heinrich XIII. Prinz Reuß',de,Deutschland,#11dd44,#11dd44,1,0.119000689893
@@ -916,4 +917,3 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Ebrahim Raisi',de,Iran,#11bb99,#11bb99,1,0.083165018922
 'Julia Koch',de,USA,#18e8e8,#18e8e8,1,0.080932305118
 'Milo Yiannopoulos',de,UK,#e838e8,#e838e8,1,0.078232966425
-'Tamim bin Hamad Al-Thani',de,Katar,#33aadd,#33aadd,1,0.077003040273
