@@ -189,9 +189,9 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Olivia Nuzzi',de,USA,#18e8e8,#18e8e8,1,0.366448972126
 'Sam Altman',de,USA,#18e8e8,#18e8e8,3,0.366430147416
 'Yorgos Lanthimos',de,Griechenland,#448722,#448722,1,0.365898397103
+'Markus Söder',de,Deutschland,#11dd44,#11dd44,3,0.365845767031
 'Gwede Mantashe',de,Südafrika,#1144ee,#1144ee,1,0.365704405000
 'Boris Johnson',de,UK,#e838e8,#e838e8,3,0.365625574420
-'Markus Söder',de,Deutschland,#11dd44,#11dd44,3,0.364947892965
 'Ayo Edebiri',de,USA,#18e8e8,#18e8e8,1,0.364804884722
 'Léon XIV',de,Vatikan,#58b8e8,#58b8e8,1,0.364348510187
 'Wladimir Putin',de,Russland,#e81818,#e81818,3,0.363881200715
@@ -446,6 +446,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Missy Elliott',de,unknown,#111111,#111111,2,0.314098767175
 'Robert Menendez',de,unknown,#111111,#111111,1,0.313943736399
 'Markus Wipperfürth',de,Deutschland,#11dd44,#11dd44,1,0.313704319299
+'Maybritt Illner',de,Deutschland,#11dd44,#11dd44,2,0.313541438702
 'Vinod Khosla',de,unknown,#111111,#111111,1,0.313353765000
 'Mark Kerr',de,unknown,#111111,#111111,1,0.313270469350
 'Franca Lehfeldt',de,Deutschland,#11dd44,#11dd44,1,0.313269344654
@@ -811,7 +812,6 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Stefan Rahmstorf',de,Deutschland,#11dd44,#11dd44,2,0.193634442976
 'Viktor Orbán',de,Ungarn,#33aa99,#33aa99,3,0.192987822302
 'Louis Klamroth',de,Deutschland,#11dd44,#11dd44,2,0.192338651398
-'Maybritt Illner',de,Deutschland,#11dd44,#11dd44,2,0.192048716120
 'Franziska Giffey',de,Deutschland,#11dd44,#11dd44,3,0.191623270771
 'John Paul II',de,Vatikan,#58b8e8,#58b8e8,1,0.190977981613
 'Roland Busch',de,Deutschland,#11dd44,#11dd44,1,0.190063660652
