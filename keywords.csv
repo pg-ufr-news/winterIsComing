@@ -204,6 +204,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Verena Hubertz',de,Deutschland,#11dd44,#11dd44,3,0.361715994918
 'Ferdinand Dudenhöffer',de,Deutschland,#11dd44,#11dd44,3,0.361712987269
 'Richard David Precht',de,Deutschland,#11dd44,#11dd44,2,0.361055188103
+'Sophie Turner',de,UK,#e838e8,#e838e8,1,0.360437274561
 'Keith Kellogg',de,USA,#18e8e8,#18e8e8,3,0.360077520603
 'Greg Abbott',de,USA,#18e8e8,#18e8e8,2,0.360053603536
 'Jake Gyllenhaal',de,USA,#18e8e8,#18e8e8,2,0.359994239857
@@ -217,7 +218,6 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Selena Gomez',de,USA,#18e8e8,#18e8e8,2,0.356521787838
 'Jens Spahn',de,Deutschland,#11dd44,#11dd44,3,0.356351298449
 'Bill Barr',de,USA,#18e8e8,#18e8e8,1,0.355909868943
-'Sophie Turner',de,UK,#e838e8,#e838e8,1,0.355882292699
 'Willy Brandt',de,Deutschland,#11dd44,#11dd44,3,0.355555234139
 'Gorbatschow',de,Russland,#e81818,#e81818,3,0.355464229287
 'Emma Stone',de,USA,#18e8e8,#18e8e8,3,0.354806451891
@@ -267,6 +267,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Omar Sy',de,Frankreich,#e8e808,#e8e808,1,0.346119661797
 'Michelle Obama',de,USA,#18e8e8,#18e8e8,3,0.345980942742
 'Angelina Jolie',de,USA,#18e8e8,#18e8e8,3,0.345852097145
+'Peregrine Pearson',de,unknown,#111111,#111111,2,0.345535958885
 'Travis Kelce',de,USA,#18e8e8,#18e8e8,2,0.345518132791
 'George Bush',de,USA,#18e8e8,#18e8e8,2,0.345030443520
 'Chris Luxon',de,Neuseeland,#1818e8,#1818e8,1,0.344952975317
@@ -739,7 +740,6 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Don Lemon',de,USA,#18e8e8,#18e8e8,1,0.230446312969
 'Hilda Nakabuye',de,Uganda,#44cc88,#44cc88,1,0.230061204531
 'Peter Urban',de,Deutschland,#11dd44,#11dd44,1,0.229686881609
-'Peregrine Pearson',de,unknown,#111111,#111111,1,0.229336351629
 'Giorgia Meloni',de,Italien,#7722cc,#7722cc,3,0.228731555703
 'Edward Snowden',de,USA,#18e8e8,#18e8e8,2,0.228599491985
 'Tiffany Chen',de,USA,#18e8e8,#18e8e8,1,0.228350263869
