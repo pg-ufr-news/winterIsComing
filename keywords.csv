@@ -731,7 +731,6 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Billy Crystal',de,unknown,#111111,#111111,1,0.236420592697
 'Stephan Harbarth',de,Deutschland,#11dd44,#11dd44,1,0.234611867592
 'Karl Lauterbach',de,Deutschland,#11dd44,#11dd44,3,0.233363913320
-'Jack Ma',de,China,#e88818,#e88818,3,0.233133899332
 'Martin Schirdewan',de,Deutschland,#11dd44,#11dd44,3,0.232780733585
 'Joschka Fischer',de,Deutschland,#11dd44,#11dd44,1,0.232448751378
 'Alfred Nobel',de,Schweden,#77dd11,#77dd11,2,0.232338286288
@@ -804,6 +803,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Igor Setschin',de,Russland,#e81818,#e81818,2,0.200535646194
 'Faisal Kawusi',de,Deutschland,#11dd44,#11dd44,1,0.199949052960
 'Warren Buffet',de,USA,#18e8e8,#18e8e8,2,0.198812136611
+'Jack Ma',de,China,#e88818,#e88818,1,0.198163844432
 'Shahzada Dawood',de,Pakistan,#bb3355,#bb3355,1,0.198103507082
 'Frank-Walter Steinmeier',de,Deutschland,#11dd44,#11dd44,3,0.194948568760
 'Christian Drosten',de,Deutschland,#11dd44,#11dd44,2,0.194786454223
