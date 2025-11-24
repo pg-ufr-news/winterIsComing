@@ -1,4 +1,8 @@
 keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
+'Virginia Giuffre',de,unknown,#111111,#111111,2,0.600376146313
+'Boualem Sansal',de,unknown,#111111,#111111,2,0.505252245134
+'Erika Kirk',de,unknown,#111111,#111111,2,0.503676116786
+'Tom Aspinall',de,unknown,#111111,#111111,2,0.500453195691
 'Bad Bunny',de,PuertoRico,#b5412f,#b5412f,2,0.481218759775
 'Donald Trump',de,USA,#18e8e8,#18e8e8,3,0.476867894044
 'Pete Hegseth',de,USA,#18e8e8,#18e8e8,3,0.469477685847
@@ -28,7 +32,6 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Stefan Aust',de,Deutschland,#11dd44,#11dd44,2,0.440378637354
 'Itamar Ben-Gvir',de,Israel,#8822dd,#8822dd,3,0.440183444773
 'Susumu Kitagawa',de,Japan,#aa9933,#aa9933,3,0.438786138977
-'Sébastien Lecornu',de,Frankreich,#e8e808,#e8e808,3,0.437333410345
 'Greta Thunberg',de,Schweden,#77dd11,#77dd11,3,0.436807540003
 'Philippe Aghion',de,Frankreich,#e8e808,#e8e808,3,0.435135375238
 'Heidi Klum',de,Deutschland,#11dd44,#11dd44,3,0.435125519078
@@ -128,6 +131,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Hans-Werner Sinn',de,Deutschland,#11dd44,#11dd44,1,0.396541427198
 'Carsten Schneider',de,Deutschland,#11dd44,#11dd44,3,0.395812727176
 'Prinzessin Kate',de,UK,#e838e8,#e838e8,3,0.395182898176
+'Sébastien Lecornu',de,Frankreich,#e8e808,#e8e808,3,0.394865996975
 'Justin Bieber',de,Kanada,#ffaabb,#ffaabb,1,0.394724927593
 'Hillary Clinton',de,USA,#18e8e8,#18e8e8,3,0.394082686248
 'Gisele Bündchen',de,Brasilien,#58e838,#58e838,1,0.393627978492
@@ -278,6 +282,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Matteo Salvini',de,Italien,#7722cc,#7722cc,2,0.343957319957
 'Helge Schneider',de,Deutschland,#11dd44,#11dd44,1,0.343925949611
 'Sarah Ferguson',de,UK,#e838e8,#e838e8,1,0.343581697456
+'Emmanuel Macron',de,Frankreich,#e8e808,#e8e808,3,0.343462549991
 'Bill Belichick',de,USA,#18e8e8,#18e8e8,1,0.343048775408
 'Juliette Binoche',de,Frankreich,#e8e808,#e8e808,1,0.343019905498
 'Meryl Streep',de,USA,#18e8e8,#18e8e8,1,0.342816442944
@@ -286,7 +291,6 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Tim Cook',de,USA,#18e8e8,#18e8e8,3,0.342297086745
 'David Weiss',de,Schweiz,#88cc44,#88cc44,2,0.342117073411
 'Helmut Kohl',de,Deutschland,#11dd44,#11dd44,3,0.341918987154
-'Emmanuel Macron',de,Frankreich,#e8e808,#e8e808,3,0.341584790656
 'Joachim Gauck',de,Deutschland,#11dd44,#11dd44,1,0.341559116541
 'Oliver Blume',de,Deutschland,#11dd44,#11dd44,3,0.341262165785
 'nan nan',de,unknown,#dddddd,#dddddd,1,0.341027803203
@@ -805,7 +809,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Warren Buffet',de,USA,#18e8e8,#18e8e8,2,0.198812136611
 'Jack Ma',de,China,#e88818,#e88818,1,0.198163844432
 'Shahzada Dawood',de,Pakistan,#bb3355,#bb3355,1,0.198103507082
-'Frank-Walter Steinmeier',de,Deutschland,#11dd44,#11dd44,3,0.194948568760
+'Frank-Walter Steinmeier',de,Deutschland,#11dd44,#11dd44,3,0.196105431635
 'Christian Drosten',de,Deutschland,#11dd44,#11dd44,2,0.194786454223
 'Aleksandar Vucic',de,Serbien,#4488cc,#4488cc,3,0.194264146212
 'Liz Truss',de,UK,#e838e8,#e838e8,2,0.194025794077
