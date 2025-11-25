@@ -1,5 +1,5 @@
 keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
-'Donald Trump',de,USA,#18e8e8,#18e8e8,3,0.493519881563
+'Donald Trump',de,USA,#18e8e8,#18e8e8,3,0.560903065692
 'Boualem Sansal',de,Algerien,#22cc99,#22cc99,2,0.486915023364
 'Bad Bunny',de,PuertoRico,#b5412f,#b5412f,2,0.481218759775
 'Virginia Giuffre',de,USA,#18e8e8,#18e8e8,3,0.472368611008
@@ -77,8 +77,8 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Adnan al-Burj',de,Palestina,#bb6633,#bb6633,1,0.425000000000
 'Lara Trump',de,USA,#18e8e8,#18e8e8,2,0.424673197005
 'Maria Kolesnikowa',de,Belarus,#e81858,#e81858,2,0.423604199604
+'Selenskyj',de,Ukraine,#e818e8,#e818e8,3,0.423576648906
 'Charlie Kirk',de,USA,#18e8e8,#18e8e8,3,0.423346498344
-'Selenskyj',de,Ukraine,#e818e8,#e818e8,3,0.422787880907
 'Elon Musk',de,USA,#18e8e8,#18e8e8,3,0.422582836415
 'Bärbel Bas',de,Deutschland,#11dd44,#11dd44,3,0.422423498471
 'Papst Leo',de,USA,#18e8e8,#18e8e8,3,0.421607760317
@@ -139,9 +139,9 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Boris Rhein',de,Deutschland,#11dd44,#11dd44,3,0.392241115740
 'Recep Tayyip Erdogan',de,Türkei,#4411ee,#4411ee,3,0.391393487202
 'Marie Trintignant',de,Frankreich,#e8e808,#e8e808,1,0.390425791588
+'Zohran Mamdani',de,USA,#18e8e8,#18e8e8,1,0.390374347206
 'Nina Warken',de,Deutschland,#11dd44,#11dd44,3,0.390278367301
 'LeBron James',de,USA,#18e8e8,#18e8e8,3,0.389568769276
-'Zohran Mamdani',de,USA,#18e8e8,#18e8e8,1,0.389521982954
 'Lionel Messi',de,Argentinien,#3355bb,#3355bb,3,0.389208565658
 'Julia Roberts',de,USA,#18e8e8,#18e8e8,2,0.389060398054
 'John Martinis',de,USA,#18e8e8,#18e8e8,2,0.387703351870
@@ -219,8 +219,8 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Guy Ritchie',de,UK,#e838e8,#e838e8,1,0.357772922372
 'Bill Clinton',de,USA,#18e8e8,#18e8e8,2,0.357523315373
 'Robert Kennedy',de,USA,#18e8e8,#18e8e8,3,0.357271204561
+'Jens Spahn',de,Deutschland,#11dd44,#11dd44,3,0.357264740051
 'Selena Gomez',de,USA,#18e8e8,#18e8e8,2,0.356521787838
-'Jens Spahn',de,Deutschland,#11dd44,#11dd44,3,0.356351298449
 'Bill Barr',de,USA,#18e8e8,#18e8e8,1,0.355909868943
 'Willy Brandt',de,Deutschland,#11dd44,#11dd44,3,0.355555234139
 'Gorbatschow',de,Russland,#e81818,#e81818,3,0.355464229287
@@ -743,9 +743,9 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Chelsea Manning',de,USA,#18e8e8,#18e8e8,2,0.231330931094
 'Don Lemon',de,USA,#18e8e8,#18e8e8,1,0.230446312969
 'Hilda Nakabuye',de,Uganda,#44cc88,#44cc88,1,0.230061204531
+'Edward Snowden',de,USA,#18e8e8,#18e8e8,2,0.229714760019
 'Peter Urban',de,Deutschland,#11dd44,#11dd44,1,0.229686881609
 'Giorgia Meloni',de,Italien,#7722cc,#7722cc,3,0.228731555703
-'Edward Snowden',de,USA,#18e8e8,#18e8e8,2,0.228599491985
 'Tiffany Chen',de,USA,#18e8e8,#18e8e8,1,0.228350263869
 'Chuck Todd',de,USA,#18e8e8,#18e8e8,1,0.228009370159
 'Cassidy Hutchinson',de,unknown,#111111,#111111,1,0.227375045985
@@ -770,12 +770,12 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Jens Stoltenberg',de,Norwegen,#e818e8,#e818e8,2,0.220549124512
 'Sahra Wagenknecht',de,Deutschland,#11dd44,#11dd44,3,0.220173363130
 'Drena De Niro',de,USA,#18e8e8,#18e8e8,1,0.220136488479
+'Xi Jinping',de,China,#e88818,#e88818,3,0.220053138522
 'Eva Kaili',de,EU,#bbff33,#bbff33,3,0.219786134194
 'Jeff Bezos',de,USA,#18e8e8,#18e8e8,3,0.219481305047
 'Boris Pistorius',de,Deutschland,#11dd44,#11dd44,3,0.218935011448
 'Michael Cohen',de,USA,#18e8e8,#18e8e8,3,0.218792872905
 'Recep Tayyip Erdoğan',de,Türkei,#4411ee,#4411ee,2,0.218526958784
-'Xi Jinping',de,China,#e88818,#e88818,3,0.217796118053
 'Michael Mann',de,USA,#18e8e8,#18e8e8,3,0.217596622844
 'Jewgeni Prigoschin',de,Russland,#e81818,#e81818,2,0.217292238389
 'Alice Weidel',de,Deutschland,#11dd44,#11dd44,2,0.215523742528
@@ -812,9 +812,9 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Shahzada Dawood',de,Pakistan,#bb3355,#bb3355,1,0.198103507082
 'Christian Drosten',de,Deutschland,#11dd44,#11dd44,2,0.194786454223
 'Aleksandar Vucic',de,Serbien,#4488cc,#4488cc,3,0.194264146212
+'Viktor Orbán',de,Ungarn,#33aa99,#33aa99,3,0.194146934196
 'Liz Truss',de,UK,#e838e8,#e838e8,2,0.194025794077
 'Stefan Rahmstorf',de,Deutschland,#11dd44,#11dd44,2,0.193634442976
-'Viktor Orbán',de,Ungarn,#33aa99,#33aa99,3,0.192987822302
 'Louis Klamroth',de,Deutschland,#11dd44,#11dd44,2,0.192338651398
 'Franziska Giffey',de,Deutschland,#11dd44,#11dd44,3,0.191623270771
 'John Paul II',de,Vatikan,#58b8e8,#58b8e8,1,0.190977981613
