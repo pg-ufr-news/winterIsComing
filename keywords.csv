@@ -24,10 +24,10 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Shimon Sakaguchi',de,Japan,#aa9933,#aa9933,3,0.445908368118
 'Javier Milei',de,Argentinien,#3355bb,#3355bb,3,0.444987109373
 'Mary E. Brunkow',de,USA,#18e8e8,#18e8e8,2,0.444045167886
+'Leo XIV',de,Vatikan,#58b8e8,#58b8e8,3,0.443438644353
 'Dick Cheney',de,USA,#18e8e8,#18e8e8,2,0.443209739715
 'Joel Mokyr',de,USA,#18e8e8,#18e8e8,2,0.441801687368
 'Lecornu II',de,Frankreich,#e8e808,#e8e808,2,0.441708343350
-'Leo XIV',de,Vatikan,#58b8e8,#58b8e8,2,0.441000000843
 'Stefan Aust',de,Deutschland,#11dd44,#11dd44,2,0.440378637354
 'Itamar Ben-Gvir',de,Israel,#8822dd,#8822dd,3,0.440183444773
 'Susumu Kitagawa',de,Japan,#aa9933,#aa9933,3,0.438786138977
@@ -90,10 +90,10 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'David Cameron',de,UK,#e838e8,#e838e8,1,0.420358909934
 'Christian Lindner',de,Deutschland,#11dd44,#11dd44,3,0.419937972939
 'Jeanne du Barry',de,Frankreich,#e8e808,#e8e808,2,0.419705540297
+'König Charles III',de,UK,#e838e8,#e838e8,3,0.418736041712
 'Kevin McCarthy',de,USA,#18e8e8,#18e8e8,2,0.418482790348
 'Karin Prien',de,Deutschland,#11dd44,#11dd44,3,0.418364531530
 'Henry Samuel',de,USA,#18e8e8,#18e8e8,2,0.418343196774
-'König Charles III',de,UK,#e838e8,#e838e8,3,0.417937881925
 'Mohammad Mustafa',de,Palestina,#bb6633,#bb6633,1,0.417863413588
 'Jeffrey Epstein',de,USA,#18e8e8,#18e8e8,2,0.417799264861
 'Benny Blanco',de,USA,#18e8e8,#18e8e8,2,0.417700357466
@@ -550,6 +550,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'George Clooney',de,USA,#18e8e8,#18e8e8,2,0.302448285004
 'Gerald Darmanin',de,unknown,#111111,#111111,1,0.302155950776
 'Bradley Cooper',de,unknown,#111111,#111111,2,0.302005212910
+'Robert De Niro',de,USA,#18e8e8,#18e8e8,2,0.301928181359
 'Lionel Richie',de,USA,#18e8e8,#18e8e8,1,0.301881526665
 'Jordan Neely',de,USA,#18e8e8,#18e8e8,1,0.301772532477
 'Stormy Daniels',de,USA,#18e8e8,#18e8e8,1,0.301436554751
@@ -559,7 +560,6 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Billionaire Bunker',de,unknown,#111111,#111111,1,0.300411010055
 'Henry Ford',de,USA,#18e8e8,#18e8e8,1,0.300264927831
 'Amber Heard',de,USA,#18e8e8,#18e8e8,1,0.300096268300
-'Robert De Niro',de,USA,#18e8e8,#18e8e8,2,0.299909529999
 'Marine Le Pen',de,Frankreich,#e8e808,#e8e808,2,0.299801128495
 'Lindsey Graham',de,USA,#18e8e8,#18e8e8,2,0.299653784785
 'Noor Alfallah',de,USA,#18e8e8,#18e8e8,1,0.299517075819
@@ -767,12 +767,12 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Megyn Kell',de,USA,#18e8e8,#18e8e8,1,0.221852656250
 'Sergej Schoigu',de,Russland,#e81818,#e81818,3,0.221828588284
 'Éric Ciotti',de,Frankreich,#e8e808,#e8e808,1,0.221817497258
+'Jeff Bezos',de,USA,#18e8e8,#18e8e8,3,0.220608391196
 'Jens Stoltenberg',de,Norwegen,#e818e8,#e818e8,2,0.220549124512
 'Sahra Wagenknecht',de,Deutschland,#11dd44,#11dd44,3,0.220173363130
 'Drena De Niro',de,USA,#18e8e8,#18e8e8,1,0.220136488479
 'Xi Jinping',de,China,#e88818,#e88818,3,0.220053138522
 'Eva Kaili',de,EU,#bbff33,#bbff33,3,0.219786134194
-'Jeff Bezos',de,USA,#18e8e8,#18e8e8,3,0.219481305047
 'Boris Pistorius',de,Deutschland,#11dd44,#11dd44,3,0.218935011448
 'Michael Cohen',de,USA,#18e8e8,#18e8e8,3,0.218792872905
 'Recep Tayyip Erdoğan',de,Türkei,#4411ee,#4411ee,2,0.218526958784
