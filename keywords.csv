@@ -1,5 +1,5 @@
 keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
-'Donald Trump',de,USA,#18e8e8,#18e8e8,1,0.560903065692
+'Donald Trump',de,USA,#18e8e8,#18e8e8,2,0.536356990384
 'Boualem Sansal',de,Algerien,#22cc99,#22cc99,2,0.486915023364
 'Bad Bunny',de,PuertoRico,#b5412f,#b5412f,2,0.481218759775
 'Virginia Giuffre',de,USA,#18e8e8,#18e8e8,3,0.472368611008
@@ -7,9 +7,9 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Laura Loomer',de,USA,#18e8e8,#18e8e8,2,0.462150421500
 'John M. Martinis',de,USA,#18e8e8,#18e8e8,2,0.461106414178
 'Tom Kaulitz',de,Deutschland,#11dd44,#11dd44,3,0.460004319290
+'James Comey',de,USA,#18e8e8,#18e8e8,2,0.459547232931
 'Jean Castex',de,Frankreich,#e8e808,#e8e808,1,0.459172337939
 'Peter Howitt',de,USA,#18e8e8,#18e8e8,2,0.458339181374
-'James Comey',de,USA,#18e8e8,#18e8e8,2,0.458109768225
 'John Clarke',de,USA,#18e8e8,#18e8e8,2,0.457114647426
 'Kendrick Lamar',de,USA,#18e8e8,#18e8e8,2,0.456570527818
 'Omar Yaghi',de,Jordanien,#335588,#335588,2,0.456191925308
@@ -65,11 +65,11 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Reem Alabali-Radovan',de,Deutschland,#11dd44,#11dd44,2,0.426765063247
 'Pierre Farandou',de,Frankreich,#e8e808,#e8e808,1,0.426602909016
 'Brooklyn Beckham',de,UK,#e838e8,#e838e8,2,0.426225224370
+'Melania Trump',de,USA,#18e8e8,#18e8e8,3,0.425981864902
 'Cheryl Hines',de,USA,#18e8e8,#18e8e8,1,0.425691805007
 'RFK Jr',de,USA,#18e8e8,#18e8e8,1,0.425642197098
 'Eddie Hearn',de,UK,#e838e8,#e838e8,2,0.425587291339
 'Tom Aspinall',de,UK,#e838e8,#e838e8,1,0.425385246337
-'Melania Trump',de,USA,#18e8e8,#18e8e8,3,0.425197776782
 'Philipp Aghion',de,Frankreich,#e8e808,#e8e808,1,0.425000000000
 'Munther Amira',de,Palestina,#bb6633,#bb6633,1,0.425000000000
 'Khaled al Serr',de,Palestina,#bb6633,#bb6633,1,0.425000000000
@@ -209,10 +209,10 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Ferdinand Dudenhöffer',de,Deutschland,#11dd44,#11dd44,3,0.361712987269
 'Richard David Precht',de,Deutschland,#11dd44,#11dd44,2,0.361055188103
 'Sophie Turner',de,UK,#e838e8,#e838e8,1,0.360437274561
+'Jared Kushner',de,USA,#18e8e8,#18e8e8,1,0.360388763474
 'Keith Kellogg',de,USA,#18e8e8,#18e8e8,3,0.360077520603
 'Greg Abbott',de,USA,#18e8e8,#18e8e8,2,0.360053603536
 'Jake Gyllenhaal',de,USA,#18e8e8,#18e8e8,2,0.359994239857
-'Jared Kushner',de,USA,#18e8e8,#18e8e8,1,0.359480966660
 'Charles III',de,UK,#e838e8,#e838e8,3,0.359328181690
 'Charlize Theron',de,Südafrika,#1144ee,#1144ee,2,0.359324345117
 'Lars Klingbeil',de,Deutschland,#11dd44,#11dd44,3,0.358913037857
@@ -234,11 +234,11 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Gavin Newsom',de,USA,#18e8e8,#18e8e8,2,0.352545104630
 'Britney Spears',de,USA,#18e8e8,#18e8e8,2,0.352404207175
 'Jimmy Kimmel',de,USA,#18e8e8,#18e8e8,2,0.352202732393
+'Wolodimir Selenski',de,Ukraine,#e818e8,#e818e8,2,0.352134539151
 'Prinz Harry',de,UK,#e838e8,#e838e8,3,0.351776702862
 'Mareike Fallwickl',de,Österreich,#6622bb,#6622bb,1,0.351669284797
 'David Koch',de,USA,#18e8e8,#18e8e8,2,0.351497980293
 'George Floyd',de,USA,#18e8e8,#18e8e8,2,0.351248383725
-'Wolodimir Selenski',de,Ukraine,#e818e8,#e818e8,2,0.351211886062
 'Axel Springer',de,Deutschland,#11dd44,#11dd44,3,0.351153780053
 'Bettina Stark-Watzinger',de,Deutschland,#11dd44,#11dd44,3,0.350958211966
 'Martin Luther King',de,USA,#18e8e8,#18e8e8,2,0.350928527139
@@ -340,13 +340,13 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Lily Gladstone',de,USA,#18e8e8,#18e8e8,1,0.333121756003
 'Bridget Moynahan',de,USA,#18e8e8,#18e8e8,1,0.332967033182
 'président de la République',de,Frankreich,#e8e808,#e8e808,1,0.332486476445
+'Joe Biden',de,USA,#18e8e8,#18e8e8,3,0.332270180226
 'Eric Trump',de,USA,#18e8e8,#18e8e8,2,0.332165636979
 'Kate Hudson',de,USA,#18e8e8,#18e8e8,1,0.332116349309
 'Joe Jonas',de,USA,#18e8e8,#18e8e8,1,0.331805695327
 'Chris Hipkins',de,Neuseeland,#1818e8,#1818e8,1,0.331629582494
 'Emily Blunt',de,UK,#e838e8,#e838e8,1,0.331553686645
 'Pedro Sánchez',de,Spanien,#1144aa,#1144aa,2,0.331528466584
-'Joe Biden',de,USA,#18e8e8,#18e8e8,3,0.331312583934
 'George Washington',de,USA,#18e8e8,#18e8e8,2,0.331284631744
 'Adolf Hitler',de,Deutschland,#11dd44,#11dd44,3,0.331248004861
 'Robert Sesselmann',de,Deutschland,#11dd44,#11dd44,1,0.330955228836
