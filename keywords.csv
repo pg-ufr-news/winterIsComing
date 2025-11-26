@@ -1,13 +1,13 @@
 keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
-'Donald Trump',de,USA,#18e8e8,#18e8e8,2,0.536356990384
+'Donald Trump',de,USA,#18e8e8,#18e8e8,2,0.515493276372
 'Boualem Sansal',de,Algerien,#22cc99,#22cc99,2,0.486915023364
 'Bad Bunny',de,PuertoRico,#b5412f,#b5412f,2,0.481218759775
 'Virginia Giuffre',de,USA,#18e8e8,#18e8e8,3,0.472368611008
 'Pete Hegseth',de,USA,#18e8e8,#18e8e8,3,0.469477685847
 'Laura Loomer',de,USA,#18e8e8,#18e8e8,2,0.462150421500
+'James Comey',de,USA,#18e8e8,#18e8e8,2,0.461692763200
 'John M. Martinis',de,USA,#18e8e8,#18e8e8,2,0.461106414178
 'Tom Kaulitz',de,Deutschland,#11dd44,#11dd44,3,0.460004319290
-'James Comey',de,USA,#18e8e8,#18e8e8,2,0.459547232931
 'Jean Castex',de,Frankreich,#e8e808,#e8e808,1,0.459172337939
 'Peter Howitt',de,USA,#18e8e8,#18e8e8,2,0.458339181374
 'John Clarke',de,USA,#18e8e8,#18e8e8,2,0.457114647426
@@ -19,7 +19,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Volker Wieland',de,Deutschland,#11dd44,#11dd44,2,0.451977313077
 'Richard Robson',de,Australien,#99aa33,#99aa33,2,0.450447782643
 'Fred Ramsdel',de,USA,#18e8e8,#18e8e8,1,0.450304416691
-'Friedrich Merz',de,Deutschland,#11dd44,#11dd44,3,0.448881766100
+'Friedrich Merz',de,Deutschland,#11dd44,#11dd44,3,0.449619454933
 'Veronika Grimm',de,Deutschland,#11dd44,#11dd44,2,0.447298441490
 'Shimon Sakaguchi',de,Japan,#aa9933,#aa9933,3,0.445908368118
 'Javier Milei',de,Argentinien,#3355bb,#3355bb,3,0.444987109373
@@ -197,8 +197,8 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Gwede Mantashe',de,Südafrika,#1144ee,#1144ee,1,0.365704405000
 'Boris Johnson',de,UK,#e838e8,#e838e8,3,0.365625574420
 'Ayo Edebiri',de,USA,#18e8e8,#18e8e8,1,0.364804884722
+'Wladimir Putin',de,Russland,#e81818,#e81818,3,0.364781017008
 'Léon XIV',de,Vatikan,#58b8e8,#58b8e8,1,0.364348510187
-'Wladimir Putin',de,Russland,#e81818,#e81818,3,0.363881200715
 'Tim Malone',de,USA,#18e8e8,#18e8e8,1,0.363700408881
 'Dmitri Medwedew',de,Russland,#e81818,#e81818,3,0.362944774228
 'Omar M. Yaghi',de,USA,#18e8e8,#18e8e8,1,0.362600249750
@@ -644,10 +644,10 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Recep Tayyip Erdoan',de,Türkei,#4411ee,#4411ee,2,0.271462976178
 'Frank Plasberg',de,Deutschland,#11dd44,#11dd44,2,0.271311355898
 'Christian Kroll',de,Deutschland,#11dd44,#11dd44,1,0.271216590942
+'Putin',de,Russland,#e81818,#e81818,3,0.270998380319
 'Narendra Modi',de,Indien,#dd3344,#dd3344,3,0.270765863123
 'Silvio Berlusconi',de,Italien,#7722cc,#7722cc,2,0.270648602368
 'Maya Rudolph',de,unknown,#111111,#111111,1,0.270468949533
-'Putin',de,Russland,#e81818,#e81818,3,0.269941462174
 'Élisabeth Borne',de,Frankreich,#e8e808,#e8e808,1,0.269594136597
 'Arno Antlitz',de,Deutschland,#11dd44,#11dd44,1,0.269381724922
 'John Rawls',de,USA,#18e8e8,#18e8e8,1,0.267062405785
