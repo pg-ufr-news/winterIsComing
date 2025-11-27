@@ -1,5 +1,5 @@
 keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
-'Boualem Sansal',de,Algerien,#22cc99,#22cc99,2,0.486915023364
+'Boualem Sansal',de,Algerien,#22cc99,#22cc99,2,0.487577143920
 'Bad Bunny',de,PuertoRico,#b5412f,#b5412f,2,0.481218759775
 'Virginia Giuffre',de,USA,#18e8e8,#18e8e8,3,0.472368611008
 'Pete Hegseth',de,USA,#18e8e8,#18e8e8,3,0.469477685847
@@ -111,7 +111,6 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Lauren Boebert',de,USA,#18e8e8,#18e8e8,2,0.408984767319
 'Karsten Wildberger',de,Deutschland,#11dd44,#11dd44,3,0.408301256720
 'JD Vance',de,USA,#18e8e8,#18e8e8,3,0.406539064312
-'Taylor Swift',de,USA,#18e8e8,#18e8e8,3,0.405994934217
 'Michel Devoret',de,Frankreich,#e8e808,#e8e808,2,0.405261188409
 'Ulrich Reitz',de,Deutschland,#11dd44,#11dd44,2,0.405031056036
 'Jake Paul',de,USA,#18e8e8,#18e8e8,1,0.403801314837
@@ -131,6 +130,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Matty Healy',de,UK,#e838e8,#e838e8,2,0.397476084594
 'Hans-Werner Sinn',de,Deutschland,#11dd44,#11dd44,1,0.396541427198
 'Carsten Schneider',de,Deutschland,#11dd44,#11dd44,3,0.395812727176
+'Taylor Swift',de,USA,#18e8e8,#18e8e8,3,0.395503314539
 'Prinzessin Kate',de,UK,#e838e8,#e838e8,3,0.395182898176
 'Sébastien Lecornu',de,Frankreich,#e8e808,#e8e808,3,0.394865996975
 'Justin Bieber',de,Kanada,#ffaabb,#ffaabb,1,0.394724927593
@@ -218,9 +218,9 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Lars Klingbeil',de,Deutschland,#11dd44,#11dd44,3,0.358913037857
 'Guy Ritchie',de,UK,#e838e8,#e838e8,1,0.357772922372
 'Bill Clinton',de,USA,#18e8e8,#18e8e8,2,0.357523315373
+'Selena Gomez',de,USA,#18e8e8,#18e8e8,2,0.357434922621
 'Robert Kennedy',de,USA,#18e8e8,#18e8e8,3,0.357271204561
 'Jens Spahn',de,Deutschland,#11dd44,#11dd44,3,0.357264740051
-'Selena Gomez',de,USA,#18e8e8,#18e8e8,2,0.356521787838
 'Bill Barr',de,USA,#18e8e8,#18e8e8,1,0.355909868943
 'Willy Brandt',de,Deutschland,#11dd44,#11dd44,3,0.355555234139
 'Gorbatschow',de,Russland,#e81818,#e81818,3,0.355464229287
@@ -266,6 +266,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Peter Thiel',de,USA,#18e8e8,#18e8e8,2,0.346673972859
 'Alexander Dobrindt',de,Deutschland,#11dd44,#11dd44,3,0.346480414006
 'Pippa Middleton',de,UK,#e838e8,#e838e8,2,0.346453328909
+'Travis Kelce',de,USA,#18e8e8,#18e8e8,2,0.346450903996
 'Mohammed Bin Salman',de,SaudiArabien,#2266bb,#2266bb,2,0.346424112751
 'Kemal Kılıçdaroğlu',de,Türkei,#4411ee,#4411ee,2,0.346400852550
 'Sarah Ferguson',de,UK,#e838e8,#e838e8,1,0.346385314889
@@ -273,7 +274,6 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Michelle Obama',de,USA,#18e8e8,#18e8e8,3,0.345980942742
 'Angelina Jolie',de,USA,#18e8e8,#18e8e8,3,0.345852097145
 'Peregrine Pearson',de,UK,#e838e8,#e838e8,2,0.345535958885
-'Travis Kelce',de,USA,#18e8e8,#18e8e8,2,0.345518132791
 'George Bush',de,USA,#18e8e8,#18e8e8,2,0.345030443520
 'Chris Luxon',de,Neuseeland,#1818e8,#1818e8,1,0.344952975317
 'Reed Richards',de,USA,#18e8e8,#18e8e8,2,0.344612986480
