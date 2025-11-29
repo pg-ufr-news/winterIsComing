@@ -1,4 +1,5 @@
 keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
+'Bad Bunny',de,PuertoRico,#b5412f,#b5412f,2,0.481218759775
 'Erika Kirk',de,USA,#18e8e8,#18e8e8,2,0.478806323628
 'Virginia Giuffre',de,USA,#18e8e8,#18e8e8,3,0.472368611008
 'Pete Hegseth',de,USA,#18e8e8,#18e8e8,3,0.469477685847
@@ -105,7 +106,6 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Olaf Scholz',de,Deutschland,#11dd44,#11dd44,3,0.410106622873
 'Olivier Faure',de,Frankreich,#e8e808,#e8e808,3,0.409840249192
 'Benjamin Netanjahu',de,Israel,#8822dd,#8822dd,3,0.409765773082
-'Bad Bunny',de,PuertoRico,#b5412f,#b5412f,1,0.409036275809
 'Lauren Boebert',de,USA,#18e8e8,#18e8e8,2,0.408984767319
 'Karsten Wildberger',de,Deutschland,#11dd44,#11dd44,3,0.408301256720
 'JD Vance',de,USA,#18e8e8,#18e8e8,3,0.407359146299
@@ -378,16 +378,16 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Gérald Darmanin',de,Frankreich,#e8e808,#e8e808,1,0.326918290029
 'Reinhard Marx',de,Deutschland,#11dd44,#11dd44,1,0.326725380392
 'Wolfgang Kubicki',de,Deutschland,#11dd44,#11dd44,2,0.326688352425
-'Indiana Jones',de,unknown,#111111,#111111,2,0.326472000509
-'Tyson Fury',de,unknown,#111111,#111111,1,0.326389926338
-'Leni Klum',de,unknown,#111111,#111111,1,0.326176688483
-'Camille Cottin',de,unknown,#111111,#111111,1,0.326142521580
+'Indiana Jones',de,USA,#18e8e8,#18e8e8,2,0.326472000509
+'Tyson Fury',de,UK,#e838e8,#e838e8,1,0.326389926338
+'Leni Klum',de,USA,#18e8e8,#18e8e8,1,0.326176688483
+'Camille Cottin',de,Frankreich,#e8e808,#e8e808,1,0.326142521580
 'Al Nassr',de,unknown,#111111,#111111,2,0.326109950470
 'Jesse Watters',de,USA,#18e8e8,#18e8e8,1,0.326058094678
-'Lewis Kaplan',de,unknown,#111111,#111111,2,0.325971685129
+'Lewis Kaplan',de,USA,#18e8e8,#18e8e8,2,0.325971685129
 'Bruno Le Maire',de,Frankreich,#e8e808,#e8e808,2,0.325904709939
-'Brad Pitt',de,unknown,#111111,#111111,3,0.325889875185
-'Alex Jones',de,unknown,#111111,#111111,1,0.325229884736
+'Brad Pitt',de,USA,#18e8e8,#18e8e8,3,0.325889875185
+'Alex Jones',de,USA,#18e8e8,#18e8e8,1,0.325229884736
 'Rosalynn Carter',de,USA,#18e8e8,#18e8e8,1,0.325155765774
 'Nadja Abd el Farrag',de,Deutschland,#11dd44,#11dd44,2,0.325134551821
 'Tim Scott',de,USA,#18e8e8,#18e8e8,2,0.325087414098
