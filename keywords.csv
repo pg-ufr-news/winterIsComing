@@ -1,8 +1,9 @@
 keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Bad Bunny',de,PuertoRico,#b5412f,#b5412f,2,0.481218759775
+'Erika Kirk',de,USA,#18e8e8,#18e8e8,2,0.478806323628
 'Virginia Giuffre',de,USA,#18e8e8,#18e8e8,3,0.472368611008
 'Pete Hegseth',de,USA,#18e8e8,#18e8e8,3,0.469477685847
-'Donald Trump',de,USA,#18e8e8,#18e8e8,3,0.464238867270
+'Donald Trump',de,USA,#18e8e8,#18e8e8,3,0.465652039769
 'Laura Loomer',de,USA,#18e8e8,#18e8e8,2,0.462150421500
 'James Comey',de,USA,#18e8e8,#18e8e8,2,0.461692763200
 'John M. Martinis',de,USA,#18e8e8,#18e8e8,2,0.461106414178
@@ -40,6 +41,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Sanae Takaichi',de,Japan,#aa9933,#aa9933,3,0.433451153603
 'James Gunn',de,USA,#18e8e8,#18e8e8,1,0.431803471136
 'Yves Bournazel',de,Frankreich,#e8e808,#e8e808,1,0.431395648904
+'Charlie Kirk',de,USA,#18e8e8,#18e8e8,3,0.431154766609
 'Cruz Beckham',de,Spanien,#1144aa,#1144aa,1,0.431108352295
 'Lil Yachty',de,USA,#18e8e8,#18e8e8,1,0.430959376672
 'JULIEN MUGUET',de,Frankreich,#e8e808,#e8e808,1,0.430594199863
@@ -54,7 +56,6 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Andrew Cuomo',de,USA,#18e8e8,#18e8e8,2,0.428656663591
 'Lady Gaga',de,USA,#18e8e8,#18e8e8,3,0.428387283607
 'Jon Jones',de,USA,#18e8e8,#18e8e8,1,0.428268717015
-'Erika Kirk',de,USA,#18e8e8,#18e8e8,1,0.428124804268
 'Kim Kardashian',de,USA,#18e8e8,#18e8e8,3,0.428058622196
 'Michel H. Devoret',de,USA,#18e8e8,#18e8e8,2,0.427700270000
 'Johann Wadephul',de,Deutschland,#11dd44,#11dd44,3,0.427331863518
@@ -77,7 +78,6 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Lara Trump',de,USA,#18e8e8,#18e8e8,2,0.424673197005
 'Maria Kolesnikowa',de,Belarus,#e81858,#e81858,2,0.423604199604
 'Selenskyj',de,Ukraine,#e818e8,#e818e8,3,0.423576648906
-'Charlie Kirk',de,USA,#18e8e8,#18e8e8,3,0.423346498344
 'Elon Musk',de,USA,#18e8e8,#18e8e8,3,0.422582836415
 'Bärbel Bas',de,Deutschland,#11dd44,#11dd44,3,0.422423498471
 'Papst Leo',de,USA,#18e8e8,#18e8e8,3,0.421607760317
@@ -108,7 +108,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Benjamin Netanjahu',de,Israel,#8822dd,#8822dd,3,0.409765773082
 'Lauren Boebert',de,USA,#18e8e8,#18e8e8,2,0.408984767319
 'Karsten Wildberger',de,Deutschland,#11dd44,#11dd44,3,0.408301256720
-'JD Vance',de,USA,#18e8e8,#18e8e8,3,0.406539064312
+'JD Vance',de,USA,#18e8e8,#18e8e8,3,0.407359146299
 'Michel Devoret',de,Frankreich,#e8e808,#e8e808,2,0.405261188409
 'Ulrich Reitz',de,Deutschland,#11dd44,#11dd44,2,0.405031056036
 'Jake Paul',de,USA,#18e8e8,#18e8e8,1,0.403801314837
