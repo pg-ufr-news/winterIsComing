@@ -1,4 +1,15 @@
 keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
+'Helene Fischer',de,unknown,#111111,#111111,2,0.604648273145
+'Kamel Daoud',de,unknown,#111111,#111111,2,0.509146938042
+'Usha Vance',de,unknown,#111111,#111111,2,0.508695297356
+'prince Andrew',de,unknown,#111111,#111111,2,0.507874172013
+'Bill Maher',de,unknown,#111111,#111111,2,0.506739834017
+'Andrew Mountbatten Windsor',de,unknown,#111111,#111111,2,0.506310313238
+'Larry Summers',de,unknown,#111111,#111111,2,0.505007542139
+'Andrew Mountbatten-Windsor',de,unknown,#111111,#111111,2,0.504887309080
+'Ghislaine Maxwell',de,unknown,#111111,#111111,2,0.503191605701
+'Abdelmadjid Tebboune',de,unknown,#111111,#111111,2,0.501723266379
+'Ciryl Gane',de,unknown,#111111,#111111,2,0.501129128113
 'Erika Kirk',de,USA,#18e8e8,#18e8e8,2,0.478806323628
 'Virginia Giuffre',de,USA,#18e8e8,#18e8e8,3,0.472368611008
 'Pete Hegseth',de,USA,#18e8e8,#18e8e8,3,0.469477685847
@@ -116,7 +127,6 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Castel Gandolfo',de,Vatikan,#58b8e8,#58b8e8,1,0.402665476128
 'Dorothee Bär',de,Deutschland,#11dd44,#11dd44,3,0.402588250465
 'Pietro Lombardi',de,Deutschland,#11dd44,#11dd44,3,0.402155585454
-'Bezalel Smotrich',de,Israel,#8822dd,#8822dd,2,0.402000690591
 'Theodor Herzl',de,Ungarn,#33aa99,#33aa99,2,0.401834022598
 'Sebastien Lecornu',de,Frankreich,#e8e808,#e8e808,2,0.401833591320
 'Nina Gummich',de,Deutschland,#11dd44,#11dd44,1,0.401819027542
@@ -288,6 +298,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Tim Cook',de,USA,#18e8e8,#18e8e8,3,0.342297086745
 'David Weiss',de,Schweiz,#88cc44,#88cc44,2,0.342117073411
 'Helmut Kohl',de,Deutschland,#11dd44,#11dd44,3,0.341918987154
+'Bezalel Smotrich',de,Israel,#8822dd,#8822dd,1,0.341700962002
 'Joachim Gauck',de,Deutschland,#11dd44,#11dd44,1,0.341559116541
 'Oliver Blume',de,Deutschland,#11dd44,#11dd44,3,0.341262165785
 'nan nan',de,unknown,#dddddd,#dddddd,1,0.341027803203
